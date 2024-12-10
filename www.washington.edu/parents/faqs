@@ -1,0 +1,1054 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="shortcut icon" href="//www.washington.edu/wp-content/themes/uw_wp_theme/favicon.ico">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<script>document.documentElement.classList.remove("no-js");</script>
+
+	<title>Common Questions &#8211; Parents &amp; Families</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='//www.washington.edu' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Parents &amp; Families &raquo; Feed" href="https://www.washington.edu/parents/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Parents &amp; Families &raquo; Comments Feed" href="https://www.washington.edu/parents/comments/feed/" />
+<meta property="og:image" content="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/33/2022/04/21144458/PFP_hero_small4-1024x190.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@uw" />
+<meta name="twitter:creator" content="@uw" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="Common Questions" />
+<meta property="og:url" content="https://www.washington.edu/parents/common-questions/" />
+<meta property="og:site_name" content="Parents &amp; Families" />
+<meta property="og:description" content="Jump to a topic:" />
+
+			
+<link rel='stylesheet' id='tiles-style-css' href='//www.washington.edu/wp-content/plugins/husky100/css/tiles.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='//www.washington.edu/wp-includes/css/dist/block-library/style.css?ver=6.6.1' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){
+  color:#555;
+  font-size:13px;
+  text-align:center;
+}
+.is-dark-theme .wp-block-audio :where(figcaption){
+  color:#ffffffa6;
+}
+
+.wp-block-audio{
+  margin:0 0 1em;
+}
+
+.wp-block-code{
+  border:1px solid #ccc;
+  border-radius:4px;
+  font-family:Menlo,Consolas,monaco,monospace;
+  padding:.8em 1em;
+}
+
+.wp-block-embed :where(figcaption){
+  color:#555;
+  font-size:13px;
+  text-align:center;
+}
+.is-dark-theme .wp-block-embed :where(figcaption){
+  color:#ffffffa6;
+}
+
+.wp-block-embed{
+  margin:0 0 1em;
+}
+
+.blocks-gallery-caption{
+  color:#555;
+  font-size:13px;
+  text-align:center;
+}
+.is-dark-theme .blocks-gallery-caption{
+  color:#ffffffa6;
+}
+
+:root :where(.wp-block-image figcaption){
+  color:#555;
+  font-size:13px;
+  text-align:center;
+}
+.is-dark-theme :root :where(.wp-block-image figcaption){
+  color:#ffffffa6;
+}
+
+.wp-block-image{
+  margin:0 0 1em;
+}
+
+.wp-block-pullquote{
+  border-bottom:4px solid;
+  border-top:4px solid;
+  color:currentColor;
+  margin-bottom:1.75em;
+}
+.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{
+  color:currentColor;
+  font-size:.8125em;
+  font-style:normal;
+  text-transform:uppercase;
+}
+
+.wp-block-quote{
+  border-left:.25em solid;
+  margin:0 0 1.75em;
+  padding-left:1em;
+}
+.wp-block-quote cite,.wp-block-quote footer{
+  color:currentColor;
+  font-size:.8125em;
+  font-style:normal;
+  position:relative;
+}
+.wp-block-quote.has-text-align-right{
+  border-left:none;
+  border-right:.25em solid;
+  padding-left:0;
+  padding-right:1em;
+}
+.wp-block-quote.has-text-align-center{
+  border:none;
+  padding-left:0;
+}
+.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{
+  border:none;
+}
+
+.wp-block-search .wp-block-search__label{
+  font-weight:700;
+}
+
+.wp-block-search__button{
+  border:1px solid #ccc;
+  padding:.375em .625em;
+}
+
+:where(.wp-block-group.has-background){
+  padding:1.25em 2.375em;
+}
+
+.wp-block-separator.has-css-opacity{
+  opacity:.4;
+}
+
+.wp-block-separator{
+  border:none;
+  border-bottom:2px solid;
+  margin-left:auto;
+  margin-right:auto;
+}
+.wp-block-separator.has-alpha-channel-opacity{
+  opacity:1;
+}
+.wp-block-separator:not(.is-style-wide):not(.is-style-dots){
+  width:100px;
+}
+.wp-block-separator.has-background:not(.is-style-dots){
+  border-bottom:none;
+  height:1px;
+}
+.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){
+  height:2px;
+}
+
+.wp-block-table{
+  margin:0 0 1em;
+}
+.wp-block-table td,.wp-block-table th{
+  word-break:normal;
+}
+.wp-block-table :where(figcaption){
+  color:#555;
+  font-size:13px;
+  text-align:center;
+}
+.is-dark-theme .wp-block-table :where(figcaption){
+  color:#ffffffa6;
+}
+
+.wp-block-video :where(figcaption){
+  color:#555;
+  font-size:13px;
+  text-align:center;
+}
+.is-dark-theme .wp-block-video :where(figcaption){
+  color:#ffffffa6;
+}
+
+.wp-block-video{
+  margin:0 0 1em;
+}
+
+:root :where(.wp-block-template-part.has-background){
+  margin-bottom:0;
+  margin-top:0;
+  padding:1.25em 2.375em;
+}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dusty-orange: #ed8f5b;--wp--preset--color--dusty-red: #e36d60;--wp--preset--color--dusty-wine: #9c4368;--wp--preset--color--dark-sunset: #33223b;--wp--preset--color--almost-black: #0a1c28;--wp--preset--color--dusty-water: #41848f;--wp--preset--color--dusty-sky: #72a7a3;--wp--preset--color--dusty-daylight: #97c0b7;--wp--preset--color--dusty-sun: #eee9d1;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 16px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 20px;--wp--preset--font-size--larger: 48px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='//www.washington.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='uw_wp_theme-fonts-css' href='https://fonts.googleapis.com/css?family=Open%20Sans%3A300i%2C400i%2C600i%2C700i%2C300%2C400%2C600%2C700%7CEncode%20Sans%3A400%2C600&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='uw_wp_theme-base-style-css' href='//www.washington.edu/wp-content/themes/uw_wp_theme/style.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uw_wp_theme-bootstrap-css' href='//www.washington.edu/wp-content/themes/uw_wp_theme/css/bootstrap.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uw_wp_theme-child-style-css' href='//www.washington.edu/wp-content/themes/uw-parents-child/style.css?ver=1.0' type='text/css' media='all' />
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/skip-link-focus-fix.js?ver=3.3.1" id="uw_wp_theme-skip-link-focus-fix-js" defer></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/keyboard-navmenu.js?ver=3.3.1" id="uw_wp_theme-keyboard-navmenu-js" defer></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/keyboard-button.js?ver=3.3.1" id="uw_wp_theme-keyboard-button-js" defer></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.washington.edu/parents/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel="canonical" href="https://www.washington.edu/parents/common-questions/" />
+<link rel='shortlink' href='https://www.washington.edu/parents/?p=5833' />
+		<script type="text/javascript">
+				(function(c,l,a,r,i,t,y){
+					c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;
+					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+				})(window, document, "clarity", "script", "brufwhkl0w");
+		</script>
+		
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"tlb3"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ6QQBT');
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NQKDX7M');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --></head>
+
+<body class="page-template page-template-templates page-template-template-small-hero page-template-small-hero page page-id-5833 cms site-cmsparents">
+<a class="screen-reader-shortcut" href="#primary">Skip to content</a>
+
+
+<div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container" data-search="uw" hidden>
+
+	<div class="container no-height" role="search">
+		<div class="center-block uw-search-wrapper">
+			<form class="uw-search" data-sitesearch="https://www.washington.edu/parents/" action="https://www.washington.edu/search/">
+				<select id="mobile-search-select" class="visible-xs custom-select" aria-label="Search scope">
+											<option value="uw" >All the UW</option>
+						<option value="site">Current site</option>
+									</select>
+
+				<fieldset id="search-options">
+					<legend id="uw-search-label">Search scope</legend>
+					<div id="search-labels" class="labels hidden-xs">
+						<!--load these labels and input if UW is selected in Theme Settings -->
+											<label id="uw" class="radio checked"><input class="radiobtn" type="radio" name="search" value="uw" data-toggle="radio" checked />All the UW</label>
+						<label id="site" class="radio"><input  class="radiobtn" type="radio" name="search" value="site" data-toggle="radio" />Current site</label>
+
+					<!--OR load these labels and input if Site is selected in Theme Settings -->
+										</div>
+				</fieldset>
+				<div class="search-form-wrapper">
+					<label class="screen-reader" for="uw-search-bar">Enter search text</label>
+					<input id="uw-search-bar" type="search"
+						name="q"
+						value="" autocomplete="off" placeholder="Search" />
+				</div>
+				<input type="submit" value="search" class="search" tabindex="0"/>
+			</form>
+		</div>
+	</div>
+</div>
+
+
+<div id="page" class="site">
+<nav id="quicklinks" aria-label="quick links" aria-hidden="true">
+<ul id="big-links"><li><span class="icon-myuw"></span><a href="https://my.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=myuw" tabindex="-1">MyUW</a></li><li><span class="icon-calendar"></span><a href="//uw.edu/calendar/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=calendar" tabindex="-1">Calendar</a></li><li><span class="icon-directories"></span><a href="https://directory.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=directories" tabindex="-1">Directories</a></li><li><span class="icon-libraries"></span><a href="https://lib.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=libraries" tabindex="-1">Libraries</a></li><li><span class="icon-medicine"></span><a href="https://www.uwmedicine.org/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwmedicine" tabindex="-1">UW Medicine</a></li><li><span class="icon-maps"></span><a href="//uw.edu/maps/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=maps" tabindex="-1">Maps</a></li><li><span class="icon-uwtoday"></span><a href="//uw.edu/news/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwnews" tabindex="-1">UW News</a></li></ul><h3>Helpful Links</h3> <ul id="little-links"><li><a href="https://itconnect.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=computingit" tabindex="-1">Computing/IT</a></li><li><a href="https://employeehelp.workday.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=workdayhcm" tabindex="-1">Workday HCM</a></li><li><a href="https://hfs.uw.edu/Husky-Card-Services/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=huskycard" tabindex="-1">Husky Card</a></li><li><a href="https://www.uwb.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwbothell" tabindex="-1">UW Bothell</a></li><li><a href="https://www.tacoma.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtacoma" tabindex="-1">UW Tacoma</a></li><li><a href="https://www.facebook.com/UofWA?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwfacebook" tabindex="-1">UW Facebook</a></li><li><a href="https://twitter.com/UW?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtwitter" tabindex="-1">UW Twitter</a></li></ul></nav>
+	<div id="page-inner">
+
+		<header id="masthead" class="site-header">
+			<div class="navbar navbar-expand-lg">
+				<div class="navbar-brand site-branding">
+					<a href="https://www.washington.edu/" title="University of Washington Home" class="uw-patch" tabindex="0">University of Washington</a>
+					<a href="https://www.washington.edu/" title="University of Washington Home" class="uw-wordmark" tabindex="-1" aria-hidden="true">University of Washington</a>
+				</div><!-- .site-branding -->
+
+				<div id="site-navigation" class="main-navigation" aria-label="related links" role="navigation">
+					<div class="audience-menu-container collapse navbar-collapse">
+						<ul id="purple-bar" class="navbar-menu menu"><li id="menu-item-5447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5447"><a href="//uw.edu/studentlife/">Students</a></li>
+<li id="menu-item-5448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5448"><a href="//uw.edu/parents/">Parents</a></li>
+<li id="menu-item-5449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5449"><a href="//uw.edu/facultystaff/">Faculty &amp; Staff</a></li>
+<li id="menu-item-5450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5450"><a href="//uw.edu/alumni/">Alumni</a></li>
+</ul>					</div>
+					<div id="search-quicklinks">
+						<button class="uw-search" aria-owns="uwsearcharea" aria-controls="uwsearcharea" aria-expanded="false" aria-label="open search area" aria-haspopup="true">
+							<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="51px" viewBox="0 0 18.776 51.062" enable-background="new 0 0 18.776 51.062" xml:space="preserve" focusable="false">
+								<g><path fill="#FFFFFF" d="M3.537,7.591C3.537,3.405,6.94,0,11.128,0c4.188,0,7.595,3.406,7.595,7.591 c0,4.187-3.406,7.593-7.595,7.593C6.94,15.185,3.537,11.778,3.537,7.591z M5.245,7.591c0,3.246,2.643,5.885,5.884,5.885 c3.244,0,5.89-2.64,5.89-5.885c0-3.245-2.646-5.882-5.89-5.882C7.883,1.71,5.245,4.348,5.245,7.591z"/><rect x="2.418" y="11.445" transform="matrix(0.7066 0.7076 -0.7076 0.7066 11.7842 2.0922)" fill="#FFFFFF" width="1.902" height="7.622"/></g><path fill="#FFFFFF" d="M3.501,47.864c0.19,0.194,0.443,0.29,0.694,0.29c0.251,0,0.502-0.096,0.695-0.29l5.691-5.691l5.692,5.691 c0.192,0.194,0.443,0.29,0.695,0.29c0.25,0,0.503-0.096,0.694-0.29c0.385-0.382,0.385-1.003,0-1.388l-5.692-5.691l5.692-5.692 c0.385-0.385,0.385-1.005,0-1.388c-0.383-0.385-1.004-0.385-1.389,0l-5.692,5.691L4.89,33.705c-0.385-0.385-1.006-0.385-1.389,0 c-0.385,0.383-0.385,1.003,0,1.388l5.692,5.692l-5.692,5.691C3.116,46.861,3.116,47.482,3.501,47.864z"/>
+							</svg>
+						</button>
+													<button class="uw-quicklinks" aria-haspopup="true" aria-expanded="false" aria-label="Open quick links">Quick Links
+								<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="15.63px" height="69.13px" viewBox="0 0 15.63 69.13" enable-background="new 0 0 15.63 69.13" xml:space="preserve" focusable="false"><polygon fill="#FFFFFF" points="12.8,7.776 12.803,7.773 5.424,0 3.766,1.573 9.65,7.776 3.766,13.98 5.424,15.553 12.803,7.78"/><polygon fill="#FFFFFF" points="9.037,61.351 9.036,61.351 14.918,55.15 13.26,53.577 7.459,59.689 1.658,53.577 0,55.15 5.882,61.351 5.882,61.351 5.884,61.353 0,67.557 1.658,69.13 7.459,63.019 13.26,69.13 14.918,67.557 9.034,61.353"/></svg>
+							</button>
+											</div><!-- search-quicklinks -->
+				</div><!-- #site-navigation -->
+			</div><!-- .navbar.navbar-expand-lg -->
+		</header><!-- #masthead -->
+
+		
+
+
+	<nav class="navbar white-bar navbar-expand-md navbar-light mega-menu" aria-label="primary">
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mega-menu" aria-controls="mega-menu" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon">Menu</span>
+				</button>
+		  		<div class="container-fluid"><div id="mega-menu" class="collapse navbar-collapse"><ul id="menu-parents-families" class="navbar-nav megamenu-nav"><li id="nav-item-4551" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-home nav-item-4551 top-level-nav"><a href="https://www.washington.edu/parents/"class="nav-link">Home</a>
+</li>
+<li id="nav-item-8062" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item-8062 top-level-nav"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" role="button">My Husky is a . . .</a>
+<ul class="dropdown-menu depth-0 multi-column">
+<div class="row">
+	<li id="nav-item-8063" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-8063"><a href="https://www.washington.edu/parents/transfer-students/"class="nav-link">Transfer Student</a>
+	</li>
+	<li id="nav-item-8069" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-8069"><a href="https://www.washington.edu/parents/international-students/"class="nav-link">International student</a>
+	</li>
+	<li id="nav-item-8066" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-8066"><a href="https://www.washington.edu/parents/out-of-state-students/"class="nav-link">Out-of-state student</a>
+	</li>
+	<li id="nav-item-8068" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-8068"><a href="https://www.washington.edu/parents/first-generation-students/"class="nav-link">First-Generation Student</a>
+	</li>
+	<li id="nav-item-8070" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-8070"><a href="https://www.washington.edu/parents/first-year-students/"class="nav-link">First-Year Student</a>
+	</li>
+	<li id="nav-item-8064" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-8064"><a href="https://www.washington.edu/parents/sophomores-juniors/"class="nav-link">Sophomore/Junior</a>
+	</li>
+	<li id="nav-item-8067" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-8067"><a href="https://www.washington.edu/parents/graduating-students/"class="nav-link">Graduating student</a>
+	</li>
+
+</div></ul>
+
+</li>
+<li id="nav-item-4543" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item-4543 top-level-nav"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" role="button">Resources</a>
+<ul class="dropdown-menu depth-0 multi-column">
+<div class="row">
+	<li id="nav-item-8071" class="nav-item nav-group heading menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item-8071 nav-group "><a href="https://www.washington.edu/parents/parent-family-guide/" class="nav-link">Parent &amp; Family Guide <b class="caret"></b></a>
+	<ul class="nav-group-links depth-1">
+		<li id="nav-item-8085" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-8085"><a href="https://www.washington.edu/parents/move-in-and-out-resources/"class="nav-link">Move-in &amp; move-out</a>
+		</li>
+		<li id="nav-item-5273" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5273"><a href="https://www.washington.edu/parents/resources/student-life/"class="nav-link">Student Life</a>
+		</li>
+		<li id="nav-item-5268" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5268"><a href="https://www.washington.edu/parents/resources/academics/"class="nav-link">Academics</a>
+		</li>
+		<li id="nav-item-5270" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5270"><a href="https://www.washington.edu/parents/health-safety-2/"class="nav-link">Health &amp; Safety</a>
+		</li>
+		<li id="nav-item-5272" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5272"><a href="https://www.washington.edu/parents/resources/living-dining/"class="nav-link">Living &amp; Dining</a>
+		</li>
+		<li id="nav-item-5269" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5269"><a href="https://www.washington.edu/parents/finance/"class="nav-link">Finances</a>
+		</li>
+		<li id="nav-item-5266" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5266"><a href="https://www.washington.edu/parents/transportation-2/"class="nav-link">Transportation</a>
+		</li>
+
+	</ul>
+
+	</li>
+	<li id="nav-item-5267" class="nav-item heading menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item-5267 nav-group "><a href="https://www.washington.edu/parents/husky-huddle-up-podcast/" class="nav-link">Husky Huddle-up podcast <b class="caret"></b></a>
+	<ul class="nav-group-links depth-1">
+		<li id="nav-item-5263" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5263"><a href="https://www.washington.edu/parents/talk-with-your-husky/"class="nav-link">Talk with your Husky</a>
+		</li>
+
+	</ul>
+
+	</li>
+	<li id="nav-item-5275" class="nav-item heading menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item-5275 nav-group "><a href="https://www.washington.edu/parents/forms/" class="nav-link">Forms, releases, &amp; accounts <b class="caret"></b></a>
+	<ul class="nav-group-links depth-1">
+		<li id="nav-item-8562" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-8562"><a href="https://www.washington.edu/parents/family-events/dawg-dates-deadlines/"class="nav-link">Dawg Dates &#038; Deadlines</a>
+		</li>
+
+	</ul>
+
+	</li>
+
+</div></ul>
+
+</li>
+<li id="nav-item-3080" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item-3080 top-level-nav"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" role="button">Common Questions</a>
+<ul class="dropdown-menu depth-0 multi-column">
+<div class="row">
+	<li id="nav-item-3081" class="nav-item menu-item menu-item-type-custom menu-item-object-custom nav-item-3081"><a href="/parents/faqs"class="nav-link">All Common Questions</a>
+	</li>
+
+</div></ul>
+
+</li>
+<li id="nav-item-4664" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item-4664 top-level-nav"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" role="button">Events</a>
+<ul class="dropdown-menu depth-0 multi-column">
+<div class="row">
+	<li id="nav-item-5279" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5279"><a href="https://www.washington.edu/parents/family-events/"class="nav-link">All Events</a>
+	</li>
+	<li id="nav-item-9301" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-9301"><a href="https://www.washington.edu/parents/family-events/visiting-campus/"class="nav-link">Visiting Campus</a>
+	</li>
+	<li id="nav-item-9293" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-9293"><a href="https://www.washington.edu/parents/movein-uwfamilylounge/"class="nav-link">Move-In Family Photos</a>
+	</li>
+	<li id="nav-item-5296" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5296"><a href="https://www.washington.edu/parents/family-events/family-weekend/"class="nav-link">UW Family Weekend</a>
+	</li>
+
+</div></ul>
+
+</li>
+<li id="nav-item-5237" class="nav-item menu-item menu-item-type-post_type menu-item-object-page nav-item-5237 top-level-nav"><a href="https://www.washington.edu/parents/connect/"class="nav-link">Connect</a>
+</li>
+</ul></div></div></nav>
+
+		<div class="uw-hero-image  hero-height2" style="background-image: url( https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/33/2022/04/21144458/PFP_hero_small4.jpg );" role="region" aria-label="page title and banner">
+			
+			<div class="container-fluid">
+				 <!-- this is the other hero types -->
+											<div id="hashtag"><span><span>Parents & Families</span></span></div>
+					
+											<h1 class="uw-site-title2">Common Questions</h1>
+												<span class="udub-slant"><span></span></span>
+					
+
+					
+								</div>
+		</div>
+							<!-- do nothing -->
+						
+<div class="container-fluid ">
+
+</div>
+<div class="container-fluid uw-body">
+	<div class="row">
+
+		<main id="primary" class="site-main uw-body-copy col-md-12">
+
+		
+<article id="post-5833" class="post-5833 page type-page status-publish has-post-thumbnail hentry">
+	<div class="entry-content">
+
+		<div class="smallspacer">
+<h3>Jump to a topic:</h3>
+</div>
+<div><a href="#academics">Academics</a> | <a href="#campus-life">Campus life</a> | <a href="#career-exploration">Career exploration</a> | <a href="#financial">Financial</a> | <a href="#health-and-safety">Health and safety</a> | <a href="#visiting-campus">Visiting campus</a> | <a href="#international-families">International families</a> | <a href="#out-of-state">Out-of-state families</a> | <a href="#covid-19">COVID-19</a> | <a href="#family-engagement">Family engagement</a></div>
+<div class="smallspacer">
+<h2>Academics</h2>
+<div class="accordion " id="academics">
+<div class="screen-reader-text">Academics</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How do students work with academic advisors and when should they meet?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>General advisers help students plan course schedules and clarify academic and personal goals. Advisors are working to accommodate students for both in-person and virtual appointments.</p>
+<p>We encourage new students to meet with their advisors as soon as possible. After the initial meeting, we suggest they schedule meetings during the third week of every quarter, if possible. More information is available on the <a href="https://www.washington.edu/uaa/advising/">UW Undergraduate Advising webpage</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What academic support and tutoring programs are available to students?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The UW has a wide range of academic support opportunities for undergraduates. <a href="http://academicsupport.uw.edu/">The Center for Learning and Undergraduate Education</a> (CLUE) provides drop-in tutoring in Mary Gates Hall, the HUB and Othello-UW Commons in South Seattle.</p>
+<p>Students who are first-generation college students, economically disadvantaged or historically underrepresented groups may also access tutoring through the <a href="https://www.washington.edu/omad/">Office of Minority Affairs &amp; Diversity</a>. Many academic departments also offer tutoring that’s tailored to a student’s area of study.</p>
+<p>If they need help with time management or study strategies, students can also schedule a 30-minute session with one of our <a href="http://academicsupport.uw.edu/academic-success-coach/">Academic Success Coaches</a>. </p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Can my student take classes over the summer?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Yes! The UW offers <a href="https://www.summer.uw.edu/">two summer sessions</a>. Registration typically opens in mid-April. Students often find that summer classes offer a relaxed learning environment and present more opportunities to connect with professors.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Where do I find information about graduation? </span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The most up-to-date graduation information is available on the <a href="https://www.washington.edu/graduation/">Office of Ceremonies commencement page</a>. </p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">My student is sick and missing classes. What should they do?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>We’re sorry your student isn’t feeling well. <a href="https://wellbeing.uw.edu/unit/hall-health/">Husky Health Center</a> offers medical and mental health care — in person, over the phone and by video. We encourage your student to make an appointment as soon as possible.</p>
+<p>Your student should also reach out to their professors via email to explore options for keeping up with their classes and making up missed assignments. Their <a href="https://www.washington.edu/uaa/advising/">academic advisor</a> may be able to offer assistance in coming up with a plan to get back on track.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How can I support my student with time management?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The <a href="https://academicsupport.uw.edu/study-skills/time-management/">Academic Support Programs page</a> is filled with tips on creating a schedule, prioritizing tasks and minimizing distractions. The <a href="https://academicsupport.uw.edu/site/assets/files/1514/estimating_weekly_study_hours-1.pdf">weekly study hours</a> worksheet can help your student determine how many hours they need to devote to studying for each class.</p>
+<p>Talk with your student about which strategies work best for them, and help them identify any roadblocks that might be preventing them from focusing on their studies.</p>
+</div>
+</div>
+</div>
+<h2 id="campus-life">Campus life</h2>
+<div class="accordion " id="campus-life">
+<div class="screen-reader-text">Campus life</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How is college different from high school?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>College comes with much more autonomy than high school — especially for students who are living away from home for the first time. The ratio between time studying outside of class and time spent in class also increases, requiring students to be more proactive about time management and seeking assistance when they need it. The<br />
+<a href="https://academicsupport.uw.edu/">Academic Support Programs</a> page is filled with resources to help first-year students make the academic transition between high school and college. <a href="https://fyp.washington.edu/">First Year Programs</a>, meanwhile, include several ways for students to connect, engage and find their place on the UW campus.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What's the weather like in Seattle?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Despite Seattle’s rainy reputation, precipitation here is typically light enough that many in the area won’t bother to carry an umbrella. In fact, Seattle is only the 24th rainiest city in the U.S. with an average annual rainfall of 38.6 inches. (A good rain jacket, however, is a wardrobe staple, especially between the wetter months of October through May.) Winters can be cloudy and grey, but temperatures are usually mild with daytime highs in the 40s and 50s. Summers are warm and sunny but not too hot or humid, with average temperatures in the 70s and 80s.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Where is the UW in relation to Seattle?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The University of Washington&#8217;s three campuses can be found in Bothell, Tacoma and Seattle, WA. The flagship Seattle campus, located in the beautiful northeast corner of Seattle, covers over 690 acres. Its neighborhood — called the University District or U-District — boasts extremely high scores for walkability, bike access, and public transit. It is serviced by all the major <a href="http://kingcounty.gov/depts/transportation/metro.aspx">bus routes</a>, as well as the Husky Stadium and U District stations on the <a href="https://www.soundtransit.org/Rider-Guide/University-of-Washington-Station">Link light rail</a> (with more stops being constructed).</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">My Husky is having a hard time making friends. What advice would you give?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Forming lasting college friendships can take time. One of the best ways to meet new people is by pursuing organized activities outside the classroom. Joining a <a href="https://hub.washington.edu/get-involved/sao/rso-directory/">student club</a> is one way to build friendships, develop leadership skills and discover new interests. If your Husky is a first-year student, you could encourage them to sign up for a <a href="https://fyp.washington.edu/connect-through-academics/shared-content-programs/first-year-networks/">First-year Student Network</a> or a <a href="https://fyp.washington.edu/first-year-interest-groups/">First-year Interest Group</a> (FIG).If your student lives on campus, they can take advantage of the many social activities organized through <a href="https://hfs.uw.edu/Experience/Residential-Life-Activities">Residential Life</a>. UW also has a lively <a href="https://www.washington.edu/ima/intramurals/">intramural sports program</a>, with teams and tournaments for everything from bowling to badminton.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Where do Huskies find clubs, activities and community on campus?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Getting involved on campus is the best way for students to build community, explore university resources and develop leadership skills. The <a href="http://uw.edu/studentlife">Student Life website</a> is full of information about the people, places, and programs that are here to support your student throughout their Husky Experience. To dig a little deeper, browse hundreds of student clubs in the <a href="https://hub.washington.edu/get-involved/sao/rso-directory/">Registered Student Organization Directory</a> and explore all the offerings for first year students at <a href="http://fyp.washington.edu/connect-through-academics/">First Year Programs</a>. Learn about how your Husky can get involved with the <a href="http://www.asuw.org/">Associated Students of the University of Washington</a> (ASUW), including the <a href="https://cele.uw.edu/about/about-cele/">Community Engagement and Leadership Education</a> (CELE) Center, which provides Huskies with opportunities for community-engaged learning, democratic engagement, leadership education, preK-12 student success and place-based initiatives</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">My student is interested in joining Greek Life at the UW. Where may I get more information?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The UW Greek community is a great way for your student to make friends and engage in their community. Our Office of Fraternity &amp; Sorority Life advises our <a href="http://www.uwifc.com/">Interfraternity Council </a> the <a href="http://www.uwmgc.org/">Multicultural Greek Council</a>, <a href="https://uwnphc.wordpress.com/">National Pan-Hellenic Council</a>, the <a href="https://www.uwpanhellenic.com/">Panhellenic Association</a>, and their services and programs. You and your Husky can learn more about fraternity and sorority life at the University of Washington, through our <a href="https://www.washington.edu/ofsl/about-ofsl/">Office of Fraternity &amp; Sorority Life</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Are there student tickets for athletic events?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Yes! <a href="https://gohuskies.com/sports/2020/2/4/dawg-pack-tickets.aspx">Dawg Pack Tickets</a> grant full-time UW students access to home football and men&#8217;s basketball games on a first-come, first-serve basis based on availability. Students may attend other sports events for free with their Husky Cards.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">My student is having issues with their roommate. How can we navigate this?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Conflict is a normal part of healthy relationships. Learning to communicate through them helps the relationship grow deeper.</p>
+<p>We encourage students to turn to their Resident Advisers to get another student perspective or some extra guidance on how to approach a roommate with a concern. We also have full-time professional staff who have master’s degrees; they can help with especially intense conflict mediation.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">My student is at a campus besides Seattle. Do they have access to the same resources?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>We encourage you to visit the <a href="https://www.uwb.edu/parents">parent and families website for UW Bothell</a> and the <a href="https://www.tacoma.uw.edu/uwt/student-life">student life webpages at UW Tacoma</a> to learn about the specific offerings on each campus.</p>
+</div>
+</div>
+</div>
+<h2>Career exploration</h2>
+<div class="accordion " id="career-exploration">
+<div class="screen-reader-text">Career exploration</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">My student has an assigned academic advisor. Should my student also work with a career coach?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Whereas academic advisors help students navigate their course of study, career coaches can help students think about how they will take those experiences and apply them to a career. For students who aren’t sure what they want to do after college, career coaches can help them figure out a path that aligns with their interests, values and talents. For those who have already identified a career, coaches can help them secure internships, prepare resumes and cover letters, and identify networking strategies.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How can my student find a career coach? When should they meet?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Students can schedule an appointment by logging into <a href="https://careers.uw.edu/companies/">Handshake</a>, the jobs and internships platform for UW students and alumni. More information is available on the<a href="https://careers.uw.edu/schedule-an-appointment-with-a-career-coach/">Career &amp; Internship Center website</a>.The best time to make an appointment is whenever your student has something they’d like to discuss. The center also has <a href="https://careers.uw.edu/channels/diy-resources/">recorded webinars and other DIY resources</a> that are available 24-7.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">My student hasn’t picked a major yet. Can a career coach still help?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Yes! Career coaches can help undecided students zero in on their interests and identify potential majors and careers.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Can a career coach help my student find an internship or help with graduate school applications?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Absolutely. Career coaches are available to discuss internship search strategies and to review personal statements or other aspects of graduate/professional school applications.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How can students network and find career opportunities through UW?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The <a href="https://careers.uw.edu/">UW Career &amp; Internship Center</a> has a variety of services to help students build their network and start exploring careers, including resume workshops, career fairs and drop-in coaching. Several online resources are also available. <a href="https://careers.uw.edu/resources/pathwayu/">PathwayU</a> is a tool to help students discover their purpose and connect it to college and careers. <a href="https://careers.uw.edu/companies/">Handshake</a> is the jobs and internships platform for UW students and alumni.</p>
+</div>
+</div>
+</div>
+<h2>Financial</h2>
+<div class="accordion " id="financial">
+<div class="screen-reader-text">Financial</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What is the HuskyCard? How can I add money to my student’s Husky Card account?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The Husky Card is the official identification card for members of the UW community. It provides access to services and opportunities, including campus libraries. All Husky Cards are automatically linked to a debit account and can be used for purchases at any on-campus dining locations and food markets, and at the University Book Store. They’re also accepted in residence hall laundry facilities and at campus copy machines and printing stations. You can add money to your student’s Husky Card through the <a href="https://hfs.uw.edu/OLCO/">online card office</a>. Note that you’ll need their UW ID number to complete the guest deposit.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How does a student apply for Washington state residency?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>To learn more about the process of applying for Washington state residency, visit the <a href="https://registrar.washington.edu/students/residency/">Office of the University Registrar</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What types of scholarships are available for in-state, out of state and/or international students?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Information about scholarships for UW students can be found at the <a href="http://expd.uw.edu/scholarships/">Office of Merit Scholarship Fellowships &amp; Awards</a>. The office maintains a <a href="https://new.expo.uw.edu/expo/scholarships">database</a> where students can search for scholarships that align with their background, interests and academic standing.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">When and how do I pay tuition and/or housing?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Tuition is always due the 3rd Friday of the quarter and can be paid via credit card, web check, or in person. Information about tuition, e-billing and late fees can be found on the <a href="http://finance.uw.edu/sfs/">Student Fiscal Services</a> website.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">We are preparing our tax return. How do we obtain the 1098T form?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p><span style="font-weight: 400;">The 1098T form is available at the end of January. Students can opt to receive the form in the mail or electronically. Visit the <a href="https://finance.uw.edu/sfs/scholarships-taxes/student-taxes/1098t-information-faq">Student Fiscal Services website</a> for more information.</p>
+</div>
+</div>
+<p></span></p>
+</div>
+<h2>Health</h2>
+<div class="accordion " id="health">
+<div class="screen-reader-text">Health</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Does UW have a Student Health Services?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Yes, the <a href="https://wellbeing.uw.edu/unit/hall-health/">Husky Health Center</a> is our campus medical center, located across from the HUB on the UW Seattle campus. Visit <a href="https://wellbeing.uw.edu/">Husky Health &amp; Well-Being</a> website to learn about the broad range of resources, programs and services we offer to support your student’s needs: social, emotional, intellectual, physical, financial, and spiritual.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What health services are available to my student?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The following on-campus health services are paid for by the <a title="https://registrar.washington.edu/students/student-fees/" href="https://registrar.washington.edu/students/student-fees/" target="_blank" rel="noopener noreferrer" aria-label="Link Services &amp; Activities Fee (SAF)">Services &amp; Activities Fee (SAF)</a>, collected with your student’s tuition</p>
+<ul>
+<li>Short-term <a title="https://wellbeing.uw.edu/topic/mental-health/" href="https://wellbeing.uw.edu/topic/mental-health/" target="_blank" rel="noopener noreferrer" aria-label="Link mental health support">mental health support</a>, accessible 24 hours/7 days a week through <a title="https://wellbeing.uw.edu/mental-health/" href="https://wellbeing.uw.edu/mental-health/" target="_blank" rel="noopener noreferrer" aria-label="Link mySSP">mySSP</a></li>
+<li>Unlimited <a title="https://wellbeing.uw.edu/medical/medical-advice/" href="https://wellbeing.uw.edu/medical/medical-advice/" target="_blank" rel="noopener noreferrer" aria-label="Link medical advice from a nurse">medical advice from a nurse</a> by phone or videoconference</li>
+<li><a title="https://wellbeing.uw.edu/virtual-lets-talk/" href="https://wellbeing.uw.edu/virtual-lets-talk/" target="_blank" rel="noopener noreferrer" aria-label="Link Let’s Talk">Let’s Talk</a>, a virtual, drop-in counseling program</li>
+<li>One visit with a medical provider for a problem or concern per quarter OR for a pre-travel consultation.</li>
+</ul>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">We have questions about health insurance for my student?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>UW does not offer health insurance to domestic students. Families will need to determine if their insurance covers services in Washington state. If you have health insurance, complete the <a title="https://wellbeing.uw.edu/wp-content/uploads/2019/05/know-your-benefits-2018-for-po-final-1.pdf" href="https://wellbeing.uw.edu/wp-content/uploads/2019/05/Know-Your-Benefits-2018-for-PO-FINAL-1.pdf" target="_blank" rel="noopener noreferrer" aria-label="Link Know Your Benefits Worksheet">Know Your Benefits Worksheet</a> to learn about your coverage and benefits.</p>
+<p>As you and your Husky review your benefits, we suggest checking your out-of-pocket costs, like deductibles, copays for mental health counseling, urgent care and prescription medication. Our Husky Health Center team can be reached at <a title="mailto:uwhhc@uw.edu" href="mailto:uwhhc@uw.edu" target="_blank" rel="noopener noreferrer" aria-label="Link uwhhc@uw.edu">uwhhc@uw.edu</a> for additional questions.</p>
+</div>
+</div>
+</div>
+<h2>Safety</h2>
+<div class="accordion " id="safety">
+<div class="screen-reader-text">Safety</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How does my student sign up for UW Alerts?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Students can sign up for UW Alerts email and text messages on the <a href="https://www.washington.edu/safety/alert/">Campus Safety &amp; Emergency Resources website</a>, using their UW NetID. Students automatically receive alerts via their UW email address. The phone number listed in your Husky’s Student Profile account is uploaded for text messages, but it’s important for your student to check to make sure that number is correct.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How do parents &amp; families receive information in the event of an emergency?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>UW Alerts are also posted on <a href="https://www.facebook.com/UWAlert/">Facebook</a> and <a href="https://X.com/uwalert">X</a>. More complete information about an incident can be found on the <a href="https://emergency.uw.edu/">UW Alert blog</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What safety tips or services can I share with my student?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The UW has dozens of programs and resources to help keep students safe, including <a href="https://police.uw.edu/safety-escort-services/">Husky SafeTrip</a>, a <a href="https://www.washington.edu/safecampus/">24-7 safety hotline</a> and a free <a href="https://facilities.uw.edu/catalog/nr">NightRide shuttle</a>. Find more resources on the <a href="https://www.washington.edu/safety/resources/">Campus Community Safety website</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How can my student contact the University of Washington Police Department?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>If your student or someone your Husky is with needs immediate aid, call 911. UWPD is a fully accredited law enforcement agency with its own dispatch center. Officers respond to campus 24 hours a day.</p>
+<p>If your student needs to report a concern that’s not an emergency, call the UWPD non-emergency number: 206-685-8973 (UWPD). Examples of non-emergencies include property crime that happened in the past without suspects nearby, suspicious people or circumstances that do not pose an immediate risk or vandalism. UWPD dispatchers answer the non-emergency line 24 hours a day, but emergency calls get priority. We suggest students save the UWPD non-emergency number to their phones. <a href="https://police.uw.edu/online-reporting/">Students can also submit police reports for non-emergency situations online</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Can my Husky carry pepper spray?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Yes, but if pepper spray is used, your student may also be affected. Instead, the UW Police Department advises students to get away from a risky situation as quickly as possible. Students may want to consider also carrying a whistle or security alarm device to quickly get attention in the event of an emergency.</p>
+</div>
+</div>
+</div>
+<h2>Visiting campus</h2>
+<div class="accordion " id="visiting-campus">
+<div class="screen-reader-text">Visiting campus</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Is there a Visitor’s Center at UW?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Yes. The UW Visitor Center is located in Odegaard Library on the Seattle campus. The <a href="https://www.washington.edu/visit/">Visitor Center website</a> is full of information about transportation and parking, campus highlights and tours. Visitor Center staff are also available via phone and email: 206-543-9198 or <a href="mailto:uwvic@uw.edu">uwvic@uw.edu</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">I am planning to visit Washington. What are my transportation options?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p><a href="https://www.soundtransit.org/Rider-Guide/University-of-Washington-Station">The Link light rail</a> runs between the University of Washington and the Sea-Tac Airport every few minutes. The ride takes about 45 minutes and offers scenic views of the International District and Downtown Seattle before arriving at the UW station, just steps from Husky Stadium and Union Bay. Students can use their U-Pass to ride the light rail or bus. Alternate options include prearranged shuttles, taxicabs, Uber, Lyft, Wingz … or even a bike, if you’re feeling adventurous!</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Where would you suggest I stay when visiting my student?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>There are many hotels within walking distance of the University, and the entirety of the downtown Seattle hotel scene is easily accessible to campus via the Light Rail. <a href="https://visitseattle.org/lodging/">Learn more about hotel accommodations</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Where do we sign up for campus tours?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The <a href="https://www.washington.edu/visit/">UW Visitor Center</a> has information about student-led tours and self-guided tours.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Where can I find a campus map?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The UW is an expansive campus with uncountable beautiful places to explore. Find your way around all corners of the campus with <a href="https://www.washington.edu/maps/">UW Maps</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What are some must-see places to explore in Seattle?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Many of the city’s top destinations are located <a href="https://www.washington.edu/visit/exploring-seattle/">on or near the UW campus</a>. Learn more about attractions, lodging and dining across the city at <a href="https://visitseattle.org/">Visit Seattle</a>. Interested in outdoor recreation? <a href="https://wellbeing.uw.edu/recreation/outdoor-recreation/">UWild</a> is a great way for your student to explore Washington’s renowned wilderness areas and public lands.</p>
+</div>
+</div>
+</div>
+<h2>International families</h2>
+<div class="accordion " id="international-families">
+<div class="screen-reader-text">International families</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Who can my student contact with questions?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p><a href="https://iss.washington.edu/">International Student Services</a> (ISS) offers comprehensive assistance for the nearly 8,000 international students enrolled at UW. ISS staff can help students navigate visa requirements, find tax information and explore their employment options.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How does my student maintain full-time enrollment?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Undergraduate students on F-1 visas are generally required to enroll in 12 credits each quarter. For graduate students, the requirement is 10 credits per quarter. Check with <a href="https://iss.washington.edu/laws/f1/full-time-enrollment-and-exceptions-f1/">International Student Services</a> for more information.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What can my student expect in the classroom?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Classes at the University of Washington vary from discipline to discipline and may be significantly different from what your student has experienced in their home country. The <a href="https://www.washington.edu/circle/">Center for International Relations &amp; Cultural Leadership Exchange</a> (CIRCLE) offers one-on-one <a href="https://www.washington.edu/circle/programs/student-success-coaching/">success coaching</a> to help international students effectively transition to the UW.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How can my student improve their English skills?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p><a href="https://www.ielp.uw.edu/programs/university-preparation/academic-english-program/overview/">International &amp; English Language Programs (IELP)</a> offers a range of English language courses for students who have at least an intermediate level of proficiency. Additionally, the UW’s <a href="https://www.ielp.uw.edu/life-at-the-uw/student-activities/language-exchange-program/">Learning Exchange Program</a> pairs English language learners with fluent English speakers for weekly conversation sessions. It’s a fun way for non-native speakers to improve their English fluency, make a friend and learn about American culture.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">I am planning to visit the U.S. and need a tourist visa. How does my student obtain an invitation letter?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Instructions for writing an invitation letter are available on the <a href="https://iss.washington.edu/resources/invite-family/">International Student Services website</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How does my student obtain a Social Security Number?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>U.S. social security numbers are issued to international students who have been offered on-campus employment or are authorized for off-campus employment. A social security number will not be issued for non-work purposes. For more information, visit <a href="https://iss.washington.edu/employment/ssn/">International Student Services</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Other than International Student Services, what are some resources specifically for international students?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The <a href="https://www.washington.edu/circle/">Center for International Relations &amp; Cultural Leadership Exchange</a> (CIRCLE) can help international students find their campus community, develop leadership skills and connect to UW resources. CIRCLE also produces a podcast called <a href="https://www.washington.edu/circle/category/podcast/">In the Loop</a>. It’s a great way to learn more about the UW international student experience and stay up-to-date on what’s happening on campus.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What is the best way to make a tuition payment?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>New international students must pay the New Student Enrollment and Orientation Fee (NSEOF) using <a href="https://www.washington.edu/newhuskies/must-do/pay-with-flywire-or-western-union/">Flywire or Western Union</a> instead of the UW online payment system. Other fees and tuition may be paid using Flywire, Western Union or a wire transfer. Visit the <a href="https://finance.uw.edu/sfs/tuition/payments">UW Student Fiscal Services website</a> for more information.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How will my student have access to health care/insurance?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>All matriculated international students in F-1 or J-1 status are required to purchase the <a href="https://iship.washington.edu/">UW International Student Health Insurance Plan (ISHIP)</a>. Review the details of the plan carefully, including the effective dates of coverage. We advise you to purchase this insurance for the entire year so that you will be covered whether or not you are enrolled each quarter.</p>
+</div>
+</div>
+</div>
+<h2>Out-of-state families</h2>
+<div class="accordion " id="out-of-state">
+<div class="screen-reader-text">out-of-state</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What plans are contracted with Husky Health/UW Medicine?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>UW Medicine and Husky Health are contracted with many insurance plans, you can <a href="https://wellbeing.uw.edu/medical/insurance-cost/">view the contracted insurance plans.</a></p>
+<p>The only way to know for sure if your plan is contracted is to call the customer service number on the back of your insurance card to complete the <a title="https://wellbeing.uw.edu/wp-content/uploads/2019/05/know-your-benefits-2018-for-po-final-1.pdf" href="https://wellbeing.uw.edu/wp-content/uploads/2019/05/Know-Your-Benefits-2018-for-PO-FINAL-1.pdf" target="_blank" rel="noopener noreferrer" aria-label="Link Know Your Benefits worksheet">Know Your Benefits worksheet</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What if our insurance does not cover Husky Health/UW Medicine?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>If your insurance does not contract with Husky Health Center and UW Medicine, but does work with other providers in Seattle, you can <a href="https://wellbeing.uw.edu/medical/insurance-cost/">review the list</a>. You can also check your insurance company’s website to search for additional contracted providers.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="smallspacer">
+<h2>COVID-19</h2>
+<div class="accordion " id="covid-19">
+<div class="screen-reader-text">COVID-19</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">What COVID-19 precautions or restrictions are currently in place?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The University of Washington requires students and personnel to be <a href="https://www.ehs.washington.edu/covid-19-prevention-and-response/uw-covid-19-vaccination-policy">vaccinated against COVID-19</a>. For the latest guidance on masks and other COVID-related precautions, visit the <a href="https://www.washington.edu/coronavirus/">UW’s coronavirus webpage</a>. All students, faculty and staff planning to be on a campus or at a UW facility are encouraged to enroll in the <a href="https://www.washington.edu/coronavirus/testing/">Husky Coronavirus Testing program</a>.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">Is remote learning available?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>The UW <a href="https://www.washington.edu/coronavirus/autumn2021/">returned to in-person learning</a> starting with fall quarter 2021. Remote learning is not available at this time for most programs.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How should my student and I adjust expectations, based on the pandemic and missing a year on campus?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>It may take some time for your student to adjust to being back on campus and get back into the rhythm of in-person learning. While most campus activities and resources will fully reopen this fall, some programs may operate virtually. Certain campus spaces — like the HUB — will have limited capacity and operations. Students who will be living on campus should also review the <a href="https://hfs.uw.edu/Coronavirus-FAQ-for-Residents">Coronavirus Information for Residents webpage</a>.</p>
+</div>
+</div>
+</div>
+<h2>Family engagement</h2>
+<div class="accordion " id="family-engagement">
+<div class="screen-reader-text">Family engagement</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How can I connect with other UW families?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>Join our official first-year families <a href="https://www.facebook.com/uwfamily/" target="_blank" rel="noopener">Facebook group</a>. Connect with our office to learn more about regional/out-of-state groups that have worked with our offices. And be sure to sign up for our <a href="https://www.washington.edu/parents/uw-parent-insider/">UW Parent Insider newsletter</a> to learn about events and other opportunities for connection.</p>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="accordion-header">
+<h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"><span class="btn-text">How can I access my Husky’s academic, health and financial information?</span><span class="arrow-box"><span class="arrow"></span></span></button></h3>
+</div>
+<div id="collapse" class="collapse " aria-labelledby="collapse" data-parent="#accordion" role="region">
+<p>We treat our students as adults regardless of age at the UW. This means that parents and families seeking access to their students&#8217; academic, wellness and billing will need to start with a conversation with their student and ask them directly to share information with you. Students must fill out information release forms to share notifications and billing reminders with families. More information about the UW’s parent notification and student privacy policies is <a href="https://www.washington.edu/parents/student-life/ferpa/">available here</a>.</p>
+</div>
+</div>
+</div>
+</div>
+
+			</div>
+</article><!-- #post- -->
+
+		</main><!-- #primary -->
+
+		
+	</div><!-- .row -->
+</div><!-- .container -->
+
+
+		<footer id="colophon" class="site-footer">
+			<a href="https://www.washington.edu/" class="footer-wordmark">University of Washington</a>
+			<a href="https://www.washington.edu/boundless/" class="be-boundless">Be boundless</a>
+
+			<div class="h4" id="social_preface">Connect with us:</div>
+			<nav aria-labelledby="social_preface">
+				<ul class="footer-social">
+					<li><a class="facebook" href="https://www.facebook.com/UofWA">Facebook</a></li>
+					<li><a class="twitter" href="https://twitter.com/UW">Twitter</a></li>
+					<li><a class="instagram" href="https://instagram.com/uofwa">Instagram</a></li>
+					<li><a class="youtube" href="https://www.youtube.com/user/uwhuskies">YouTube</a></li>
+					<li><a class="linkedin" href="https://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+					<li><a class="pinterest" href="https://www.pinterest.com/uofwa/">Pinterest</a></li>
+				</ul>
+			</nav>
+
+			<nav aria-label="footer">
+				<ul id="menu-footer-menu" class="footer-links"><li id="menu-item-7353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7353"><a href="http://www.uw.edu/accessibility">Accessibility</a></li>
+<li id="menu-item-7354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7354"><a href="http://uw.edu/contact">Contact Us</a></li>
+<li id="menu-item-7355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7355"><a href="http://www.washington.edu/jobs">Jobs</a></li>
+<li id="menu-item-7356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7356"><a href="http://www.washington.edu/safety">Campus Safety</a></li>
+<li id="menu-item-7357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7357"><a href="http://my.uw.edu/">My UW</a></li>
+<li id="menu-item-7358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7358"><a href="http://www.washington.edu/rules/wac">Rules Docket</a></li>
+<li id="menu-item-7359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7359"><a href="http://www.washington.edu/online/privacy/">Privacy</a></li>
+<li id="menu-item-7360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7360"><a href="http://www.washington.edu/online/terms/">Terms</a></li>
+<li id="menu-item-7361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7361"><a href="http://www.washington.edu/newsletter/">Newsletter</a></li>
+</ul>			</nav>
+
+			<div class="site-info">
+				<p>&copy; 2024 University of Washington  |  Seattle, WA</p>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page-inner -->
+</div><!-- #page -->
+
+<style id='core-block-supports-inline-css' type='text/css'>
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/libs/jquery.min.js?ver=3.3.1" id="jquery-js"></script>
+<script type="text/javascript" id="tiles-js-js-extra">
+/* <![CDATA[ */
+var ajaxpagination = {"ajaxurl":"https:\/\/www.washington.edu\/cms\/parents\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/plugins/husky100/js/tiles.js?ver=2.0" id="tiles-js-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/libs/popper.min.js?ver=3.3.1" id="uw_wp_theme-popper-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/libs/bootstrap.min.js?ver=3.3.1" id="uw_wp_theme-bootstrap-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/libs/jquery.tinyscrollbar.js?ver=3.3.1" id="uw_wp_theme-tinyscrollbar-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/uw.bootstrap.shortcode-init.js?ver=3.3.1" id="uw.bootstrap.shortcode-init-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/shortcodes/gallery.js?ver=3.3.1" id="uw-gallery-script-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/2014.min.js?ver=3.3.1" id="uw_wp_theme-2014-script-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/megamenu.js?ver=3.3.1" id="uw_wp_theme-megamenu-script-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw_wp_theme/js/shortcodes/accordion.js?ver=3.3.1" id="uw_wp_theme-accordion-script-js"></script>
+
+</body>
+</html>

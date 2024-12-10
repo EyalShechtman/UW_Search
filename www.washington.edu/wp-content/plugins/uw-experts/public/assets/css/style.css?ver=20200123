@@ -1,0 +1,457 @@
+.badge-gray {
+  background-color: #d4d4d4;
+  color: #4b2e83; }
+
+.status .badge {
+  opacity: 0.8; }
+
+.call-to-action .btn.btn-lg.white span {
+  border-color: #b7a57a; }
+
+.home .single-event {
+  margin-bottom: 40px;
+  border-bottom: 1px solid #e8e3d3;
+  padding-bottom: 40px; }
+  @media (min-width: 768px) {
+    .home .single-event {
+      display: grid;
+      grid-template-columns: 0.75fr 1.25fr;
+      grid-column-gap: 20px; }
+      .home .single-event .thumbnail {
+        grid-column: 1;
+        grid-row: 1 / span 4; } }
+  .home .single-event .thumbnail img {
+    width: 100%;
+    -webkit-box-shadow: 0 8px 10px rgba(0, 0, 0, 0.14);
+            box-shadow: 0 8px 10px rgba(0, 0, 0, 0.14); }
+  @media (max-width: 767px) {
+    .home .single-event .thumbnail {
+      margin-bottom: 20px; } }
+
+.home .single-event .badge,
+.single-uw_oplevents .badge {
+  padding: .35em .75em;
+  font-size: 90%; }
+
+.home .single-event .event-details p,
+.single-uw_oplevents .event-details p {
+  margin-bottom: 0; }
+  .home .single-event .event-details p.status,
+  .single-uw_oplevents .event-details p.status {
+    margin-top: 20px;
+    margin-bottom: 20px; }
+    .home .single-event .event-details p.status .cost,
+    .home .single-event .event-details p.status .event-status,
+    .single-uw_oplevents .event-details p.status .cost,
+    .single-uw_oplevents .event-details p.status .event-status {
+      margin-right: 5px; }
+
+.single-uw_oplevents .speaker-photo, .single-uw_oplevents img.alignright {
+  float: right;
+  max-width: 50%;
+  margin: 0 0 20px 20px; }
+  @media (max-width: 767px) {
+    .single-uw_oplevents .speaker-photo, .single-uw_oplevents img.alignright {
+      float: none;
+      max-width: 100%;
+      width: 100%;
+      margin: 0 auto 20px;
+      text-align: center;
+      display: block; }
+      .single-uw_oplevents .speaker-photo img, .single-uw_oplevents img.alignright img {
+        width: 100%; } }
+
+.single-uw_oplevents .speaker-photo img, .single-uw_oplevents img.alignright {
+  -webkit-box-shadow: 0 8px 10px rgba(0, 0, 0, 0.14);
+          box-shadow: 0 8px 10px rgba(0, 0, 0, 0.14); }
+
+.single-uw_oplevents .event-details {
+  margin-bottom: 20px; }
+
+.single-uw_oplevents .event-description h2, .single-uw_oplevents .event-description h3, .single-uw_oplevents .event-description h4 {
+  clear: none;
+  line-height: 1.25;
+  margin-top: 0; }
+
+.single-uw_oplevents .speaker-name {
+  margin-bottom: 0;
+  font-weight: bold; }
+
+.single-uw_oplevents .registration {
+  margin-bottom: 20px; }
+
+@media (max-width: 767px) {
+  .single-uw_oplevents footer > * {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem; } }
+
+.post-type-archive-uw_oplevents .entry-content {
+  margin-top: 0;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #e8e3d3;
+  padding-bottom: 40px; }
+  @media (min-width: 768px) {
+    .post-type-archive-uw_oplevents .entry-content {
+      display: grid;
+      grid-template-columns: 0.75fr 1.25fr;
+      grid-column-gap: 20px; }
+      .post-type-archive-uw_oplevents .entry-content .event-info {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column; } }
+  @media (max-width: 767px) {
+    .post-type-archive-uw_oplevents .entry-content .thumbnail img {
+      width: 100%; } }
+
+@media (max-width: 767px) and (max-width: 767px) {
+  .post-type-archive-uw_oplevents .entry-content .thumbnail {
+    margin-bottom: 20px; } }
+  .post-type-archive-uw_oplevents .entry-content .event-info {
+    margin: 0; }
+  .post-type-archive-uw_oplevents .entry-content .entry-title {
+    font-size: 30px;
+    line-height: 1;
+    margin: 0; }
+
+h2.climate-category {
+  color: #ffffff !important;
+  padding-left: 1%;
+  text-align: left;
+  background-color: #4b2e83 !important;
+  text-transform: uppercase;
+  font-weight: normal; }
+
+.header-count {
+  font-size: 40px;
+  background: #4b2e83;
+  color: white;
+  padding: 0 18px;
+  font-family: 'Encode Sans Compressed';
+  font-weight: 800;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 20px; }
+
+div.span8 {
+  position: relative; }
+
+body #filter {
+  position: absolute;
+  top: 15px;
+  right: 0px;
+  height: 35px;
+  width: 150px; }
+
+body #filter input {
+  border: 1px solid #DFDFDF;
+  border-radius: 20px;
+  width: 115px;
+  padding-left: 15px;
+  color: #949494; }
+
+div.profile-list img {
+  display: block;
+  float: left;
+  margin-right: 20px;
+  margin-top: -5px;
+  width: 80px !important; }
+
+/* Temp hide for marketing pics */
+.site-marketing div.profile-list img {
+  display: none; }
+
+.site-marketing .entry-content div.people-image {
+  display: none; }
+
+.site-marketing.single-people div.people-contact {
+  margin-top: 10px; }
+
+div.profile-list img.no-pic {
+  opacity: 0; }
+
+div.no-picture {
+  padding: 50px 40px;
+  display: block;
+  float: left;
+  margin-right: 20px;
+  margin-top: -5px;
+  width: 80px !important; }
+
+.searchable-container > h3 {
+  border-bottom: 1px solid #E9E9E9;
+  padding-bottom: 15px;
+  padding-top: 20px;
+  font-size: 20px;
+  font-weight: 700; }
+
+div.profile-list {
+  display: block;
+  overflow: hidden;
+  margin-bottom: 40px;
+  margin-top: 30px; }
+
+div.profile-list p {
+  margin-bottom: 0px; }
+
+div.profile-list h3.name {
+  font-weight: bold;
+  margin-bottom: 2px;
+  margin-top: 0px;
+  font-size: 19px; }
+
+div.profile-list div.info {
+  float: left;
+  clear: right; }
+
+div.profile-list .title, div.people-contact .title {
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+  color: #6B6B6B;
+  font-size: 14px;
+  text-rendering: optimizeLegibility;
+  position: relative; }
+
+div.people-contact .title {
+  font-size: 18px;
+  margin-bottom: 1em; }
+
+div.people-contact .contact {
+  padding-top: 20px; }
+
+div.people-contact div.big-contact {
+  padding-top: 10px; }
+
+div.people-contact {
+  margin-top: 30px;
+  display: inline-block;
+  max-width: 350px;
+  margin-left: 0px; }
+
+div.big-people-contact {
+  margin-top: 20px; }
+
+div.wide-people-contact {
+  display: block;
+  margin-top: 40px;
+  margin-left: 20px;
+  max-width: 100%; }
+
+div.people-image {
+  display: inline-block;
+  width: 240px;
+  margin-right: 30px;
+  margin-top: 50px;
+  float: left; }
+
+button.headshot-button {
+  display: block;
+  margin: auto;
+  font-size: 12px;
+  line-height: 17px; }
+
+div.people-info {
+  padding-top: 30px;
+  clear: both; }
+
+div.icon {
+  float: right; }
+
+div.expertise-info {
+  float: right;
+  width: 35%;
+  margin-left: 1.25rem;
+  margin-bottom: 1.25rem; }
+
+.views-exposed {
+  padding: .5rem 1rem 1.5rem 1.5rem;
+  background-color: #e8e3d3;
+  margin: 1.25rem 0; }
+
+.form-expert {
+  float: left;
+  padding: 0.5em 1em 0 0; }
+
+.form-expertise {
+  float: left;
+  padding: 0.5em 1em 0 0; }
+
+input.filter-expert, select.filter-expertise {
+  height: 35px;
+  padding: 5px 5px;
+  border: 0;
+  font-size: 16px;
+  background-color: white;
+  border: 1px solid #d9d9d9;
+  outline: none; }
+
+input.filter-expert:after {
+  background-color: #f7f7f7; }
+
+label.filter-wrap {
+  overflow: hidden;
+  height: 35px;
+  width: 450px;
+  position: relative;
+  display: block;
+  font-weight: normal; }
+
+select.filter-expertise {
+  float: left;
+  width: 450px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none; }
+
+select.filter-expertise:hover, input.filter-expert:focus {
+  background-color: #f7f7f7;
+  border-color: #999999; }
+
+label.filter-wrap:after {
+  content: "\f0d7";
+  font-family: FontAwesome;
+  color: white;
+  padding: .5rem .5rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: #4b2e83;
+  z-index: 1;
+  text-align: center;
+  width: 2em;
+  height: 100%;
+  pointer-events: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+/* Experts directory table */
+table.experts-directory {
+  background-color: #FFFFFF;
+  text-align: left;
+  width: 100%;
+  vertical-align: middle;
+  border-collapse: collapse; }
+
+.grid-item {
+  position: unset !important;
+  top: inherit !important; }
+
+table.experts-directory td, table.experts-directory th, table.experts-directory p {
+  padding: 2px 3px;
+  vertical-align: middle !important;
+  margin: 0; }
+
+table.experts-directory th {
+  background-color: #757576 !important;
+  color: #FFFFFF;
+  padding: 10px 15px !important; }
+
+table.experts-directory tr:nth-child(odd) td {
+  background-color: #f3f3f3; }
+
+table.experts-directory tr:nth-child(even) td {
+  background-color: white; }
+
+label.search-label {
+  visibility: hidden; }
+
+@media (max-width: 979px) {
+  table.experts-directory .expert-name {
+    width: 10%; }
+  table.experts-directory .expert-title {
+    width: 35%; }
+  table.experts-directory .email-phone.phone {
+    width: 15%; }
+  table.experts-directory .expert-expertise.expertise {
+    width: 40%; }
+  table.experts-directory .headshot {
+    display: none; } }
+
+@media (max-width: 767px) {
+  table.experts-directory .expert-name {
+    width: 25%; }
+  table.experts-directory .expert-title {
+    width: 75%; }
+  table.experts-directory .phone {
+    display: none; }
+  table.experts-directory .expertise {
+    display: none; }
+  table.experts-directory .headshot {
+    display: none; }
+  table.experts-directory .expert-name-headshot {
+    width: 25%; }
+  table.experts-directory .expert-title-headshot {
+    width: 75%; }
+  div.form-expert, div.form-expertise {
+    width: 100% !important; }
+  input.filter-expert, select.filter-expertise {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    width: 100% !important; }
+  label.filter-wrap {
+    width: 100%; }
+  select.filter-expertise {
+    width: 100%; } }
+
+/* Single page */
+.single-people .contact p {
+  margin-bottom: 5px; }
+
+.single-people p.team {
+  margin-bottom: 0; }
+
+.single-people div.people-contact {
+  margin-top: 50px; }
+
+.single-people div.people-info {
+  padding-top: 40px; }
+
+div.people-image img {
+  display: block;
+  margin: auto; }
+
+@media (max-width: 979px) {
+  div.people-contact {
+    max-width: 100%; }
+  div.people-image {
+    float: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto; }
+  .single-people div.people-contact {
+    margin-left: 0; }
+  .single-people h1 {
+    margin-left: -25px; } }
+
+@media (max-width: 767px) {
+  div.profile-list div.info {
+    max-width: 185px; }
+  article > div {
+    padding: 0 20px; }
+  body #filter {
+    position: static;
+    margin: 0 0 0 -5px; }
+  div.expertise-info {
+    display: none; }
+  div.icon {
+    display: none; } }
+
+.form-ma select.filter-expertise {
+  width: 150px; }
+
+.form-ma label.filter-wrap {
+  width: 150px; }
+
+tr.zebra td {
+  background-color: #f3f3f3 !important; }
+
+.searchable-container td {
+  background-color: white !important; }
+
+table .category {
+  display: none; }

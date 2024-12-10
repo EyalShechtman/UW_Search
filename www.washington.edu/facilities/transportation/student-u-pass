@@ -1,0 +1,1325 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/getting-here/transit/u-pass" />
+<link rel="shortlink" href="/node/12" />
+<script src="https://www.recaptcha.net/recaptcha/api.js?hl=en" async="async" defer="defer"></script>
+<link rel="shortcut icon" href="https://transportation.uw.edu/sites/transportation/themes/ts_boundless/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>U-PASS | Transportation Services</title>
+  <link type="text/css" rel="stylesheet" href="https://transportation.uw.edu/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://transportation.uw.edu/files/css/css_IvBvsOedtN4CJCCYAXVLTFhQIZNTxNr9XWwamKSOJ7Q.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://transportation.uw.edu/files/css/css_UPhQyO9dNe-CU18D40sMAu9PHEl6ZW1RwDltArENIwk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://transportation.uw.edu/files/css/css__i_tFJ4WpXKeyEW6eeHdr33Lc-RBPz2Rval0iK8XfE8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://transportation.uw.edu/files/css/css_SSRiDOS6e8T9LK5lXxZEuBr20wb65DisTXzbjgPueE4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://transportation.uw.edu/files/css/css_wW0Nec4umHJ1puxOGbtZopRZfPwihidunh88iCnR3BA.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://transportation.uw.edu/files/js/js_g4NMIjzBo0X8xaIEj51LQu9YP0LHO6o7vrCCu6nDgaY.js"></script>
+<script src="https://transportation.uw.edu/files/js/js_mcDEN84qM2pBDIjaf3brKOIZpBvKtSxVwO3uD6QxtJo.js"></script>
+<script src="https://transportation.uw.edu/files/js/js_fi5Jqb482pWDj7pq1GNd252_iI4KCVKsAcu-oqNGvkM.js"></script>
+<script src="https://transportation.uw.edu/files/js/js_a8Ibt3V_4WMK7Q51TCtu7VvKSZYLxzy1Qkb-35DctZg.js"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-1E12ZZ4Z4H"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-1E12ZZ4Z4H", {"groups":"default","anonymize_ip":true});</script>
+<script src="https://transportation.uw.edu/files/js/js_GD7LDU0dU6CHTvXUCWQ4TwvuZOjXz8sG6k6iwnRmxuk.js"></script>
+<script src="https://transportation.uw.edu/files/js/js_KMwyPWwArVt_ShEUuQIlCHl3x559UXX1mW5tkNGTX30.js"></script>
+<script src="https://transportation.uw.edu/files/js/js__Yd4Rsn2_44MSaf-KKaruozHe00TLAB59GNsA57VvCY.js"></script>
+<script src="//www.washington.edu/static/alert.js"></script>
+<script src="https://transportation.uw.edu/files/js_injector/js_injector_5.js?snw85s"></script>
+<script src="https://transportation.uw.edu/files/js_injector/js_injector_6.js?snw85s"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ts_boundless","theme_token":"BEfu8sQH7N060a-nE4oUMXdw_hYcUY-LA7_YO2faW70","jquery_version":"2.2","jquery_version_token":"A0r-SornQtmhq_x0rQhViEJxnX04AukZiBV4xt1rbyU","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/2.2\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/jquery.ui.effect.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.form\/4\/jquery.form.js":1,"misc\/form-single-submit.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/transportation\/modules\/custom\/camp_parking\/camp-parking.js":1,"sites\/all\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"sites\/all\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-1E12ZZ4Z4H":1,"0":1,"misc\/tableheader.js":1,"misc\/textarea.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/form_placeholder\/form_placeholder.js":1,"sites\/all\/modules\/contrib\/feedback\/feedback.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/uw_boundless\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/uw_boundless\/js\/function.bind.js":1,"sites\/all\/themes\/uw_boundless\/js\/uw.mobile-menu.js":1,"sites\/all\/themes\/uw_boundless\/js\/uw.mobile-sidebar-menu.js":1,"sites\/all\/themes\/uw_boundless\/js\/uw.quicklinks.js":1,"sites\/all\/themes\/uw_boundless\/js\/uw.search.js":1,"sites\/all\/themes\/uw_boundless\/js\/dropdowns.js":1,"sites\/all\/themes\/uw_boundless\/js\/radios.js":1,"sites\/all\/themes\/uw_boundless\/js\/script.js":1,"sites\/all\/themes\/uwf_boundless\/js\/collapse.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf-script.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.alert.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.animated-tile.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.discover.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.footer.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.form.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.mega-menu.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.mobile-menu.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.nav-button.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.panel.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.promo.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.radio.js":1,"sites\/all\/themes\/uwf_boundless\/js\/uwf.search.js":1,"sites\/transportation\/themes\/ts_boundless\/js\/ts.promo.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"\/\/www.washington.edu\/static\/alert.js":1,"files\/js_injector\/js_injector_5.js":1,"files\/js_injector\/js_injector_6.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/transportation\/modules\/custom\/camp_parking\/camp-permit.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"sites\/transportation\/modules\/custom\/uwtrumba\/uwtrumba.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/typogrify\/typogrify.css":1,"sites\/transportation\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/modules\/custom\/fscommon\/assets\/css\/fscommon.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/modules\/contrib\/feedback\/feedback.css":1,"sites\/all\/themes\/uw_boundless\/css\/style.css":1,"sites\/all\/themes\/uwf_boundless\/css\/uwf-btn.css":1,"sites\/all\/themes\/uwf_boundless\/css\/uwf-content-section-temp.css":1,"sites\/all\/themes\/uwf_boundless\/css\/uwf-views-temp.css":1,"sites\/all\/themes\/uwf_boundless\/css\/social-temp.css":1,"sites\/all\/themes\/uwf_boundless\/css\/flextile.css":1,"sites\/all\/themes\/uwf_boundless\/css\/uwf-flexslider.css":1,"sites\/all\/themes\/uwf_boundless\/css\/uwf-font.css":1,"sites\/all\/themes\/uwf_boundless\/css\/uwf-style.css":1,"sites\/all\/themes\/uwf_boundless\/css\/jquery.ui.overrides.css":1,"sites\/transportation\/themes\/ts_boundless\/css\/nav-overrides.css":1,"sites\/all\/themes\/uwf_boundless\/css\/uwf-nav-overrides.css":1,"sites\/transportation\/themes\/ts_boundless\/css\/ts-arrow-bars.css":1,"sites\/transportation\/themes\/ts_boundless\/css\/ts-buttons.css":1,"sites\/transportation\/themes\/ts_boundless\/css\/ts-style.css":1,"sites\/transportation\/themes\/ts_boundless\/css\/ts-links.css":1,"sites\/transportation\/themes\/ts_boundless\/css\/ts-news.css":1,"sites\/transportation\/themes\/ts_boundless\/css\/tb-megamenu.css":1,"sites\/transportation\/themes\/ts_boundless\/css\/ts-rollover.css":1,"sites\/transportation\/themes\/ts_boundless\/css\/ts-promo.css":1,"public:\/\/css_injector\/css_injector_6.css":1,"public:\/\/css_injector\/css_injector_8.css":1,"public:\/\/css_injector\/css_injector_9.css":1,"public:\/\/css_injector\/css_injector_10.css":1,"public:\/\/css_injector\/css_injector_11.css":1,"public:\/\/css_injector\/css_injector_13.css":1,"public:\/\/css_injector\/css_injector_15.css":1,"public:\/\/css_injector\/css_injector_16.css":1,"public:\/\/css_injector\/css_injector_19.css":1}},"googleanalytics":{"account":["G-1E12ZZ4Z4H"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"form_placeholder":{"fallback_support":false,"include":"","exclude":"","required_indicator":"append"},"urlIsAjaxTrusted":{"\/getting-here\/transit\/u-pass?ref=www\/facilities\/transportation\/student-u-pass":true,"\/system\/ajax":true},"ajax":{"feedback-submit":{"wrapper":"feedback-form","callback":"feedback_form_ajax_callback","progress":{"type":"throbber","message":""},"event":"mousedown","keypress":true,"prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Send feedback"}}},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-12 node-type-page large-hero" >
+    <!--<div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container" tabindex="-1" role="search">-->
+<div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container" tabindex="-1">
+  <div class="container no-height" role="search">
+    <div class="center-block uw-search-wrapper">
+        <div class="region region-search">
+    <section id="block-search-form" class="block block-search   clearfix">
+
+      
+  <form class="form-search content-search" action="/getting-here/transit/u-pass?ref=www/facilities/transportation/student-u-pass" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search this site" autocomplete="off" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-default search">Search</button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-myuuV3jKcMNNk0i9T47hrc4w0zxKOv512OHx0Aqt_Yk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</section>
+  </div>
+     </div>
+  </div>
+</div><!-- /#uwsearcharea -->
+
+<a href="#main_content" class="screen-reader-shortcut" tabindex="0">Skip to main content</a>
+
+<div id="uw-container">
+
+  <nav id="quicklinks" aria-label="UW quick links" aria-hidden="true">
+  <ul id="big-links">
+    <li><span class="icon-myuw"></span><a href="http://my.uw.edu" tabindex="-1">MyUW</a></li>
+    <li><span class="icon-calendar"></span><a href="http://uw.edu/calendar" tabindex="-1">Calendar</a></li>
+    <li><span class="icon-directories"></span><a href="http://uw.edu/directory/" tabindex="-1">Directories</a></li>
+    <li><span class="icon-libraries"></span><a href="http://www.lib.washington.edu/" tabindex="-1">Libraries</a></li>
+    <li><span class="icon-medicine"></span><a href="http://www.uwmedicine.org/" tabindex="-1">UW Medicine</a></li>
+    <li><span class="icon-maps"></span><a href="http://uw.edu/maps" tabindex="-1">Maps</a></li>
+    <li><span class="icon-uwtoday"></span><a href="http://www.uw.edu/news" tabindex="-1">UW News</a></li>
+  </ul>
+    <h3>Helpful links</h3>
+    <ul id="little-links">
+      <li><span class="false"></span><a href="http://itconnect.uw.edu" tabindex="-1">Computing/IT</a></li>
+      <li><span class="false"></span><a href="https://isc.uw.edu/" tabindex="-1">ISC/Workday</a></li>
+      <li><span class="false"></span><a href="https://www.hfs.uw.edu/Husky-Card-Services" tabindex="-1">Husky Card</a></li>
+      <li><span class="false"></span><a href="http://www.uwb.edu/" tabindex="-1">UW Bothell</a></li>
+      <li><span class="false"></span><a href="http://www.tacoma.uw.edu/" tabindex="-1">UW Tacoma</a></li>
+      <li><span class="false"></span><a href="https://www.facebook.com/UofWA" tabindex="-1">UW Facebook</a></li>
+      <li><span class="false"></span><a href="https://twitter.com/UW" tabindex="-1">UW Twitter</a></li>
+    </ul>
+</nav>
+  <!-- /#quicklinks -->
+
+  <div id="uw-container-inner">
+    <header class="uw-thinstrip">
+  <div class="container">
+    <a href="https://uw.edu" title="University of Washington Home" class="uw-patch" tabindex='-1' aria-hidden='true'>University of Washington</a>
+    <a href="https://uw.edu" title="University of Washington Home" class="uw-wordmark">University of Washington</a>
+  </div>
+  <div class='align-right'>
+    <nav class="uw-thin-strip-nav" aria-label='high-level org menu'>
+      <ul class="uw-thin-links">
+        <li><a href="https://facilities.uw.edu/">UW Facilities</a></li>
+        <li><a href="https://facilities.uw.edu/employee" title="UW Facilities staff resources">Employee Portal</a></li>
+      </ul>
+    </nav>
+    <nav id='search-quicklinks' aria-label='search and quick links'>
+      <button class='uw-search' aria-owns='uwsearcharea' aria-controls='uwsearcharea' aria-expanded='false' aria-label='open search area' aria-haspopup='true'>
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               width="19px" height="51px" viewBox="0 0 18.776 51.062" enable-background="new 0 0 18.776 51.062" xml:space="preserve">
+          <g>
+              <path fill="#FFFFFF" d="M3.537,7.591C3.537,3.405,6.94,0,11.128,0c4.188,0,7.595,3.406,7.595,7.591
+                c0,4.187-3.406,7.593-7.595,7.593C6.94,15.185,3.537,11.778,3.537,7.591z M5.245,7.591c0,3.246,2.643,5.885,5.884,5.885
+                c3.244,0,5.89-2.64,5.89-5.885c0-3.245-2.646-5.882-5.89-5.882C7.883,1.71,5.245,4.348,5.245,7.591z"/>
+  
+              <rect x="2.418" y="11.445" transform="matrix(0.7066 0.7076 -0.7076 0.7066 11.7842 2.0922)" fill="#FFFFFF" width="1.902" height="7.622"/>
+          </g>
+          <path fill="#FFFFFF" d="M3.501,47.864c0.19,0.194,0.443,0.29,0.694,0.29c0.251,0,0.502-0.096,0.695-0.29l5.691-5.691l5.692,5.691
+              c0.192,0.194,0.443,0.29,0.695,0.29c0.25,0,0.503-0.096,0.694-0.29c0.385-0.382,0.385-1.003,0-1.388l-5.692-5.691l5.692-5.692
+              c0.385-0.385,0.385-1.005,0-1.388c-0.383-0.385-1.004-0.385-1.389,0l-5.692,5.691L4.89,33.705c-0.385-0.385-1.006-0.385-1.389,0
+              c-0.385,0.383-0.385,1.003,0,1.388l5.692,5.692l-5.692,5.691C3.116,46.861,3.116,47.482,3.501,47.864z"/>
+          </svg>
+      </button>
+      <button class='uw-quicklinks' aria-haspopup='true' aria-expanded="false" aria-label="Open quick links">Quick Links<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="15.63px" height="69.13px" viewBox="0 0 15.63 69.13" enable-background="new 0 0 15.63 69.13" xml:space="preserve"><polygon fill="#FFFFFF" points="12.8,7.776 12.803,7.773 5.424,0 3.766,1.573 9.65,7.776 3.766,13.98 5.424,15.553 12.803,7.78"/><polygon fill="#FFFFFF" points="9.037,61.351 9.036,61.351 14.918,55.15 13.26,53.577 7.459,59.689 1.658,53.577 0,55.15 5.882,61.351 5.882,61.351 5.884,61.353 0,67.557 1.658,69.13 7.459,63.019 13.26,69.13 14.918,67.557 9.034,61.353"/></svg></button>
+    </nav>
+  </div>
+</header>
+    <!-- /#uw-thinstrip -->
+
+    <div id="dawgdrops">
+      <div class="dawgdrops-inner container">
+          <div class="region region-navigation">
+    <section id="block-tb-megamenu-main-menu" class="block block-tb-megamenu   clearfix">
+
+      
+  <div  class="tb-megamenu tb-megamenu-main-menu" role="navigation" aria-label="Main navigation">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse  always-show">
+    <ul  class="tb-megamenu-nav nav level-0 items-6">
+    <li  data-id="3130" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega dropdown active active-trail">
+          <a href="/getting-here"  class="dropdown-toggle">
+                Getting to UW                      </a>
+        <div  data-class="dawgdrops-menu" data-width="900" style="width: 900px;" class="tb-megamenu-submenu dawgdrops-menu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-3" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+    <li  data-id="3083" data-level="2" data-type="menu_item" data-class="mega-purple uwf-ic uwf-ic-bus-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-purple uwf-ic uwf-ic-bus-ol mega-group active active-trail">
+          <a href="/getting-here/transit"  class="mega-group-title">
+                Transit                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+    <li  data-id="2492" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega active active-trail">
+          <a href="/getting-here/transit/u-pass" >
+                U-PASS                      </a>
+          </li>
+
+  <li  data-id="2491" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-here/transit/student-advisory-board" >
+                Student advisory board                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3096" data-level="2" data-type="menu_item" data-class="mega-purple uwf-ic uwf-ic-bicycle-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-purple uwf-ic uwf-ic-bicycle-ol mega-group">
+          <a href="/getting-here/bike"  class="mega-group-title">
+                Biking                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-2" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+    <li  data-id="2497" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-here/bike/parking" >
+                Bike parking                      </a>
+          </li>
+
+  <li  data-id="2496" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-here/bike/routes-resources" >
+                Routes &amp; resources                      </a>
+          </li>
+
+  <li  data-id="2770" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-here/bike/rules-safety" >
+                Rules &amp; safety                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-5" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+    <li  data-id="3100" data-level="2" data-type="menu_item" data-class="mega-purple uwf-ic uwf-ic-van-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-purple uwf-ic uwf-ic-van-ol mega-group">
+          <a href="/getting-here/rideshare"  class="mega-group-title">
+                Rideshare                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-4" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+    <li  data-id="2499" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-here/rideshare/carpool" >
+                Carpool                      </a>
+          </li>
+
+  <li  data-id="2500" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-here/rideshare/vanpool" >
+                Vanpool                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3101" data-level="2" data-type="menu_item" data-class="mega-group mega-purple uwf-ic uwf-ic-pedestrian-ol" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group mega-purple uwf-ic uwf-ic-pedestrian-ol">
+          <a href="/getting-here/walk" >
+                Walking                      </a>
+          </li>
+
+  <li  data-id="2771" data-level="2" data-type="menu_item" data-class="mega-group mega-purple uwf-ic uwf-ic-car-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group mega-purple uwf-ic uwf-ic-car-ol">
+          <a href="/getting-here/drive" >
+                Driving                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-7" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+    <li  data-id="3105" data-level="2" data-type="menu_item" data-class="mega-gold uwf-ic uwf-ic-map-with-marker-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-gold uwf-ic uwf-ic-map-with-marker-ol mega-group">
+          <a href="/getting-here/maps"  class="mega-group-title">
+                Maps                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-6" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+    <li  data-id="3110" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/maps/bike-parking"  title="Bike lockers, racks &amp; rooms">
+                Bike lockers, racks &amp; rooms                      </a>
+          </li>
+
+  <li  data-id="3109" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/maps/bus-stops-light-rail" >
+                Bus stops &amp; light rail                      </a>
+          </li>
+
+  <li  data-id="3118" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/maps/ride-hailing-pick-up"  title="Ride hailing pickup">
+                Ride hailing pickup                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3132" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega dropdown">
+          <a href="/getting-around"  class="dropdown-toggle">
+                Getting around                      </a>
+        <div  data-class="dawgdrops-menu" data-width="900" style="width: 900px;" class="tb-megamenu-submenu dawgdrops-menu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-9" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+    <li  data-id="3090" data-level="2" data-type="menu_item" data-class="mega-group mega-purple uwf-ic uwf-ic-walk-bike-ol" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group mega-purple uwf-ic uwf-ic-walk-bike-ol">
+          <a href="/getting-around/walk-bike" >
+                Walking &amp; biking                      </a>
+          </li>
+
+  <li  data-id="3140" data-level="2" data-type="menu_item" data-class="mega-group mega-purple uwf-ic uwf-ic-wheelchair-ol" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group mega-purple uwf-ic uwf-ic-wheelchair-ol">
+          <a href="https://facilities.uw.edu/catalog/ada"  title="Access guide">
+                Access guide                      </a>
+          </li>
+
+  <li  data-id="7695" data-level="2" data-type="menu_item" data-class="mega-group mega-purple uwf-ic uwf-ic-ucar-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group mega-purple uwf-ic uwf-ic-ucar-ol mega-group">
+          <a href="/getting-around/vehicle-rental-ucar"  class="mega-group-title">
+                Vehicle rental (UCAR)                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="" data-hidewcol="0" id="tb-megamenu-column-8" class="tb-megamenu-column span  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-4">
+    <li  data-id="7698" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/vehicle-rental-ucar/driver-safety" >
+                Driver safety resources                      </a>
+          </li>
+
+  <li  data-id="7699" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/vehicle-rental-ucar/accident-reporting" >
+                Report an accident                      </a>
+          </li>
+
+  <li  data-id="7696" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/vehicle-rental-ucar/policies" >
+                Policies                      </a>
+          </li>
+
+  <li  data-id="7700" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/vehicle-rental-ucar/maintenance-repair" >
+                Maintenance and repair                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-11" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+    <li  data-id="3089" data-level="2" data-type="menu_item" data-class="mega-group mega-purple uwf-ic uwf-ic-shuttle-bus-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group mega-purple uwf-ic uwf-ic-shuttle-bus-ol mega-group">
+          <a href="/getting-around/shuttles"  class="mega-group-title">
+                Shuttles                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="" data-hidewcol="0" id="tb-megamenu-column-10" class="tb-megamenu-column span  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-6">
+    <li  data-id="7032" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/shuttles/dial-a-ride" >
+                Dial-A-Ride                      </a>
+          </li>
+
+  <li  data-id="7033" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/shuttles/health-sciences-express" >
+                Health Sciences Express                      </a>
+          </li>
+
+  <li  data-id="7034" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/shuttles/nightride" >
+                NightRide                      </a>
+          </li>
+
+  <li  data-id="7035" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/shuttles/fred-hutchinson-cancer-center" >
+                Fred Hutchinson Cancer Center Clinic                      </a>
+          </li>
+
+  <li  data-id="7036" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/shuttles/uw-fred-hutch-south-lake-union" >
+                South Lake Union/Fred Hutch                      </a>
+          </li>
+
+  <li  data-id="7037" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/getting-around/shuttles/alerts-updates" >
+                Alerts &amp; updates                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-13" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+    <li  data-id="3107" data-level="2" data-type="menu_item" data-class="mega-gold uwf-ic uwf-ic-map-with-marker-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-gold uwf-ic uwf-ic-map-with-marker-ol mega-group">
+          <a href="/getting-around/maps"  class="mega-group-title">
+                Maps                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-12" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-1">
+    <li  data-id="3114" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://depts.washington.edu/ceogis/Public/DialARide/"  title="Dial-A-Ride shuttle stops">
+                Dial-A-Ride shuttle stops                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3092" data-level="2" data-type="menu_item" data-class="mega-group uwf-ic mega-gold uwf-ic-safety-cone-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group uwf-ic mega-gold uwf-ic-safety-cone-ol">
+          <a href="/getting-around/safety" >
+                Safety                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3133" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega dropdown">
+          <a href="/park"  class="dropdown-toggle">
+                Parking                      </a>
+        <div  data-class="dawgdrops-menu" data-width="900" style="width: 900px;" class="tb-megamenu-submenu dawgdrops-menu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-16" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+    <li  data-id="3084" data-level="2" data-type="menu_item" data-class="mega-gold uwf-ic uwf-ic-luggage-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-gold uwf-ic uwf-ic-luggage-ol mega-group">
+          <a href="/park/visitor"  class="mega-group-title">
+                Visitors                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-14" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-5">
+    <li  data-id="2521" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/park/visitor/self-serve" >
+                Self-serve parking                      </a>
+          </li>
+
+  <li  data-id="4789" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/park/visitor/pay-by-phone-parking" >
+                Pay by phone                      </a>
+          </li>
+
+  <li  data-id="2522" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/park/visitor/deliveries-drop-offs" >
+                Deliveries &amp; drop-offs                      </a>
+          </li>
+
+  <li  data-id="2788" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/park/visitor/courtesy-vendor-parking" >
+                Courtesy &amp; vendor parking                      </a>
+          </li>
+
+  <li  data-id="2787" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/park/visitor/uw-retirees" >
+                UW retirees                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3086" data-level="2" data-type="menu_item" data-class="uwf-ic mega-gold uwf-ic-event-ticket-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega uwf-ic mega-gold uwf-ic-event-ticket-ol mega-group">
+          <a href="/park/events"  class="mega-group-title">
+                Events                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-15" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+    <li  data-id="2526" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/park/events/arranged" >
+                Arranged parking                      </a>
+          </li>
+
+  <li  data-id="2527" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://gohuskies.com/sports/2019/3/10/football-transportation-parking-information.aspx"  title="Football games">
+                Football games                      </a>
+          </li>
+
+  <li  data-id="2792" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/park/events/calendar"  title="Parking calendar">
+                Parking calendar                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-18" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-4">
+    <li  data-id="3085" data-level="2" data-type="menu_item" data-class="mega-gold uwf-ic uwf-ic-uw-w-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-gold uwf-ic uwf-ic-uw-w-ol mega-group">
+          <a href="/park/student-employee"  class="mega-group-title">
+                Students &amp; employees                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-17" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-4">
+    <li  data-id="2524" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/park/student-employee/student" >
+                Students                      </a>
+          </li>
+
+  <li  data-id="2789" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/park/student-employee/faculty-staff" >
+                Faculty &amp; staff                      </a>
+          </li>
+
+  <li  data-id="2790" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/park/student-employee/department-products" >
+                Department products                      </a>
+          </li>
+
+  <li  data-id="6747" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/park/student-employee/customer-portal-guide" >
+                Customer portal guide                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3087" data-level="2" data-type="menu_item" data-class="mega-group mega-gold uwf-ic uwf-ic-wheelchair-ol" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group mega-gold uwf-ic uwf-ic-wheelchair-ol">
+          <a href="/park/accessible" >
+                Accessible parking                      </a>
+          </li>
+
+  <li  data-id="2791" data-level="2" data-type="menu_item" data-class="mega-group mega-gold uwf-ic uwf-ic-safety-cone-ol" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group mega-gold uwf-ic uwf-ic-safety-cone-ol">
+          <a href="/park/construction-parking" >
+                Construction parking                      </a>
+          </li>
+
+  <li  data-id="3116" data-level="2" data-type="menu_item" data-class="mega-group uwf-ic mega-gold uwf-ic-parking-ticket-ol" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group uwf-ic mega-gold uwf-ic-parking-ticket-ol">
+          <a href="/park/citations" >
+                Citations                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-20" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+    <li  data-id="3108" data-level="2" data-type="menu_item" data-class="mega-gold uwf-ic uwf-ic-map-with-marker-ol" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-gold uwf-ic uwf-ic-map-with-marker-ol mega-group">
+          <a href="/park/maps"  class="mega-group-title">
+                Maps                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-19" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-6">
+    <li  data-id="3123" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/maps/gatehouses" >
+                Gatehouses                      </a>
+          </li>
+
+  <li  data-id="3330" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/maps/lots-garages" >
+                Lots &amp; garages                      </a>
+          </li>
+
+  <li  data-id="3764" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/maps/self-serve-parking"  title="Self-serve parking">
+                Self-serve parking                      </a>
+          </li>
+
+  <li  data-id="3125" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/maps/motorcycle-parking" >
+                Motorcycle parking                      </a>
+          </li>
+
+  <li  data-id="3121" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/maps/ev-charging-stations"  title="Electric vehicle charging">
+                Electric vehicle charging                      </a>
+          </li>
+
+  <li  data-id="3124" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/maps/loading-zones" >
+                Loading zones                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3106" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" id="" style="" class="tb-megamenu-item level-1 mega">
+          <a href="/maps" >
+                Maps                      </a>
+          </li>
+
+  <li  data-id="3126" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega">
+          <a href="/forms"  title="ICTs, U-PASS, vehicle registration and more.">
+                Forms                      </a>
+          </li>
+</ul>
+      </div>
+  </div>
+
+</section>
+<section id="block-block-2" class="block block-block ts-button ts-button-rounded nav-button  ts-button ts-button-rounded nav-button clearfix">
+
+      
+  <div><a class="uwf-ic white uwf-ic-husky-paw uwf-sm uwf-ic-inline-text" href="https://uwts.t2hosted.com/Account/Portal">Customer Portal</a></div>
+
+</section>
+  </div>
+      </div>
+    </div>
+    <!-- /#dawgdrops -->
+    
+        
+      <div class="uw-hero-image" style="background-image:url('https://transportation.uw.edu/files/path-hero/pg-hero-getting-to-uw-opt-3-1600x226.jpg');"></div>
+    <!-- /#hero-image -->
+
+<!--    <a id="main-content"></a>-->
+    <div id="main-content" class="container uw-body">
+
+      <div class="row ">
+
+        <section class="col-md-8">
+          
+                      <a href="/" title="Transportation Services"><div class="uw-site-title">Transportation Services</div>
+              <p></p>
+            </a>
+            <!-- /#uw-site-title -->
+                    
+          <nav id="mobile-relative" class="frontpage" aria-label="mobile menu">
+  <button class="uw-mobile-menu-toggle">Menu</button>
+  <ul id="uwf-mobile-menu" class="uw-mobile-menu first-level">
+    <div class="menu-dropdowns-container">
+              <a href="https://transportation.uw.edu" title="Home" class="homelink">Home</a>        <ul id="menu-dropdowns-1" class=""><li class="first expanded menu-item-has-children"><a href="/getting-here" aria-expanded="false">Getting to UW</a><ul class="sub-menu" aria-hidden="true"><li class="first expanded menu-item-has-children"><a href="/getting-here/transit" aria-expanded="false">Transit</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/getting-here/transit/u-pass" class="active">U-PASS</a></li>
+<li class="last leaf"><a href="/getting-here/transit/student-advisory-board">Student advisory board</a></li>
+</ul></li>
+<li class="expanded menu-item-has-children"><a href="/getting-here/bike" aria-expanded="false">Biking</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/getting-here/bike/parking">Bike parking</a></li>
+<li class="leaf"><a href="/getting-here/bike/routes-resources">Routes &amp; resources</a></li>
+<li class="last leaf"><a href="/getting-here/bike/rules-safety">Rules &amp; safety</a></li>
+</ul></li>
+<li class="expanded menu-item-has-children"><a href="/getting-here/rideshare" aria-expanded="false">Rideshare</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/getting-here/rideshare/carpool">Carpool</a></li>
+<li class="last leaf"><a href="/getting-here/rideshare/vanpool">Vanpool</a></li>
+</ul></li>
+<li class="leaf"><a href="/getting-here/walk">Walking</a></li>
+<li class="leaf"><a href="/getting-here/drive">Driving</a></li>
+<li class="last expanded menu-item-has-children"><a href="/getting-here/maps" aria-expanded="false">Maps</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/maps/bike-parking" title="">Bike lockers, racks &amp; rooms</a></li>
+<li class="leaf"><a href="/maps/bus-stops-light-rail">Bus stops &amp; light rail</a></li>
+<li class="last leaf"><a href="/maps/ride-hailing-pick-up" title="">Ride hailing pickup</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded menu-item-has-children"><a href="/getting-around" aria-expanded="false">Getting around</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/getting-around/walk-bike">Walking &amp; biking</a></li>
+<li class="leaf"><a href="https://facilities.uw.edu/catalog/ada" title="">Access guide</a></li>
+<li class="expanded menu-item-has-children"><a href="/getting-around/vehicle-rental-ucar" aria-expanded="false">Vehicle rental (UCAR)</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/getting-around/vehicle-rental-ucar/driver-safety">Driver safety resources</a></li>
+<li class="leaf"><a href="/getting-around/vehicle-rental-ucar/accident-reporting">Report an accident</a></li>
+<li class="leaf"><a href="/getting-around/vehicle-rental-ucar/maintenance-repair">Maintenance and repair</a></li>
+<li class="last collapsed"><a href="/getting-around/vehicle-rental-ucar/policies">Policies</a></li>
+</ul></li>
+<li class="expanded menu-item-has-children"><a href="/getting-around/shuttles" aria-expanded="false">Shuttles</a><ul class="sub-menu" aria-hidden="true"><li class="first collapsed"><a href="/getting-around/shuttles/dial-a-ride">Dial-A-Ride</a></li>
+<li class="leaf"><a href="/getting-around/shuttles/health-sciences-express">Health Sciences Express</a></li>
+<li class="leaf"><a href="/getting-around/shuttles/nightride">NightRide</a></li>
+<li class="leaf"><a href="/getting-around/shuttles/fred-hutchinson-cancer-center">Fred Hutchinson Cancer Center Clinic</a></li>
+<li class="leaf"><a href="/getting-around/shuttles/uw-fred-hutch-south-lake-union">South Lake Union/Fred Hutch</a></li>
+<li class="last leaf"><a href="/getting-around/shuttles/alerts-updates">Alerts &amp; updates</a></li>
+</ul></li>
+<li class="expanded menu-item-has-children"><a href="/getting-around/maps" aria-expanded="false">Maps</a><ul class="sub-menu" aria-hidden="true"><li class="first last leaf"><a href="https://depts.washington.edu/ceogis/Public/DialARide/" title="">Dial-A-Ride shuttle stops</a></li>
+</ul></li>
+<li class="last leaf"><a href="/getting-around/safety">Safety</a></li>
+</ul></li>
+<li class="expanded menu-item-has-children"><a href="/park" aria-expanded="false">Parking</a><ul class="sub-menu" aria-hidden="true"><li class="first expanded menu-item-has-children"><a href="/park/visitor" aria-expanded="false">Visitors</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/park/visitor/self-serve">Self-serve parking</a></li>
+<li class="leaf"><a href="/park/visitor/pay-by-phone-parking">Pay by phone</a></li>
+<li class="leaf"><a href="/park/visitor/deliveries-drop-offs">Deliveries &amp; drop-offs</a></li>
+<li class="leaf"><a href="/park/visitor/courtesy-vendor-parking">Courtesy &amp; vendor parking</a></li>
+<li class="last leaf"><a href="/park/visitor/uw-retirees">UW retirees</a></li>
+</ul></li>
+<li class="expanded menu-item-has-children"><a href="/park/events" aria-expanded="false">Events</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/park/events/arranged">Arranged parking</a></li>
+<li class="leaf"><a href="https://gohuskies.com/sports/2019/3/10/football-transportation-parking-information.aspx" title="">Football games</a></li>
+<li class="last leaf"><a href="/park/events/calendar" title="">Parking calendar</a></li>
+</ul></li>
+<li class="expanded menu-item-has-children"><a href="/park/student-employee" aria-expanded="false">Students &amp; employees</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/park/student-employee/student">Students</a></li>
+<li class="leaf"><a href="/park/student-employee/faculty-staff">Faculty &amp; staff</a></li>
+<li class="leaf"><a href="/park/student-employee/department-products">Department products</a></li>
+<li class="last leaf"><a href="/park/student-employee/customer-portal-guide">Customer portal guide</a></li>
+</ul></li>
+<li class="leaf"><a href="/park/accessible">Accessible parking</a></li>
+<li class="leaf"><a href="/park/construction-parking">Construction parking</a></li>
+<li class="leaf"><a href="/park/citations">Citations</a></li>
+<li class="last expanded menu-item-has-children"><a href="/park/maps" aria-expanded="false">Maps</a><ul class="sub-menu" aria-hidden="true"><li class="first leaf"><a href="/maps/gatehouses">Gatehouses</a></li>
+<li class="leaf"><a href="/maps/lots-garages">Lots &amp; garages</a></li>
+<li class="leaf"><a href="/maps/self-serve-parking" title="">Self-serve parking</a></li>
+<li class="leaf"><a href="/maps/motorcycle-parking">Motorcycle parking</a></li>
+<li class="leaf"><a href="/maps/ev-charging-stations" title="">Electric vehicle charging</a></li>
+<li class="last leaf"><a href="/maps/loading-zones">Loading zones</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf"><a href="/maps">Maps</a></li>
+<li class="last leaf"><a href="/forms" title="ICTs, U-PASS, vehicle registration and more.">Forms</a></li>
+</ul>          </div>
+  </ul>
+</nav>
+<!-- /#uw-mobile-menu -->
+            <!-- /#uw-mobile-menu -->
+            
+                      <nav class="uw-breadcrumbs" aria-label="breadcrumbs">
+            <ul><li><a href="/">Home</a></li>
+<li><a href="/getting-here" class="active-trail">Getting to UW</a></li>
+<li><a href="/getting-here/transit" class="active-trail">Transit</a></li>
+<li class="current active"><span>U-PASS</span></li>
+</ul>            </nav>
+            <!-- /#uw-breadcrumbs -->
+            
+                    
+                                <h1 class="page-header uwf-ic-bus-ol uwf-ic-inline-text">U-PASS</h1>
+                              <!-- /#page-header -->
+  
+          <div id="mobile-sidebar">
+<button id="mobile-sidebar-menu" class="visible-sm open" aria-hidden="true" tabindex="1">
+  <div aria-hidden="true" id="ham">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <div id="mobile-sidebar-title" class="page_item">Close Menu</div>
+</button>
+<div id="mobile-sidebar-links" class="visible-sm" aria-hidden="true">
+  <nav id="mobile-sidebar-relative" class="frontpage" aria-label="mobile menu that is not visible in the desktop version">
+    <ul class="uw-sidebar-menu first-level">
+      <li class="pagenav">
+        <a href="https://transportation.uw.edu" title="Home" class="homelink">Home</a>        <ul><li class="page_item page_item_has_children current_page_ancestor current_page_parent"><a href="/getting-here/transit">Transit</a><ul class="children"><li class="page_item current_page_item"><span>U-PASS</span></li><li class="page_item"><a href="/getting-here/transit/student-advisory-board">Student advisory board</a></li></ul></li></ul>      </li><!-- /#uw_sidebar_mobile_menu -->
+    </ul>
+  </nav>
+</div>
+</div>
+            <!-- /#uw-mobile-sidebar-menu -->
+            
+                    <!-- /#region: messages -->
+          
+                    
+                      <!-- /#tabs -->
+                    
+                    
+                    
+                    
+          <div class="uw-content" role='main'>
+            <div id='main_content' class="uw-body-copy">
+                <div class="region region-content">
+    <section id="block-system-main" class="block block-system   clearfix">
+
+      
+  <article id="node-12" class="node node-page clearfix" about="/getting-here/transit/u-pass" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="U-PASS" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field-collection-container clearfix">            <div class="field field-name-field-page-fc-section field-type-field-collection field-label-hidden clearfix content-section">
+              <div class="content">
+                <div class="media-element-container media-image_wrap media-wysiwyg-align-right"><div id="file-305" class="file file-image file-image-jpeg">
+  <div class="content">
+    <img alt="Husky Card of Dubs " class="media-element file-image-wrap img-responsive" data-delta="3" typeof="foaf:Image" src="https://transportation.uw.edu/files/media/dubs-husky-card-dubs-inset-photo-330x220.jpg" width="330" height="220" />  </div>
+
+  
+</div>
+</div>
+
+<p>The U-PASS is a bus pass plus more. Loaded right onto the <a href="https://huskycardprogram.uw.edu/" rel="nofollow">Husky Card</a>, the U-PASS provides members with unlimited rides on regional buses, commuter trains, light rail and water taxis as well as full fare coverage on vanpools.<br />
+	<br />
+	Most students on the Seattle campus are automatically U-PASS members. Effective July 1, 2022, all personnel paid by the University of Washington will be eligible for a <a href="https://hr.uw.edu/policies/u-pass/" rel="nofollow">fully subsidized U-PASS</a>. Students and employees not eligible for one of the standard U-PASS products may buy equivalent products from Transportation Services. Please see the <a href="https://www.uwb.edu/commuter-services/transportation/upass" rel="nofollow">UW Bothell</a> or <a href="https://www.tacoma.uw.edu/fa/facilities/transportation/u-pass" rel="nofollow">UW Tacoma</a> sites for their separate U-PASS programs. Harborview employees should check their intranet or call&nbsp;206-744-3254.</p>
+
+<h2>What the U-PASS&nbsp;covers</h2>
+
+<ul>
+	<li>Unlimited rides on <a href="https://kingcounty.gov/depts/transportation/metro.aspx" rel="nofollow">King County Metro Transit</a>, <a href="https://www.communitytransit.org/" rel="nofollow">Community Transit</a>, <a href="https://www.piercetransit.org/" rel="nofollow">Pierce Transit</a>, <a href="http://www.kitsaptransit.com/" rel="nofollow">Kitsap Transit</a>, <a href="http://everetttransit.org/" rel="nofollow">Everett Transit</a> and <a href="http://www.soundtransit.org/" rel="nofollow">Sound Transit</a>, which includes regional buses, Link light rail and Sounder&nbsp;trains</li>
+	<li>Full fare coverage on <a href="https://www.kingcounty.gov/depts/transportation/water-taxi.aspx" rel="nofollow">King County Water Taxis</a> and <a href="http://www.kitsaptransit.com/service/category/fast-ferry" rel="nofollow">Kitsap Fast&nbsp;Ferries</a></li>
+	<li>Full fare coverage on <a href="https://www.seattle.gov/transportation/getting-around/transit/streetcar" rel="nofollow">Seattle Streetcar</a> and <a href="https://www.seattlemonorail.com/buy-tickets/" rel="nofollow">Seattle&nbsp;Monorail</a></li>
+	<li>Full fare coverage on regional paratransit services for eligible&nbsp;members</li>
+	<li>Full fare coverage on King County Metro&#8217;s on-demand ride service <a href="https://kingcounty.gov/en/dept/metro/travel-options/metro-flex" rel="nofollow">Metro Flex</a>.</li>
+	<li>
+		<p>Full fare coverage on vanpool and&nbsp;vanshare.</p>
+	</li>
+	<li>
+		<p>Unlimited rides on <a href="/getting-around/shuttles/nightride">NightRide</a>, the UW’s evening shuttle&nbsp;service</p>
+	</li>
+	<li><a href="#emergency-ride-home">Emergency Ride&nbsp;Home</a></li>
+</ul>
+
+<p>The U-PASS does not cover travel on Washington State&nbsp;Ferries.</p>
+
+<h2>How to use your&nbsp;U-PASS</h2>
+
+<p>Your new U-PASS will be ready for use within 12 to 24 hours after fully-subsidized U-PASS eligibility, purchase of an opt-in U-PASS, or a week before the quarter starts. Students, please see the <a href="http://www.washington.edu/students/reg/calendar.html" rel="nofollow">academic calendar</a> for more&nbsp;specifics.</p>
+
+<p>To use your U-PASS on a transit service, tap it on an ORCA card reader. These readers are found at the front of buses or mounted on a wall or pole at Link, Sounder or Swift stations. At RapidRide stations you have the option to tap on the ORCA reader at the station or on the bus as you enter. After tapping, wait for the green light to indicate your card was&nbsp;accepted.</p>
+
+<p>On a bus, you tap the reader just once, when you board. For Sound Transit’s Link light rail and Sounder commuter trains, tap the reader once before entering the train for proof of&nbsp;payment.</p>
+
+<p>It is important to protect your Husky Card and the U-PASS RFID chip from damage. We encourage you to follow these tips to protect your Husky Card and&nbsp;U-PASS:</p>
+
+<ul>
+	<li>Do not bend your Husky&nbsp;Card.</li>
+	<li>Do not punch a hole anywhere in your Husky&nbsp;Card.</li>
+	<li>Keep your Husky Card in a protective holder. Scratches to the magnetic strip and RFID chip can damage your card. Accessories to protect your card can be purchased at the <a href="https://hfs.uw.edu/Husky-Card-Services" rel="nofollow">Husky Card Account &amp; ID Center</a>.</li>
+</ul>
+
+<p><em>The U-PASS function on your Husky Card does not have “Electronic Purse”&nbsp;capabilities.</em></p>
+
+<h2>Terms of&nbsp;use</h2>
+
+<p>U-PASS members are expected to review the <a href="/policies#u-pass-terms-of-use" target="_blank">U-PASS terms of use</a>.</p>
+
+<p>Your U-PASS is for your personal transportation only. It is non-transferable, meaning you may not give or sell your Husky Card or your U-PASS to any other person. Bus drivers and fare inspectors can confiscate a Husky Card that does not belong to&nbsp;you.</p>
+
+<p>All U-PASS members are bound by the U-PASS policy as stated in <a href="http://www.washington.edu/admin/rules/policies/APS/53.04.html" rel="nofollow">Administrative Policy Statement 53.4</a>. Misuse of the U-PASS is subject to sanctions and may subject the parties to possible action under the <a href="http://app.leg.wa.gov/wac/default.aspx?cite=478-124&amp;full=true" rel="nofollow">General Conduct Code</a> (Chapter 478–124 WAC) or the <a href="https://www.washington.edu/cssc/for-students/student-code-of-conduct/" rel="nofollow">Student Conduct Code</a> (Chapter 478–121&nbsp;WAC).</p>
+              </div>
+            </div>
+            <a name="u-pass-students"> </a><fieldset  class="collapsible content-section panel panel-default form-wrapper" id="bootstrap-panel">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-body" class="panel-title fieldset-legend collapsed" data-toggle="collapse">U-PASS for students</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade collapsed" id="bootstrap-panel-body">
+        <div><p>All students who pay the Service &amp; Activities Fee (SAF) are automatically members of the Universal Student U-PASS program. A mandatory quarterly fee appears on tuition statements. Oversight of this program is through a <a href="/getting-here/transit/student-advisory-board">student advisory board</a> appointed by the ASUW and&nbsp;GPSS.</p>
+
+<p>To maintain your U-PASS activation between quarters, you must be registered for classes nine days prior to the next quarter start. Otherwise, your U-PASS will be deactivated and will be reactivated for transit 12 to 24 hours after you register again. For specific payment and activation dates, see the <a href="https://www.washington.edu/students/reg/2324cal.html#Q8" rel="nofollow">academic calendar</a>.</p>
+
+<p>Withdrawing from classes will deactivate your U-PASS. If it is on or before the 7th calendar day of the quarter, you will receive a full refund of the fee. A 50 percent refund is available until the 30th calendar day of the quarter. No refund is available if you withdraw on or after the 31st&nbsp;day.</p>
+
+<h3>Opt-in&nbsp;U-PASS</h3>
+
+<p>If you are a student who is not eligible for the Universal Student U-PASS, you may be able to purchase an opt-in U-PASS membership instead. The pass costs $150 and must be purchased in person each&nbsp;quarter.</p>
+
+<ul>
+	<li>If you are a student in a degree program and would normally have a Universal Student U-PASS, please contact the Transportation Services office at <a href="mailto:ucommute@uw.edu">ucommute@uw.edu</a> to purchase an opt-in&nbsp;U-PASS. </li>
+	<li>
+		<p>ACCESS students and tuition-exempt students may purchase an opt-in U-PASS by contacting the Transportation Services&nbsp;office.</p>
+	</li>
+	<li>
+		<p>Professional &amp; Continuing Education (PCE) students taking credit courses and International &amp; English Language Programs (IELP) students should contact the <a href="https://www.pce.uw.edu/contact-us" rel="nofollow">PCE office</a> about obtaining a U-PASS. PCE students taking non-credit classes are not eligible to purchase a&nbsp;U-PASS.</p>
+	</li>
+</ul>
+
+<h3>U-PASS over the&nbsp;summer</h3>
+
+<p>Students registered for summer quarter continue their U-PASS membership. Not registered? You may qualify for one of the following&nbsp;programs:</p>
+
+<ul>
+	<li><a href="https://www.kingcounty.gov/collegelift" rel="nofollow">Orca Lift</a>: Discounted fares depending on&nbsp;income.</li>
+	<li><a href="#u-pass-faculty-staff">Temp Pass</a>: Working at the UW over the summer? You may be eligible to purchase a Temp&nbsp;Pass.</li>
+	<li><a href="/college-edge">College Edge</a>: Students taking part in the College Edge program or who are in an academic program that starts more than 12 days before autumn quarter start may purchase an opt-in U-PASS or parking&nbsp;permit.</li>
+</ul>
+  </div>
+</fieldset>
+<a name="u-pass-faculty-staff"> </a><fieldset  class="collapsible content-section panel panel-default form-wrapper" id="bootstrap-panel--2">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-2-body" class="panel-title fieldset-legend collapsed" data-toggle="collapse">U-PASS for faculty &amp; staff</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade collapsed" id="bootstrap-panel-2-body">
+        <div><p>Beginning July 1, 2022, all personnel who are paid by the University of Washington will be eligible for a <a href="https://hr.uw.edu/policies/u-pass/" rel="nofollow">fully subsidized U-PASS</a>. If you previously were paying for an annual or quarterly U-PASS, you do not have to take any action to stop payments. They will stop automatically with the pay period ending June 30,&nbsp;2022.</p>
+
+<p>The new benefit does not apply to student hourly employees, graduate research student assistants, unpaid academics, affiliates or other appointees who are not paid by the University of Washington. For more information on eligibility, see the <a href="https://hr.uw.edu/policies/u-pass/eligibility/" rel="nofollow">Human Resources U-PASS benefit page</a>.</p>
+
+<p>Employees who do not qualify for the fully subsidized pass may be eligible to purchase a quarterly or annual U-PASS through their campus transportation&nbsp;office.</p>
+
+<h3>Opt-In Employee&nbsp;U-PASS</h3>
+
+<p>The opt-in U-PASS fee for the Seattle campus is $25 per pay period, or $150 per quarter. (If you are eligible for a fully subsidized U-PASS, you do not need to purchase a U-PASS and should not use this&nbsp;form.)</p>
+
+<ul>
+	<li>
+		<p>Annual passes can be paid for by payroll deduction and can be purchased online. They can be canceled at any time and payroll deductions will be stopped on the date of&nbsp;cancellation.</p>
+	</li>
+	<li>
+		<p>Quarterly passes can be paid for with a credit card online and are eligible for a pro-rated refund based on the date of&nbsp;cancellation.</p>
+	</li>
+	<li>
+		<p>When purchasing a U-PASS online, the U-PASS product(s) will be listed alphabetically under “Permits”. Review our <a href="/files/media/u-pass-user-guide.pdf" target="_blank">step-by-step guide (pdf)</a> on how to purchase a U-PASS&nbsp;online.</p>
+	</li>
+</ul>
+
+<p><a class="uw-btn" href="https://uwts.t2hosted.com/Account/Portal" rel="nofollow">BUY An opt-in&nbsp;U-PASS</a></p>
+
+<p>Annual opt-in U-PASS memberships expire on June 30 and must be renewed each fiscal year. An email with renewal instructions will be sent out when it is time to&nbsp;renew.</p>
+
+<p>Please note that annual U-PASS members who pay through payroll deduction will continue to be billed for the U-PASS until it expires or is canceled. Members are financially responsible for the U-PASS and all associated charges, even if they separate from the University or are not receiving a paycheck. To cancel payroll deductions, <a href="mailto:ucommute@uw.edu?subject=Request%20to%20cancel%20payroll%20deduction%20for%20U-PASS" target="_blank">email Transportation Services</a> to submit a written request of&nbsp;cancellation.</p>
+
+<p>To cancel your opt-in U-PASS, <a href="mailto:ucommute@uw.edu?subject=Cancel%20employee%20U-PASS%20on%20MM-DD-YYYY" target="_blank">email Transportation Services</a> with the subject line: “Cancel employee U-PASS on MM/DD/YYYY.” Include your name, employee ID number, and a statement requesting cancellation of the U-PASS and payroll deductions (if applicable). Your U-PASS will remain active and you will remain financially responsible for payments until you receive confirmation via email. We will do our best to cancel your U-PASS on the preferred date, but please allow 2-4 business days for processing. Cancellation dates cannot be preset and must be on a weekday (the Sales office is closed on weekends and University holidays). If you require cancellation on a specific date, please visit our office in&nbsp;person. </p>
+
+<p>If you have paid for an opt-in Employee U-PASS via payroll deductions and now qualify for a fully subsidized U-PASS, please contact your <a href="/hours-locations" target="_blank">campus Transportation Services office</a> to cancel payroll deductions. <strong>Payroll deductions will continue on your account until you notify Transportation Services via <a href="mailto:ucommute@uw.edu?subject=Cancel%20payroll%20deductions%20for%20U-PASS" target="_blank">email</a></strong>. <strong>No refunds will be processed. </strong>(This does not apply to employees newly eligible as of July 1, 2022, but will apply to employees who become eligible after that&nbsp;date.)</p>
+
+<h3>Gratis&nbsp;U-PASS</h3>
+
+<p>If you have a commuter product that offers a gratis U-PASS and now qualify for a fully subsidized U-PASS, you will receive the fully subsidized U-PASS only. The U-PASS is tied to your Husky Card, so each employee only gets one U-PASS, regardless of how it is paid for. The gratis U-PASS was originally included with some parking products to make it easier for employees to try out transit or use it on an occasional basis. The fully subsidized U-PASS makes that even easier for those employees who qualify for&nbsp;it.</p>
+
+<h3>If your U-PASS becomes&nbsp;inactive</h3>
+
+<p>Your fully subsidized U-PASS will become inactive in one of the following&nbsp;scenarios:</p>
+
+<ol>
+	<li>
+		<p>You changed jobs and your new job classification is not eligible for a fully subsidized&nbsp;U-PASS. </p>
+	</li>
+	<li>
+		<p>You are leaving the&nbsp;University. </p>
+	</li>
+</ol>
+
+<p>In the event that you are still at the University and no longer qualify for the fully subsidized U-PASS, you may purchase an Opt-In Employee&nbsp;U-PASS.</p>
+  </div>
+</fieldset>
+<a name="emergency-ride-home"> </a><fieldset  class="collapsible content-section panel panel-default form-wrapper" id="bootstrap-panel--3">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-3-body" class="panel-title fieldset-legend collapsed" data-toggle="collapse">Emergency ride home for employees</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade collapsed" id="bootstrap-panel-3-body">
+        <div><p>Life doesn’t always follow a transit timetable. If you need an emergency ride home, we will reimburse you for up to 100 percent of your metered taxi or ride hail fare (tip not included), up to 60 miles per one-way trip. During a trip, one 20-minute stop will be permitted to pick up things such as a prescription or&nbsp;dependent.</p>
+
+<p>To take advantage of this program, you must be a current UW faculty or staff member with an active U-PASS membership or a permit for one of Transportation Services’ secure bike facilities (house or locker) on campus. Eligible individuals can utilize this service up to eight times in a fiscal year&nbsp;(July-June).</p>
+
+<p>Qualifying circumstances&nbsp;include:</p>
+
+<ul>
+	<li>Illness: either personal or of a child or&nbsp;dependent</li>
+	<li>Family&nbsp;emergency</li>
+	<li>Personal emergencies (ex. house&nbsp;flooding)</li>
+	<li>Changes to rideshare plans without advance notice, such as carpool or vanpool driver needing to leave&nbsp;early</li>
+	<li>Unanticipated need to work late when reliable and safe transportation is no longer available (must be approved by&nbsp;supervisor)</li>
+</ul>
+
+<p>Circumstances that are not covered by the program&nbsp;include:</p>
+
+<ul>
+	<li>Travel to scheduled&nbsp;appointment</li>
+	<li>Travel from somewhere other than your work&nbsp;site</li>
+	<li>Travel to a destination other than your home, park &amp; ride, daycare or&nbsp;hospital</li>
+	<li>Planned schedule changes where you will be working late but have had advance&nbsp;notice</li>
+	<li>Missing your bus if another bus is scheduled to arrive or you were not required to work&nbsp;late</li>
+	<li>Travel due to a regional natural disaster (ex.&nbsp;earthquake)</li>
+</ul>
+
+<h3>To receive a&nbsp;reimbursement:</h3>
+
+<ol>
+	<li>Call any taxi or ride hailing service (town car and limousine services are not&nbsp;eligible).</li>
+	<li>Request a receipt that indicates the pick-up, drop-off point and the fare paid, not including&nbsp;tip.</li>
+	<li>Submit the receipt, along with reason for the ride, to Transportation&nbsp;Services.</li>
+</ol>
+
+<p>Please submit receipts within the appropriate current quarter. We are unable to reimburse receipts that are more than three months&nbsp;old. </p>
+
+<p><a class="uw-btn" href="/netid/ride-home-refund">Submit reimbursement&nbsp;request</a></p>
+
+<p>For questions about this program, please email <a href="mailto:commutequestions@uw.edu?subject=Emergency%20Ride%20Home%20Question">commutequestions@uw.edu</a>. </p>
+  </div>
+</fieldset>
+<a name="paratransit"> </a><fieldset  class="collapsible content-section panel panel-default form-wrapper" id="bootstrap-panel--4">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-4-body" class="panel-title fieldset-legend collapsed" data-toggle="collapse">Using U-PASS on paratransit</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade collapsed" id="bootstrap-panel-4-body">
+        <div><p>Mobility impaired customers who are eligible for the transit services listed below can pay for trips with their&nbsp;U-PASS.</p>
+
+<h3>Payment&nbsp;setup</h3>
+
+<p>For <strong>Community Transit</strong> and <strong>Kitsap Transit</strong>, simply inform the agency when booking your transit that you will by paying with your U-PASS. For <strong>King County Metro</strong>, <strong>Everett Transit</strong> and<strong> Pierce Transit</strong>, you need to set up payment information in advance through UW Transportation Services. Email <a href="mailto:commutequestions@uw.edu?subject=Using%20U-PASS%20on%20Paratransit">commutequestions@uw.edu</a> to let us know you will be using your U-PASS for paratransit, along with the following&nbsp;information:</p>
+
+<ul>
+	<li>The name of the transit agency you plan to&nbsp;use</li>
+	<li>Your first and last&nbsp;name </li>
+	<li>Your phone number and&nbsp;email</li>
+	<li>Your U-PASS serial number (8-digit code on the back of your Husky Card, this is a different number than your UW ID&nbsp;number)</li>
+	<li>ACCESS ID (for King County Metro&nbsp;only)</li>
+</ul>
+
+<h3>Booking &amp; using&nbsp;paratransit</h3>
+
+<ul>
+	<li><a href="http://metro.kingcounty.gov/tops/accessible/programs/paratransit.html" rel="nofollow">King County Metro Accessible Services</a>: Contact the ADA Paratransit Program at 206-205-5000 (TTY Relay: 711). When booking your ride, tell the service representative that you have a&nbsp;U-PASS.</li>
+	<li><a href="http://www.dialaride.org/index" rel="nofollow">Community Transit Dial-A-Ride (DART)</a>: Call 425-347-5912 and tell the operator you’re going to pay for your ride with a U-PASS. Show your pass to the driver when you board the&nbsp;shuttle.</li>
+	<li><a href="http://www.kitsaptransit.com/access-and-vanlink/access" rel="nofollow">Kitsap Transit ACCESS</a>: When scheduling a ride on ACCESS, tell the customer service representative that you are a U-PASS member. They will verify your U-PASS and record it. It is not necessary to show your pass to the&nbsp;driver.</li>
+	<li><a href="http://www.piercetransit.org/shuttle/" rel="nofollow">Pierce Transit SHUTTLE</a>: Call 253-581-8000 and tell the customer service representative you have a&nbsp;U-PASS.</li>
+	<li><a href="http://www.everetttransit.org/149/Para-Transit" rel="nofollow">Everett Transit Para Transit</a>: When scheduling a ride let the customer service representative know you are paying with a U-PASS. Show your pass to the driver when you board the&nbsp;shuttle.</li>
+</ul>
+
+<h3>Inter-county paratransit transfer&nbsp;trips</h3>
+
+<p>Riders who book an inter-county paratransit transfer trip with their home agency pay only for their home agency shuttle, and therefore only need to tell that agency that they have a U-PASS. Riders who book a trip through a different transit agency are expected to pay full fare for that trip, and therefore should tell that agency that they have a&nbsp;U-PASS.</p>
+
+<p><strong>For example:</strong> an Everett Para Transit customer booking an inter-county trip from Everett to Tacoma would notify Everett Para Transit that they have a U-PASS. Everett Para Transit would schedule the round trip, and the rider would only pay full fare each time they board Everett Para Transit (the home agency) no matter how many shuttles they ride. If the same customer calls King County Metro to book a trip from Seattle to another destination in King County, they would need to tell Metro that they have a&nbsp;U-PASS.</p>
+  </div>
+</fieldset>
+<a name="deals-and-discounts"> </a><fieldset  class="collapsible content-section panel panel-default form-wrapper" id="bootstrap-panel--5">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-5-body" class="panel-title fieldset-legend collapsed" data-toggle="collapse">Deals &amp; discounts</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade collapsed" id="bootstrap-panel-5-body">
+        <div><p>U-PASS members are eligible for discounts at the following businesses when presenting a Husky card or using a listed discount code. (For more UW discounts, see <a href="https://www.washington.edu/wholeu/discounts/" rel="nofollow">The Whole U</a>.)</p>
+
+<ul>
+	<li><a href="https://www.alchemygoods.com/" rel="nofollow">Alchemy Goods</a>: 20% off, in-store&nbsp;only</li>
+	<li><a href="https://www.clippervacations.com/" rel="nofollow">Clipper Vacations</a>: 10% off when using promo code “UPASS” online or over the&nbsp;phone</li>
+	<li><a href="https://www.recycledcycles.com/" rel="nofollow">Recycled Cycles</a>: 10% off all parts and&nbsp;accessories</li>
+	<li><a href="https://www.zipcar.com/universities/the-university-of-washington" rel="nofollow">Zipcar</a>: Reduced membership fees for UW students, faculty and&nbsp;staff.</li>
+</ul>
+  </div>
+</fieldset>
+<a name="troubleshooting"> </a><fieldset  class="collapsible content-section panel panel-default form-wrapper" id="bootstrap-panel--6">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-6-body" class="panel-title fieldset-legend collapsed" data-toggle="collapse">Troubleshooting, lost cards &amp; other questions</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade collapsed" id="bootstrap-panel-6-body">
+        <div><h3>Reactivating your&nbsp;U-PASS</h3>
+
+<p>If your U-PASS stops working unexpectedly, you may need to reactivate it before using it again. To do that, fill out the online form and allow 12 to 24 hours for the reactivation to process. Then tap your Husky Card on an ORCA reader to finalize the&nbsp;activation.</p>
+
+<p><a class="uw-btn" href="/netid/u-pass/reactivate">UW Seattle<br />
+	U-PASS&nbsp;Reactivation</a></p>
+
+<h3>Troubleshooting</h3>
+
+<p>If you tap your U-PASS on an ORCA card reader and you don&#8217;t get a happy beep and green light, try again, making sure to tap your card on the ORCA logo at the center of the card reader and hold it there for several seconds. Also make sure you separate your Husky Card from any other cards you may have that include RFID technology (ie: UWMC&nbsp;badge).</p>
+
+<p>If you still do not get a positive response, log into your MyUW account with your phone and click on the Accounts tab. You can show that your U-PASS membership is current/active and use it as a “flash pass” for the&nbsp;driver.</p>
+
+<p>Also, contact Transportation Services at 206-221-3701 or <a href="mailto:ucommute@uw.edu">ucommute@uw.edu</a> as soon as you are able about your U-PASS issues. Please provide the&nbsp;following:</p>
+
+<ul>
+	<li>Your name and UW employee or student ID&nbsp;number</li>
+	<li>Name of the transit agency you were&nbsp;taking</li>
+	<li>The route&nbsp;number</li>
+	<li>Destination</li>
+	<li>The time you boarded the bus or&nbsp;train</li>
+	<li>Bus vehicle number (found inside the bus above the bus windshield, as well as on the sides, front and rear of the&nbsp;bus)</li>
+</ul>
+
+<p><strong>Keep your Husky Card healthy:</strong> Your Husky Card contains an antenna. If you cut, scratch, bend or punch a hole in the card you will damage the antenna and your card will not function&nbsp;properly.</p>
+
+<h3>Lost or stolen&nbsp;cards</h3>
+
+<p>You must inform the <a href="https://hfs.uw.edu/Husky-Card-Services" rel="nofollow">Husky Card Office</a> at once if you believe your Husky Card has been lost or stolen. The best way to report a lost or stolen Husky Card is through the <a href="https://hfs.uw.edu/OLCO/" rel="nofollow">Husky Card Online Office</a>, where you can suspend activity on your Husky Card Account until the Husky Card is found or replaced. You may also contact the Husky Card Office at 206-543-7222 or by email at <a href="mailto:huskycrd@uw.edu">huskycrd@uw.edu</a>.</p>
+
+<p>There is a $25 replacement fee for your Husky Card, but no additional fee to replace the U-PASS. Once the Husky Card Office issues a new card, your U-PASS will be transferred electronically and will be available for use 12 to 24 hours after card&nbsp;replacement.</p>
+
+<p>To replace a Temp Pass, please visit the Transportation Services&nbsp;office.</p>
+
+<h3>Understanding U-PASS and&nbsp;ORCA</h3>
+
+<p>ORCA is the fare payment system for Puget Sound area transit systems. When you use your U-PASS, the smart chip inside your Husky Card interacts with the ORCA system. So while you can use your Husky Card in many similar ways to a standard ORCA card, it’s important to know how they are different as&nbsp;well:</p>
+
+<ul>
+	<li>You cannot register your Husky Card with the ORCA&nbsp;system.</li>
+	<li>You cannot load funds into an ORCA E-Purse using your Husky&nbsp;Card.</li>
+	<li>You could technically load a PugetPass or Washington State Ferries pass onto a Husky Card but we don’t advise it as the pass will be lost if your card is lost, stolen or&nbsp;damaged.</li>
+</ul>
+
+<p>To purchase a standard ORCA Card and take advantage of the E-purse, card registration, autoload or other ORCA program features, please go to <a href="http://www.orcacard.com" rel="nofollow">http://www.orcacard.com</a>.</p>
+
+<h3>Privacy</h3>
+
+<p>No personal information is stored on your Husky Card’s smart chip. Data on the chip indicates if you have an active U-PASS and information about your most recent transit&nbsp;trips.</p>
+
+<p>Travel data is also stored in the ORCA databases controlled by the transit agencies. This data is used for billing purposes in order to support transfer functions and fare apportionment amongst participating transit agencies. For more information, read the <a href="https://www.soundtransit.org/sites/default/files/orca_privacy.pdf" rel="nofollow">ORCA privacy statement</a>.</p>
+
+<p>The UW does not track where you use your U-PASS. Transportation Services is the only office with information on who has a valid U-PASS and will keep this information private in accordance with <a href="https://privacy.uw.edu/policies/" rel="nofollow">UW privacy policies</a>. Transportation Services staff do not have access to  personally identifiable travel&nbsp;data.</p>
+  </div>
+</fieldset>
+</div>    </article>
+
+</section>
+  </div>
+              <a id="scrollup" class="ic-up-arrow" aria-label="scroll to top"></a>
+            </div>
+          </div>
+          <!-- /#uw-content -->
+        </section>
+
+        <aside class="col-md-4 uw-sidebar" role="complementary">
+            <nav id="desktop-relative" aria-label="Relative">
+    <ul class="uw-sidebar-menu first-level">
+      <li class="pagenav">
+        <a href="https://transportation.uw.edu" title="Home" class="homelink">Home</a>        <ul><li class="page_item page_item_has_children current_page_ancestor current_page_parent"><a href="/getting-here/transit">Transit</a><ul class="children"><li class="page_item current_page_item"><span>U-PASS</span></li><li class="page_item"><a href="/getting-here/transit/student-advisory-board">Student advisory board</a></li></ul></li></ul>      </li>
+    </ul>
+  </nav><!-- /#uw-sidebar-menu -->
+<aside>
+      <div class="region region-sidebar-second">
+    <section id="block-views-f1b85f95dab549a9ab996392e79ce58a" class="block block-views widget   clearfix">
+
+      
+  <div class="view view-sidebar view-id-sidebar view-display-id-block_page_sidebar_promos ts-promo view-dom-id-7029506729cabba4621cf23b5c89186b">
+        
+  
+  
+      <div class="view-content">
+      <span  aria-label="">
+  <div>
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="ts-promo-sidebar bg-image">
+<img typeof="foaf:Image" class="img-responsive" src="https://transportation.uw.edu/files/promos/promo-tap-on-tap-off-767x480_0.jpg" width="600" height="375" alt="tap your orca card image" />
+<h2 class="white bg-purple">U-PASS and light rail</h2>
+<span class="sidebar-promo-body white"><p>Now U-PASS can take you more places with the Lynnwood&nbsp;extension.</p>
+</span><br />
+<a href="https://facilities.uw.edu/blog/posts/2024/08/16/light-rail-expansion-increases-power-u-pass" class="uw-btn btn-squish">Learn more</a>
+<span class="white"></span>
+</div></span>  </div>  </div>
+</span>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-views-sidebar-block-page-contact" class="block block-views widget   clearfix">
+
+      
+  <div class="view view-sidebar view-id-sidebar view-display-id-block_page_contact contact-widget-inner view-dom-id-ac6b8542d3ea02d273db2cdb94069b72">
+            <div class="view-header">
+      <h2 class="widgettitle">Contact</h2>    </div>
+  
+  
+  
+      <div class="view-content">
+      <span  aria-label="">
+  <div>
+      
+  <div class="views-field views-field-title">        <h3 class="field-content">Sales &amp; Administration</h3>  </div>  
+  <div class="views-field views-field-field-contact-box">        <div class="field-content">Box 355360</div>  </div>  
+  <div class="views-field views-field-field-contact-address">        <div class="field-content"><p>1320 NE Campus Parkway<br />
+	Seattle, WA&nbsp;98195</p>
+</div>  </div>  
+  <div class="views-field views-field-field-contact-email">        <div class="field-content"><span class="uwf-ic-email gray uwf-ic-inline-text uwf-xs"><a href="mailto:ucommute@uw.edu">ucommute@uw.edu</a></span></div>  </div>  
+  <div class="views-field views-field-field-contact-phone">        <div class="field-content"><p class="person-phone">206-221-3701</p></div>  </div>  
+  <div class="views-field views-field-field-contact-hours">        <div class="field-content">8:30 a.m. to 4:30 p.m. Mon - Fri.
+Closed on University holidays.</div>  </div>  </div>
+</span>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-views-ea3da239322fa45d0c5acbacec4815e5" class="block block-views widget   clearfix">
+
+      
+  <div class="view view-sidebar view-id-sidebar view-display-id-block_page_sidebar_forms sidebar-card-inner bg-purple view-dom-id-3133fe98107170da7fabc74033c1bfcb">
+            <div class="view-header">
+      <h2 class="widgettitle uwf-ic-inline-text">Forms <span class="uwf-ic-clipboard-ol uwf-xs white"> </span></h2>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="https://transportation.uw.edu/netid/ride-home-refund">Emergency ride home refund</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="https://transportation.uw.edu/netid/u-pass/reactivate">U-PASS reactivation</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-views-sidebar-block-page-sidebar-maps" class="block block-views widget   clearfix">
+
+      
+  <div class="view view-sidebar view-id-sidebar view-display-id-block_page_sidebar_maps sidebar-card-inner dark-gold view-dom-id-0190f71419e8a4c54370ce48f6e929ba">
+            <div class="view-header">
+      <h2 class="widgettitle uwf-ic-inline-text">Maps <span class="uwf-ic-map-marker-thin-ol uwf-xs white"> </span></h2>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="https://transportation.uw.edu/maps/bus-stops-light-rail">Bus stops &amp; light rail</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="https://depts.washington.edu/ceogis/Public/DialARide/">Dial-A-Ride shuttle stops</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="https://transportation.uw.edu/maps/ride-hailing-pick-up">Ride hailing pickup</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+  </div>
+</aside>
+        </aside>
+        <!-- /#uw-sidebar -->
+
+      </div><!-- /#row -->
+
+    </div><!-- /#uw-body -->
+
+    <div class="promos"></div><!-- /#promos -->
+    
+    <footer>
+      <div class="footer container">
+          <div class="region region-footer">
+    <div id="block-feedback-form">
+  <h2><span class="feedback-link">How can we make this page better for you?</span></h2>
+  <div class="content"><form class="feedback-form" action="/getting-here/transit/u-pass?ref=www/facilities/transportation/student-u-pass" method="post" id="feedback-form" accept-charset="UTF-8"><div><div class="field-type-markup field-name-field-info field-widget-markup form-wrapper form-group" id="edit-field-info"><div id="field-info-add-more-wrapper"><p>Questions about your products? Please contact Transportation Services at <a href="mailto:ucommute@uw.edu">ucommute@uw.edu</a>.</p>
+</div></div><input type="hidden" name="form_build_id" value="form-EdAL1NHCkdc36EV1QNv_FTbvKGdLGM8P2pSLZYDQFWQ" />
+<input type="hidden" name="form_id" value="feedback_form" />
+<div class="feedback-help"></div><div class="form-item form-item-email form-type-emailfield form-group"> <label class="control-label" for="edit-email">Email</label>
+<input class="form-control form-text form-email" type="email" id="edit-email" name="email" value="" size="60" maxlength="128" /><div class="help-block">Include your email if you'd like a response to your feedback.</div></div><div class="field-type-email field-name-field-feedback-email field-widget-email-textfield form-wrapper form-group" id="edit-field-feedback-email"><div id="field-feedback-email-add-more-wrapper"><div class="text-full-wrapper"><div class="form-item form-item-field-feedback-email-und-0-email form-type-textfield form-group"> <label class="control-label" for="edit-field-feedback-email-und-0-email">Email</label>
+<input class="form-control form-text" type="text" id="edit-field-feedback-email-und-0-email" name="field_feedback_email[und][0][email]" value="" size="60" maxlength="128" /><div class="help-block">Include your email if you'd like a response to your feedback.</div></div></div></div></div><div class="form-item form-item-message form-type-textarea form-group"> <label class="control-label" for="edit-message">Message <span class="form-required" title="This field is required.">*</span></label>
+<div class="form-textarea-wrapper resizable"><textarea class="feedback-message form-control form-textarea required" id="edit-message" name="message" cols="20" rows="5"></textarea></div><div class="help-block">Message must be between 3 and 200 words.</div></div><div class="field-type-field-hidden-text field-name-field-poohbear-field field-widget-field-hidden form-wrapper form-group" id="edit-field-poohbear-field"><div id="field-poohbear-field-add-more-wrapper"><input type="hidden" name="field_poohbear_field[und][0][value]" value="" />
+</div></div><div class="form-item form-item-terms-accept form-type-checkbox checkbox"> <label class="control-label" for="edit-terms-accept"><input type="checkbox" id="edit-terms-accept" name="terms_accept" value="1" class="form-checkbox required" />I understand that my email address (if entered) and my IP address will be stored by this website. We use your email to respond to your feedback. We use IP addresses as part of our analytics. We never share or sell your information. <span class="form-required" title="This field is required.">*</span></label>
+</div><div class="captcha"><input type="hidden" name="captcha_sid" value="13684958" />
+<input type="hidden" name="captcha_token" value="bdb4fc5107e0f2c1ec0085cdf5abe29e" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6LeFF5QUAAAAAEInCBFkQBBUbtf1UyWcj9E5525s" data-theme="light" data-type="image"></div><input type="hidden" name="captcha_cacheable" value="1" />
+</div><div class="clearfix form-actions form-wrapper form-group" id="edit-actions--2"><button class="btn-primary btn form-submit" type="submit" id="feedback-submit" name="op" value="Send feedback">Send feedback</button>
+</div></div></form></div>
+</div>
+  </div>
+      </div>
+      
+      <div class="uw-footer">
+  <div class="arrow-bar arrow-bar-gray"></div>
+  <div class="uwf-footer container">
+    <!-- Column 1 -->
+        <div class="link-group">
+      <h3>Contact us</h3>      <ul class="link-list">
+        <li class="uwf-ic-email white uwf-ic-inline-text"><span><a href="mailto:ucommute@uw.edu">ucommute@uw.edu</a></span></li>
+        <li class="white uwf-ic-inline-text uwf-ic-phone"><div>206-221-3701</div></li>
+        <li class="uwf-ic-map-marker-thin-ol white uwf-ic-inline-text"><a href="http://www.washington.edu/maps/?utc">1320 NE Campus Parkway</a></li>
+        <li class="white uwf-ic-inline-text uwf-ic-facebook"><a href="https://www.facebook.com/uwtransportation">Follow us on Facebook</a></li>
+      </ul>    </div>
+        <!-- End column 1 -->
+    <!-- Column 2 -->
+        <div class="link-group">
+      <h3>About</h3>      <ul class="link-list">
+        <li><a href="/hours-locations">Hours & locations</a></li>
+        <li><a href="/job-opportunities">Job opportunities</a></li>
+        <li><a href="/rates">Rates</a></li>
+        <li><a href="/about">Organization chart</a></li>
+      </ul>    </div>
+        <!-- End column 2 -->
+    <!-- Column 3 -->
+        <div class="link-group">
+      <h3>Learn More</h3>      <ul class="link-list">
+        <li><a href="/policies">Policies</a></li>
+        <li><a href="/publications">Publications</a></li>
+        <li><a href="/getting-around/safety">Safety</a></li>
+        <li><a href="/university-transportation-committee">Transportation Committee</a></li>
+      </ul>    </div>
+        <!-- End column 3 -->
+    <!-- Column 4 -->
+        <!-- End column 4 -->
+  </div>
+  <!-- Default links for all Facilities sites' footers. -->
+  <a href="http://www.washington.edu" class="footer-wordmark">University of Washington</a>
+
+  <a href="http://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+
+  <nav aria-label="footer links">
+    <ul class="footer-links">
+      <li><a href="http://facilities.uw.edu">UW Facilities</a></li>
+      <li><a href="http://hr.uw.edu/jobs/">Jobs</a></li>
+      <li><a href="https://www.washington.edu/accessibility/">Accessibility</a></li>
+      <li><a href="http://www.washington.edu/online/privacy">Privacy</a></li>
+      <li><a href="http://www.washington.edu/online/terms">Terms</a></li>
+      <li><a href="/employee">Employee Portal</a></li>
+    </ul>
+  </nav>
+
+  <p>&copy; <a href="https://transportation.uw.edu/Shibboleth.sso/Login?target=https%3A%2F%2Ftransportation.uw.edu%2Fshib%2Flogin%3Fdestination%3Dnode%2F12%253Fref%253Dwww%2Ffacilities%2Ftransportation%2Fstudent-u-pass" aria-label="Hidden site login" style="color:white;">2024</a>  University of Washington  |  Seattle, WA</p>
+</div>
+    </footer>
+    <!-- /#footer -->
+    
+  </div><!-- /#uw-container-inner -->
+
+</div><!-- /#uw-container -->
+  <script src="https://transportation.uw.edu/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script>
+</body>
+</html>

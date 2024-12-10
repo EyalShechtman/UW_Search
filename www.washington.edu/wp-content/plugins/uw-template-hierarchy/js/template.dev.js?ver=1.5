@@ -1,0 +1,429 @@
+UW = (UW || {});
+
+UW.Boundless = Backbone.View.extend({
+
+    el: 'body.site-boundless',
+    $window: $(window),
+    $tenets: $('.tenet-nav.fixed'),
+
+    //any value from 0 (no parallax effect) to 100 (fixed background effect) is valid
+    parallax_speed: 50,
+
+    events: {
+        'click .tenet-nav li a': 'move_to_tenet',
+        'click button.play_vid': 'play_video'
+    },
+
+    initialize: function () {
+        _.bindAll(this, 'resized', 'animate_tenets', 'scroll', 'set_playing_true');
+        this.win_width = this.$window.width();
+        this.$window.scroll(this.scroll);
+        this.$top = $('#boundless-top');
+        this.$parallax = $('div.parallax');
+        this.$parallax_bg = this.$parallax.find('.background');
+        this.$parallax_vids = this.$parallax.find('video');
+        this.$window.resize(this.resized(false));
+    },
+
+    resized: function(manual, event) {
+        manual = typeof manual !== 'undefined' ? manual : false
+        var width = this.$window.width();
+        if (width < 767){
+            if ((!manual) && (this.win_width == width)) {
+                return;
+            }
+            this.parallax_speed = 0;
+            this.$parallax_bg.addClass('no-parallax');
+        }
+        else {
+            this.parallax_speed = 50;
+            this.$parallax_bg.removeClass('no-parallax');
+        }
+        top_offset = this.$el.find('header.uw-thinstrip').outerHeight();
+        if (this.$el.find('#dawgdrops').is(":visible")){
+            top_offset += this.$el.find('#dawgdrops').outerHeight();
+        }
+        this.$el.find('#dawgdrops').outerHeight();
+        this.win_height = this.$window.height();
+        this.base_height = this.$window.height() - this.$tenets.height();
+        this.$parallax.height(this.base_height + 'px');
+        this.$top.css("height", (this.base_height - top_offset) + 'px');
+    },
+
+    move_to_tenet: function(event) {
+        event.preventDefault();
+        var target = $(event.target).data('target');
+        var $target = $('#' + target);
+        if  ($target.hasClass('parallax')){
+            this.$el.animate({scrollTop: $target.offset().top}, 1000);
+        }
+    },
+
+    animate_tenets: function (tenets_list, index) {
+        $(tenets_list[index]).addClass('open');
+        index++;
+        if (index < tenets_list.length){
+            _.delay(this.animate_tenets, 200, tenets_list, index);
+        }
+    },
+
+    scroll: function (event) {
+        if (this.video_playing){
+            this.stop_videos();
+        }
+        var top = $(window).scrollTop();
+        var range_top = top - this.base_height;
+        var range_bottom = top + this.win_height;
+        //if (top === 0) {
+            //if (this.$tenets.find('li.tenet.open').length === 0){
+            //    this.animate_tenets(this.$tenets.find('li.tenet'), 0);
+            //}
+        //}
+        //tenet navigation stuff unneccessary
+        //else if (top > 0) {
+            //this.$tenets.find('li.tenet.open').removeClass('open');
+            var this_top = 0, bg_top, i, $current_bg;
+            if (this.parallax_speed !== 0){
+                //Only do stuff if we want to have some sort of effect
+                for (i = 0; i < this.$parallax.length; i++){
+                    this_top += this.base_height;
+                    if ((range_top <= this_top) && (this_top <= range_bottom)){
+                        $current_bg = $(this.$parallax_bg[i]);
+                        if (!$current_bg.hasClass('no-parallax')){
+                            //this allows us to disable the effect on a div by div basis
+                            bg_top =  this.parallax_speed * (1 - (2 * (range_top - this_top)) / (range_top - range_bottom));
+                            bg_top = bg_top * this.base_height / 100;
+                            if($current_bg.hasClass('fixed')){
+                                //instead of starting with moving div and adjusting position, we use fixed image and move in reverse
+                                bg_top = -bg_top;
+                                $current_bg.css({'background-position': '0px ' + bg_top +'px'});
+                            }
+                            else {
+                                $current_bg.css({y: bg_top});
+                            }
+                        }
+                    }
+                }
+            }
+        //}
+    },
+
+    play_video: function(e) {
+    //var $video = $(e.target).parents('.parallax').find('video');
+    //var video = $video[0];
+    //if ((video.currentTime > 0) && (video.paused === false) && (video.ended === false)){
+    //    video.pause();
+    //}
+    //    else {
+    //        this.$parallax_vids.addClass('hidden');
+    //        $video.removeClass('hidden');
+    //        video.play();
+    //    }
+    //}
+        this.stop_videos();
+        var $container = $(e.target).parents('.parallax');
+        var $video = $container.find('.uw-youtube');
+        var player;
+        for (var i = 0; i < UW.youtube.length; i++){
+            if ($video[0] !== undefined) {
+                if (UW.youtube[i].el.id== $video[0].id){
+                    player = UW.youtube[i].view.uwplayer;
+                }
+            }
+        }
+        if (player !== undefined){
+            var temp = this;
+            UW.$body.animate({scrollTop: $container.offset().top}, 500, function () {_.delay(temp.set_playing_true, 100)});
+            //not pleased with delay logic. _.defer not working because of delay in event bubbling
+            $container.addClass('active');
+            $video.parents('.nc-video-player').fadeIn(1000);
+            player.playVideo();
+        }
+    },
+
+    set_playing_true: function () {
+        this.video_playing = true;
+    },
+
+    stop_videos: function () {
+        for (var i = 0; i < UW.youtube.length; i++){
+            UW.youtube[i].view.uwplayer.seekTo(0);
+            UW.youtube[i].view.uwplayer.stopVideo();
+        }
+        this.video_playing = false;
+        var $active = this.$parallax.filter('.active');
+        $active.find('.nc-video-player').fadeOut(1000);
+        $active.removeClass('active');
+    }
+});
+
+$(document).ready(function () {
+    UW.boundless = new UW.Boundless();
+    UW.boundless.resized(true, null);
+    _.delay(UW.boundless.animate_tenets, 200, UW.boundless.$tenets.find('li.tenet'), 0);
+});
+;var UW = UW || {}
+
+UW.Brand = Backbone.View.extend({
+
+    el : '#s',
+
+    events : {
+      'keyup' : 'search'
+    },
+
+    loading : 'loading',
+
+    template : '<% _.each( results, function(result) { %> <a href="<%= result.url.replace("/cms", "") %>" title="<%- result.title %>"><%= result.title %></a> <% }) %>',
+
+    initialize : function( options )
+    {
+        _.bindAll( this, 'search', 'render')
+       this.results = options.results
+       this.collection.on('sync', this.render )
+    },
+
+    search : _.debounce( function( e ) {
+
+      if ( this.value === e.target.value ) return
+
+      this.value = e.target.value
+
+      this.results.addClass( this.loading )
+
+      this.collection.search( this.value )
+
+    }, 200 ),
+
+    render : function()
+    {
+      this.results.removeClass( this.loading )
+      this.results.html( _.template( this.template, { results : this.collection.toJSON() }))
+    }
+
+})
+
+UW.Brand.Collection = Backbone.Collection.extend({
+
+    url : UW.baseUrl,
+
+    settings : {
+      json : 'get_search_results',
+      search : ''
+    },
+
+    search : function ( value ) {
+      this.settings.search = value
+      this.fetch( { data : this.settings })
+    },
+
+    parse : function( response ) {
+      if ( response && response.posts )
+        return response.posts;
+    }
+
+})
+
+UW.Expanding_Container = Backbone.View.extend({
+
+    events : {
+        'click #see_more': 'animate'
+    },
+
+    initialize: function() {
+        _.bindAll(this, 'animate', 'done');
+        this.$inner = this.$el.find('.expanding-inner')
+        this.$hidden = this.$inner.find('.hidden');
+    },
+
+    animate: function(event) {
+        event.preventDefault();
+        var height_before = this.$inner.height();
+        this.$hidden.toggleClass('hidden');
+        var height_after = this.$inner.height();
+        if (this.$hidden.hasClass('hidden')){
+            this.$hidden.removeClass('hidden');
+            this.hide_after = true;
+            height_after += 15;
+        }
+        else {
+            this.hide_after = false;
+            height_before += 15;
+        }
+        this.$inner.height(height_before);
+        this.$inner.animate({'height': height_after + 'px'}, 500, this.done );
+    },
+
+    done: function  () {
+        if (this.hide_after) {
+            this.$hidden.addClass('hidden');
+            this.$el.find('#see_more').text('See more');
+        }
+        else {
+            this.$el.find('#see_more').text('See less');
+        }
+        this.$inner.removeAttr('style');
+    }
+
+})
+
+$(document).ready( function() {
+    UW.brand = new UW.Brand({ collection : new UW.Brand.Collection(), results: $('#brand-results') });
+    UW.expanding_container = new UW.Expanding_Container({el:'.expanding' });
+});
+;UW  = UW || {}
+
+UW.President = Backbone.View.extend({
+
+  parallax : {
+    initial : 0,
+    height : 50,
+    limit : 650,
+    max : 1
+  },
+
+  events : {
+    'click .play' : 'play'//,
+    // 'click #view-message' : 'animate',
+    // 'click .back-to-top' : 'animateUp',
+  },
+
+  initialize : function()
+  {
+    if (!msieversion()){ 
+    
+      _.bindAll( this, 'ready', 'play' , 'resize', 'close') //, 'animate')
+
+      if ( $('body.site-president').length || $('body.page-id-47').length || $('body.page-id-51').length)
+      {
+
+        this.$message = $('#main_content')
+        this.$cover       = $('#holiday-cover')
+        this.$close        = $('#close-video')
+        this.parallax.limit = UW.$window.height() / 2
+
+
+
+        UW.$window.on( 'resize', this.resize )
+        UW.$window.on( 'scroll', this.scroll )
+        $('body.site-president').on( 'keydown', this.close )
+        this.$close.on( 'click', this.close )
+
+        window.onYouTubeIframeAPIReady = this.ready
+      }
+    }
+  },
+
+  ready: function()
+  {
+    if (!msieversion()){ 
+      this.player = new YT.Player( 'holiday-video',
+      {
+        height: UW.$window.height(),
+        width: UW.$window.width(),
+        playerVars : {
+          modestbranding: 1,
+          controls: 1,
+          showinfo: 0,
+          rel: 0
+        },
+        videoId : '1UvZ_20Xt1c',
+      })
+      this.$player  = $( this.player.getIframe() )
+      this.$player.attr('aria-describedby', "video-desc");
+    }
+  },
+
+  play :function()
+  {
+    if (msieversion()){ 
+      window.location = 'https://www.washington.edu/president/bestofuw-2015'; 
+    }
+    this.player.playVideo()
+    this.$player.hide().css('z-index', 99).fadeIn( 500 )
+    this.$close.fadeIn()
+    this.$el.children('.holiday-wrapper').fadeOut( 500 )
+  },
+
+  // animate : function()
+  // {
+  //   $('html,body').animate( { 'scrollTop' : $('#pres-message').position().top - 100 }, 700 )
+  //   return false
+  // },
+
+  // animateUp : function()
+  // {
+  //   $('html,body').animate( { 'scrollTop' : 0 }, 700 )
+  //   return false
+  // },
+
+  resize : function()
+  {
+    if (!msieversion()){ 
+      this.player.setSize( UW.$window.width(), UW.$window.height())
+    }
+  },
+
+  // scroll : function( e )
+  // {
+  //   var scrolled =  UW.$window.scrollTop()
+
+  //   if ( scrolled > this.parallax.height && scrolled < this.parallax.limit )
+  //     this.$message.css( 'margin-top', this.parallax.height - scrolled + this.parallax.initial )
+
+  //   if ( scrolled < this.parallax.initial)
+  //     this.$message.css('margin-top', this.parallax.initial )
+
+  //   this.$cover.css('opacity', scrolled / UW.$window.height() * 3 )
+  // },
+
+  close : function( e )
+  {
+    if ( e.keyCode ==  27 || e.type == 'click' )
+    {
+      this.$close.fadeOut( 500 )
+      this.$player.fadeOut( 500 )
+      this.$el.children('.holiday-wrapper').fadeIn( 500 )
+      this.player.pauseVideo()
+      this.player.seekTo(0);
+      $(".play").removeClass("hidden");
+      return false;
+    }
+  }
+
+
+})
+
+$(document).ready( function() {
+  $('html,body').scrollTop(0)
+  UW.president = new UW.President( { el : $( '.holiday' ) });
+})
+
+function msieversion() {
+
+        var ua = window.navigator.userAgent;
+        var msie = ua.indexOf("MSIE ");
+
+        if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))      // If Internet Explorer, return version number
+            return true;
+        else                 // If another browser, return 0
+            return false;
+
+   return false;
+}
+;$(document).ready(function(){
+    if (window.location.pathname != '/president/bestofuw/' ) {
+        $(".play").click(function(){
+            $(".play").addClass("hidden");
+            document.getElementById("boundless-video").innerHTML = 
+            	'<button class="close-video" style="display: inline-block;"><span class="top"></span><span class="left"></span><span class="bottom"></span></button>' +
+            	'<div id="youtube-video">' + 
+	   			'<iframe width=' + $(window).width() + ' height=' + $(window).height() + ' src="https://www.youtube.com/embed/ZUg9zCFZY0Y?autoplay=1" frameborder="0" allowfullscreen autoplay></iframe>' +
+            	'</div>';
+	       $(".close-video").click(function(){
+	       	$(".play").removeClass("hidden");
+	       	document.getElementById("boundless-video").innerHTML = '';
+	      	});
+        });
+    }
+});

@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<title>Shibboleth Authentication Request</title>
+	</head>
+	<body onload="document.forms[0].submit()">
+
+		<h1>Shibboleth Authentication Request</h1>
+		
+		<script type="text/javascript">
+		<!--	
+		document.write("<p>You are automatically being redirected to the authentication service. ");
+		document.write("If the browser appears to be hung up after 15-20 seconds, try reloading ");
+		document.write("the page before contacting the technical support staff in charge of the ");
+		document.write("authentication service you are trying to access.</p>");
+		document.write("<h2>Redirecting...</h2>");
+		// -->
+		</script>
+		
+		<noscript>
+		<p>
+		<strong>Note:</strong> Since your browser does not support JavaScript, you must press the
+		Continue button once to proceed to the authentication service.
+		</p>
+		</noscript>
+	
+		<form method="POST" action="https&#58;//idp.u.washington.edu/idp/profile/SAML2/POST/SSO">
+		
+		
+			<input type="hidden" name="RelayState" value="ss&#58;mem&#58;f8849a10962de3568ec54821920a3a7cf7b8346ce7ae375cad60b9e17d9839e4"/>
+		
+		
+			<input type="hidden" name="SAMLRequest" value="PHNhbWxwOkF1dGhuUmVxdWVzdCB4bWxuczpzYW1scD0idXJuOm9hc2lzOm5h
+bWVzOnRjOlNBTUw6Mi4wOnByb3RvY29sIiBBc3NlcnRpb25Db25zdW1lclNl
+cnZpY2VVUkw9Imh0dHBzOi8vd3d3Lndhc2hpbmd0b24uZWR1L1NoaWJib2xl
+dGguc3NvL1NBTUwyL1BPU1QiIERlc3RpbmF0aW9uPSJodHRwczovL2lkcC51
+Lndhc2hpbmd0b24uZWR1L2lkcC9wcm9maWxlL1NBTUwyL1BPU1QvU1NPIiBJ
+RD0iXzczZDlhMzZlZGYxNTYzZWFlMmY4MTg2NGJmNWRjYjhlIiBJc3N1ZUlu
+c3RhbnQ9IjIwMjQtMTItMDZUMjI6Mjg6MDZaIiBQcm90b2NvbEJpbmRpbmc9
+InVybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDpiaW5kaW5nczpIVFRQLVBP
+U1QiIFZlcnNpb249IjIuMCI+PHNhbWw6SXNzdWVyIHhtbG5zOnNhbWw9InVy
+bjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDphc3NlcnRpb24iPmh0dHBzOi8v
+d3d3Lndhc2hpbmd0b24uZWR1L3NoaWJib2xldGg8L3NhbWw6SXNzdWVyPjxz
+YW1scDpOYW1lSURQb2xpY3kgQWxsb3dDcmVhdGU9IjEiLz48L3NhbWxwOkF1
+dGhuUmVxdWVzdD4=
+"/>
+		
+		
+		
+		
+		
+        
+		<noscript>
+		<div>
+		<input type="submit" value="Continue"/>
+		</div>
+		</noscript>
+		</form>
+	</body>
+</html>

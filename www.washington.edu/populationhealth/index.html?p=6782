@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js">
+    <head>
+        <title> Funded pilot projects  |  Population Health </title>
+        <meta charset="utf-8">
+        <meta name="description" content="Population health at University of Washington. What is population health? Become educated and trained in population health.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <meta name='robots' content='max-image-preview:large' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='//www.washington.edu' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Population Health &raquo; Feed" href="https://www.washington.edu/populationhealth/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Population Health &raquo; Comments Feed" href="https://www.washington.edu/populationhealth/comments/feed/" />
+<meta property="og:image" content="http://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/10/2019/06/21094817/Univ-of-Washington_Memorial-Way.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@uw" />
+<meta name="twitter:creator" content="@uw" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="Funded pilot projects" />
+<meta property="og:url" content="https://www.washington.edu/populationhealth/research/funded-pilot-projects/" />
+<meta property="og:site_name" content="Population Health" />
+<meta property="og:description" content="The Population Health Initiative has supported the launch of 241 innovative, interdisciplinary research projects since 2017 through different pilot grant-funding mechanisms. The cumulative value of..." />
+
+      
+<link rel='stylesheet' id='wp-block-library-css' href='//www.washington.edu/wp-includes/css/dist/block-library/style.css?ver=6.6.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='//www.washington.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='uw-master-css' href='//www.washington.edu/wp-content/themes/uw-2014/style.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-open-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='uw-style-css' href='//www.washington.edu/wp-content/themes/uw-hrc/style.css?ver=1.0' type='text/css' media='all' />
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/jquery/jquery.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" id="jquery-core-js-after">
+/* <![CDATA[ */
+$ = jQuery;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/plugins/uw-analytics/analytics.js?ver=2.0" id="analytics.js-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw-hrc/hrc.js?ver=220217-225556" id="custom_js-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" id="site-js-extra">
+/* <![CDATA[ */
+var style_dir = ["https:\/\/www.washington.edu\/cms\/populationhealth"];
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.washington.edu\/cms\/populationhealth\/wp-admin\/admin-ajax.php","nonce":"03e96c3207","display_exif":"1","display_geo":"","background_color":"white","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","require_name_email":"1","login_url":"https:\/\/www.washington.edu\/cms\/populationhealth\/wp-login.php?redirect_to=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fpopulationhealth%2Fresearch%2Ffunded-pilot-projects%2F"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw-2014/js/site.js?ver=3.0.3" id="site-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.washington.edu/populationhealth/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel="canonical" href="https://www.washington.edu/populationhealth/research/funded-pilot-projects/" />
+<link rel='shortlink' href='https://www.washington.edu/populationhealth/?p=6782' />
+<script type='text/javascript'> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-85021908-1', 'auto'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"fulwiler"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ6QQBT');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+        <!--[if lt IE 9]>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/html5shiv.js" type="text/javascript"></script>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/respond.js" type="text/javascript"></script>
+            <link rel='stylesheet' href='//www.washington.edu/wp-content/themes/uw-2014/assets/ie/css/ie.css' type='text/css' media='all' />
+        <![endif]-->
+
+        
+    </head>
+    <!--[if lt IE 9]> <body class="page-template-default page page-id-6782 page-child parent-pageid-6670 lt-ie9 cms site-populationhealth "> <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <body class="page-template-default page page-id-6782 page-child parent-pageid-6670 cms site-populationhealth " >
+    <!--<![endif]-->
+
+    <div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container"></div>
+
+    <a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip to main content</a>
+
+    <div id="uw-container">
+        
+	<nav id="quicklinks" aria-label="quick links" aria-hidden="true">
+<ul id="big-links"><li><span class="icon-myuw"></span><a href="https://my.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=myuw" tabindex="-1">MyUW</a></li><li><span class="icon-calendar"></span><a href="//uw.edu/calendar/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=calendar" tabindex="-1">Calendar</a></li><li><span class="icon-directories"></span><a href="https://directory.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=directories" tabindex="-1">Directories</a></li><li><span class="icon-libraries"></span><a href="https://lib.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=libraries" tabindex="-1">Libraries</a></li><li><span class="icon-medicine"></span><a href="https://www.uwmedicine.org/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwmedicine" tabindex="-1">UW Medicine</a></li><li><span class="icon-maps"></span><a href="//uw.edu/maps/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=maps" tabindex="-1">Maps</a></li><li><span class="icon-uwtoday"></span><a href="//uw.edu/news/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwnews" tabindex="-1">UW News</a></li></ul><h3>Helpful Links</h3> <ul id="little-links"><li><a href="https://itconnect.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=computingit" tabindex="-1">Computing/IT</a></li><li><a href="https://employeehelp.workday.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=workdayhcm" tabindex="-1">Workday HCM</a></li><li><a href="https://hfs.uw.edu/Husky-Card-Services/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=huskycard" tabindex="-1">Husky Card</a></li><li><a href="https://www.uwb.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwbothell" tabindex="-1">UW Bothell</a></li><li><a href="https://www.tacoma.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtacoma" tabindex="-1">UW Tacoma</a></li><li><a href="https://www.facebook.com/UofWA?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwfacebook" tabindex="-1">UW Facebook</a></li><li><a href="https://twitter.com/UW?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtwitter" tabindex="-1">UW Twitter</a></li></ul></nav>
+
+    <div id="uw-container-inner">
+
+
+    <header class="uw-thinstrip" role="banner">
+
+  <div class="container">
+    <a href="http://uw.edu" title="University of Washington Home">
+      <div class="uw-patch">University of Washington</div>
+      <div class="uw-wordmark">University of Washington</div>
+    </a>
+  </div>
+  <div class='align-right'>
+      <nav class="uw-thin-strip-nav" aria-label='audience menu'>
+          <ul class="uw-thin-links">
+            <li><a href="http://uw.edu/studentlife" title="Students">Students</a></li>
+            <li><a href="http://uw.edu/parents" title="Parents">Parents</a></li>
+            <li><a href="http://uw.edu/facultystaff" title="Faculty & Staff">Faculty & Staff</a></li>
+            <li><a href="http://uw.edu/alumni" title="Alumni">Alumni</a></li>
+          </ul>
+      </nav>
+      <nav id='search-quicklinks' aria-label='search and quick links'>
+      <button class='uw-search' aria-owns='uwsearcharea' aria-controls='uwsearcharea' aria-expanded='false' aria-label='Search UW' aria-haspopup='true'>
+<!--[if gt IE 8]><!-->
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               width="19px" height="51px" viewBox="0 0 18.776 51.062" enable-background="new 0 0 18.776 51.062" xml:space="preserve" focusable="false">
+          <g>
+              <path fill="#FFFFFF" d="M3.537,7.591C3.537,3.405,6.94,0,11.128,0c4.188,0,7.595,3.406,7.595,7.591
+                c0,4.187-3.406,7.593-7.595,7.593C6.94,15.185,3.537,11.778,3.537,7.591z M5.245,7.591c0,3.246,2.643,5.885,5.884,5.885
+                c3.244,0,5.89-2.64,5.89-5.885c0-3.245-2.646-5.882-5.89-5.882C7.883,1.71,5.245,4.348,5.245,7.591z"/>
+
+              <rect x="2.418" y="11.445" transform="matrix(0.7066 0.7076 -0.7076 0.7066 11.7842 2.0922)" fill="#FFFFFF" width="1.902" height="7.622"/>
+          </g>
+          <path fill="#FFFFFF" d="M3.501,47.864c0.19,0.194,0.443,0.29,0.694,0.29c0.251,0,0.502-0.096,0.695-0.29l5.691-5.691l5.692,5.691
+              c0.192,0.194,0.443,0.29,0.695,0.29c0.25,0,0.503-0.096,0.694-0.29c0.385-0.382,0.385-1.003,0-1.388l-5.692-5.691l5.692-5.692
+              c0.385-0.385,0.385-1.005,0-1.388c-0.383-0.385-1.004-0.385-1.389,0l-5.692,5.691L4.89,33.705c-0.385-0.385-1.006-0.385-1.389,0
+              c-0.385,0.383-0.385,1.003,0,1.388l5.692,5.692l-5.692,5.691C3.116,46.861,3.116,47.482,3.501,47.864z"/>
+          </svg>
+<!--<![endif]-->
+      </button>
+      <button class='uw-quicklinks' aria-haspopup='true' aria-expanded="false" aria-label="quick links">Quick Links<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="15.63px" height="69.13px" viewBox="0 0 15.63 69.13" enable-background="new 0 0 15.63 69.13" xml:space="preserve" focusable="false"><polygon fill="#FFFFFF" points="12.8,7.776 12.803,7.773 5.424,0 3.766,1.573 9.65,7.776 3.766,13.98 5.424,15.553 12.803,7.78"/><polygon fill="#FFFFFF" points="9.037,61.351 9.036,61.351 14.918,55.15 13.26,53.577 7.459,59.689 1.658,53.577 0,55.15 5.882,61.351 5.882,61.351 5.884,61.353 0,67.557 1.658,69.13 7.459,63.019 13.26,69.13 14.918,67.557 9.034,61.353"/></svg></button>
+      </nav>
+  </div>
+
+</header>
+
+    <nav id="dawgdrops" aria-label="Main menu"><div class="dawgdrops-inner container"><ul id="menu-population-health" class="dawgdrops-nav"><li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/" title="Home"  id="home-2">Home</a></li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/about/" class="dropdown-toggle" title="About"  id="about-2">About</a>
+<button data-toggle="dropdown" aria-controls="menu-about-2" aria-labelledby="about-2"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-about-2" aria-labelledby='about-2' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/about/overview/" tabindex="-1"  title="Overview"  id="overview">Overview</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/leadership/" tabindex="-1"  title="Leadership"  id="101">Leadership</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/what-is-population-health/" tabindex="-1"  title="What is population health?"  id="195">What is population health?</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/our-approach/" tabindex="-1"  title="Our approach"  id="6632">Our approach</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/hans-rosling-center/" tabindex="-1"  title="Hans Rosling Center"  id="hans-rosling-center">Hans Rosling Center</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/evaluation/" tabindex="-1"  title="Evaluation"  id="2219">Evaluation</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/contact-us/" tabindex="-1"  title="Contact us"  id="1371">Contact us</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/education-and-training/" class="dropdown-toggle" title="Education"  id="2621">Education</a>
+<button data-toggle="dropdown" aria-controls="menu-2621" aria-labelledby="2621"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-2621" aria-labelledby='2621' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/undergraduate-courses/" tabindex="-1"  title="Undergraduate courses"  id="2623">Undergraduate courses</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/lets-talk-pop-health/" tabindex="-1"  title="Let’s Talk Pop Health"  id="lets-talk-pop-health">Let’s Talk Pop Health</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/pop-health-academy/" tabindex="-1"  title="Pop Health Academy"  id="8189">Pop Health Academy</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/humanitarian-response-certificate/" tabindex="-1"  title="Graduate Certificate in Humanitarian Response"  id="3011">Graduate Certificate in Humanitarian Response</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/applied-research-fellowship/" tabindex="-1"  title="Applied Research Fellowship"  id="2640">Applied Research Fellowship</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/social-entrepreneurship-fellowship/" tabindex="-1"  title="Social Entrepreneurship Fellowship"  id="2624">Social Entrepreneurship Fellowship</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/pop-health-moments/" tabindex="-1"  title="Pop health how-tos"  id="6218">Pop health how-tos</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/other-education-and-training/" tabindex="-1"  title="Other education and training"  id="2622">Other education and training</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/research/" class="dropdown-toggle" title="Research"  id="6726">Research</a>
+<button data-toggle="dropdown" aria-controls="menu-6726" aria-labelledby="6726"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-6726" aria-labelledby='6726' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/research/bolstering-community-well-being/" tabindex="-1"  title="Bolstering community well-being"  id="6727">Bolstering community well-being</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity/" tabindex="-1"  title="Improving vaccine equity in the U.S."  id="6728">Improving vaccine equity in the U.S.</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity-in-canada/" tabindex="-1"  title="Improving vaccine equity in Canada"  id="8944">Improving vaccine equity in Canada</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/boosting-vaccination-coverage/" tabindex="-1"  title="Boosting vaccination coverage"  id="6729">Boosting vaccination coverage</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/understanding-vaccine-hesitancy-of-nurses/" tabindex="-1"  title="Understanding vaccine hesitancy of nurses"  id="8197">Understanding vaccine hesitancy of nurses</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/assessing-drivers-of-hpv-vaccine-hesitancy/" tabindex="-1"  title="Assessing drivers of HPV vaccine hesitancy"  id="8198">Assessing drivers of HPV vaccine hesitancy</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/reducing-vaccine-disparities-for-the-urban-underserved/" tabindex="-1"  title="Reducing vaccine disparities for the urban underserved"  id="10453">Reducing vaccine disparities for the urban underserved</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/funded-pilot-projects/" tabindex="-1"  title="Funded pilot projects"  id="6845">Funded pilot projects</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/population-health-research-across-the-uw/" tabindex="-1"  title="Population health research at the UW"  id="6730">Population health research at the UW</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/resources/" class="dropdown-toggle" title="Resources"  id="78">Resources</a>
+<button data-toggle="dropdown" aria-controls="menu-78" aria-labelledby="78"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-78" aria-labelledby='78' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/resources/covid-19/" tabindex="-1"  title="COVID-19"  id="covid-19">COVID-19</a>
+	<button data-toggle="dropdown" aria-controls="menu-covid-19" aria-labelledby="covid-19"><i class="icon-chevron-down"></i></button>
+</li>
+</li>
+</li>
+</li>
+</li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/collaboration-support/" tabindex="-1"  title="Collaboration support"  id="1722">Collaboration support</a>
+	<button data-toggle="dropdown" aria-controls="menu-1722" aria-labelledby="1722"><i class="icon-chevron-down"></i></button>
+</li>
+</li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/grant-application-support/" tabindex="-1"  title="Grant application support"  id="236">Grant application support</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/climate-change-experts/" tabindex="-1"  title="Climate change experts"  id="climate-change-experts">Climate change experts</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/disaster-humanitarian-experts/" tabindex="-1"  title="Disaster and humanitarian experts"  id="5725">Disaster and humanitarian experts</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/other-experts/" tabindex="-1"  title="Other experts"  id="6556">Other experts</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/using-mobile-and-digital-technologies-to-improve-population-health/" tabindex="-1"  title="Mobile and digital population health"  id="2840">Mobile and digital population health</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/social-innovation-and-social-entrepreneurship/" tabindex="-1"  title="Social innovation and entrepreneurship"  id="2961">Social innovation and entrepreneurship</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/event-and-room-reservations/" tabindex="-1"  title="Event and room reservations"  id="8594">Event and room reservations</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/" tabindex="-1"  title="Funding and awards"  id="218">Funding and awards</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/news/" class="dropdown-toggle" title="News"  id="375">News</a>
+<button data-toggle="dropdown" aria-controls="menu-375" aria-labelledby="375"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-375" aria-labelledby='375' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/news/latest-news/" tabindex="-1"  title="Latest news and updates"  id="69">Latest news and updates</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/news/subscribe/" tabindex="-1"  title="Subscribe"  id="1904">Subscribe</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/news/journal-articles/" tabindex="-1"  title="Journal articles"  id="5841">Journal articles</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/news/media-coverage/" tabindex="-1"  title="Media coverage"  id="137">Media coverage</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/get-involved/" class="dropdown-toggle" title="Get involved"  id="1968">Get involved</a>
+<button data-toggle="dropdown" aria-controls="menu-1968" aria-labelledby="1968"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-1968" aria-labelledby='1968' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/get-involved/give/" tabindex="-1"  title="Give"  id="2002">Give</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/get-involved/partner/" tabindex="-1"  title="Partner"  id="1970">Partner</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/get-involved/volunteer/" tabindex="-1"  title="Volunteer"  id="1969">Volunteer</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/get-involved/events/" tabindex="-1"  title="Events"  id="136">Events</a></li>
+</ul>
+</li>
+</ul></div></nav>
+
+<div class="uw-hero-image"  style="background-image:url('//www.washington.edu/wp-content/themes/uw-2014/assets/headers/suzzallo.jpg');" ></div>
+
+<div class="container uw-body">
+
+  <div class="row">
+
+    <div class="col-md-8 uw-content" role='main'>
+
+      <a href="https://www.washington.edu/populationhealth/" title="Population Health"><div class="uw-site-title">Population Health</div></a>
+      <nav id="mobile-relative" class="frontpage" aria-label="mobile menu"><button class="uw-mobile-menu-toggle">Menu</button><ul class="uw-mobile-menu first-level"><div class="menu-population-health-container"><ul id="menu-population-health-1" class=""><li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4436"><a href="https://www.washington.edu/populationhealth/">Home</a></li>
+<li id="menu-item-1331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1331"><a href="https://www.washington.edu/populationhealth/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a href="https://www.washington.edu/populationhealth/about/overview/">Overview</a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.washington.edu/populationhealth/about/leadership/">Leadership</a></li>
+	<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="https://www.washington.edu/populationhealth/about/what-is-population-health/">What is population health?</a></li>
+	<li id="menu-item-6632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6632"><a href="https://www.washington.edu/populationhealth/about/our-approach/">Our approach</a></li>
+	<li id="menu-item-4434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4434"><a href="https://www.washington.edu/populationhealth/hans-rosling-center/">Hans Rosling Center</a></li>
+	<li id="menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2219"><a href="https://www.washington.edu/populationhealth/about/evaluation/">Evaluation</a></li>
+	<li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371"><a href="https://www.washington.edu/populationhealth/about/contact-us/">Contact us</a></li>
+</ul>
+</li>
+<li id="menu-item-2621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2621"><a href="https://www.washington.edu/populationhealth/education-and-training/">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-2623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2623"><a href="https://www.washington.edu/populationhealth/education-and-training/undergraduate-courses/">Undergraduate courses</a></li>
+	<li id="menu-item-5692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5692"><a href="https://www.washington.edu/populationhealth/education-and-training/lets-talk-pop-health/">Let’s Talk Pop Health</a></li>
+	<li id="menu-item-8189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8189"><a href="https://www.washington.edu/populationhealth/education-and-training/pop-health-academy/">Pop Health Academy</a></li>
+	<li id="menu-item-3011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3011"><a href="https://www.washington.edu/populationhealth/education-and-training/humanitarian-response-certificate/">Graduate Certificate in Humanitarian Response</a></li>
+	<li id="menu-item-2640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2640"><a href="https://www.washington.edu/populationhealth/education-and-training/applied-research-fellowship/">Applied Research Fellowship</a></li>
+	<li id="menu-item-2624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2624"><a href="https://www.washington.edu/populationhealth/education-and-training/social-entrepreneurship-fellowship/">Social Entrepreneurship Fellowship</a></li>
+	<li id="menu-item-6218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6218"><a href="https://www.washington.edu/populationhealth/education-and-training/pop-health-moments/">Pop health how-tos</a></li>
+	<li id="menu-item-2622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2622"><a href="https://www.washington.edu/populationhealth/education-and-training/other-education-and-training/">Other education and training</a></li>
+</ul>
+</li>
+<li id="menu-item-6726" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-6726"><a href="https://www.washington.edu/populationhealth/research/">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-6727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6727"><a href="https://www.washington.edu/populationhealth/research/bolstering-community-well-being/">Bolstering community well-being</a></li>
+	<li id="menu-item-6728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6728"><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity/">Improving vaccine equity in the U.S.</a></li>
+	<li id="menu-item-8944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8944"><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity-in-canada/">Improving vaccine equity in Canada</a></li>
+	<li id="menu-item-6729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6729"><a href="https://www.washington.edu/populationhealth/research/boosting-vaccination-coverage/">Boosting vaccination coverage</a></li>
+	<li id="menu-item-8197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8197"><a href="https://www.washington.edu/populationhealth/research/understanding-vaccine-hesitancy-of-nurses/">Understanding vaccine hesitancy of nurses</a></li>
+	<li id="menu-item-8198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8198"><a href="https://www.washington.edu/populationhealth/research/assessing-drivers-of-hpv-vaccine-hesitancy/">Assessing drivers of HPV vaccine hesitancy</a></li>
+	<li id="menu-item-10453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10453"><a href="https://www.washington.edu/populationhealth/research/reducing-vaccine-disparities-for-the-urban-underserved/">Reducing vaccine disparities for the urban underserved</a></li>
+	<li id="menu-item-6845" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6782 current_page_item menu-item-6845"><a href="https://www.washington.edu/populationhealth/research/funded-pilot-projects/" aria-current="page">Funded pilot projects</a></li>
+	<li id="menu-item-6730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6730"><a href="https://www.washington.edu/populationhealth/research/population-health-research-across-the-uw/">Population health research at the UW</a></li>
+</ul>
+</li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-78"><a href="https://www.washington.edu/populationhealth/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-3503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3503"><a href="https://www.washington.edu/populationhealth/resources/covid-19/">COVID-19</a></li>
+	<li id="menu-item-1722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1722"><a href="https://www.washington.edu/populationhealth/resources/collaboration-support/">Collaboration support</a></li>
+	<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="https://www.washington.edu/populationhealth/resources/grant-application-support/">Grant application support</a></li>
+	<li id="menu-item-4096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4096"><a href="https://www.washington.edu/populationhealth/resources/climate-change-experts/">Climate change experts</a></li>
+	<li id="menu-item-5725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5725"><a href="https://www.washington.edu/populationhealth/resources/disaster-humanitarian-experts/">Disaster and humanitarian experts</a></li>
+	<li id="menu-item-6556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6556"><a href="https://www.washington.edu/populationhealth/resources/other-experts/">Other experts</a></li>
+	<li id="menu-item-2840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2840"><a href="https://www.washington.edu/populationhealth/resources/using-mobile-and-digital-technologies-to-improve-population-health/">Mobile and digital population health</a></li>
+	<li id="menu-item-2961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2961"><a href="https://www.washington.edu/populationhealth/resources/social-innovation-and-social-entrepreneurship/">Social innovation and entrepreneurship</a></li>
+	<li id="menu-item-8594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8594"><a href="https://www.washington.edu/populationhealth/resources/event-and-room-reservations/">Event and room reservations</a></li>
+	<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/">Funding and awards</a></li>
+</ul>
+</li>
+<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-375"><a href="https://www.washington.edu/populationhealth/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://www.washington.edu/populationhealth/news/latest-news/">Latest news and updates</a></li>
+	<li id="menu-item-1904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1904"><a href="https://www.washington.edu/populationhealth/news/subscribe/">Subscribe</a></li>
+	<li id="menu-item-5841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5841"><a href="https://www.washington.edu/populationhealth/news/journal-articles/">Journal articles</a></li>
+	<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="https://www.washington.edu/populationhealth/news/media-coverage/">Media coverage</a></li>
+</ul>
+</li>
+<li id="menu-item-1968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1968"><a href="https://www.washington.edu/populationhealth/get-involved/">Get involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-2002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2002"><a href="https://www.washington.edu/populationhealth/get-involved/give/">Give</a></li>
+	<li id="menu-item-1970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1970"><a href="https://www.washington.edu/populationhealth/get-involved/partner/">Partner</a></li>
+	<li id="menu-item-1969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1969"><a href="https://www.washington.edu/populationhealth/get-involved/volunteer/">Volunteer</a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://www.washington.edu/populationhealth/get-involved/events/">Events</a></li>
+</ul>
+</li>
+</ul></div></ul></nav>
+      <nav class='uw-breadcrumbs' aria-label='breadcrumbs'><ul><li><a href="http://uw.edu" title="University of Washington">Home</a></li><li><a href="https://www.washington.edu/populationhealth/" title="Population Health">Population Health</a><li><li><a href="https://www.washington.edu/populationhealth/research/" title="Research">Research</a></li><li  class="current" ><span>Funded pilot projects</span></li></ul></nav>
+
+      <div id='main_content' class="uw-body-copy" tabindex="-1">
+
+      
+
+        
+
+<h1>Funded pilot projects</h1>
+
+	<div id="mobile-sidebar">
+		<button id="mobile-sidebar-menu" class="visible-xs" aria-hidden="true" tabindex="1">
+	    	<div aria-hidden="true" id="ham">
+		    	<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+	   		<div id="mobile-sidebar-title" class="page_item"> Close Menu </div>
+		</button>
+		<div id="mobile-sidebar-links" aria-hidden="true" class="visible-xs">  <nav id="desktop-relative" aria-label="mobile menu that is not visible in the desktop version"><ul class="uw-sidebar-menu first-level"><li class="pagenav"><a href="https://www.washington.edu/populationhealth" title="Home" class="homelink">Home</a><ul><li class="page_item page-item-6670 page_item_has_children current_page_ancestor current_page_parent child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/">Research</a>
+<ul class='children'>
+	<li class="page_item page-item-6696 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/bolstering-community-well-being/">Bolstering community well-being</a></li>
+	<li class="page_item page-item-6702 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity/">Improving vaccine equity in the U.S.</a></li>
+	<li class="page_item page-item-8934 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity-in-canada/">Improving vaccine equity in Canada</a></li>
+	<li class="page_item page-item-6706 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/boosting-vaccination-coverage/">Boosting vaccination coverage</a></li>
+	<li class="page_item page-item-8140 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/understanding-vaccine-hesitancy-of-nurses/">Understanding vaccine hesitancy of nurses</a></li>
+	<li class="page_item page-item-8190 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/assessing-drivers-of-hpv-vaccine-hesitancy/">Assessing drivers of HPV vaccine hesitancy</a></li>
+	<li class="page_item page-item-10357 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/reducing-vaccine-disparities-for-the-urban-underserved/">Reducing vaccine disparities for the urban underserved</a></li>
+	<li class="page_item page-item-6782 current_page_item"><span>Funded pilot projects</span></li>
+	<li class="page_item page-item-1327 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/population-health-research-across-the-uw/">Population health research at the UW</a></li>
+</ul>
+</li>
+</ul></li></ul></nav></div>
+	</div>
+
+<p><img decoding="async" class="alignright wp-image-6688 size-full" style="margin-top: 10px" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500.jpg" alt="Image of a UW student working with children" width="198" height="198" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500.jpg 2500w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500-300x300.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500-1024x1024.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500-150x150.jpg 150w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500-1536x1536.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500-2048x2048.jpg 2048w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500-375x375.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500-750x750.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500-1140x1140.jpg 1140w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2022/06/14102352/Pilots_500x500-50x50.jpg 50w" sizes="(max-width: 198px) 100vw, 198px" />The Population Health Initiative has supported the launch of <strong>241</strong> innovative, interdisciplinary research projects since 2017 through different pilot grant-funding mechanisms. The cumulative value of these awards is <strong>$13.9 million</strong>, which includes matching funds from UW schools, colleges and departments.</p>
+<p>Findings from these projects have been published in a variety of <a href="https://www.washington.edu/populationhealth/news/journal-articles/" target="_blank" rel="noopener">peer-reviewed journals</a> and have informed the public through <a href="https://www.washington.edu/populationhealth/news/media-coverage/" target="_blank" rel="noopener">media coverage</a>. Projects have also advanced the educational and training experiences of a number of UW graduate students.</p>
+<p>Many of the supported projects have leveraged their pilot findings to successfully secure additional funding from federal grantors like the Centers for Disease Control and Prevention, National Institutes of Health and the National Science Foundation, as well as a mix of foundation and international sponsors.</p>
+<p>The following tabs present projects awarded through the initiative&#8217;s <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/" target="_blank" rel="noopener">pilot grant program</a>.</p>
+<div id="uw-accordion-shortcode">
+<div class="js-accordion" data-accordion-prefix-classes="uw-accordion-shortcode">
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2024 Pilot Awards</h2>
+<h3>Tier 2 Grants &#8211; Winter Quarter 2024</h3>
+<p>The Population Health Initiative awarded six <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-2-grants-establishing-proof-of-concept/" target="_blank" rel="noopener">Tier 2 pilot research grants</a> in winter quarter 2024 to faculty-led teams representing seven different UW schools and colleges as well as several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Mechanisms of Action of Xylitol in Pregnancy (MAX Study): A Pilot Study of Xylitol Chewing Gum in Malawian Pregnancy Individuals</strong>: This project team will work to assess the effects of xylitol-containing gum on periodontitis during pregnancy as periodontal inflammation (gum disease) in the mouth while pregnant is strongly associated with adverse pregnancy outcomes.</li>
+<li><strong>Promoting Wellness and Well-Being Among Direct Clinical Service Providers Working in Regional Community Health Centers</strong>: This project seeks to better understand and reduce burnout among direct clinical service providers in the Pacific Northwest.</li>
+<li><strong>Differentiated service delivery for HIV: community ART delivery preferences among people living with HIV in refugee settlements in Uganda</strong>: This project is seeking to inform community antiretroviral therapy delivery adaptation to optimize the effectiveness of this program in refugee settlements to improve HIV clinical care outcomes.</li>
+<li><strong>A child sexual abuse intervention in Latin America: A pilot study of the family boardgame “Kit Mi Escudo”</strong>: This project will assess the impact of a family board game aimed at enhancing children&#8217;s knowledge and attitudes regarding child sexual abuse protection skills.</li>
+<li><strong>Developing a Framework for Communicating Extreme Cold Risk</strong>: This project team will develop a framework to evaluate the health impacts of extreme cold in the Pacific Northwest, identify risk reduction opportunities and identify opportunities to improve interagency coordination.</li>
+<li><strong>Culturally adapting and pilot testing chatbot-delivered psychotherapy for Chinese American families caring for older adults with chronic conditions</strong>: This team will assess deployment of a chatbot to deliver linguistically and culturally tailored mental health services for family caregivers of older adults with chronic diseases.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2024/04/01/initiative-awards-six-proof-of-concept-grants-to-interdisciplinary-teams-of-uw-researchers/">project award page</a>.</p>
+<h3>Tier 1 Grants &#8211; Spring Quarter 2024</h3>
+<p>The Population Health Initiative awarded 13 <a href="//www.washington.edu/cms/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-1-grants-laying-the-foundation/" target="_blank" rel="noopener">Tier 1 pilot research grants</a> in spring quarter 2024 to interdisciplinary teams representing 11 different UW schools and colleges, plus several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Integrating end-user needs and perspectives in the measurement of young adult climate change distress</strong>: This project aims to develop and refine a brief Climate Distress Questionnaire (CDQ) through collaboration with end-users and qualitative pre-testing among young adults, with the goal of providing a tool for measuring climate change distress in epidemiologic surveys and facilitating further research on its impact on health outcomes.</li>
+<li><strong>Identity safety in medicine: a qualitative study to elicit patient perspectives and develop a framework to apply in clinical settings and research</strong>: This proposal seeks to lay the groundwork for developing culturally sensitive health chatbots by conducting a literature review on health communication styles, developing therapy bot prototypes with diverse communication styles, and gathering feedback from family caregivers of various race/ethnicity groups to enhance communication effectiveness in healthcare settings.</li>
+<li><strong>Exploring the Impact of Communication Styles in Health Chatbot using Large Language Models to Support Family Caregivers from Multicultural backgrounds</strong>: This pilot qualitative study aims to explore patients&#8217; experiences in medical care, focusing on moments where they felt safe to discuss sensitive topics, such as racism or sexual orientation, with the goal of understanding the impact of &#8220;identity safety cues&#8221; and laying the groundwork for further research on identity safety in clinical medicine.</li>
+<li><strong>Clinical and structural approaches to addressing substance use disorder in HIV care in Zimbabwe: Formative work</strong>: This study seeks to validate a single-item substance use disorder screening tool among patients seeking HIV care in Zimbabwe, addressing the lack of validated screening tools in sub-Saharan Africa and laying the groundwork for developing locally relevant interventions to address substance use in this context.</li>
+<li><strong>A community co-led epidemiologic study of methamphetamine use patterns and associated factors among cisgender men and transgender people who have sex with men</strong>: This research aims to leverage a community-based participatory research approach to characterize patterns of methamphetamine use among cisgender men and transgender people who have sex with men in the US, in order to develop early intervention strategies targeting diverse meth use behaviors and associated risk factors.</li>
+<li><strong>Paid Family Leave and Parent Mental Health: Evidence from Administrative Data</strong>: This study aims to leverage administrative data and insurance claims to assess the impact of Washington Paid Family and Medical Leave on the likelihood of parents receiving care for depression and anxiety to help inform future research on paid leave and maternal health disparities.</li>
+<li><strong>Ensuring Equality: Language Access in Civil Protection Orders</strong>: This pilot project aims to assess language access challenges in civil protection order (CPO) processes for interpersonal violence across Washington state counties, with the goal of informing future research on improving protections for victim-survivors.</li>
+<li><strong>Exploring stakeholder perspectives on the use of controversial datasets in population health research</strong>: This project seeks to assess the implications of the use of controversial datasets in population health research via a literature review and qualitative interviews, thereby informing decisions regarding sustained stakeholder engagement and addressing policy questions surrounding the ongoing use of such datasets.</li>
+<li><strong>Building and evaluating AI-augmented treatment support for individuals with tuberculosis</strong>: This project aims to enhance TB treatment adherence by developing and evaluating an AI-powered chatbot prototype with the goal of improving patient engagement, access to care and healthcare worker efficiency in underserved regions.</li>
+<li><strong>Assessing readiness for newborn pulse oximetry screening in Northern Ghana</strong>: This project aims to assess existing capacities and explore barriers, facilitators and acceptability of newborn pulse oximetry screening in district hospital and primary care settings, leveraging co-design methods to inform future implementation efforts in low- and middle-income countries.</li>
+<li><strong>Sembrando Salud: Designing Healthy Eating Futures for Latinx Adolescents</strong>: This research aims to study family dynamics and communication practices to identify challenges and opportunities that will support co-design of intervention concepts that support healthy eating behaviors, knowledge and skills.</li>
+<li><strong>Building Reparative Connections and Community Health Strategies across Sites Impacted by Nuclear Weapons Development</strong>: This project seeks to unite frontline communities impacted by nuclearism to address the interconnected environmental and health impacts stemming from weapons development, testing, mining, manufacturing and waste management, thereby fostering dialogue and sharing strategies that address ongoing healthcare and environmental needs.</li>
+<li><strong>Individual and community-level effects from climate change driven heat and wildfire smoke co-exposures among a Washington state agricultural community</strong>: This study seeks to evaluate the impact of co-occurring extreme heat and wildfire smoke exposure on the health, well-being and job-related effects of agricultural workers in Yakima, Washington, with the goal of quantifying occupational burdens and informing future research to enhance community climate change resiliency.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2024/05/20/initiative-awards-13-early-stage-pilot-grants-to-teams-of-interdisciplinary-uw-investigators/">project award page</a>.</p>
+<h3>Tier 3 Grants &#8211; Spring Quarter 2024</h3>
+<p>The Population Health Initiative awarded five <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-3-grants-scaling-for-greater-impact/" rel="noopener" target="_blank">Tier 3 pilot grants</a> in spring quarter 2024 to faculty-led teams from nine different UW schools and colleges as well as a number of community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A high-frequency method for enumeration and needs assessment of the unsheltered population of people experiencing homelessness</strong>: This project seeks to expand the novel use of respondent-driven sampling beyond annual counts to quarterly surveys in order to provide more frequent and comprehensive data on the unsheltered homeless population.</li>
+<li><strong>Living with Water: Co-developing strategies to protect health while adapting to sea level rise in the Duwamish Valley</strong>: This team will work to develop a community-driven flood adaptation vision for Seattle&#8217;s Duwamish Valley, focusing on co-designing effective climate resilience strategies through collaboration with residents, community organizations and public agencies.</li>
+<li><strong>Sensing the impacts of climate change on frontline workers in Thailand</strong>: This project seeks to investigate and mitigate the impacts of severe air pollution on marginalized frontline workers in Southeast Asia through new studies, innovative sensor technologies and cognitive tests.</li>
+<li><strong>Online Assessment and Monitoring of Memory Health in Rural Communities Through Personalized Computational Modeling</strong>: This team will work to narrow the dementia diagnostic gap in rural areas by implementing an innovative online memory assessment software, aiming to provide early detection and personalized care through longitudinal monitoring and community outreach efforts in Central Washington&#8217;s Douglas and Chelan counties.</li>
+<li><strong>Improving data to understand the well-being of small and excluded populations</strong>: This project seeks to enhance visibility and inclusion of transgender people and Native Hawaiians and Pacific Islanders within administrative data by establishing community-informed methods and practices, documenting their presence, and developing guidelines for accurate representation in Washington State and beyond.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2024/06/06/initiative-announces-awardees-of-spring-quarter-2024-tier-3-pilot-research-grants/">project award page</a>.</p>
+<h3>Tier 1 Grants &#8211; Autumn Quarter 2024</h3>
+<p>The Population Health Initiative awarded 14 <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-1-grants-laying-the-foundation/" rel="noopener" target="_blank">Tier 1 pilot grants</a> in autumn quarter 2024 to faculty-led teams from 11 different UW schools and colleges &#8211; representing two campuses &#8211; as well as a number of community-based partners. The projects funded during the cycle were:</p>
+<ul>
+<li><strong>Assessing Parental Perceptions of Factors Exacerbating Disparities to Neurodevelopmental Follow-up of High-Risk Newborns in Washington State</strong>: This study aims to identify the barriers and facilitators for follow-up care among high-risk children referred for neurodevelopmental services, by interviewing families and reviewing demographic and socioeconomic data, with the goal of developing targeted interventions to improve follow-up attendance and reduce public health disparities in neurodevelopmental care.</li>
+<li><strong>Understanding unmet needs for equitable access to antibiotic allergy testing services in hospital and community settings</strong>: This study aims to identify trends and inequities in antibiotic allergy labeling and access to testing among patients at the University of Washington and King County Public Health Centers, with the goal of developing equitable, cost-effective strategies for antibiotic allergy de-labeling that improve health outcomes and align with antimicrobial stewardship and health equity goals.</li>
+<li><strong>Collaborative development of a community advisory board focused on serious cardiac illness in the Washington, Wyoming, Alaska, Montana, Idaho (WWAMI) region</strong>: This proposal aims to engage patients, caregivers, and healthcare teams in the WWAMI region to identify priorities for community-based research on serious cardiac illness, with the goal of creating a community advisory board, coproducing a research framework and determining next steps for improving care delivery and health equity in this underserved area.</li>
+<li><strong>Empowering Social Workers to Promote Secure Firearm Storage: Developing a Culturally Resonant Training Program</strong>: This proposal aims to adapt and pilot secure firearm storage (SFS) training for social workers in Washington state, equipping them with the skills to counsel caregivers on SFS, addressing the public health crisis of firearm-related deaths among children and adolescents, and promoting social and economic equity in communities disproportionately affected by violence.</li>
+<li><strong>Evaluation of claims-based data for evaluating the prescribing practices of physicians for the use of antiresorptive medications and filling of these medications by patients with osteoporosis</strong>: This study aims to analyze data from CMS and the University of Washington Medical Center to determine the percentage of Medicare patients prescribed antiresorptive medications for osteoporosis who initially and consistently fill their prescriptions as recommended, amidst concerns about medication-related adverse events like osteonecrosis of the jaw.</li>
+<li><strong>A Near-Peer Train-the-Trainer Model to Create Effective Opioid Overdose Prevention in High Schools</strong>: This project aims to develop a train-the-trainer model to educate Seattle University peer health educators on opioid overdose prevention, who will then guide Garfield High School students in creating student-led prevention initiatives, with the goal of securing a Health Equity Grant and evaluating the program’s effectiveness through pre- and post-surveys.</li>
+<li><strong>Understanding barriers and facilitators of cervical cancer screening among Mandarin-speaking patients with limited English proficiency in western Washington</strong>: This qualitative study aims to identify the barriers and facilitators to cervical cancer screening among Mandarin-speaking Chinese individuals with Limited English Proficiency in Western Washington, with the goal of informing interventions to improve screening rates and reduce healthcare disparities.</li>
+<li><strong>Building partnerships for rural mental health access and health equity community-engaged research</strong>: This project will establish a collaborative research partnership among three UW research groups to evaluate the Mental Health Matters intervention in Skagit County, assess its scalability and cultural responsiveness for expansion across the WWAMI region, and lay the foundation for a competitive grant application to improve mental health access in diverse, rural communities.</li>
+<li><strong>Stress Reduction Intervention for African American Kinship Caregivers in Skipped-Generation Households</strong>: This project aims to develop a multicomponent stress reduction intervention for African American grandmothers raising grandchildren in skipped-generation households, addressing financial hardship, parenting challenges and daily stressors, with input from kinship caregivers and a community advisory board to guide intervention development and preparation for a future feasibility study.</li>
+<li><strong>Creating A World Worth Living In: An Exploratory Sequential Mixed Method Approach to Understanding Black Youth Suicidality Through the Lens of Policy</strong>: This exploratory mixed-methods project will examine Black youth suicidality through an intersectional lens, identifying key policies that influence risk and protective factors, and using these findings to inform policy advocacy and future research aimed at reversing the rising suicidality rates among Black youth.</li>
+<li><strong>Putting the Pieces Together: Pairing Ecological Momentary Assessment with Culturally Sensitive Screening Questions to Improve the Accuracy and Equity of Autism Screening in Toddlers-A Pilot Study Examining Autism Likelihood in Children from Culturally and Linguistically Diverse Families</strong>: This project aims to explore the use of ecological momentary assessment (EMA) as a real-time, culturally sensitive screening method for identifying autism in toddlers, with the goal of improving early identification and access to timely intervention.</li>
+<li><strong>Understanding the Role of AI-Integrated Information Seeking Tools in Users&#8217; Evaluation of Health (Mis)information</strong>: This study aims to investigate the impact of AI-powered health information tools on users&#8217; evaluation of health misinformation, particularly how biased or inaccurate AI-generated summaries affect health decision-making, with a focus on improving health equity and the safe use of AI in public health.</li>
+<li><strong>Assessment of Fall-related Injury Prevention Strategies in the Lummi Nation</strong>: This project, in collaboration with the Lummi Nation Health Center, aims to develop a culturally resonant fall prevention plan for Lummi Nation elders by conducting an asset-based health assessment to identify fall risks and leverage community strengths to address these needs.</li>
+<li><strong>A Center for Migration Health: Chartering a Course for Collaboration</strong>: This project aims to build infrastructure for a Center for Migration Health by establishing cross-sector partnerships and creating guiding principles to inform a proof of concept proposal, supporting the health and well-being of immigrants and refugees in Washington State.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2024/10/30/initiative-funds-14-uw-project-teams-for-early-stage-pilot-grant-research/">project award page</a>.</p>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2023 Pilot Awards</h2>
+<h3>Tier 1 Grants &#8211; Winter Quarter 2023</h3>
+<p>The Population Health Initiative awarded four <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-1-grants-laying-the-foundation/" target="_blank" rel="noopener">Tier 1 pilot research grants</a> in winter quarter 2023 to faculty-led teams representing five different UW schools and colleges plus several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Socioecological conflict in Brazil: Equitable land tenure, ecosystem destruction, and health</strong>: This project seeks to demonstrate that land tenure regularization for Indigenous ethnic groups and Quilombola communities reduces ecosystem degradation in Brazil’s regional biomes that are affected by government rollbacks of environmental protection policies.</li>
+<li><strong>Understanding unmet needs among people with violence-related spinal cord injury: A mixed methods study</strong>: This project team will evaluate Harborview Medical Center patients’ access to medical care and rehabilitation services after violence-related spinal cord injury (SCI) in order to address health disparities and increased medical complications among those living at the intersection of disability and other marginalizing social structures.</li>
+<li><strong>Understanding the needs of families caring for Chinese American older adults and opportunities for digital health tools to promote health equity</strong>: This project is working to address linguistic and cultural barriers to care and health disparities by identifying the shared needs of families caring for Chinese American older adults to inform the development of high-impact digital health solutions for this community.</li>
+<li><strong>Community Healing: Lessons from Asian Organizers for Mental Health Providers</strong>: This project team will learn with and from 13 local Asian community members about their experiences regarding social justice, healing and education of Asian communities in order to resist ongoing white supremacist structures and settler colonial school structures of anti-Asian racism and violence.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2023/03/01/initiative-awards-four-winter-quarter-2023-tier-1-pilot-grants-to-uw-research-teams/">project award page</a>.</p>
+<h3>Tier 2 Grants &#8211; Winter Quarter 2023</h3>
+<p>The Initiative awarded four <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-2-grants-establishing-proof-of-concept/" target="_blank" rel="noopener">Tier 2 pilot research grants</a> in winter quarter 2023 to faculty-led teams representing four different UW schools and colleges as well as several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Family medicine contributions to maternal health in maternity care deserts: To what extent does family medicine fill the gap in addressing our dire public health crisis?</strong> This project is assessing the impact of family medicine obstetrical clinicians in Maternity Care Deserts (MCDs) by comparing maternal mortality rates and infant low birth rates between MCDs to guide obstetric care policies regarding training, recruitment, retention and institutional support.</li>
+<li><strong>An mHealth intervention to promote adaptive coping and medication adherence among HIV-positive MSM in China</strong>: This project will work to improve mental health and health disparities among men who have sex with men (MSM) living with HIV in China by developing a culturally appropriate mHealth intervention that will offer preliminary data to refine intervention protocol and funding for a fully powered randomized control trial.</li>
+<li><strong>Community engaged home environmental assessments to support a multi modal ‘healthy home’ intervention in Yakima Valley</strong>: The research team will assess multiple community-identified environmental concerns within the Yakima Valley including pesticides, lead, drinking water contaminants and air pollution, including wildfire smoke, by developing an early life “healthy home” intervention.</li>
+<li><strong>Using school community collaboratives to address student disciplinary outcomes linked to school policing</strong>: This project will assess the feasibility, acceptability and appropriateness of using school-community collaboratives to reform existing school resource officer programs, promote restorative practices and improve youth safety in Washington public middle and high schools.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2023/03/30/initiative-announces-award-of-four-winter-quarter-2023-tier-2-pilot-research-grants/">project award page</a>.</p>
+<h3>Tier 1 Grants &#8211; Spring Quarter 2023</h3>
+<p>The Initiative awarded nine <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-1-grants-laying-the-foundation/" target="_blank" rel="noopener">Tier 1 pilot research grants</a> in spring quarter 2023 to faculty-led teams representing 10 different UW schools and colleges. The awarded projects were:</p>
+<ul>
+<li><strong>Documenting the Impact of Abortion Myths on Healthcare Providers and Advocates</strong>: This study aims to document and analyze the repercussions of inaccurate and misleading abortion information on abortion healthcare providers and advocates to better inform future interventions.</li>
+<li><strong>Assessing for Violence Exposure and Other Health-Related Social Needs in Children by Pediatric Health Care Providers</strong>: This project will examine health-related social needs assessments conducted by Washington state pediatric healthcare providers with the overall goal of reducing health disparities.</li>
+<li><strong>A Qualitative Study of the Psychological Costs of Citizen-State Interactions for Trans People</strong>: This study investigates how administrative burdens, such as stigma, stress and loss of autonomy, encountered during the utilization of government safety-net services impact trans people and their long-term well-being.</li>
+<li><strong>Working Towards Prevention: Identifying Early Predictors of Risk for Schizophrenia in Diverse Youth</strong>: This research team is working towards improving screening for schizophrenia risk across diverse youth populations by identifying early behavioral markers of genetic risk.</li>
+<li><strong>Improving Public Health Surveillance and Communication for Freshwater Harmful Algal Blooms in Washington State: A Pilot Study using Drone Technology</strong>: This project will establish a protocol for drone-based water sampling of lake cyanotoxins and aerial photo collection for local environmental resource management and healthy agency needs.</li>
+<li><strong>Public Health Camp: Public Health Educators and Practitioners Partnering to Strengthen and Expand the Workforce</strong>: This project team aims to create, implement and evaluate a three-day Public Health Camp for high school students, developing an academic-to-practice pipeline and increasing the likelihood of students pursuing future involvement in the field of public health.</li>
+<li><strong>An Assessment of Caregiver and Provider Level Barriers to the Implementation of National Sickle Cell Disease Clinical Guidelines</strong>: This study will identify and explore caregiver- and provider-level factors that act as obstacles to the implementation of national sickle cell disease management guidelines in Kenya.</li>
+<li><strong>Incorporating Youth Perspectives to Improve Disaster Planning: Piloting Drone-Based Photovoice to Explore Cultural Assets</strong>: This research team will collaborate with the Ocosta Junior-Senior High School STEAM club to utilize drone imagery to identify key cultural assets in Westport, Washington, integrating underrepresented youth perspectives in disaster planning.</li>
+<li><strong>A World Worth Living In: Exploring the Impact of Social Policies on Mental Health of BIPOC and LGBTQ+ Individuals</strong>: This research project will identify social policy priorities of peer-run mental health organizations in Washington and four other states with the future objective of developing a public and comprehensive database of social policies.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2023/05/16/initiative-awards-nine-spring-quarter-2023-tier-1-pilot-grants-to-uw-research-teams/">project award page</a>.</p>
+<h3>Tier 3 Grants &#8211; Spring Quarter 2023</h3>
+<p>The Initiative awarded four <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-3-grants-scaling-for-greater-impact/" target="_blank" rel="noopener">Tier 3 pilot research grants</a> in spring quarter 2023 to faculty-led teams representing five different UW schools and colleges as well as several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Evaluating the impacts of military aircraft noise pollution on human health and well-being: A community-based inquiry</strong>: Through collaboration with community partners, this study aims to evaluate the impacts of exposure to military aircraft noise with the future goal of building a transferable framework for noise impact assessment to be implemented in other communities.</li>
+<li><strong>Project Nature: An Intervention to Promote Nature Contact and Play Equity for Children via Primary Care</strong>: This research project focuses on increasing access to Project Nature, a traditionally physical guide that promotes nature contact in child’s play, through the development and evaluation of an online toolkit that will be disseminated in clinics across Washington state.</li>
+<li><strong>Centering community voices in partnered mixed methods approaches to addressing health disparities with diverse communities</strong>: In partnership with the Community Health Board Coalition, this project will pilot, refine and then disseminate a toolkit that can be utilized during times of crisis to mitigate negative health outcomes and reduce health disparities.</li>
+<li><strong>Improving Health Equity and Closing Health Care Gaps for Children in Foster Care with an Innovative Secure Data Sharing Platform</strong>: This research team aims to address poor information sharing between medical and child welfare systems through the implementation and evaluation of the Integrated Data Environment to Enhance Outcomes in Custody (IDENTITY) at UW Medicine, which centralizes information sharing for children in foster care.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2023/06/13/initiative-announces-awardees-of-spring-quarter-2023-tier-3-pilot-research-grants/">project award page</a>.</p>
+<h3>Tier 1 Grants &#8211; Autumn Quarter 2023</h3>
+<p>The Population Health Initiative awarded 12 <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-1-grants-laying-the-foundation/" target="_blank" rel="noopener">Tier 1 pilot research grants</a> in autumn quarter 2023 to faculty-led teams representing eight different UW schools and colleges as well as several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Housing affordability and chronic stress in the US: Does affordability modify the effect of neighborhoods on health?</strong>: This project will examine the potential effects of housing cost burden on health and whether existing housing assistance programs can reduce the negative health effects of housing cost burden.</li>
+<li><strong>Increasing Monolingual Spanish Speakers’ Participation in HIV/AIDS Clinical Trials: The Language Access and Justice Initiative</strong>: This project team will complete an initial needs assessment is to learn about the barriers, limitations and opportunities for the enrollment of Hispanic and Latinx individuals with limited English proficiency in HIV/AIDS clinical research conducted by the HIV/AIDS clinical research networks funded by the National Institute of Allergy and Infectious Diseases.</li>
+<li><strong>Differentiated service delivery for HIV: tailoring community ART delivery for people living with HIV in refugee settlements in Uganda</strong>: This project seeks to better understand preferences for community anti-retroviral therapy delivery models among people living with HIV in refugee settlements in Uganda.</li>
+<li><strong>Developing and Disseminating Cold Injury Prevention Education</strong>: This project seeks to develop and disseminate a King County Cold Injury Prevention Toolkit to reduce the number of cold injuries (e.g., frostbite, severe hypothermia) by people living outside during winter months.</li>
+<li><strong>Developing a digital mental health intervention for Arab refugee adolescents and young adults in Jordan</strong>: This project team seeks to address the urgent mental health disparities experienced among Arab refugee adolescents and young adults living in Jordan by developing a mHealth mental health intervention using a community-participatory approach.</li>
+<li><strong>Characterization of urinary glyphosate levels in the US population by environmental and social factors</strong>: This project will assess whether glyphosate (i.e., an herbicide) levels are associated with agricultural land proximity, urbanicity or the consumption of foods with high glyphosate residue levels, and whether race/ethnicity, SES, or other environmental factors modify those observed associations.</li>
+<li><strong>Estimating True Demand of Acute Pediatric Mental Health Services in Washington State</strong>: This project team aims to determine the current usage of acute pediatric mental health services, estimate the true demand for these services and project the growth of true demand for the next 40 years in Washington state through the use of diverse data sources.</li>
+<li><strong>Community-Centered Service Design: Communal Approaches Toward Maternal Health Equity for Black Birthing People</strong>: This project team seeks to apply service design approaches to co-design the delivery of seamless and culturally-relevant prenatal and/or postpartum support services for Black birthing people in Washington state.</li>
+<li><strong>A Qualitative Examination of Evictions Caused by Default Judgments in Washington State</strong>: This project seeks to better understand why some tenants facing eviction do not participate in eviction proceedings and are thus unable to dispute or delay their eviction (i.e., a default judgment).</li>
+<li><strong>Improving Prediction of Psychiatric Outcomes in Youth Using High-Dimensional Genetic and Phenotypic Data</strong>: This project seeks to understand whether risk biomarkers exist that could identify youth most vulnerable to psychiatric problems before onset.</li>
+<li><strong>Developing Novel and Fair Machine Learning Strategies for Glioblastoma Segmentation in Sub-Saharan Africa Patient Population</strong>: This project seeks to bridge the gap in healthcare disparities by leveraging machine learning to enhance the diagnosis and treatment of glioblastomas in underserved regions, ultimately striving for improved patient outcomes.</li>
+<li><strong>Community Codesign to Integrate Low-Barrier, Culturally and Linguistically Responsive Mental Health Care into Community-Based Social Services</strong>: This project is assessing how to integrate mental health care into community-based social service organizations to improve access to low barrier, culturally relevant mental health care and address upstream social drivers of mental health.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2023/11/07/initiative-awards-12-early-stage-pilot-grants-to-interdisciplinary-teams-of-uw-investigators/" target="_blank" rel="noopener">project award page</a>.</p>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2022 Pilot Awards</h2>
+<p>The Population Health Initiative <a href="https://www.washington.edu/populationhealth/2021/11/17/initiative-announces-relaunch-of-its-interdisciplinary-pilot-grant-program/" target="_blank" rel="noopener">relaunched</a> its interdisciplinary pilot grant program in November 2021, leveraging project savings from the construction of the Hans Rosling Center for Population Health to dramatically expand the initiative’s internal granting capacity in 2022 and 2023. The relaunched program now features three different tiers of grants with varying foci and awards ranging in size from $25,000 to $200,000. The awards made in 2022 are described in the following sub-sections.</p>
+<h3>Tier 1 Grants &#8211; Winter Quarter 2022</h3>
+<p>The Population Health Initiative awarded 11 <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-1-grants-laying-the-foundation/" target="_blank" rel="noopener">Tier 1 pilot research grants</a> in winter quarter 2022 to faculty-led teams representing nine different UW schools and colleges as well as several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>The Intersection of Food Security and Planetary Health in Senegal, West Africa: A Mixed-Methods Pilot Study</strong>: There is a high burden of food insecurity in Senegal, and particularly the Casamance, which has the country&#8217;s highest prevalence of food insecurity. This project will conduct a mixed-methods study to explore and define the intersection of food security and planetary health in Casamance.</li>
+<li><strong>Addressing Burnout Among QTBIPOC (Queer, Trans, Black, Indigenous, People of Color) Therapists Working in Community-Based Organizations through Cultivating Wellness and Sustainability</strong>: This project aims to study the experience of burnout among QTBIPOC clinicians at two Seattle community-based agencies.</li>
+<li><strong>Turning to Sunshine: Developing a CBT-based Depression and Adherence mHealth intervention for HIV-positive Men Who Have Sex with Men (MSM) in China Using a Community-Based Participatory Approach</strong>: The research team is working to address the urgent mental health needs of men who have sex with men who are newly diagnosed with HIV. In addition, they aim to gain a deeper understanding of the community&#8217;s needs, priorities and assets through in-depth interviews.</li>
+<li><strong>Building Community Capacity Among MultiCare, Tacoma Public Schools, and University of Washington to Support Underserved Youth Well-being</strong>: This project aims to strengthen partnerships between UW Tacoma, Tacoma Public Schools, and a Multicare behavioral health unit to provide an evidence-based training program to improve youth mental health.</li>
+<li><strong>Risk-taking Behaviors and Cryptocurrency Trading (REACT) in Young Adults</strong>: This project is studying the gap between the increased prevalence of cryptocurrency trading and the effect of trading on the health and well-being of young adults.</li>
+<li><strong>Exploring COVID-19 Vaccine Hesitancy in Pregnant Rural Washingtonians</strong>: The project team is exploring vaccine hesitancy in pregnant rural Washingtonians through mixed-method studies to explore reasons for vaccine hesitancy and reaction towards digital content.</li>
+<li><strong>Using Learning Labs to Address Racial and Ethnic Disparities in School Discipline and Policing in King County, Washington</strong>: This project aims to address the disparities in school discipline among students with culturally and linguistically diverse backgrounds through design of a school-based learning lab that unites diverse perspectives and changes system processes.</li>
+<li><strong>Amazonian Green Cities: A Gardens Program for Health, Ecology, and Climate Change Resilience</strong>: Amazonian Green Cities is a One Health program to develop an environmental intervention to improve human and ecological health.</li>
+<li><strong>Sleep Health in People Experiencing Homelessness</strong>: This project seeks to develop preliminary data to measure sleep and assess its timing and quality in unhoused people sleeping in nighttime shelters.</li>
+<li><strong>Misinformation Escape Room: Building a Research Agenda for a Gamified Approach to Combating Health Misinformation</strong>: This project aims to develop a research agenda for a gamified approach to building resilience to public health misinformation.</li>
+<li><strong>My Toddler’s Social Communication: Examining the Cultural Sensitivity of a New Pictorial Screening Tool for Identifying Toddlers at Risk for Autism in Diverse Cultural, Ethnic, Racial, and Linguistic Settings</strong>: This project aims to examine the cultural sensitivity of novel autism screening tools currently in development to better understand disparities in diagnoses.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2022/02/25/initiative-announces-awardees-of-winter-quarter-2022-tier-1-pilot-research-grants/">project award page</a>.</p>
+<h3>Tier 2 Grants &#8211; Winter Quarter 2022</h3>
+<p>The Population Health Initiative awarded eight <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-2-grants-establishing-proof-of-concept/" target="_blank" rel="noopener">Tier 2 pilot research grants</a> in winter quarter 2022 to faculty-led teams representing seven different UW schools and colleges and several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Development of a Vaccine for Valley Fever</strong>: This project team will employ its DNA and RNA vaccine technologies to investigate the feasibility of using these platforms as a strategy to develop an effective Valley Fever vaccine.</li>
+<li><strong>Assessing National Public Housing Authority Disaster Preparedness, Response and Recovery of Place-based Subsidized Housing Units</strong>: This project will assess Public Housing Authorities (PHAs) engagement in disaster preparedness to improve understanding of PHA disaster strategies to foster future research on equitable disaster housing strategies for low-income renters.</li>
+<li><strong>Parent Behavior Management Training for Foster Caregivers</strong>: This project works to adapt and pilot First Approach Skills Training for Disruptive Behavior (FAST-B) for caregivers of foster children. FAST-B is an evidence-based behavioral parent training program to address behavior problems in children ages 4 to 11.</li>
+<li><strong>Innovating Better Methods to Enumerate Individuals Experiencing Homelessness</strong>: This project seeks to develop more effective approaches to the current “Point in Time” count of individuals experiencing homelessness via methods such as respondent-driven sampling, multiple list (aka capture/recapture) and anonymous cell phone signal counts.</li>
+<li><strong>Human Health and Well-being Implications of Pervasive Navy Aircraft Noise Pollution</strong>: The research team is working to better understand the risks from aircraft noise generated by Naval Air Station Whidbey Island on local communities.</li>
+<li><strong>Population-Based Administrative Data to Understand Child Maltreatment and the Pandemic – The Risk of Death and Serious Injury Study (RODIS)</strong>: This project seeks to generate data-informed knowledge on how the COVID-19 pandemic has impacted the incidence of child maltreatment and if these impacts differ by poverty status, race/ethnicity and the response by medical professionals.</li>
+<li><strong>Addressing COVID-19 Vaccine Hesitancy in Pregnancy Within U.S. Black Communities</strong>: The research team has partnered with the National Black Leadership Commission on Health to investigate vaccine hesitancy in Black and Afro-Latinx pregnant individuals.</li>
+<li><strong>STIM A SPU’US (“What’s in Your Heart”): A Culturally Adapted, Trauma Informed Parenting Intervention for the Colville Tribes</strong>: This project works to implement a pilot test of a culturally congruent trauma-informed parenting skills curriculum that provides critical parenting support to families of American Indian communities.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2022/04/07/initiative-announces-award-of-eight-winter-quarter-2022-tier-2-pilot-research-grants/">project award page</a>.</p>
+<h3>Tier 1 Grants &#8211; Spring Quarter 2022</h3>
+<p>The Population Health Initiative awarded 11 <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-1-grants-laying-the-foundation/" target="_blank" rel="noopener">Tier 1 pilot research grants</a> in spring quarter 2022 to faculty-led teams representing seven different UW schools and colleges as well as several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Patient acceptability of clinical suggestion of social needs automatically identified from clinical notes in the electronic health record</strong>: This project aims to understand whether a novel social determinants of health screening strategy is acceptable to patients.</li>
+<li><strong>Understanding the Impacts of Washington Paid Family Leave Policy on American Indian and Alaska Native Birthing Parents and Newborns</strong>: The project team is undertaking a community-engaged study design process, conduct preliminary analyses, and enable researchers to acquire the necessary quantitative data to conduct a future study examining birth outcomes among first time AIAN birthing parents.</li>
+<li><strong>Examining share pantry/refrigerator safety and potential as a hyper-local alternate means of food assistance in the Puget Sound</strong>: This project will explore the potential for share pantries or community refrigerators to serve as safe and hyperlocal means of food assistance for communities.</li>
+<li><strong>Development and Evaluation of a Culturally-informed Food Insecurity Screening Protocol with American Indian Adults: Evidence from Northern Navajo Medical Center</strong>: This project team is working to develop and test new food insecurity screening protocols that are culturally relevant to American Indian patients.</li>
+<li><strong>A Framework for Prioritizing Urban Green Space Protection and Restoration to Improve Health</strong>: This project aims to identify locations across the Puget Sound region where protection and restoration of urban green space have the most significant potential to enhance human health, abate health disparities and further environmental resistance.</li>
+<li><strong>Establishing a rural Food Equity Collaborative to increase healthy food retail options for Latinos in WA</strong>: This project seeks to establish an academic community collaborative to advance Latino food equity and examine the contextual factors that would influence retail food settings</li>
+<li><strong>Understanding mechanisms of social determinants of health and symptoms in adults with subarachnoid hemorrhage</strong>: The research team is working to understand how social determinants of health impact the development of symptoms in subarachnoid hemorrhage survivors over time.</li>
+<li><strong>PrEParing for the future: preferences for HIV pre-exposure prophylaxis products and delivery models among cisgender men, transgender, and non-binary persons in Seattle, Washington</strong>: This project aims to design, pilot and implement an experiment to examine the trade-offs in decision-making options to identify sub-population differences in PrEP product and delivery preferences.</li>
+<li><strong>Residential Segregation and Pediatric Injury and Violence in Seattle, Spokane, and Tacoma</strong>: This project will analyze and evaluate the association between residential segregation and the prevalence and severity of pediatric injury in violence in three Washington cities.</li>
+<li><strong>Piloting a Strategy to Improve Pediatric Inpatient Guideline Adherence in Migori, Kenya</strong>: This project proposes a pragmatic and exploratory mixed-method study that will produce formative research for the scale of an implementation strategy to improve guideline adherence among healthcare workers in pediatric hospitals.</li>
+<li><strong>Exploring Multicultural and Multilingual Methods in Developing Dialog-Based Health Technologies</strong>: This project proposes conducting a literature review of multicultural and multilingual model development methods in developing health dialogs and pilot training using existing caregiver domain-specific datasets.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2022/05/16/initiative-announces-awardees-of-spring-quarter-2022-tier-1-pilot-research-grants/">project award page</a>.</p>
+<h3>Tier 3 Grants &#8211; Spring Quarter 2022</h3>
+<p>The Population Health Initiative awarded five <a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/pilot-research-grants/tier-3-grants-scaling-for-greater-impact/" target="_blank" rel="noopener">Tier 3 pilot research grants</a> in spring quarter 2022 to faculty-led teams representing seven different UW schools and colleges as well as several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Community Pharmacist Epilepsy Services Program</strong>: This project is working to position the community pharmacist as an accessible, trusted health partner with epilepsy expertise who can help close information and treatment gaps and disparities through frequent touch points, particularly for those patients who do not have easy access to a specialized epilepsy center.</li>
+<li><strong>Amigas Latinas Motivando el Alma (ALMA): Addressing Mental Health Needs among Latina Immigrant Women in Yakima Valley</strong>: This project proposes to leverage existing expertise and community partnerships to test the dissemination of the Amigas Latinas Motivando el Alma intervention to reduce depression and anxiety among Latina immigrant women living in the Yakima Valley.</li>
+<li><strong>Healing Heart and Soul: Decreasing Maternal Racial/Ethnic Health Disparities through Home-Based Monitoring of Blood Pressure, Stress/Depression, and Safety</strong>: This project&#8217;s goal is to decrease perinatal health disparities through home-based self-monitoring and self-reporting of blood pressure.</li>
+<li><strong>Equity Among American Indian, Alaska Native, Native Hawaiian, Pacific Islander communities under COVID-19 Telehealth Policy</strong>: This project is using comprehensive Medicaid data to analyze telehealth use and disparities among AIAN and NHPI individuals to reduce health inequities.</li>
+<li><strong>Linking practice to policy change in urban community gardens</strong>: The research team is seeking understand what would make gardeners feel safe in their urban community gardens, and identify interventions on local and regulatory levels that centers community feedback and could mitigate exposure to contaminants.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2022/06/09/initiative-announces-awardees-of-spring-quarter-2022-tier-3-pilot-research-grants/">project award page</a>.</p>
+<h3>Tier 1 Grants &#8211; Autumn Quarter 2022</h3>
+<p>The Population Health Initiative awarded nine <a href="https://www.washington.edu/populationhealth/2022/11/01/initiative-awards-nine-autumn-quarter-2022-tier-1-pilot-research-grants-to-uw-teams/" target="_blank" rel="noopener">Tier 1 pilot research grants</a> in autumn quarter 2022 to faculty-led teams representing seven different UW schools and colleges as well as UW Bothell and several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Leveraging a Community-based Participatory Research approach for a Qualitative Study Exploring the Methamphetamine Use Continuum among Cisgender Men and Transgender People who Have Sex with Men</strong>: This study seeks to conduct a qualitative research study to generate a methamphetamine (MA) use continuum model and a quantitative study instrument that will identify specific risk factors for entering and progressing along the MA use continuum.</li>
+<li><strong>Spatiotemporal high-resolution prediction of wildfire smoke exposure: Leveraging satellite remote sensing and low-cost sensor data</strong>: The objective of this study is to develop a spatially and temporally high-resolution framework for estimating wildfire PM2.5 exposure (1 km, daily level) in Washington using an independent PM2.5 dataset collected in Methow Valley, a community in Washington heavily affected by wildfire smoke.</li>
+<li><strong>Evaluating a community-based doula program to inform upcoming expansion of doula care under Medicaid in Washington: a mixed-methods, community informed approach</strong>: This project seeks to evaluate an existing community-based doula program for low-income birthing families in King County while also identifying interventions that address structural racism and support racially minoritized doulas and their clients alongside coverage expansion.</li>
+<li><strong>Optimizing cervical cancer screening guideline adherence and adoption</strong>: This project aims to conduct a preliminary analysis to identify socioeconomic factors associated with cervical cancer under-screening by screening modalities.</li>
+<li><strong>Conducting a needs and capacity assessment with midwives in rural Bangladesh to develop a tailored mental health promotion curriculum for Bangladeshi women during the perinatal period</strong>: This project aims to assist the HOPE Foundation for Women and Children of Bangladesh in conducting a needs and capacity assessment to determine how existing curriculum can be tailored to promote perinatal mental health in Bangladesh via midwives.</li>
+<li><strong>Self-employment, well-being and the social determinants of health: an exploratory study of microenterprise home kitchen operations in California and Washington</strong>: The project seeks to understand how entrepreneurs perceive the effects of self-employment on their mental health and social determinants of health such as financial security, social capital and health care access.</li>
+<li><strong>Unique risks of growing hazards: The influence of culture and marginalization on extreme heat health risks in Washington State</strong>: This study aims to investigate the unique exposure pathways and health impacts of extreme heat among different cultural groups, specifically Black, Latinx and tribal communities in Washington State.</li>
+<li><strong>Laying a foundation for a human centered design (HCD) hub within the Government of Tanzania to innovate nutrition solutions</strong>: This project aims to lay the groundwork for an HCD-trained hub within the Tanzania Food and Nutrition Centre to lead initiatives leveraging HCD methods to solve nutrition problems appropriately and in the right way.</li>
+<li><strong>Improving Birth and Delivery Outcomes among Afghan Refugees in Seattle/King County through a Community-Guided Approach</strong>: This project seeks to identify barriers and facilitators to accessing prenatal care among Afghan refugees in the Seattle and broader King County area.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2022/11/01/initiative-awards-nine-autumn-quarter-2022-tier-1-pilot-research-grants-to-uw-teams/">project award page</a>.</p>
+<h3>Tier 2 Grants &#8211; Autumn Quarter 2022</h3>
+<p>The Population Health Initiative awarded five <a href="https://www.washington.edu/populationhealth/2022/12/06/initiative-announces-award-of-five-autumn-quarter-2022-tier-2-pilot-research-grants/" target="_blank" rel="noopener">Tier 2 pilot research grants</a> in autumn quarter 2022 to faculty-led teams representing six different UW schools and colleges as well as several community-based partners. The awarded projects were:</p>
+<ul>
+<li><strong>Be REAL: A Task-sharing Approach to Implementing a Mental Health Prevention Program for College Students</strong>: This project seeks to provide increased accessible mental health services for college students by adapting the online task-sharing model Be REAL (Resilient Attitudes &amp; Living), a six-week program demonstrated to improve college student well-being at the UW.</li>
+<li><strong>Evaluate Potential Delays in Access to Abortion Services in Washington State Following the U.S. Supreme Court Decision</strong>: This research team will collaborate with Cedar River Clinics to develop a system to extract electronic medical records data to evaluate potential delays in abortion access in Washington State following the June 2022 U.S. Supreme Court decision to overturn Roe v. Wade.</li>
+<li><strong>Development of PCR-free, Phage-Mediated Molecular Diagnostic Tools for Bacterial Infection Detection at the Point-of-Care</strong>: This project team seeks to address the lack of Sepsis diagnostics in many low and middle-income countries by developing an easy-to-use, cost-effective and rapid diagnostic workflow that uses proof-of-concept novel chemistry to detect E.coli (the most common sepsis-causing bacterium).</li>
+<li><strong>NEW Parents Connect: Nurturing Emotional Wellbeing in Perinatal Parents Living in a Low-income Context</strong>: This project will address the barriers to the attendance of their postpartum class by conducting an online version of the group and collecting feedback from the community, building on the team&#8217;s successes in delivering mindfulness-based programs to economically disadvantaged and racially or ethnically diverse families during pregnancy.</li>
+<li><strong>Early Hearing Detection and Intervention in Kenya (EHDI-K): Opportunities and Challenges to Improve Access and Decrease Loss to Follow Up</strong>: This project seeks to bolster services that identify permanent pediatric hearing loss in Kenya much earlier by understanding the key drivers of lack of access and of the failure to follow-up through interviews and focus groups with local caregivers and clinicians.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2022/12/06/initiative-announces-award-of-five-autumn-quarter-2022-tier-2-pilot-research-grants/">project award page</a>.</p>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2021 Pilot Awards</h2>
+<p>The Population Health Initiative awarded eight pilot research grants in 2021 to faculty-led teams representing seven different UW schools and colleges. The awarded projects were:</p>
+<ul>
+<li><strong>Addressing Inequities in Speech-Language Pathology Services for Children with Communication Disorders</strong>: This project&#8217;s goal is to deepen the understanding of contributors to disparities in speech-language pathology service delivery to children with communication disorders from diverse racial and cultural backgrounds.</li>
+<li><strong>Characterizing Risk Communication around Smoke Exposure in Rural and Tribal Communities in the Okanogan River Airshed Emphasis Area</strong>: This project seeks to describe how tribal and non-tribal communities in the Okanogan River Airshed Emphasis Area (ORAEA) receive and communicate information about smoke exposure.</li>
+<li><strong>Supporting Equitable Land Management Decisions Through the Characterization of Wildfire and Prescribe Smoke Exposure for At Risk Communities</strong>: This project aims to differentiate delicate particle matter (PM2.5) exposure from wildfire smoke and prescribed burn events. In addition, they also seek to quantify any disparities in the distribution of these exposures.</li>
+<li><strong>A Collaboratory to Support Equitable and Just Climate Action</strong>: This project seeks to pursue climate action in Washington state through a community-informed and multidisciplinary approach focused on equitable mitigation and adaptation solutions.</li>
+<li><strong>Addressing the Need for Culturally Responsive and Bidirectional Research Communication with the Latinx Community – The BRIDGE Project</strong>: The BRIDGE project is a program that identifies community needs through personal stories to understand the gaps in care, education, and outreach related to COVID-19. They plan to focus on five Latinx groups: immigrants living in detention centers, AfroLatinx, indigenous populations, women during the perinatal period, and Latinx living with disabilities.</li>
+<li><strong>Rapid Community Partnered Mixed-Methods to Promote Vaccine Uptake in Diverse Communities</strong>: This project is working in collaboration with the Vietnamese Health Board and advisory board to develop a toolkit for rapid mixed methods research.</li>
+<li><strong>Co-Designing a Culturally-Responsive, Advanced Technology Intervention to Support the Health and Development of Young Children in King County</strong>: The purpose of this project is to develop an advanced smartphone-based intervention to provide culturally relevant activities and health recommendations.</li>
+<li><strong>Community-Based Formative Research to Advance Reproductive Health Equity in Iñupiaq Alaska</strong>: This project seeks to understand the social, medical and place-based factors affecting women’s sexual and reproductive health in Northwest Alaska through community-based participatory research.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2022/06/30/awardees-of-2021-pilot-research-grants-report-on-project-progress-2/">project award page</a>.</p>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2020 Pilot Awards</h2>
+<p>The Population Health Initiative awarded six pilot research grants in 2020 to faculty-led teams representing 10 different UW schools and colleges. The awarded projects were:</p>
+<ul>
+<li><strong>PATHSS Study: Participatory Active Transportation for Health in South Seattle</strong>: This project conducted a participatory study with the goal of identifying mobility challenges and opportunities in south Beacon Hill. The overall purpose is to identify themes present to community members in order to prepare for the city&#8217;s Beacon Avenue Trail improvement project.</li>
+<li><strong>Environmental and human health impacts of a new invasive species in Madagascar</strong>: This project tested whether there is an association between the presence of marbled crawfish and schistosome competent snails in Maglasy water access sites. They sampled sites in several locations in the Schistosoma haematobium-endemic region of the country to measure the crayfish density.</li>
+<li><strong>Analysis to Translation: Accelerating and Tailoring Responses to Student Mental Health</strong>: Many students experience high levels of stress during their undergraduate career, leading to an increase in risk for a wide range of mental health issues. This project aimed to study student mental health at UW with the goal of using the findings to work with UW mental health services to inform better practices.</li>
+<li><strong>ActoKids Mobile Application: Information access to physical activity opportunities for diverse King County children and families</strong>: The goal of this project was to develop and test the feasibility of an efficient web and mobile application that would allow families from King County to identify local physical activities for their children with the aim of increasing physical activity rates in youth.</li>
+<li><strong>Ensuring equal access to trauma care in Washington State through system modeling</strong>: This project worked to develop a mathematical model of trauma in Washington state to optimize patient access and outcomes.</li>
+<li><strong>Formative Research with the Female Community Health Workers (Marwo Caafimaad) Program to Reduce Maternal Mortality in Puntland, Somalia</strong>: This project is working to research, develop and design an intervention plan to reduce maternal mortality in Putland, Somalia.</li>
+</ul>
+<p>Learn more about the scope of each project by visiting their <a href="https://www.washington.edu/populationhealth/2020/12/08/awardees-of-2020-pilot-research-grants-report-on-project-progress/">project award page</a>.</p>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2019 Pilot Awards</h2>
+<p>The Population Health Initiative awarded six pilot research grants in 2019 to faculty-led teams representing seven different UW schools and colleges. The awarded projects were:</p>
+<ul>
+<li><strong>CocoBot &#8211; Tailored Self-Management Program for Caregivers of Children with Chronic Conditions</strong>: This project created Caring for Caregivers Online (COCO), a platform that delivers empathetic and tailored caregiving support, to help address the burden of chronic disease management that largely falls upon patients and families. This includes skills building and live access to text chat with nurses on their phones.</li>
+<li><strong>Community Pharmacist Integrated Population Health Management of People Living with Epilepsy</strong>: This project aimed to develop a community pharmacist-integrated population health intervention for people with epilepsy. The team accomplished this work by identifying the best practices to address the needs of people living with epilepsy, developing an intervention model using the stakeholder and consensus-building approach and evaluating the feasibility of the intervention.</li>
+<li><strong>Creating Climate Resilient Agricultural Communities in the Tropics through Natural Climate Solutions</strong>: This project examined how potential future climate and land scenarios affect heat exposure mortality and unsafe working conditions in agricultural communities in industrializing tropical countries. They found that warming from deforestation and climate change in Berau Regency, Indonesia, was already affecting the health of people living in low attitudes.</li>
+<li><strong>Does access to federally qualified health centers with high levels of behavioral health integration impact ED and hospital use among Medicaid beneficiaries?</strong>: This project examined the effects of behavioral health integration on outcomes for Medicaid beneficiaries to determine whether integrated care results in reduced emergency department and hospital use.</li>
+<li><strong>Ethnoforestry: Applying Traditional Ecological Knowledge for Ecosystem Sustainability on the Olympic Peninsula</strong>: The project team developed a new model for ecosystem well-being that gave equal weight to both environmental and community well-being.</li>
+<li><strong>Supporting Latinx Parents of Young Children with Tools for Parenting, Stress-Management and Legal Education</strong>: This pilot project studied and implemented a parenting program &#8211; enhanced with stress management and legal education components &#8211; for parents of Latinx children who had vulnerable immigration status.</li>
+</ul>
+<p>Learn more about the outcomes of each project by visiting their <a href="https://www.washington.edu/populationhealth/2021/01/21/pilot-grant-awardees-from-2019-report-final-project-outcomes/">project summary page</a>.</p>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2018 Pilot Awards</h2>
+<p>The Population Health Initiative awarded eight pilot research grants in 2018 to faculty-led teams representing 11 different UW schools and colleges. The awarded projects were:</p>
+<ul>
+<li><strong>Addressing Health Disparities Faced by Rural Underserved Agricultural Communities</strong>: This project partnered with the Community to Community Development (C2C) to conduct a community-wide survey of farm workers living in Skagit and Whatcom communities to better address the barriers farmworkers face to health equity.</li>
+<li><strong>Health for Homeless Youth and Companion Animals in Seattle: Pilot Research into Healthcare, Social Services, and Rights for the Human-Animal Unit</strong>: This project established a community-based research pilot study focusing on the human-animal bond between homeless youth and their animals, which led to the creation of a “One Health” clinic that could treat both humans and animals.</li>
+<li><strong>Lethal Means Assessment in Psychiatric Emergency Services for Suicide Prevention</strong>: This project conducted a large-scale record review of patients who had presented to Psychiatric Emergency Services at Harborview Medical Center before the enactment of the country&#8217;s first suicide prevention training for all healthcare workers. This project generated new partnerships in statewide suicide prevention outreach efforts to advance the science and practice of suicide prevention.</li>
+<li><strong>Mama Ammaan (Safe Mother) Project: African Mother-to-Mother Antenatal Assistance Network (AMMAAN)</strong>: This pilot project assisted East African immigrant and refugee communities in better access, navigating and identifying perinatal health service gaps. Through community-based participatory research, this team was able to develop a perinatal model in addition to establishing four pop-up community meeting sites.</li>
+<li><strong>Building Back Better: Innovative Methods to Measure Resilience</strong>: This project focused on understanding how publicly available data could be used to better understand community resilience in the aftermath of natural disasters, including how to inform recovery activities.</li>
+<li><strong>The UW MetaCenter for Global Disease Preparedness: Proof of Concept Research in Peru</strong>: This project tested the concept of University-wide “MetaCenter” for Prevention of Pandemic Diseases. The activities of this project included developing information visualizations to characterize the outbreak potential of different areas of Peru related to infections caused by viruses transmitted by the Aedes aegypti mosquito.</li>
+<li><strong>Using Digital Learning Tools to Enhance Emotional Regulation for Youth Hospitalized for Aggressive Crises</strong>: The project utilized digital tools such as emWave and Ripple Effects to help disruptive, hospitalized youth better manage their aggression.</li>
+<li><strong>Addressing Health Disparities in Washington State: The Role of Social and Economic Inequities in Intersectional Marginalized Populations</strong>: This project worked to identify the barriers to health and social well-being among racial, gender, and sexual minorities living in Washington state.</li>
+</ul>
+<p>Learn more about the outcomes of each project by visiting their <a href="https://www.washington.edu/populationhealth/2020/02/11/initiative-funded-2018-pilot-research-grant-awardees-report-final-outcomes/">project summary page</a>.</p>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2017 Pilot Awards</h2>
+<p>The Population Health Initiative awarded five pilot research grants in 2017 to faculty-led teams representing 10 different UW schools and colleges. The awarded projects were:</p>
+<ul>
+<li><strong>Connecting fishery and health policies for diet-specific solutions for vulnerable populations</strong>: This pilot project aimed to understand healthier food systems for low-income consumers on the West Coast by better connecting fishery production with U.S food systems. This included identifying nutritionally-vulnerable communities that would benefit from improved fishing access.</li>
+<li><strong>InterACTION Labs</strong>: The InterACTION Labs is a transdisciplinary action research and service-learning program that responds to locally driven priorities to develop, implement and assess built environment projects and their capacity to improve human and ecological health in impoverished communities. This project took place in Claverito, an informal floating community, and involved 90 students, faculty, and professionals from UW and Peru.</li>
+<li><strong>Prepare for the IT workplace program (PREP for IT)</strong>: This project worked to empower young adults with autism pursuing information technology careers. To develop the skills needed to secure, persist, and advance employment in IT workplaces, student participants engaged in workshops, mentoring engagements, shadowing experiences, company visits and coaching.</li>
+<li><strong>Islamic trauma healing: Somalia feasibility study</strong>: This project aimed to address the mental health needs of Somalis and the broader Muslim community through the Islamic Trauma Healing program. Through collected quantitate and qualitative data, this program showed the potential of delivering a low-cost, self sustaining model of faith-based intervention that can be used through mosques, community centers and refugee programs.</li>
+<li><strong>Behavioral health workforce development</strong>: This project worked to address the lack of mental health workforce trainees in evidence-based psychosocial interventions (EBPIs) by developing a training model for non-experts.</li>
+</ul>
+<p>Learn more about the outcomes of each project by visiting their <a href="https://www.washington.edu/populationhealth/2019/02/14/inaugural-pilot-research-grant-awardees-close-out-their-yearlong-projects/">project summary page</a>.</p>
+</div>
+</div>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header"></h2>
+<h4>Other Funding Calls</h4>
+<p>In addition, the Population Health Initiative offered a special call for COVID-19 pilot funding in 2020. The Initiative also partners annually with CoMotion to offer Innovation Awards, and has offered unique funding calls for climate change- and AI-related projects as well as chronic disease pilots.</p>
+</div>
+<div id="uw-accordion-shortcode">
+<div class="js-accordion" data-accordion-prefix-classes="uw-accordion-shortcode">
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">COVID-19 pilot grants</h2>
+<p>The Population Health Initiative awarded 53 COVID-19 pilot grants – totaling roughly $1.7 million in collective funds – across three different funding calls in 2020. The common theme for these projects was better understanding and mitigating the health, economic and equity impact of COVID-19 on communities, particularly the communities of color that the pandemic has hit especially hard.</p>
+<ul>
+<li><strong>Rapid-response grants</strong>: An initial round of 21 rapid-response grant awards supported the UW research community in quickly responding to the vast array of population health–related challenges created by the pandemic. Funded projects ranged in focus from disease surveillance via wastewater testing, to preparing for vaccination campaigns, assessing risks to pregnancy and addressing mental health consequences of the pandemic. <a href="https://www.washington.edu/populationhealth/2021/02/09/initiative-funded-covid-19-rapid-response-grantees-report-final-results/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>Economic-recovery grants</strong>: A subsequent round of 18 economic-recovery grant awards supported researchers in responding to the breadth of pandemic-related economic challenges. The focus of funded projects included addressing economic vulnerability, offering pro bono business and legal consulting, enhancing mass-transit safety and studying the impact on the office workplace. <a href="https://www.washington.edu/populationhealth/2021/08/12/initiative-funded-covid-19-economic-recovery-grantees-report-final-results/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>Population health equity grants</strong>: A final round of 14 population health equity awards were made to support researchers in partnering with communities of color to develop research projects that addressed community-identified needs. Funded projects range in scope from assessing mental health impacts, understanding food insecurity, addressing barriers to COVID-19 testing and measuring housing insecurity. <a href="https://www.washington.edu/populationhealth/2021/05/27/initiative-funded-covid-19-population-health-equity-grantees-report-final-results/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+</ul>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">Innovation Awards with CoMotion</h2>
+<p>The initiative has partnered with <a href="https://comotion.uw.edu/" target="_blank" rel="noopener">CoMotion</a> every year since 2018 to offer a Population Health Innovation Award through its Innovation Fund.</p>
+<p>The Population Health Innovation Award funds projects that both support the vision of the Population Health Initiative and fulfill CoMotion’s criteria of eventually becoming sustainable commercial or social ventures. Projects funded to date are:</p>
+<ul>
+<li><strong>DEFIB AI: Defibrillator Algorithms for Patient-Specific Cardiac Arrest Treatment</strong>: DEFIB AI seeks to equip defibrillators with precision medicine functionality that dynamically aligns the choice and timing of cardiac arrest treatment with a patient’s specific physiology. <a href="https://www.washington.edu/populationhealth/2023/07/11/initiative-jointly-funds-two-innovation-gap-fund-projects-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>SocioLx Solutions</strong>: This project seeks to reduce or eliminate three different kinds of bias that make automatic speech recognition less accurate for certain racial and ethnic groups.. <a href="https://www.washington.edu/populationhealth/2023/07/11/initiative-jointly-funds-two-innovation-gap-fund-projects-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>pHastCam</strong>: pHast Cam utilizes a patch containing a pH sensitive dye and ubiquitous smartphone camera technology to determine blood pH of infants at risk of perinatal brain injury within seconds. <a href="https://www.washington.edu/populationhealth/2022/07/05/initiative-co-funds-three-innovation-gap-fund-projects-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>Low Volume Intradermal Delivery Adaptor for Vaccination</strong>: An ultra-low volume microarray syringe adaptor for malaria vaccination allowing the highly effective whole organism malaria vaccines to be easily administered to the ideal place in the skin in a single dose. <a href="https://www.washington.edu/populationhealth/2022/07/05/initiative-co-funds-three-innovation-gap-fund-projects-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>SeaO2_Farms</strong>: This project seeks to grow gigatonnes of microalgae offshore, at a fraction of the cost of land crops and without using arable land or fresh water, while capturing massive amounts of atmospheric C02. <a href="https://www.washington.edu/populationhealth/2022/07/05/initiative-co-funds-three-innovation-gap-fund-projects-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>Tuberculosis Treatment Support Tools (TB-TSTs)</strong>: This project aimed to combine home-based tests for TB medication ingestion with an innovative mobile application that supports individual patients and their care team. <a href="https://www.washington.edu/populationhealth/2021/06/22/initiative-and-comotion-co-fund-grant-to-better-treat-and-prevent-tuberculosis/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>Development of a Social Robot to Measure and Improve Adolescent Mental Health</strong>: EMAR is a school-based social robot that captures anonymous mental health data while delivering evidence-based micro interventions to teens. <a href="https://www.washington.edu/populationhealth/2020/06/25/initiative-co-funds-two-innovation-gap-fund-grants-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>PestiSafe-PestiSeguro</strong>: This project is a bilingual, anywhere-anytime, mobile app that bridges the significant language disparity on farms, giving growers and farmworkers a unique risk management tool that directly improves the health, safety, environmental and financial risks of applying pesticides. <a href="https://www.washington.edu/populationhealth/2020/06/25/initiative-co-funds-two-innovation-gap-fund-grants-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>Non-Invasive Ultrasonic Clearing of Implanted Catheters</strong>: This project seeks to better treat hydrocephalus, a buildup of fluid in the cavities deep within the brain of infants and children, by using focused ultrasound to generate a force within implanted catheters to “push” out the debris causing the obstruction. <a href="https://www.washington.edu/populationhealth/2019/06/25/initiative-and-comotion-co-fund-grant-to-treat-pediatric-hydrocephalus/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>NatureCollections: A mobile app that connects kids with nature</strong>: An app that seeks to harness children’s enthusiasm for technology and their love of collecting things to encourage them to explore their natural environment. <a href="https://www.washington.edu/populationhealth/2018/05/22/initiative-awards-population-health-innovation-grant-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>Colleague.AI</strong>: An AI assistant for educators, seeks to refine an artificial intelligence-driven assistant that supports K-12 by improving instructional quality, personalizing education and reducing teachers’ workload stress. <a href="https://www.washington.edu/populationhealth/2024/07/02/initiative-jointly-funds-two-spring-2024-innovation-gap-fund-projects-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+<li><strong>Simba Discovery</strong>: This project seeks to develop a safe and effective vaccine for urinary tract infections through rigorous preclinical research and Investigational New Drug-enabling studies. <a href="https://www.washington.edu/populationhealth/2024/07/02/initiative-jointly-funds-two-spring-2024-innovation-gap-fund-projects-with-comotion/" target="_blank" rel="noopener">Learn More &gt;</a></li>
+</ul>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">Climate change planning and pilot grants</h2>
+<p>The Population Health Initiative awarded 12 planning grants in spring quarter 2023 to researchers from all three University of Washington campuses to support the launch of new climate-focused collaborations. <a href="https://www.washington.edu/populationhealth/2023/05/10/initiative-announces-the-award-of-12-climate-change-planning-grants/" target="_blank" rel="noopener">Learn More &gt;</a></p>
+<p>The 12 project teams that received planning grants were then offered the opportunity to compete for a special round of climate change planning grants in autumn quarter 2023. Four teams were awarded pilot grants that allowed them to move to a proof-of-concept stage in their work. <a href="https://www.washington.edu/populationhealth/2023/10/31/initiative-awards-four-pilot-grants-for-climate-change-focused-projects/" target="_blank" rel="noopener">Learn More &gt;</a></p>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">Artificial intelligence-focused pilot grants</h2>
+<p>The Population Health Initiative awarded five, $100,000 artificial intelligence-focused pilot grants in spring 2024 to support interdisciplinary teams of University of Washington researchers to develop preliminary data or proof-of-concept needed to pursue follow-on funding to scale their respective efforts. The goal of this special funding call was to accelerate the application of large language models and generative AI to seemingly intractable grand challenges in population health. <a href="https://www.washington.edu/populationhealth/2024/06/18/initiative-announces-awardees-of-ai-focused-population-health-pilot-projects/" rel="noopener" target="_blank">Learn More &gt;</a></p>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">Chronic disease pilot grants</h2>
+<p>The Population Health Initiative, in partnership with Novo Nordisk and the University of Washington’s Engineering Innovation in Health program, launched a pilot grant program in 2022 to catalyze innovative projects that seek to develop solutions for people experiencing chronic disease. The two following <a href="https://www.washington.edu/populationhealth/2022/07/06/initiative-awards-chronic-disease-pilot-grants-to-two-digital-biomarker-focused-projects/">grants</a> were awarded through this pilot program:</p>
+<ul>
+<li><strong>Wearable sweat sensors for smartphone-enabled diabetes monitoring:</strong> This project is aiming to develop a non-invasive, battery-free, cost-effective wearable sweat sensor, integrated with a smartphone, that can continuously monitor pH and glucose levels and thus enable self-health monitoring for diabetic patients.</li>
+<li><strong>Evaluating a novel, portable, self-administered device (“Beacon”) that measures critical flicker frequency toward at-home testing for minimal hepatic encephalopathy in cirrhosis:</strong> This project is seeking to develop a novel, critical flicker frequency device that can function as an in-home screening test for hepatic encephalopathy, which is a neurocognitive impairment that can be caused by cirrhosis.</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+      </div>
+
+    </div>
+
+  
+          <div id="sidebar">
+  <div class="col-md-4 uw-sidebar">
+    <nav id="desktop-relative" aria-label="mobile menu that is not visible in the desktop version"><ul class="uw-sidebar-menu first-level"><li class="pagenav"><a href="https://www.washington.edu/populationhealth" title="Home" class="homelink">Home</a><ul><li class="page_item page-item-6670 page_item_has_children current_page_ancestor current_page_parent child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/">Research</a>
+<ul class='children'>
+	<li class="page_item page-item-6696 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/bolstering-community-well-being/">Bolstering community well-being</a></li>
+	<li class="page_item page-item-6702 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity/">Improving vaccine equity in the U.S.</a></li>
+	<li class="page_item page-item-8934 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity-in-canada/">Improving vaccine equity in Canada</a></li>
+	<li class="page_item page-item-6706 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/boosting-vaccination-coverage/">Boosting vaccination coverage</a></li>
+	<li class="page_item page-item-8140 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/understanding-vaccine-hesitancy-of-nurses/">Understanding vaccine hesitancy of nurses</a></li>
+	<li class="page_item page-item-8190 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/assessing-drivers-of-hpv-vaccine-hesitancy/">Assessing drivers of HPV vaccine hesitancy</a></li>
+	<li class="page_item page-item-10357 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/reducing-vaccine-disparities-for-the-urban-underserved/">Reducing vaccine disparities for the urban underserved</a></li>
+	<li class="page_item page-item-6782 current_page_item"><span>Funded pilot projects</span></li>
+	<li class="page_item page-item-1327 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/research/population-health-research-across-the-uw/">Population health research at the UW</a></li>
+</ul>
+</li>
+</ul></li></ul></nav>    
+    <div role="navigation" aria-label="sidebar_navigation" id="uw-widget-cards-3" class="widget cards-widget">
+      <div class="default-card">
+
+      <div class='card-image' style='background-image:url(https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2018/07/30232853/What-is-pop-health-2_375x250.jpg      )'></div>
+
+      <span>
+      <h3>
+                <a href="https://www.washington.edu/populationhealth/about/what-is-population-health/" class="pic-title">What is population health?</a>
+              </h3>
+
+      <span class="udub-slant"><span></span></span>
+
+      <p><small>Population health is a broad concept encompassing not only the elimination of diseases and injuries, but also the intersecting and overlapping factors that influence health. </small></p>
+
+              <a href="https://www.washington.edu/populationhealth/about/what-is-population-health/" class="pic-text-more uw-btn btn-sm btn-gold">Learn more</a>
+            </span>
+
+
+
+      </div>
+
+    </div><div role="navigation" aria-label="sidebar_navigation" id="custom_html-3" class="widget_text widget widget_custom_html"><h2 class="widgettitle">Population Health Twitter</h2>
+<div class="textwidget custom-html-widget"><a class="twitter-timeline" data-height="700" data-dnt="true" data-link-color="#0074bb" href="https://twitter.com/UW_PHI?ref_src=twsrc%5Etfw">Tweets by UW_PHI</a><br /><noscript>Please enable JavaScript to view this widget.</noscript><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div><div role="navigation" aria-label="sidebar_navigation" id="text-2" class="widget widget_text"><h2 class="widgettitle">Events calendar</h2>
+			<div class="textwidget"><script type="text/javascript" src="//www.trumba.com/scripts/spuds.js"></script><script type="text/javascript" id="trumba57">$Trumba.addSpud({webName:"sea_popuhlt",spudType:"upcoming",BorderColor:"#FFFFFF",marginTop:0,teaserBase:"http://www.washington.edu/populationhealth/news/events/"});</script>
+</div>
+		</div>  </div>
+
+</div>
+
+
+  </div>
+
+</div>
+
+    <div role="contentinfo" class="uw-footer">
+
+        <a href="http://www.washington.edu" class="footer-wordmark">University of Washington</a>
+
+        <a href="http://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+
+        <h4>Connect with us:</h4>
+
+        <nav aria-label="social networking">
+            <ul class="footer-social">
+                <li><a class="facebook" href="http://www.facebook.com/UofWA">Facebook</a></li>
+                <li><a class="twitter" href="http://twitter.com/UW">Twitter</a></li>
+                <li><a class="instagram" href="http://instagram.com/uofwa">Instagram</a></li>
+                <li><a class="youtube" href="http://www.youtube.com/user/uwhuskies">YouTube</a></li>
+                <li><a class="linkedin" href="http://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+                <li><a class="pinterest" href="http://www.pinterest.com/uofwa/">Pinterest</a></li>
+            </ul>
+        </nav>
+
+        <nav aria-label="footer navigation">
+            <ul class="footer-links">
+                <li><a href="http://www.uw.edu/accessibility">Accessibility</a></li>
+                <li><a href="http://uw.edu/contact">Contact Us</a></li>
+                <li><a href="http://www.washington.edu/jobs">Jobs</a></li>
+                <li><a href="http://www.washington.edu/safety">Campus Safety</a></li>
+                <li><a href="http://my.uw.edu/">My UW</a></li>
+                <li><a href="http://www.washington.edu/rules/wac">Rules Docket</a></li>
+                <li><a href="http://www.washington.edu/online/privacy/">Privacy</a></li>
+                <li><a href="http://www.washington.edu/online/terms/">Terms</a></li>
+                <li><a href="http://www.washington.edu/newsletter/">Newsletter</a></li>
+            </ul>
+        </nav>
+
+        <p>&copy; 2024 University of Washington  |  Seattle, WA</p>
+
+    </div>
+
+    </div><!-- #uw-container-inner -->
+    </div><!-- #uw-container -->
+
+<style id='core-block-supports-inline-css' type='text/css'>
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw-2014/js/uw.accordionmodule.js?ver=3.0.3" id="uw-accordionmodule-js"></script>
+
+</body>
+</html>

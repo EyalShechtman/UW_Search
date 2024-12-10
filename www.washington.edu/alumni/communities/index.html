@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js">
+    <head>
+        <title> Communities  |  Alumni </title>
+        <meta charset="utf-8">
+        <meta name="description" content="The online home of UW alumni">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.washington.edu' />
+<link rel='dns-prefetch' href='//api.tiles.mapbox.com' />
+<link rel='dns-prefetch' href='//api.mapbox.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Alumni &raquo; Feed" href="https://www.washington.edu/alumni/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Alumni &raquo; Comments Feed" href="https://www.washington.edu/alumni/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Alumni &raquo; Communities Comments Feed" href="https://www.washington.edu/alumni/communities/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='//www.washington.edu/wp-includes/css/dist/block-library/style.css?ver=6.6.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='outside-custom-style-css' href='//www.washington.edu/wp-content/plugins/logo-stack/css/outside_isotope.css?ver=20171707' type='text/css' media='all' />
+<link rel='stylesheet' id='mapbox-css' href='https://api.tiles.mapbox.com/mapbox.js/v2.1.2/mapbox.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mapbox-gl-js-css' href='https://api.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mapbox331-css' href='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-cinzel-css' href='https://fonts.googleapis.com/css?family=Cinzel&#038;ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uwaa_admin-css' href='//www.washington.edu/wp-content/themes/uwaa-2014/admin.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='//www.washington.edu/wp-includes/css/dashicons.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uw-master-css' href='//www.washington.edu/wp-content/themes/uw-2014/style.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-open-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='uw-style-css' href='//www.washington.edu/wp-content/themes/uwaa-2014/style.css?ver=1.29.3.0' type='text/css' media='all' />
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/jquery/jquery.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" id="jquery-core-js-after">
+/* <![CDATA[ */
+$ = jQuery;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/plugins/uw-analytics/analytics.js?ver=2.0" id="analytics.js-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uwaa-2014/js/support/googleTagManager.min.js?ver=2.0" id="googleTagManager-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" id="site-js-extra">
+/* <![CDATA[ */
+var style_dir = ["https:\/\/www.washington.edu\/cms\/alumni"];
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.washington.edu\/cms\/alumni\/wp-admin\/admin-ajax.php","nonce":"8b12f5535d","display_exif":"1","display_geo":"","background_color":"white","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","require_name_email":"1","login_url":"https:\/\/www.washington.edu\/cms\/alumni\/wp-login.php?redirect_to=https%3A%2F%2Fwww.washington.edu%2Fcms%2Falumni%2Fcommunities%2F"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw-2014/js/site.js?ver=3.0.3" id="site-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.washington.edu/alumni/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel="canonical" href="https://www.washington.edu/alumni/communities/" />
+<script type='text/javascript'> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-1576494-1', 'auto'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script>		<script type="text/javascript">
+				(function(c,l,a,r,i,t,y){
+					c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;
+					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+				})(window, document, "clarity", "script", "a27relaqr3");
+		</script>
+		
+        <!--[if lt IE 9]>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/html5shiv.js" type="text/javascript"></script>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/respond.js" type="text/javascript"></script>
+            <link rel='stylesheet' href='//www.washington.edu/wp-content/themes/uw-2014/assets/ie/css/ie.css' type='text/css' media='all' />
+        <![endif]-->
+
+        
+    </head>
+    <!--[if lt IE 9]> <body class="page-template-default page page-id-52 page-parent lt-ie9 cms page-communities site-alumni"> <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <body class="page-template-default page page-id-52 page-parent cms page-communities site-alumni" >
+    <!--<![endif]-->
+
+    <div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container"></div>
+
+    <a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip to main content</a>
+
+    <div id="uw-container">
+        
+	<nav id="quicklinks" aria-label="quick links" aria-hidden="true">
+<ul id="big-links"><li><span class="icon-myuw"></span><a href="https://my.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=myuw" tabindex="-1">MyUW</a></li><li><span class="icon-calendar"></span><a href="//uw.edu/calendar/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=calendar" tabindex="-1">Calendar</a></li><li><span class="icon-directories"></span><a href="https://directory.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=directories" tabindex="-1">Directories</a></li><li><span class="icon-libraries"></span><a href="https://lib.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=libraries" tabindex="-1">Libraries</a></li><li><span class="icon-medicine"></span><a href="https://www.uwmedicine.org/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwmedicine" tabindex="-1">UW Medicine</a></li><li><span class="icon-maps"></span><a href="//uw.edu/maps/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=maps" tabindex="-1">Maps</a></li><li><span class="icon-uwtoday"></span><a href="//uw.edu/news/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwnews" tabindex="-1">UW News</a></li></ul><h3>Helpful Links</h3> <ul id="little-links"><li><a href="https://itconnect.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=computingit" tabindex="-1">Computing/IT</a></li><li><a href="https://employeehelp.workday.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=workdayhcm" tabindex="-1">Workday HCM</a></li><li><a href="https://hfs.uw.edu/Husky-Card-Services/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=huskycard" tabindex="-1">Husky Card</a></li><li><a href="https://www.uwb.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwbothell" tabindex="-1">UW Bothell</a></li><li><a href="https://www.tacoma.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtacoma" tabindex="-1">UW Tacoma</a></li><li><a href="https://www.facebook.com/UofWA?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwfacebook" tabindex="-1">UW Facebook</a></li><li><a href="https://twitter.com/UW?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtwitter" tabindex="-1">UW Twitter</a></li></ul></nav>
+
+    <div id="uw-container-inner">
+
+
+    <header class="uw-thinstrip" role="banner">
+
+  <div class="container">
+    <a href="http://uw.edu" title="University of Washington Home">
+      <div class="uw-patch">University of Washington</div>
+      <div class="uw-wordmark">University of Washington</div>
+    </a>
+  </div>
+  <div class='align-right'>
+      <nav class="uw-thin-strip-nav" aria-label='audience menu'>
+          <ul class="uw-thin-links">
+            <li><a href="http://uw.edu/studentlife" title="Students">Students</a></li>
+            <li><a href="http://uw.edu/parents" title="Parents">Parents</a></li>
+            <li><a href="http://uw.edu/facultystaff" title="Faculty & Staff">Faculty & Staff</a></li>
+            <li><a href="http://uw.edu/alumni" title="Alumni">Alumni</a></li>
+          </ul>
+      </nav>
+      <nav id='search-quicklinks' aria-label='search and quick links'>
+      <button class='uw-search' aria-owns='uwsearcharea' aria-controls='uwsearcharea' aria-expanded='false' aria-label='Search UW' aria-haspopup='true'>
+<!--[if gt IE 8]><!-->
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               width="19px" height="51px" viewBox="0 0 18.776 51.062" enable-background="new 0 0 18.776 51.062" xml:space="preserve" focusable="false">
+          <g>
+              <path fill="#FFFFFF" d="M3.537,7.591C3.537,3.405,6.94,0,11.128,0c4.188,0,7.595,3.406,7.595,7.591
+                c0,4.187-3.406,7.593-7.595,7.593C6.94,15.185,3.537,11.778,3.537,7.591z M5.245,7.591c0,3.246,2.643,5.885,5.884,5.885
+                c3.244,0,5.89-2.64,5.89-5.885c0-3.245-2.646-5.882-5.89-5.882C7.883,1.71,5.245,4.348,5.245,7.591z"/>
+
+              <rect x="2.418" y="11.445" transform="matrix(0.7066 0.7076 -0.7076 0.7066 11.7842 2.0922)" fill="#FFFFFF" width="1.902" height="7.622"/>
+          </g>
+          <path fill="#FFFFFF" d="M3.501,47.864c0.19,0.194,0.443,0.29,0.694,0.29c0.251,0,0.502-0.096,0.695-0.29l5.691-5.691l5.692,5.691
+              c0.192,0.194,0.443,0.29,0.695,0.29c0.25,0,0.503-0.096,0.694-0.29c0.385-0.382,0.385-1.003,0-1.388l-5.692-5.691l5.692-5.692
+              c0.385-0.385,0.385-1.005,0-1.388c-0.383-0.385-1.004-0.385-1.389,0l-5.692,5.691L4.89,33.705c-0.385-0.385-1.006-0.385-1.389,0
+              c-0.385,0.383-0.385,1.003,0,1.388l5.692,5.692l-5.692,5.691C3.116,46.861,3.116,47.482,3.501,47.864z"/>
+          </svg>
+<!--<![endif]-->
+      </button>
+      <button class='uw-quicklinks' aria-haspopup='true' aria-expanded="false" aria-label="quick links">Quick Links<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="15.63px" height="69.13px" viewBox="0 0 15.63 69.13" enable-background="new 0 0 15.63 69.13" xml:space="preserve" focusable="false"><polygon fill="#FFFFFF" points="12.8,7.776 12.803,7.773 5.424,0 3.766,1.573 9.65,7.776 3.766,13.98 5.424,15.553 12.803,7.78"/><polygon fill="#FFFFFF" points="9.037,61.351 9.036,61.351 14.918,55.15 13.26,53.577 7.459,59.689 1.658,53.577 0,55.15 5.882,61.351 5.882,61.351 5.884,61.353 0,67.557 1.658,69.13 7.459,63.019 13.26,69.13 14.918,67.557 9.034,61.353"/></svg></button>
+      </nav>
+  </div>
+
+</header>
+
+    <nav id="dawgdrops" aria-label="Main menu"><div class="dawgdrops-inner container" role="application"><a href="https://www.washington.edu/alumni" ><div class="uwaa-home-logo"></div></a><ul id="menu-uwaa-navigation" class="dawgdrops-nav"><li class="dawgdrops-item"><a href="https://www.washington.edu/alumni/events/" title="Events"  id="4134">Events</a></li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/alumni/membership/" class="dropdown-toggle" title="UWAA Members"  id="4153">UWAA Members</a>
+<button data-toggle="dropdown" aria-controls="menu-4153" aria-labelledby="4153"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-4153" aria-labelledby='4153' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/alumni/membership/be-a-member/join-or-renew/" tabindex="-1"  title="Join or renew"  id="join-or-renew-2">Join or renew</a></li>
+	<li><a href="https://www.washington.edu/alumni/membership/be-a-member/" tabindex="-1"  title="Reasons to be a member"  id="16123">Reasons to be a member</a></li>
+	<li><a href="https://www.washington.edu/alumni/membership/benefits/" tabindex="-1"  title="Member benefits"  id="4157">Member benefits</a></li>
+	<li><a href="https://www.washington.edu/alumni/membership/2024grad/" tabindex="-1"  title="Class of 2024"  id="congradulations-class-of-24">Class of 2024</a></li>
+	<li><a href="https://www.washington.edu/alumni/membership/member-account/" tabindex="-1"  title="Member account"  id="4160">Member account</a></li>
+	<li><a href="https://www.washington.edu/alumni/membership/get-the-app/" tabindex="-1"  title="Get the app"  id="4158">Get the app</a></li>
+	<li><a href="https://www.washington.edu/alumni/membership/uw-impact/" tabindex="-1"  title="UW Impact"  id="4159">UW Impact</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/alumni/travel/" class="dropdown-toggle" title="Travel"  id="4147">Travel</a>
+<button data-toggle="dropdown" aria-controls="menu-4147" aria-labelledby="4147"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-4147" aria-labelledby='4147' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/alumni/travel/upcoming-tours/" tabindex="-1"  title="Upcoming Tours"  id="4148">Upcoming Tours</a></li>
+	<li><a href="https://www.washington.edu/alumni/travel/traveling-with-us/" tabindex="-1"  title="Traveling with us"  id="4149">Traveling with us</a></li>
+	<li><a href="https://www.washington.edu/alumni/travel/traveler-testimonials/" tabindex="-1"  title="Traveler Testimonials"  id="24223">Traveler Testimonials</a></li>
+	<li><a href="https://www.washington.edu/alumni/travel/tour-operators/" tabindex="-1"  title="Tour Operators"  id="24214">Tour Operators</a></li>
+	<li><a href="https://www.washington.edu/alumni/travel/travel-insurance/" tabindex="-1"  title="Travel insurance"  id="4151">Travel insurance</a></li>
+	<li><a href="https://www.washington.edu/alumni/travel/resources-faqs/" tabindex="-1"  title="Resources &amp; FAQs"  id="resources-faqs">Resources &amp; FAQs</a></li>
+	<li><a href="https://www.washington.edu/alumni/?page_id=42616" tabindex="-1"  title="COVID-19 Updates"  id="42622">COVID-19 Updates</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/alumni/communities/" class="dropdown-toggle" title="Communities"  id="4135">Communities</a>
+<button data-toggle="dropdown" aria-controls="menu-4135" aria-labelledby="4135"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-4135" aria-labelledby='4135' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/alumni/communities/u-s-huskies/" tabindex="-1"  title="U.S. Huskies"  id="4136">U.S. Huskies</a>
+	<button data-toggle="dropdown" aria-controls="menu-4136" aria-labelledby="4136"><i class="icon-chevron-down"></i></button>
+</li>
+</li>
+</li>
+</li>
+</li>
+</li>
+</li>
+	<li><a href="https://www.washington.edu/alumni/communities/international-huskies/" tabindex="-1"  title="International Huskies"  id="4137">International Huskies</a>
+	<button data-toggle="dropdown" aria-controls="menu-4137" aria-labelledby="4137"><i class="icon-chevron-down"></i></button>
+</li>
+</li>
+	<li><a href="https://www.washington.edu/alumni/communities/uw-schools-colleges-campuses/" tabindex="-1"  title="UW campuses, colleges &amp; schools"  id="uw-campuses-colleges-schools">UW campuses, colleges &amp; schools</a></li>
+	<li><a href="https://www.washington.edu/alumni/communities/alwayslearning/" tabindex="-1"  title="Always Learning"  id="42489">Always Learning</a></li>
+	<li><a href="https://www.washington.edu/alumni/communities/common-ground/" tabindex="-1"  title="Common Ground"  id="26049">Common Ground</a></li>
+	<li><a href="https://www.washington.edu/alumni/communities/first-generation-college-stories/" tabindex="-1"  title="Celebrate First Generation College Students"  id="59262">Celebrate First Generation College Students</a></li>
+	<li><a href="https://www.washington.edu/alumni/communities/map/" tabindex="-1"  title="MAP: Alumni of Color Network"  id="37273">MAP: Alumni of Color Network</a></li>
+	<li><a href="https://www.washington.edu/alumni/communities/reunions/" tabindex="-1"  title="Reunions"  id="31261">Reunions</a></li>
+	<li><a href="https://www.washington.edu/alumni/communities/huskylanding/" tabindex="-1"  title="UW Husky Landing"  id="44521">UW Husky Landing</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/alumni/future-alumni/" class="dropdown-toggle" title="Future Alumni"  id="14287">Future Alumni</a>
+<button data-toggle="dropdown" aria-controls="menu-14287" aria-labelledby="14287"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-14287" aria-labelledby='14287' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/alumni/future-alumni/homecoming-scholars/" tabindex="-1"  title="Homecoming Scholars"  id="64845">Homecoming Scholars</a></li>
+	<li><a href="https://www.washington.edu/alumni/future-alumni/huskiesatwork/" tabindex="-1"  title="Huskies@Work"  id="14291">Huskies@Work</a></li>
+	<li><a href="https://www.washington.edu/alumni/future-alumni/husky-lunch-network/" tabindex="-1"  title="Husky Lunch Network"  id="66894">Husky Lunch Network</a></li>
+	<li><a href="https://www.washington.edu/alumni/future-alumni/student-alumni-ambassadors/" tabindex="-1"  title="Student Alumni Ambassadors"  id="23478">Student Alumni Ambassadors</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/alumni/services/" class="dropdown-toggle" title="Services"  id="4140">Services</a>
+<button data-toggle="dropdown" aria-controls="menu-4140" aria-labelledby="4140"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-4140" aria-labelledby='4140' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/alumni/services/career/" tabindex="-1"  title="Career"  id="13758">Career</a></li>
+	<li><a href="https://www.washington.edu/alumni/services/online-services/" tabindex="-1"  title="Email &amp; online tools"  id="email-online-tools-2">Email &amp; online tools</a></li>
+	<li><a href="https://www.washington.edu/alumni/services/transcripts/" tabindex="-1"  title="Transcripts"  id="4143">Transcripts</a></li>
+	<li><a href="https://www.washington.edu/alumni/services/update/" tabindex="-1"  title="Update your information"  id="4144">Update your information</a></li>
+	<li><a href="https://www.washington.edu/alumni/services/uw-netid/" tabindex="-1"  title="UW NetID"  id="4142">UW NetID</a></li>
+	<li><a href="https://www.washington.edu/alumni/services/becu/" tabindex="-1"  title="BECU"  id="4145">BECU</a></li>
+	<li><a href="https://www.washington.edu/alumni/services/farmers/" tabindex="-1"  title="Farmers Insurance"  id="71401">Farmers Insurance</a></li>
+	<li><a href="https://www.washington.edu/alumni/services/amba-insurance/" tabindex="-1"  title="AMBA Insurance"  id="71863">AMBA Insurance</a></li>
+	<li><a href="https://www.washington.edu/alumni/services/rainier-vista-art-prints/" tabindex="-1"  title="Rainier Vista Art Prints"  id="73248">Rainier Vista Art Prints</a></li>
+</ul>
+</li>
+</ul></div></nav>
+
+
+<div class="uw-hero-image communities"></div>
+
+<div class="container uw-body">
+
+  <div class="row">
+
+    <div class="col-md-8 uw-content" role='main'>
+
+    <h2 class="uw-site-title">Communities</h2>
+
+  <div class="row uwaa-home-branding-row">
+    <div class="col-sm-12 col-xs-12">
+      <nav class='uw-breadcrumbs' aria-label='breadcrumbs'><ul><li><a href="http://uw.edu" title="University of Washington">Home</a></li><li><a href="https://www.washington.edu/alumni/" title="Alumni">Alumni</a><li><li  class="current" ><span>Communities</span></li></ul></nav>    </div>    
+  </div>
+  
+      <div class="uw-body-copy">
+
+        
+
+        <div class="mobile-menu-row"><nav id="mobile-relative" role="navigation" aria-label="mobile-menu"><button class="uw-mobile-menu-toggle">Menu</button><ul class="uw-mobile-menu first-level"><li class="pagenav"><a href=" https://www.washington.edu/alumni" title="Home" class="homelink">Home</a><ul id="menu-uwaa-navigation-1" class="menu"><li class="pagenav page-item-4135 page_item_has_children current_page_item"><span>Communities</span>
+<ul class="children">
+	<li class="pagenav page-item-4136 page_item_has_children"><a href="https://www.washington.edu/alumni/communities/u-s-huskies/">U.S. Huskies</a>
+	<ul class="children">
+		<li class="pagenav page-item-9475"><a href="https://www.washington.edu/alumni/communities/chapters/eastern-washington/">Eastern Washington</a></li>
+		<li class="pagenav page-item-5425"><a href="https://www.washington.edu/alumni/communities/chapters/oregon/">Oregon</a></li>
+		<li class="pagenav page-item-4162"><a href="https://www.washington.edu/alumni/communities/chapters/northern-california/">Northern California</a></li>
+		<li class="pagenav page-item-4163"><a href="https://www.washington.edu/alumni/communities/chapters/southern-california/">Southern California</a></li>
+		<li class="pagenav page-item-4161"><a href="https://www.washington.edu/alumni/communities/chapters/new-york-city/">New York City</a></li>
+		<li class="pagenav page-item-5862"><a href="https://www.washington.edu/alumni/communities/chapters/washington-dc/">Washington, D.C.</a></li>
+	</ul>
+</li>
+	<li class="pagenav page-item-4137 page_item_has_children"><a href="https://www.washington.edu/alumni/communities/international-huskies/">International Huskies</a>
+	<ul class="children">
+		<li class="pagenav page-item-7387"><a href="https://www.washington.edu/alumni/communities/chapters/china/">China Huskies</a></li>
+	</ul>
+</li>
+	<li class="pagenav page-item-4139"><a href="https://www.washington.edu/alumni/communities/uw-schools-colleges-campuses/">UW campuses, colleges &amp; schools</a></li>
+	<li class="pagenav page-item-42489"><a href="https://www.washington.edu/alumni/communities/alwayslearning/">Always Learning</a></li>
+	<li class="pagenav page-item-26049"><a href="https://www.washington.edu/alumni/communities/common-ground/">Common Ground</a></li>
+	<li class="pagenav page-item-59262"><a href="https://www.washington.edu/alumni/communities/first-generation-college-stories/">Celebrate First Generation College Students</a></li>
+	<li class="pagenav page-item-37273"><a href="https://www.washington.edu/alumni/communities/map/">MAP: Alumni of Color Network</a></li>
+	<li class="pagenav page-item-31261"><a href="https://www.washington.edu/alumni/communities/reunions/">Reunions</a></li>
+	<li class="pagenav page-item-44521"><a href="https://www.washington.edu/alumni/communities/huskylanding/">UW Husky Landing</a></li>
+</ul>
+</li>
+</li></ul></nav>
+
+
+<p>Sharing a connection across three campuses and extending to places all over the world, UW alumni are united in the belief that together we will make a difference. Join our active community of UW alumni for local events and meet Dawgs from your own backyard.</p>
+<p>&nbsp;</p>
+</div><div id="map-container">
+
+    <div id="map">
+     <div id="loader">
+        <div class="spinner"></div>
+    </div>    
+    
+    </div>
+    
+</div>
+   
+        <nav class='mapboxgl-control-container' style="display: flex; justify-content: flex-end" id="mapNavigation">
+          <div class="uwaa-btn-wrapper" style=''><span class="uwaa-btn uwaa-btn-join btn-purple btn-slant-right " id="usNav">&nbsp;&nbsp;U.S.</span></div>
+          <div class="uwaa-btn-wrapper"><span class="uwaa-btn uwaa-btn-join btn-gold btn-slant-left " id="asiaNav">Global&nbsp;&nbsp;</span></div>
+        </nav>
+
+        <h3 style="margin-top:60px;">Is your contact information current?</h3>
+        <p>Don't miss out on all the Husky happenings around the world. Please take a moment to update your information.</p>
+        <div class="uwaa-btn-wrapper"><a class="uwaa-btn btn-slant-right btn-purple" href="https://www.washington.edu/alumni/services/update-your-information/" target="_blank">Update your information</a></div>
+         
+
+      </div>
+
+    </div>
+    
+     <div class="col-md-4 uw-sidebar">
+    <nav id="desktop-relative" role="navigation" aria-label="relative"><ul class="uw-sidebar-menu first-level"><li class="pagenav"><a href=" https://www.washington.edu/alumni" title="Home" class="homelink">Home</a><ul id="menu-uwaa-navigation-2" class="menu"><li class="pagenav page-item-4135 page_item_has_children current_page_item"><span>Communities</span>
+<ul class="children">
+	<li class="pagenav page-item-4136 page_item_has_children"><a href="https://www.washington.edu/alumni/communities/u-s-huskies/">U.S. Huskies</a>
+	<ul class="children">
+		<li class="pagenav page-item-9475"><a href="https://www.washington.edu/alumni/communities/chapters/eastern-washington/">Eastern Washington</a></li>
+		<li class="pagenav page-item-5425"><a href="https://www.washington.edu/alumni/communities/chapters/oregon/">Oregon</a></li>
+		<li class="pagenav page-item-4162"><a href="https://www.washington.edu/alumni/communities/chapters/northern-california/">Northern California</a></li>
+		<li class="pagenav page-item-4163"><a href="https://www.washington.edu/alumni/communities/chapters/southern-california/">Southern California</a></li>
+		<li class="pagenav page-item-4161"><a href="https://www.washington.edu/alumni/communities/chapters/new-york-city/">New York City</a></li>
+		<li class="pagenav page-item-5862"><a href="https://www.washington.edu/alumni/communities/chapters/washington-dc/">Washington, D.C.</a></li>
+	</ul>
+</li>
+	<li class="pagenav page-item-4137 page_item_has_children"><a href="https://www.washington.edu/alumni/communities/international-huskies/">International Huskies</a>
+	<ul class="children">
+		<li class="pagenav page-item-7387"><a href="https://www.washington.edu/alumni/communities/chapters/china/">China Huskies</a></li>
+	</ul>
+</li>
+	<li class="pagenav page-item-4139"><a href="https://www.washington.edu/alumni/communities/uw-schools-colleges-campuses/">UW campuses, colleges &amp; schools</a></li>
+	<li class="pagenav page-item-42489"><a href="https://www.washington.edu/alumni/communities/alwayslearning/">Always Learning</a></li>
+	<li class="pagenav page-item-26049"><a href="https://www.washington.edu/alumni/communities/common-ground/">Common Ground</a></li>
+	<li class="pagenav page-item-59262"><a href="https://www.washington.edu/alumni/communities/first-generation-college-stories/">Celebrate First Generation College Students</a></li>
+	<li class="pagenav page-item-37273"><a href="https://www.washington.edu/alumni/communities/map/">MAP: Alumni of Color Network</a></li>
+	<li class="pagenav page-item-31261"><a href="https://www.washington.edu/alumni/communities/reunions/">Reunions</a></li>
+	<li class="pagenav page-item-44521"><a href="https://www.washington.edu/alumni/communities/huskylanding/">UW Husky Landing</a></li>
+</ul>
+</li>
+</li></ul></nav><div id="no-chapter-widget" class="widget widget_text">
+  <h2 class="widgettitle">Don't see your community?</h2>
+  <div class="uwaa-btn-wrapper"><a class="uwaa-btn btn-slant-right btn-purple" href="mailto:alumni2@uw.edu&subject=Online%20Chapter%20Inquiry">Let Us Know!</a></div>
+</div>
+
+     
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+    <div class="container-fluid">
+        <div id="uwaa-footer" class="uw-footer">
+            <nav role="navigation" aria-label="uwaa social networking" class="social-icons">
+                <ul class="uwaa-social">
+                    <li><a href="https://www.facebook.com/UWalum" class="facebook"><span class="offscreen">UW Alumni Facebook</span></a></li>
+                    <li><a href="https://www.twitter.com/UWalum" class="twitter"><span class="offscreen">UW Alumni Twitter</span></a></li>
+                    <li><a href="http://instagram.com/uwalum" class="instagram"><span class="offscreen">UW Alumni Instagram</span></a></li>
+                    <li><a href="https://www.linkedin.com/groups?gid=40422" class="linkedin"><span class="offscreen">UW Alumni LinkedIn</span></a></li>
+                </ul>
+            </nav>
+            <nav role="navigation" aria-label="about uwaa and join" class="contact-links">
+            <span>CONTACT UWAA: 206-543-0540 <a href="mailto:uwalumni@uw.edu">uwalumni@uw.edu</a></span>
+            <div>
+                <ul class="footer-links">
+                    <li><a href="https://www.washington.edu/alumni/about-uwaa">About UWAA</a></li>                    
+                    <li><a href="https://www.washington.edu/alumni/join-or-renew">Join</a></li>
+                </ul>                   
+            </div>
+            </nav>
+            <div class="uwaa-logo">
+                <a href="https://www.washington.edu/alumni">  <!-- TODO -->
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="108.688px" height="38.578px" viewBox="0 0 108.688 38.578" enable-background="new 0 0 108.688 38.578"
+	 xml:space="preserve">
+<g>
+	<path fill="none" d="M5.604,33.83c0.371,0,0.451-0.047,0.323-0.465l-0.419-1.305c-0.224-0.691-0.434-1.354-0.579-1.691
+		c-0.16,0.355-0.417,1.035-0.658,1.77l-0.403,1.209c-0.145,0.436-0.065,0.482,0.338,0.482H5.604z M3.882,34.682
+		c-0.385,0-0.434,0.016-0.529,0.324l-0.596,1.865c-0.098,0.322-0.113,0.449-0.113,0.58c0,0.096,0.128,0.195,0.58,0.271l0.484,0.082
+		c0.094,0.113,0.125,0.482-0.034,0.564c-0.563-0.031-1.205-0.031-1.882-0.051c-0.547,0-0.918,0.051-1.658,0.051
+		c-0.178-0.094-0.162-0.438-0.047-0.564l0.434-0.047c0.386-0.049,0.707-0.178,0.981-0.805c0.272-0.646,0.562-1.418,0.997-2.578
+		l1.448-3.922c0.37-1.014,0.677-1.58,0.629-2.045c0.771-0.18,1.368-0.967,1.398-0.967c0.21,0,0.307,0.08,0.372,0.322
+		c0.127,0.465,0.32,1.064,0.724,2.203l2.189,6.311c0.336,0.965,0.48,1.338,1.077,1.432l0.611,0.096
+		c0.098,0.08,0.128,0.471-0.017,0.564c-0.773-0.031-1.643-0.051-2.478-0.051c-0.806,0-1.433,0.02-2.173,0.051
+		c-0.178-0.094-0.21-0.438-0.033-0.564l0.516-0.082c0.37-0.062,0.436-0.176,0.436-0.271c0-0.111-0.114-0.498-0.306-1.096
+		l-0.435-1.383c-0.082-0.258-0.211-0.291-0.774-0.291H3.882z"/>
+	<path fill="none" d="M14.344,38.578c-1.482,0-2.399-0.42-2.735-0.609c-0.307-0.354-0.516-1.514-0.516-2.611
+		c0.111-0.205,0.482-0.225,0.61-0.047c0.321,1.045,1.401,2.525,2.769,2.525c1.191,0,1.737-0.818,1.737-1.623
+		c0-1.303-1.223-2.078-2.19-2.561c-1.157-0.58-2.429-1.545-2.429-3.135c-0.015-1.82,1.401-3.076,3.736-3.076
+		c0.529,0,1.189,0.062,1.833,0.258c0.209,0.064,0.354,0.096,0.546,0.127c0.13,0.355,0.287,1.225,0.287,2.305
+		c-0.076,0.195-0.479,0.205-0.624,0.047c-0.274-0.818-0.967-1.996-2.126-1.996c-1.06,0-1.639,0.691-1.639,1.498
+		c0,0.74,0.658,1.418,1.464,1.832l1.061,0.564c0.996,0.531,2.271,1.463,2.271,3.234C18.398,37.291,16.774,38.578,14.344,38.578"/>
+	<path fill="none" d="M22.692,38.578c-1.48,0-2.397-0.42-2.734-0.609c-0.305-0.354-0.516-1.514-0.516-2.611
+		c0.111-0.205,0.484-0.225,0.611-0.047c0.32,1.045,1.399,2.525,2.768,2.525c1.191,0,1.739-0.818,1.739-1.623
+		c0-1.303-1.224-2.078-2.188-2.561c-1.16-0.58-2.43-1.545-2.43-3.135c-0.016-1.82,1.399-3.076,3.732-3.076
+		c0.53,0,1.19,0.062,1.836,0.258c0.208,0.064,0.355,0.096,0.543,0.127c0.13,0.355,0.292,1.225,0.292,2.305
+		c-0.081,0.195-0.479,0.205-0.627,0.047c-0.274-0.818-0.965-1.996-2.125-1.996c-1.062,0-1.641,0.691-1.641,1.498
+		c0,0.74,0.658,1.418,1.465,1.832l1.062,0.564c0.995,0.531,2.268,1.463,2.268,3.234C26.747,37.291,25.122,38.578,22.692,38.578"/>
+	<path fill="none" d="M33.699,28.182c-1.979,0-3.039,1.852-3.039,4.539c0,1.961,0.69,5.115,3.313,5.115
+		c2.107,0,2.927-2.059,2.927-4.666C36.9,30.42,35.694,28.182,33.699,28.182 M39.478,32.961c0,3.51-2.351,5.617-5.812,5.617
+		c-3.232,0-5.581-2.123-5.581-5.488c0-3.188,2.382-5.648,5.743-5.648C37.175,27.441,39.478,29.695,39.478,32.961"/>
+	<path fill="none" d="M50.69,27.859c0,0.291,0.051,1.58,0.195,2.51c-0.065,0.195-0.497,0.262-0.611,0.113
+		c-0.435-1.496-1.466-2.301-3.027-2.301c-1.787,0-3.701,1.531-3.701,4.732s1.854,4.922,3.78,4.922c1.95,0,2.852-1.4,3.285-2.494
+		c0.13-0.127,0.516-0.08,0.612,0.113c-0.114,1.188-0.389,2.16-0.612,2.527c-0.87,0.24-2.011,0.596-3.268,0.596
+		c-1.576,0-3.187-0.369-4.329-1.227c-1.157-0.881-2.044-2.219-2.044-4.215c0-1.961,0.838-3.346,1.95-4.264
+		c1.14-0.945,2.783-1.432,4.456-1.432C49.02,27.441,50.211,27.826,50.69,27.859"/>
+	<path fill="none" d="M55.759,35.973c0,1.508,0.096,1.623,0.838,1.75l0.451,0.082c0.13,0.098,0.112,0.471-0.015,0.562
+		c-0.871-0.029-1.658-0.049-2.415-0.049c-0.771,0-1.576,0.02-2.445,0.049c-0.129-0.092-0.129-0.465,0-0.562l0.452-0.082
+		c0.739-0.127,0.836-0.242,0.836-1.75v-5.926c0-1.512-0.097-1.619-0.836-1.752l-0.452-0.08c-0.129-0.098-0.129-0.467,0-0.562
+		c0.869,0.029,1.674,0.047,2.445,0.047c0.757,0,1.562-0.018,2.43-0.047c0.13,0.096,0.13,0.465,0,0.562l-0.451,0.08
+		c-0.742,0.133-0.838,0.24-0.838,1.752V35.973z"/>
+	<path fill="none" d="M63.018,33.83c0.371,0,0.449-0.047,0.322-0.465l-0.419-1.305c-0.224-0.691-0.434-1.354-0.579-1.691
+		c-0.162,0.355-0.416,1.035-0.66,1.77l-0.4,1.209c-0.147,0.436-0.066,0.482,0.337,0.482H63.018z M61.296,34.682
+		c-0.386,0-0.437,0.016-0.53,0.324l-0.6,1.865c-0.094,0.322-0.109,0.449-0.109,0.58c0,0.096,0.13,0.195,0.579,0.271l0.482,0.082
+		c0.097,0.113,0.13,0.482-0.033,0.564c-0.561-0.031-1.203-0.031-1.881-0.051c-0.546,0-0.917,0.051-1.655,0.051
+		c-0.178-0.094-0.165-0.438-0.051-0.564l0.432-0.047c0.388-0.049,0.711-0.178,0.984-0.805c0.274-0.646,0.564-1.418,0.998-2.578
+		l1.45-3.922c0.37-1.014,0.673-1.58,0.627-2.045c0.771-0.18,1.366-0.967,1.399-0.967c0.21,0,0.305,0.08,0.37,0.322
+		c0.13,0.465,0.317,1.064,0.724,2.203l2.187,6.311c0.338,0.965,0.487,1.338,1.081,1.432l0.607,0.096
+		c0.099,0.08,0.129,0.471-0.013,0.564c-0.772-0.031-1.643-0.051-2.479-0.051c-0.805,0-1.435,0.02-2.173,0.051
+		c-0.178-0.094-0.209-0.438-0.031-0.564l0.516-0.082c0.368-0.062,0.435-0.176,0.435-0.271c0-0.111-0.112-0.498-0.305-1.096
+		l-0.437-1.383c-0.082-0.258-0.209-0.291-0.774-0.291H61.296z"/>
+	<path fill="none" d="M71.13,28.906c0-0.385,0-0.467-0.389-0.467h-0.998c-1.173,0-1.513,0.645-1.995,1.818
+		c-0.193,0.096-0.498,0.064-0.592-0.146c0.333-1.109,0.414-2.107,0.525-2.734c0.066-0.047,0.147-0.082,0.229-0.082
+		c0.076,0,0.16,0.02,0.224,0.064c0.084,0.275,0.13,0.338,1.354,0.338h5.984c1.062,0,1.303-0.016,1.45-0.35
+		c0.063-0.033,0.111-0.053,0.208-0.053s0.211,0.064,0.238,0.115c-0.157,0.549-0.269,1.852-0.238,2.766
+		c-0.081,0.146-0.516,0.178-0.597,0.049c-0.271-1.029-0.495-1.785-1.706-1.785h-0.963c-0.386,0-0.434,0.047-0.434,0.467V36
+		c0,1.5,0.094,1.629,0.819,1.723l0.643,0.082c0.112,0.098,0.112,0.471,0,0.562c-1.043-0.029-1.851-0.049-2.572-0.049
+		c-0.774,0-1.612,0.02-2.734,0.049c-0.129-0.092-0.129-0.465,0-0.562l0.722-0.082C71.031,37.645,71.13,37.5,71.13,36V28.906z"/>
+	<path fill="none" d="M81.764,35.973c0,1.508,0.097,1.623,0.838,1.75l0.452,0.082c0.124,0.098,0.108,0.471-0.019,0.562
+		c-0.87-0.029-1.657-0.049-2.414-0.049c-0.772,0-1.577,0.02-2.448,0.049c-0.127-0.092-0.127-0.465,0-0.562l0.452-0.082
+		c0.741-0.127,0.838-0.242,0.838-1.75v-5.926c0-1.512-0.097-1.619-0.838-1.752l-0.452-0.08c-0.127-0.098-0.127-0.467,0-0.562
+		c0.871,0.029,1.676,0.047,2.448,0.047c0.757,0,1.559-0.018,2.433-0.047c0.124,0.096,0.124,0.465,0,0.562l-0.452,0.08
+		c-0.741,0.133-0.838,0.24-0.838,1.752V35.973z"/>
+	<path fill="none" d="M90.084,28.182c-1.98,0-3.042,1.852-3.042,4.539c0,1.961,0.69,5.115,3.316,5.115
+		c2.107,0,2.928-2.059,2.928-4.666C93.286,30.42,92.08,28.182,90.084,28.182 M95.86,32.961c0,3.51-2.349,5.617-5.812,5.617
+		c-3.232,0-5.581-2.123-5.581-5.488c0-3.188,2.379-5.648,5.743-5.648C93.558,27.441,95.86,29.695,95.86,32.961"/>
+	<path fill="none" d="M107.202,35.584c0,1.047,0,2.061,0.033,2.59c-0.111,0.195-0.562,0.371-0.949,0.371
+		c-0.019,0-0.544-0.822-1.303-1.754l-3.715-4.602c-0.935-1.145-1.465-1.818-1.757-2.059c-0.079,0.162-0.079,0.434-0.079,1.027v3.121
+		c0,1.305,0.062,2.512,0.241,2.945c0.145,0.34,0.513,0.449,0.932,0.516l0.45,0.064c0.129,0.127,0.099,0.471,0,0.564
+		c-0.869-0.031-1.511-0.051-2.153-0.051c-0.597,0-1.191,0.02-1.803,0.051c-0.097-0.094-0.13-0.438,0-0.564l0.274-0.047
+		c0.434-0.084,0.756-0.193,0.883-0.533c0.176-0.434,0.227-1.641,0.227-2.945v-4.084c0-0.889-0.018-1.145-0.112-1.371
+		c-0.134-0.268-0.355-0.467-0.919-0.543l-0.449-0.066c-0.114-0.127-0.099-0.516,0.063-0.562c0.754,0.031,1.562,0.047,2.222,0.047
+		c0.546,0,1.013-0.016,1.351-0.047c0.16,0.723,1.206,1.945,2.653,3.668l1.356,1.594c0.705,0.834,1.173,1.396,1.541,1.768
+		c0.065-0.162,0.065-0.434,0.065-0.725V31.74c0-1.305-0.065-2.512-0.243-2.945c-0.145-0.338-0.495-0.453-0.932-0.514l-0.432-0.066
+		c-0.133-0.127-0.1-0.467,0-0.562c0.868,0.031,1.492,0.047,2.15,0.047c0.599,0,1.181-0.016,1.808-0.047
+		c0.094,0.096,0.124,0.436,0,0.562l-0.292,0.049c-0.424,0.064-0.724,0.193-0.871,0.531c-0.175,0.434-0.241,1.641-0.241,2.945V35.584
+		z"/>
+	<path fill="none" d="M12.675,15.074c0.796,0,0.968-0.104,0.69-1.002l-0.896-2.801c-0.485-1.486-0.935-2.904-1.246-3.631
+		c-0.344,0.76-0.898,2.211-1.417,3.801l-0.864,2.594c-0.31,0.935-0.14,1.039,0.727,1.039H12.675z M8.977,16.907
+		c-0.829,0-0.934,0.031-1.141,0.688l-1.28,4.012c-0.206,0.691-0.241,0.967-0.241,1.242c0,0.211,0.275,0.418,1.244,0.592l1.038,0.17
+		c0.205,0.242,0.274,1.039-0.07,1.209c-1.209-0.068-2.593-0.068-4.044-0.102c-1.175,0-1.97,0.102-3.562,0.102
+		c-0.38-0.205-0.345-0.932-0.104-1.209l0.934-0.104c0.831-0.105,1.523-0.383,2.109-1.727c0.587-1.38,1.209-3.046,2.143-5.531
+		l3.113-8.439c0.794-2.175,1.451-3.387,1.346-4.387c1.66-0.386,2.938-2.074,3.009-2.074c0.449,0,0.656,0.168,0.796,0.689
+		c0.275,0.999,0.69,2.281,1.556,4.735l4.701,13.553c0.727,2.073,1.036,2.872,2.316,3.075l1.314,0.209
+		c0.206,0.176,0.274,1.004-0.038,1.209c-1.657-0.068-3.523-0.102-5.324-0.102c-1.724,0-3.074,0.033-4.665,0.102
+		c-0.379-0.205-0.45-0.932-0.068-1.209l1.106-0.17c0.796-0.141,0.934-0.381,0.934-0.592c0-0.242-0.241-1.068-0.656-2.35
+		l-0.934-2.972c-0.174-0.553-0.45-0.621-1.66-0.621H8.977z"/>
+	<path fill="none" d="M25.849,5.497c0-1.384,0-1.765-0.693-2.179l-0.587-0.346c-0.243-0.207-0.243-0.829,0-1.034
+		c1.485-0.347,3.56-1.18,5.289-1.938c0.208,0,0.449,0.068,0.589,0.243c-0.071,1.415-0.106,2.868-0.106,5.048v15.418
+		c0,2.417,0.14,2.694,1.349,2.833l0.589,0.07c0.276,0.207,0.276,1.004-0.033,1.209c-1.146-0.068-2.595-0.102-4.151-0.102
+		c-1.485,0-2.938,0.033-4.146,0.102c-0.312-0.205-0.312-1.002-0.035-1.209l0.657-0.07c1.141-0.1,1.28-0.416,1.28-2.833V5.497z"/>
+	<path fill="none" d="M49.113,20.154c0,2.04,0.104,2.94,0.935,2.94c0.449,0,0.968-0.139,1.382-0.279
+		c0.312,0.072,0.345,1.316-0.102,1.494c-3.39,0.131-6.295,1.238-6.396,1.238c-0.243-0.035-0.381-0.205-0.416-0.412
+		c0.071-0.416,0.104-0.967,0.104-1.246c0-0.207-0.172-0.346-0.381-0.346c-1.348,0.865-2.557,1.658-4.702,1.658
+		c-2.869,0-4.042-1.488-4.042-4.427v-5.873c0-1.833-0.208-2.006-1.038-2.248l-0.452-0.139c-0.241-0.31-0.206-0.968,0.14-1.208
+		c1.143-0.035,2.354-0.14,3.354-0.312c1.039-0.175,2.039-0.588,2.179-0.588c0.208,0,0.381,0.241,0.417,0.413
+		c-0.071,0.867-0.107,1.799-0.107,3.046v5.704c0,1.657,0.241,3.107,2.453,3.107c0.97,0,1.526-0.447,1.8-0.656
+		c0.241-0.172,0.381-0.687,0.381-1.033v-6.535c0-1.384-0.243-1.697-1.487-1.866l-0.482-0.071c-0.277-0.241-0.244-1.074,0.173-1.208
+		c1.244-0.071,2.488-0.211,3.595-0.347c1.211-0.173,2.247-0.554,2.455-0.554c0.14,0,0.311,0.174,0.346,0.413
+		c-0.035,0.621-0.104,1.767-0.104,3.046V20.154z"/>
+	<path fill="none" d="M54.542,15.486c0-1.38,0-1.799-0.66-2.207l-0.482-0.317c-0.241-0.207-0.241-0.827,0-1.036
+		c1.59-0.447,4.048-1.38,5.116-2.004c0.277,0,0.485,0.104,0.625,0.311c0,0.487-0.104,1.314-0.104,1.555
+		c0,0.21,0.066,0.278,0.17,0.278c0.107,0,0.455-0.172,0.66-0.278c0.76-0.448,2.316-1.382,3.974-1.382
+		c1.242,0,2.316,0.414,3.113,1.315c0.416,0.483,0.622,0.624,0.828,0.624c0.14,0,0.451-0.246,1.106-0.588
+		c0.762-0.418,2.074-1.352,3.94-1.352c2.732,0,4.188,1.969,4.188,4.356v5.947c0,2.417,0.137,2.694,1.277,2.833l0.551,0.072
+		c0.276,0.205,0.276,1.002-0.033,1.207c-1.071-0.068-2.384-0.102-4.047-0.102c-1.379,0-2.831,0.033-3.769,0.102
+		c-0.31-0.205-0.31-1.002-0.033-1.207l0.554-0.072c0.863-0.1,1.003-0.416,1.003-2.315v-5.878c0-1.313-0.726-2.418-2.318-2.418
+		c-0.967,0-1.693,0.45-1.932,0.862c-0.14,0.208-0.244,0.553-0.244,1.04v6.394c0,1.899,0.14,2.215,0.932,2.315l0.554,0.072
+		c0.277,0.205,0.277,1.002-0.035,1.207c-1.069-0.068-2.179-0.102-3.732-0.102c-1.382,0-2.766,0.033-3.664,0.102
+		c-0.312-0.205-0.312-1.002-0.035-1.207l0.556-0.072c0.792-0.1,0.932-0.416,0.932-2.315v-5.878c0-1.313-0.69-2.418-2.351-2.418
+		c-0.899,0-1.593,0.45-1.866,0.828c-0.211,0.242-0.277,0.657-0.277,1.281v6.187c0,1.899,0.138,2.215,0.998,2.315l0.559,0.072
+		c0.274,0.205,0.274,1.002-0.035,1.207c-1.074-0.068-2.179-0.102-3.837-0.102c-1.559,0-2.904,0.033-3.943,0.102
+		c-0.345-0.205-0.345-1.002-0.068-1.207l0.551-0.072c1.143-0.139,1.282-0.416,1.282-2.833V15.486z"/>
+	<path fill="none" d="M82.406,15.486c0-1.38,0-1.799-0.658-2.207l-0.482-0.317c-0.243-0.207-0.243-0.827,0-1.036
+		c1.625-0.447,4.113-1.38,5.116-2.004c0.277,0,0.482,0.104,0.62,0.311c0,0.487-0.104,1.314-0.104,1.555
+		c0,0.21,0.073,0.278,0.175,0.278c0.104,0,0.45-0.172,0.658-0.278c0.759-0.448,2.384-1.382,3.976-1.382
+		c2.867,0,4.319,1.969,4.319,4.356v5.947c0,2.417,0.14,2.694,1.387,2.833l0.553,0.072c0.274,0.205,0.274,1.002-0.038,1.207
+		c-1.071-0.068-2.523-0.102-4.182-0.102c-1.384,0-2.729,0.033-3.732,0.102c-0.31-0.205-0.31-1.002-0.035-1.207l0.622-0.105
+		c0.795-0.139,0.932-0.383,0.932-2.282v-5.842c0-1.35-0.69-2.454-2.42-2.454c-0.967,0-1.66,0.45-1.935,0.828
+		c-0.206,0.242-0.279,0.657-0.279,1.281v6.187c0,1.899,0.14,2.215,1.008,2.315l0.551,0.072c0.274,0.205,0.274,1.002-0.035,1.207
+		c-1.071-0.068-2.179-0.102-3.837-0.102c-1.452,0-2.871,0.033-4.08,0.102c-0.31-0.205-0.31-1.002-0.033-1.207l0.552-0.072
+		c1.246-0.139,1.384-0.416,1.384-2.833V15.486z"/>
+	<path fill="none" d="M106.191,5.081c0,1.659-1.279,2.524-2.592,2.524c-1.521,0-2.42-1.033-2.42-2.453
+		c0-1.525,1.206-2.523,2.593-2.523C105.222,2.629,106.191,3.697,106.191,5.081 M105.912,20.708c0,2.417,0.14,2.734,1.282,2.835
+		l0.655,0.072c0.279,0.203,0.279,1-0.03,1.205c-1.214-0.066-2.562-0.102-4.154-0.102c-1.554,0-3.006,0.035-4.146,0.102
+		c-0.312-0.205-0.312-1.002-0.033-1.205l0.655-0.072c1.143-0.102,1.279-0.418,1.279-2.835v-5.222c0-1.38,0-1.799-0.657-2.21
+		l-0.485-0.314c-0.244-0.207-0.244-0.828,0-1.036c1.628-0.447,4.08-1.38,5.116-2.005c0.276,0,0.485,0.105,0.625,0.312
+		c-0.069,1.038-0.107,2.558-0.107,4.113V20.708z"/>
+</g>
+</svg>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div role="contentinfo" class="uw-footer">
+
+        <a href="http://www.washington.edu" class="footer-wordmark">University of Washington</a>
+
+        <a href="http://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+
+        <h4>Connect with us:</h4>
+
+        <nav aria-label="social networking">
+            <ul class="footer-social">
+                <li><a class="facebook" href="http://www.facebook.com/UofWA">Facebook</a></li>
+                <li><a class="twitter" href="http://twitter.com/UW">Twitter</a></li>
+                <li><a class="instagram" href="http://instagram.com/uofwa">Instagram</a></li>
+                <li><a class="youtube" href="http://www.youtube.com/user/uwhuskies">YouTube</a></li>
+                <li><a class="linkedin" href="http://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+                <li><a class="pinterest" href="http://www.pinterest.com/uofwa/">Pinterest</a></li>
+            </ul>
+        </nav>
+
+        <nav aria-label="footer navigation">
+            <ul class="footer-links">
+                <li><a href="http://www.uw.edu/accessibility">Accessibility</a></li>
+                <li><a href="http://uw.edu/contact">Contact Us</a></li>
+                <li><a href="http://www.washington.edu/jobs">Jobs</a></li>
+                <li><a href="http://www.washington.edu/safety">Campus Safety</a></li>
+                <li><a href="http://my.uw.edu/">My UW</a></li>
+                <li><a href="http://www.washington.edu/rules/wac">Rules Docket</a></li>
+                <li><a href="http://www.washington.edu/online/privacy/">Privacy</a></li>
+                <li><a href="http://www.washington.edu/online/terms/">Terms</a></li>
+            </ul>
+        </nav>
+
+        <p>&copy; 2024 University of Washington  |  Seattle, WA</p>
+
+
+    </div>
+
+    </div><!-- #uw-container-inner -->
+    </div><!-- #uw-container -->
+
+<style id='core-block-supports-inline-css' type='text/css'>
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uwaa-2014/js/uwaa.site.js?ver=1.29.3.0" id="uwaa.site-js"></script>
+<script type="text/javascript" id="mapbox-gl-js-js-extra">
+/* <![CDATA[ */
+var homeLink = {"endpointURL":"http:\/\/www.washington.edu\/alumni\/api\/communities\/geojson"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://api.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.js?ver=1.6.1" id="mapbox-gl-js-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uwaa-2014/js/support/communitiesMap.min.js?ver=1.29.3.0" id="communitiesMap-js"></script>
+<img src="//www.washington.edu/wp-content/themes/uwaa-2014/assets/clear.png" id="flag">
+</body>
+</html>

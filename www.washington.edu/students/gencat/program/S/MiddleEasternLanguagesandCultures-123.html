@@ -1,0 +1,774 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@400;600;800&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+<style>
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+body {
+  font-family: 'Open Sans', Helvetica, Arial, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 17px;
+  line-height: 1.72222;
+  background-color: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+.uw-thinstrip a,
+.uw-footer a {
+  text-decoration: none;
+}
+/* https://github.com/uweb/UW-Header-Templates/blob/master/css/structure.css */
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+/* https://github.com/uweb/UW-Header-Templates/blob/master/css/full.css */
+.uw-thinstrip {
+  height: 90px;
+  width: 100%;
+  background: #4b2e83;
+  padding-top: 22px;
+  position: relative;
+  z-index: 2;
+  -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+}
+.uw-thinstrip .container {
+  position: relative;
+}
+.uw-thinstrip .align-right{
+  float: right;
+}
+.uw-thinstrip nav {
+  margin-top: 8px;
+  display: inline-block;
+}
+.uw-thinstrip .uw-patch {
+  display: block;
+  text-indent: -9999px;
+  width: 163px;
+  height: 110px;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 0 transparent;
+  position: absolute;
+  top: -22px;
+  left: 0;
+  z-index: 1;
+}
+.uw-thinstrip .uw-wordmark {
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 150px;
+  text-indent: -9999px;
+  width: 330px;
+  height: 24px;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 -431px transparent;
+}
+.uw-thinstrip ul.uw-thin-links {
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  font-weight: 700;
+  padding: 0;
+}
+.uw-thinstrip ul.uw-thin-links li {
+  display:inline-block;
+  list-style: none;
+}
+.uw-thinstrip ul.uw-thin-links li:last-child a:after {
+  display: none;
+}
+.uw-thinstrip ul.uw-thin-links li a {
+  font-family: "Encode Sans Condensed", sans-serif;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 600;
+  position: relative;
+  padding: 8px 25px 10px 0;
+  letter-spacing: .01em;
+}
+.uw-thinstrip ul.uw-thin-links li a:after{
+  position: absolute;
+  right: 6px;
+  height: 32px;
+  width: 12px;
+  top: 3px;
+  content: "";
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat -696px 0;
+}
+.uw-thinstrip ul.uw-thin-links li a:hover,
+.uw-thinstrip ul.uw-thin-links li a:focus {
+  color: #b7a57a;
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 767px) {
+  .uw-thinstrip {
+    padding: 0;
+    height: 45px;
+  }
+  .uw-thinstrip .container {
+    position: static;
+  }
+  .uw-thinstrip .uw-patch {
+    width: 73px;
+    height: 45px;
+    top: 0;
+    left: 0;
+    background-size: 470px;
+  }
+  .uw-thinstrip .uw-wordmark {
+    width: 155px;
+    height: 34px;
+    background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 -185px transparent;
+    margin: 0;
+    float: none;
+    position: absolute;
+    left: 78px;
+    top: 4px;
+    background-size: 397px;
+  }
+  .uw-thinstrip ul.uw-thin-links {
+    height: 50px;
+  }
+  .uw-thinstrip ul.uw-thin-links li {
+    float: none;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .uw-thinstrip ul.uw-thin-links li {
+    display: none;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .uw-thinstrip {
+    height: 140px;
+  }
+  .uw-thinstrip ul.uw-thin-links li {
+    float: none;
+  }
+  .uw-thinstrip ul.uw-thin-links:before {
+    position: absolute;
+    top: 0;
+    height: 50px;
+    width: 100%;
+    content: "";
+  }
+  .uw-thinstrip ul.uw-thin-links li a,
+  .uw-thinstrip button {
+    font-size: 16px;
+    padding: 10px 25px 10px 0;
+    color: white;
+  }
+  .uw-thinstrip li {
+    margin-top: 68px;
+  }
+  .uw-thinstrip .align-right {
+    position: relative;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .uw-thinstrip ul.uw-thin-links li a,
+  .uw-thinstrip ul.uw-thin-links li button {
+    font-size: 16px;
+    padding: 10px 25px 10px 0;
+  }
+  .uw-thinstrip .uw-wordmark {
+    background-size: 670px;
+    background-position: 0 -331px;
+  }
+}
+
+/* https://github.com/uweb/uw-footer/blob/master/css/footer.css */
+.uw-footer {
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/images/footer.jpg') center bottom;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0 0 30px 0;
+  background-color: #4b2e83;
+  border-top: 7px solid #d1d1d1;
+  text-align: center;
+  position: relative;
+}
+
+.uw-footer .footer-wordmark {
+  display: inline-block;
+  width: 335px;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 -434px transparent;
+  text-indent: -9999px;
+  overflow: hidden;
+  margin-top: 50px;
+}
+
+.uw-footer .footer-wordmark:focus,.uw-footer .footer-wordmark:hover {
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite-focus.svg') no-repeat 0 -434px transparent
+}
+
+.uw-footer .be-boundless {
+  line-height: 64px;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/images/campaign.svg') no-repeat center top transparent;
+  display: block;
+  text-indent: -99999px;
+  margin: 10px 0 60px;
+  opacity: 1;
+  -o-transition: opacity .25s;
+  -webkit-transition: opacity .25s;
+  transition: opacity .25s;
+}
+
+.uw-footer .be-boundless:hover,.uw-footer .be-boundless:focus {
+  opacity: .6
+}
+
+.uw-footer h4 {
+  font-family: "Encode Sans Condensed",sans-serif;
+  color: #fff;
+  font-weight: 400;
+  font-size: 20px;
+  position: relative;
+  margin: 41px 0 11px 0;
+}
+
+.uw-footer h4:before,.uw-footer h4:after {
+  content: "";
+  position: absolute;
+  width: 85px;
+  height: 1px;
+  background-color: #9184aa;
+  left: 50%;
+  margin-left: -40px
+}
+
+.uw-footer h4:before {
+  top: -27px
+}
+
+.uw-footer h4:after {
+  bottom: -85px
+}
+
+.uw-footer ul.footer-social li {
+  list-style: none;
+  display: inline-block
+}
+
+.uw-footer ul.footer-social li a {
+  color: #fff;
+  text-indent: -9999px;
+  overflow: hidden;
+  display: inline-block;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 -185px transparent;
+  padding: 8px 21px
+}
+
+.uw-footer ul.footer-social li a.facebook {
+  background-position: 0 -185px
+}
+
+.uw-footer ul.footer-social li a.twitter {
+  background-position: -46px -185px
+}
+
+.uw-footer ul.footer-social li a.youtube {
+  background-position: -138px -185px
+}
+
+.uw-footer ul.footer-social li a.linkedin {
+  background-position: -184px -185px
+}
+
+.uw-footer ul.footer-social li a.pinterest {
+  background-position: -92px -185px
+}
+
+.uw-footer ul.footer-social li a.instagram {
+  background-position: -322px -185px
+}
+
+.uw-footer ul.footer-social li a:hover.facebook,.uw-footer ul.footer-social li a:focus.facebook {
+  background-position: 0 -225px
+}
+
+.uw-footer ul.footer-social li a:hover.twitter,.uw-footer ul.footer-social li a:focus.twitter {
+  background-position: -46px -225px
+}
+
+.uw-footer ul.footer-social li a:hover.youtube,.uw-footer ul.footer-social li a:focus.youtube {
+  background-position: -138px -225px
+}
+
+.uw-footer ul.footer-social li a:hover.linkedin,.uw-footer ul.footer-social li a:focus.linkedin {
+  background-position: -184px -225px
+}
+
+.uw-footer ul.footer-social li a:hover.pinterest,.uw-footer ul.footer-social li a:focus.pinterest {
+  background-position: -92px -225px
+}
+
+.uw-footer ul.footer-social li a:hover.instagram,.uw-footer ul.footer-social li a:focus.instagram {
+  background-position: -322px -225px
+}
+
+.uw-footer ul.footer-links {
+  margin: 45px 0 0 0
+}
+
+.uw-footer ul.footer-links li {
+  list-style: none;
+  display: inline-block
+}
+
+.uw-footer ul.footer-links li:last-child a:after {
+  display: none
+}
+
+.uw-footer ul.footer-links li a {
+  color: #fff;
+  position: relative;
+  margin-right: 20px
+}
+
+.uw-footer ul.footer-links li a:after {
+  content: "/";
+  opacity: .5;
+  position: relative;
+  right: -14px;
+}
+
+.uw-footer ul.footer-links li a:focus,.uw-footer ul.footer-links li a:hover {
+  color: #b7a57a;
+  text-decoration: none
+}
+
+.uw-footer ul.footer-links li a:focus:after,.uw-footer ul.footer-links li a:hover:after {
+  color: #fff
+}
+
+.uw-footer p {
+  color: #fff;
+  font-size: .8em;
+  margin-top: 15px
+}
+
+@media only screen and (max-width: 767px) {
+  .uw-footer .footer-wordmark {
+    background-position: 25px -338px;
+    background-size: 690px;
+  }
+  .uw-footer h4:after {
+    display: none;
+  }
+}
+
+h1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+
+span#top {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-weight: normal !important;
+}
+h1, h2 {
+  margin: 0px;
+}
+h3 {
+  margin: 10px 0px 10px 0px;
+}
+div.expandableGroup {
+  display: inline-block;
+}
+
+.collapsed span, .expanded span {
+  background-image: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg');
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 24px;
+  height:24px;
+}
+
+.collapsed span {
+  background-position: -287px 1px;
+}
+
+.collapsed span:hover {
+  background-position: -314px 1px;
+  cursor: pointer;
+}
+
+.expanded span {
+  background-position: -287px -24px
+}
+
+.expanded span:hover {
+  background-position: -314px -24px;
+  cursor: pointer;
+}
+
+ul.toc {
+  list-style-type: none;
+}
+.page-wrapper {
+  max-width: 1200px;
+  min-width: 320px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 20px;
+}
+.inner-block {
+  padding: 0px 10px 10px 10px;
+}
+.socialMediaList {
+  list-style: none;
+  padding-left: 0px;
+}
+.socialMediaList li {
+  display: inline;
+}
+.svg-inline {
+  width: 44;
+  margin: 0px 10px 0px 10px;
+}
+</style>
+</head>
+<body>
+<header class="uw-thinstrip">
+  <div class="container">
+    <a class="uw-patch" href="http://uw.edu" tabindex="-1" title="University of Washington Home">Home</a>
+    <a class="uw-wordmark" href="http://uw.edu" title="University of Washington Home">Home</a>
+  </div>
+  <div class='align-right'>
+    <nav class="uw-thin-strip-nav">
+      <ul class="uw-thin-links">
+        <li><a href="http://uw.edu/studentlife" title="Students">Students</a></li>
+        <li><a href="http://uw.edu/parents" title="Parents">Parents</a></li>
+        <li><a href="http://uw.edu/facultystaff" title="Faculty &amp; Staff">Faculty &amp; Staff</a></li>
+        <li><a href="http://uw.edu/alumni" title="Alumni">Alumni</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<div class='page-wrapper'>
+
+<span id="top">College of Arts and Sciences</span>
+<div>
+<h1>Middle Eastern Languages and Cultures</h1>
+220D <a href="http://uw.edu/maps/?DEN">Denny Hall</a><br/>
+(206) 543-6033<br/>
+<a href="https://melc.washington.edu">Website</a><br/>
+<a href="https://melc.washington.edu/people/faculty">Faculty Website</a><br/>
+<a href="mailto:has-center@uw.edu">has-center@uw.edu</a><br/>
+</div>
+<p>The Department of Middle Eastern Languages and Cultures (MELC) is devoted to the study of the principal cultures and languages of the Near and Middle East, Central Eurasia, North Africa, and the Horn of Africa. MELC explores the contemporary cultural diversity of the region, its ancient and medieval roots, and its relevance to modern societies. Our graduates acquire the knowledge and practical skills that prepare them to succeed in a variety of careers, including education, diplomacy, technology, and business.</p>
+<nav>
+<ul class="toc">
+<li><a class="toc-link" href="#undergradPrograms" data-expand="undergradPrograms-block">Undergraduate Programs</a></li>
+<ul class="toc">
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MAJOR" href="#program-UG-MELC-MAJOR">Program of Study: Major:  Middle Eastern Languages and Cultures</a></li>
+<ul class="toc">
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MAJOR|credential-63acb9a0aeda1718f9f3544c" href="#credential-63acb9a0aeda1718f9f3544c">Bachelor of Arts degree with a major in Middle Eastern Languages and Cultures: Biblical and Ancient Near Eastern Studies</a></li>
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MAJOR|credential-63acb7a9db37b15cda255ac0" href="#credential-63acb7a9db37b15cda255ac0">Bachelor of Arts degree with a major in Middle Eastern Languages and Cultures: Comparative Cultures</a></li>
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MAJOR|credential-63acb48cdb37b13fd4255aad" href="#credential-63acb48cdb37b13fd4255aad">Bachelor of Arts degree with a major in Middle Eastern Languages and Cultures: Languages and Literatures</a></li>
+</ul>
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MINOR" href="#program-UG-MELC-MINOR">Program of Study: Minor:  Middle Eastern Languages and Cultures</a></li>
+<ul class="toc">
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MINOR|credential-6018974d79086f00284b72bf" href="#credential-6018974d79086f00284b72bf">Minor in Arabic</a></li>
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MINOR|credential-63acbc5bdb37b1c9b9255ade" href="#credential-63acbc5bdb37b1c9b9255ade">Minor in Middle Eastern Languages and Cultures</a></li>
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MINOR|credential-60149710b967ab0027a2663a" href="#credential-60149710b967ab0027a2663a">Minor in Modern Hebrew</a></li>
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MINOR|credential-6014a3ab1d2309002763d352" href="#credential-6014a3ab1d2309002763d352">Minor in Persian</a></li>
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MINOR|credential-6014b0433a94c90026bbbec6" href="#credential-6014b0433a94c90026bbbec6">Minor in Turkic Languages</a></li>
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-MELC-MINOR|credential-6014acf5b967ab0027a272ec" href="#credential-6014acf5b967ab0027a272ec">Minor in Turkish</a></li>
+</ul>
+</ul>
+<li><a class="toc-link" href="#gradPrograms" data-expand="gradPrograms-block">Graduate Programs</a></li>
+<ul class="toc">
+<li><a class="toc-link" data-expand="gradPrograms|program-GR-NEAR E-21" href="#program-GR-NEAR E-21">Program of Study:  Master Of Arts (Near Eastern Languages And Civilization)</a></li>
+<ul class="toc">
+<li><a class="toc-link" data-expand="gradPrograms|program-GR-NEAR E-21|credential-5b8ed344d09d102e0002786e" href="#credential-5b8ed344d09d102e0002786e">Master Of Arts (Near Eastern Languages And Civilization)</a></li>
+</ul>
+</ul>
+</ul>
+</nav>
+<div class="expandableGroup" data-expand="undergradPrograms">
+<h2 class="expanded" id="undergradPrograms"><span></span>&nbsp;Undergraduate Programs</h2>
+</div><br/>
+<div id="undergradPrograms-block" class="inner-block" style="display:block">
+
+<div>
+<h1>Middle Eastern Languages and Cultures</h1>
+A-Wing Suite 002 <a href="http://uw.edu/maps/?PDL">Padelford Hall</a><br/>
+206-685-3743<br/>
+<a href="mailto:has-center@uw.edu">has-center@uw.edu</a><br/>
+</div>
+<br/>
+<div class="expandableGroup" data-expand="program-UG-MELC-MAJOR">
+<h3 class="expanded" id="program-UG-MELC-MAJOR"><span></span>&nbsp;Program of Study: Major:  Middle Eastern Languages and Cultures</h3>
+</div><br/>
+<div id="program-UG-MELC-MAJOR-block" class="inner-block" style="display:block">
+<div class="programOverview"><b>Program Overview</b><br/><p>The Department of Middle Eastern Languages and Cultures provides a liberal arts education in new global realities and their connections specifically to history of culture in the Middle East and Central Asia. A detailed and critical knowledge of ancient and modern languages of these regions is of utmost importance for a better understanding of their rich cultural heritages, and development of language skills requires cultural-historical knowledge. </p></div>
+<div class="programsOfStudy"><span>This program of study leads to the following credentials:</span>
+<ul class="credentialsList">
+<li>Bachelor of Arts degree with a major in Middle Eastern Languages and Cultures: Biblical and Ancient Near Eastern Studies</li>
+<li>Bachelor of Arts degree with a major in Middle Eastern Languages and Cultures: Comparative Cultures</li>
+<li>Bachelor of Arts degree with a major in Middle Eastern Languages and Cultures: Languages and Literatures</li>
+</ul>
+</div>
+<div class="programRecommendedPrep"><b>Recommended Preparation</b><br/><p><em>Suggested First- and Second-Year College Courses:</em> Courses in any discipline that deals with the Middle East. Courses in writing, history, literature, comparative religion, French, and German are also recommended. Students should begin their studies of Middle Eastern languages as soon as possible.</p></div>
+<div class="programAdmissionRequirements"><b>Admission Requirements</b><br/><p>Students in good academic standing may declare this major at any time. </p></div>
+<div class="expandableGroup" data-expand="credential-63acb9a0aeda1718f9f3544c">
+<h4 class="expanded" id="credential-63acb9a0aeda1718f9f3544c"><span></span>&nbsp;Bachelor of Arts degree with a major in Middle Eastern Languages and Cultures: Biblical and Ancient Near Eastern Studies</h4>
+</div><br/>
+<div id="credential-63acb9a0aeda1718f9f3544c-block" class="inner-block" style="display:block">
+<div class="credentialOverview"><b>Credential Overview</b><br/><p> The Biblical and Ancient Near Eastern Studies option offers a diverse array of topical courses in translation on biblical and other ancient Near Eastern topics. The option also includes a two-year sequence in biblical Hebrew language. The inductive method that the department employs allows students to read from the Hebrew Bible (Old Testament) by the end of the second quarter of the first year. Thereafter students take courses on biblical Hebrew prose texts, biblical poetry, and ancient inscriptions. The final quarter of the second year is devoted to biblical Aramaic for those who have taken the Hebrew sequence. Periodically the department offers courses on hieroglyphic Egyptian, Ugaritic, and Akkadian (the latter two invariably for students who have had at least two years of biblical Hebrew).</p></div>
+<div class="credentialCompletionRequirements"><b>Completion Requirements</b><br/><p>72 credits</p> <ol> <li>Gateway Course (5 credits): MELC 101</li> <li>MELC 201 and MELC 202/RELIG 240</li> <li>Two years of Biblical Hebrew or its equivalent as evidenced by examination. Alternatively a student may satisfy this language requirement by combining a minimum four quarters of Biblical Hebrew with two quarters of other ancient Near Eastern languages, including Aramaic, Ge'ez, hieroglyphic Egyptian, Coptic, Akkadian, second-year Greek, or other appropriate languages as approved by adviser and/or faculty (30 credits)</li> <li>Senior Seminar (2 credits): MELC 491</li> <li>Middle East Electives (25 credits): Supporting coursework from the following categories: advanced literature - 300- or 400-level courses from MELC or language prefixes; second ancient Near Eastern language (must not exceed 15 credits); approved relevant exceptions from other departments (must not exceed 15 credits). MELC 498 may be used toward this requirement.</li> <li>A senior essay on a topic in Biblical and ancient Near Eastern studies (5 credits): MELC 498.</li> <li>At least 22 of the 72 required credits must be taken in residence through the department.</li> <li>Minimum 25 credits at the 300- or 400-level.</li> </ol></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+<div class="expandableGroup" data-expand="credential-63acb7a9db37b15cda255ac0">
+<h4 class="expanded" id="credential-63acb7a9db37b15cda255ac0"><span></span>&nbsp;Bachelor of Arts degree with a major in Middle Eastern Languages and Cultures: Comparative Cultures</h4>
+</div><br/>
+<div id="credential-63acb7a9db37b15cda255ac0-block" class="inner-block" style="display:block">
+<div class="credentialOverview"><b>Credential Overview</b><br/><p>The Comparative Cultures option offers a wide exposure to the languages, literature, and cultures of the Middle East. The diverse languages available to students are Arabic, Persian, Turkish, Modern Hebrew, and Turkic, including Kazak, Uzbek and Uygur. Language courses at the 100, 200, and 400 levels develop student linguistic skill in oral and written forms. In addition, Middle Eastern elective courses on various levels in English introduce students to a wide range of ethnic and religious cultures from the Middle East. Through a selection of courses students develop a firm knowledge of geographical, historical, and modern cultures in a region or regions of their choice in the Middle East. As such, the Comparative Cultures option places an emphasis on a depth of area knowledge of the Middle East. One feature of this is that in their final year students work with a MELC faculty member to produce a capstone essay.</p></div>
+<div class="credentialCompletionRequirements"><b>Completion Requirements</b><br/><p>72 credits</p> <ol> <li>Gateway Course (5 credits): MELC 101</li> <li>One introductory (200 level) course on the Middle East (5 credits)</li> <li>Primary Language (30 credits): Two years of one Middle Eastern language, or its equivalent as evidenced by examination</li> <li>Senior Seminar (2 credits): MELC 491</li> <li>Capstone Essay on a topic in Middle Eastern Languages and Cultures (5 credits): MELC 498</li> <li>Middle East Electives (25 credits): Supporting coursework at the 300 level or above (maximum 15 credits of approved exceptions)</li> <li>At least 22 of the 72 required credits must be taken in residence through the department.</li> </ol></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+<div class="expandableGroup" data-expand="credential-63acb48cdb37b13fd4255aad">
+<h4 class="expanded" id="credential-63acb48cdb37b13fd4255aad"><span></span>&nbsp;Bachelor of Arts degree with a major in Middle Eastern Languages and Cultures: Languages and Literatures</h4>
+</div><br/>
+<div id="credential-63acb48cdb37b13fd4255aad-block" class="inner-block" style="display:block">
+<div class="credentialOverview"><b>Credential Overview</b><br/><p>The  Languages and Literatures option offers a wide exposure to the languages, literatures, and cultures of the Middle East. The diverse languages available to students are Arabic, Persian, Turkish, Modern Hebrew, and Turkic, including Kazak, Uzbek, and Uygur. Language courses at the 100, 200, and 400 levels develop student linguistic skill in oral and written forms. In addition, Middle Eastern elective courses taught in English also introduce students to a wide range of cultures from the Middle East. Finally, the Languages and Literatures option places an emphasis on real world language skills as well as classical forms of the languages. The program prepares students for eventual study and work in the Middle East.</p></div>
+<div class="credentialCompletionRequirements"><b>Completion Requirements</b><br/><p>72 credits</p> <ol> <li>Gateway Course (5 credits): MELC 101</li> <li>One introductory (200 level) course on the Middle East (5 credits)</li> <li>Primary Language (30 credits): Two years of one Middle Eastern language, or its equivalent as evidenced by examination</li> <li>Advanced level coursework in primary language (10 credits): Advanced literature or text courses in primary language. Refer to department website for list of approved courses.</li> <li>Senior Seminar (2 credits): MELC 491</li> <li>Middle East Electives (20 credits): Supporting coursework from the following categories: advanced literature: 300- or 400-level courses from MELC or language prefixes; second Middle Eastern language (must not exceed 15 credits); approved relevant exceptions from other departments (must not exceed 15 credits). MELC 498 may be used toward this requirement.</li> <li>At least 22 of the 72 required credits must be taken in residence through the department</li> <li>Minimum 25 credits at the 300- or 400-level.</li> </ol></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+</div>
+<div class="expandableGroup" data-expand="program-UG-MELC-MINOR">
+<h3 class="expanded" id="program-UG-MELC-MINOR"><span></span>&nbsp;Program of Study: Minor:  Middle Eastern Languages and Cultures</h3>
+</div><br/>
+<div id="program-UG-MELC-MINOR-block" class="inner-block" style="display:block">
+<div class="programOverview"><b>Program Overview</b><br/><p>The Department of Middle Eastern Languages and Cultures provides a liberal arts education in new global realities and their connections specifically to history of culture in the Middle East and Central Asia. A detailed and critical knowledge of ancient and modern languages of these regions is of utmost importance for a better understanding of their rich cultural heritages, and development of language skills requires cultural-historical knowledge.</p></div>
+<div class="programsOfStudy"><span>This program of study leads to the following credentials:</span>
+<ul class="credentialsList">
+<li>Minor in Arabic</li>
+<li>Minor in Middle Eastern Languages and Cultures</li>
+<li>Minor in Modern Hebrew</li>
+<li>Minor in Persian</li>
+<li>Minor in Turkic Languages</li>
+<li>Minor in Turkish</li>
+</ul>
+</div>
+<div class="expandableGroup" data-expand="credential-6018974d79086f00284b72bf">
+<h4 class="expanded" id="credential-6018974d79086f00284b72bf"><span></span>&nbsp;Minor in Arabic</h4>
+</div><br/>
+<div id="credential-6018974d79086f00284b72bf-block" class="inner-block" style="display:block">
+<div class="credentialOverview"><b>Credential Overview</b><br/><p>The Arabic minor enriches students' education by providing advanced proficiency in language skills and by enhancing understanding of how people in the Near East, North Africa, the Horn of Africa, and Islamic cultures experience the world. This minor serves as an excellent complement for those studying in various fields, including business, political science, and international studies.
+
+</p></div>
+<div class="credentialRecommendedPrep"><b>Recommended Preparation</b><br/><p>ARAB 103 or equivalent</p></div>
+<div class="credentialCompletionRequirements"><b>Completion Requirements</b><br/><p>30 credits</p> <ol> <li>15 credits from one of the following: (1) ARAB 201, ARAB 202, ARAB 203; (2) ARAB 205 </li> <li>Upper-division courses with ARAB prefix (10 credits)</li> <li>Elective coursework (5 credits): refer to department website for a list of approved courses</li> <li>Minimum of 15 credits at the 300 or 400 level</li> <li>Minimum 2.00 cumulative GPA for courses applied to the minor</li> <li>Minimum 15 credits taken in residence through UW</li> </ol> <p>The requirement to complete one or more of the language courses ARAB 201, ARAB 202, ARAB 203, or ARAB 205 may be satisfied by taking a placement exam and testing out. A successful placement exam does not count towards the 30-credit requirement. Students entering the UW with proficiency in Arabic beyond the second year of language training must take 20 credits of upper-division courses with the ARAB prefix. In addition, they must earn 10 credits of electives; refer to department website for a list of approved courses.</p></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+<div class="expandableGroup" data-expand="credential-63acbc5bdb37b1c9b9255ade">
+<h4 class="expanded" id="credential-63acbc5bdb37b1c9b9255ade"><span></span>&nbsp;Minor in Middle Eastern Languages and Cultures</h4>
+</div><br/>
+<div id="credential-63acbc5bdb37b1c9b9255ade-block" class="inner-block" style="display:block">
+<div class="credentialCompletionRequirements"><b>Completion Requirements</b><br/><p>30 credits</p> <ol> <li>MELC 101 (5 credits)</li> <li>Two introductory courses (200-level) on the Middle East (10 credits)</li> <li>15 additional credits from Middle Eastern cultures or advanced-level language courses (may not include language courses at the beginning or intermediate level).</li> <li>Minimum of 15 credits at the 300 or 400 level</li> </ol></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+<div class="expandableGroup" data-expand="credential-60149710b967ab0027a2663a">
+<h4 class="expanded" id="credential-60149710b967ab0027a2663a"><span></span>&nbsp;Minor in Modern Hebrew</h4>
+</div><br/>
+<div id="credential-60149710b967ab0027a2663a-block" class="inner-block" style="display:block">
+<div class="credentialOverview"><b>Credential Overview</b><br/><p>The Modern Hebrew minor enriches students' education by providing advanced proficiency in language skills and by enhancing understanding of Jewish and Israeli culture. This minor serves as an excellent complement for those studying in various fields, including business, political science, and international studies.
+
+</p></div>
+<div class="credentialRecommendedPrep"><b>Recommended Preparation</b><br/><p>MODHEB 103 or equivalent</p></div>
+<div class="credentialCompletionRequirements"><b>Completion Requirements</b><br/><p>30 credits</p> <ol> <li>MODHEB 201, MODHEB 202, MODHEB 203 (15 credits)</li> <li>Upper-division courses with the MODHEB prefix (10 credits)</li> <li>Elective coursework (5 credits): refer to department website for a list of approved courses.</li> <li>Minimum of 15 credits at the 300 or 400 level</li> <li>Minimum 2.00 cumulative GPA for courses applied to the minor</li> <li>Minimum 15 credits taken in residence through UW</li> </ol> <p>The requirement to complete one or more of the language courses MODHEB 201, MODHEB 202, MODHEB 203 may be satisfied by taking a placement exam and testing out. A successful placement exam does not count towards the 30-credit requirement. Students entering the UW with proficiency in Hebrew beyond the second year of language training must take 20 credits of upper-division courses with the MODHEB prefix. In addition, they must earn 10 credits of electives; refer to department website for a list of approved courses.</p></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+<div class="expandableGroup" data-expand="credential-6014a3ab1d2309002763d352">
+<h4 class="expanded" id="credential-6014a3ab1d2309002763d352"><span></span>&nbsp;Minor in Persian</h4>
+</div><br/>
+<div id="credential-6014a3ab1d2309002763d352-block" class="inner-block" style="display:block">
+<div class="credentialOverview"><b>Credential Overview</b><br/><p>The Persian minor enriches students' education by providing advanced proficiency in language skills and by enhancing understanding of Iranian and Islamic cultures. This minor serves as an excellent complement for those studying in various fields, including business, political science, and international studies.
+
+</p></div>
+<div class="credentialRecommendedPrep"><b>Recommended Preparation</b><br/><p>PRSAN 103 or equivalent</p> </div>
+<div class="credentialCompletionRequirements"><b>Completion Requirements</b><br/><p>30 credits</p> <ol> <li>PRSAN 201, PRSAN 202, PRSAN 203 (15 credits)</li> <li>Upper-division courses with the PRSAN prefix (10 credits)</li> <li>Elective coursework (5 credits): refer to department website for a list of approved courses</li> <li>Minimum of 15 credits at the 300 or 400 level</li> <li>Minimum 2.00 cumulative GPA for courses applied to the minor</li> <li>Minimum 15 credits taken in residence through UW</li> </ol> <p>The requirement to complete one or more of the language courses PRSAN 201, PRSAN 202, PRSAN 203 may be satisfied by taking a placement exam and testing out. A successful placement exam does not count towards the 30-credit requirement. Students entering the UW with proficiency in Persian beyond the second year of language training must take 20 credits of upper-division courses with the PRSAN prefix. In addition, they must earn 10 credits of electives; refer to department website for a list of approved courses.</p></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+<div class="expandableGroup" data-expand="credential-6014b0433a94c90026bbbec6">
+<h4 class="expanded" id="credential-6014b0433a94c90026bbbec6"><span></span>&nbsp;Minor in Turkic Languages</h4>
+</div><br/>
+<div id="credential-6014b0433a94c90026bbbec6-block" class="inner-block" style="display:block">
+<div class="credentialOverview"><b>Credential Overview</b><br/><p>The Turkic minor enriches students' education by providing advanced proficiency in language skills and by enhancing understanding of Central Asian cultures. This minor serves as an excellent complement for those studying in various fields, including business, political science, and international studies.
+
+</p></div>
+<div class="credentialRecommendedPrep"><b>Recommended Preparation</b><br/><p>either KAZAKH 103, UYGUR 103, UZBEK 103, or equivalent.</p></div>
+<div class="credentialCompletionRequirements"><b>Completion Requirements</b><br/><p>30 credits</p> <ol> <li>Language courses: 15 credits at the second-year level, chosen from one of the following: (1) KAZAKH 201, KAZAKH 202, KAZAKH 203; (2) UYGUR 201, UYGUR 202, UYGUR 203; (3) UZBEK 201, UZBEK 202, UZBEK 203</li> <li>Upper-division courses with the TURKIC prefix (10 credits)</li> <li>Elective coursework (5 credits): refer to department website for a list of approved courses</li> <li>Minimum of 15 credits at the 300 or 400 level</li> <li>Minimum 2.00 cumulative GPA for courses applied to the minor</li> <li>Minimum 15 credits taken in residence through UW</li> </ol> <p>The requirement to complete one or more of the language courses may be satisfied by taking a placement exam and testing out. A successful placement exam does not count towards the 30-credit requirement. Students entering the UW with proficiency in a Turkic language beyond the second year of language training must take 20 credits of upper-division courses with the TURKIC prefix. In addition, they must earn 10 credits of electives; refer to department website for a list of approved courses.</p></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+<div class="expandableGroup" data-expand="credential-6014acf5b967ab0027a272ec">
+<h4 class="expanded" id="credential-6014acf5b967ab0027a272ec"><span></span>&nbsp;Minor in Turkish</h4>
+</div><br/>
+<div id="credential-6014acf5b967ab0027a272ec-block" class="inner-block" style="display:block">
+<div class="credentialOverview"><b>Credential Overview</b><br/><p>The Turkish minor enriches students' education by providing advanced proficiency in language skills and by enhancing understanding of Turkish and Ottoman cultures. This minor serves as an excellent complement for those studying in various fields, including business, political science, and international studies.
+
+
+</p></div>
+<div class="credentialRecommendedPrep"><b>Recommended Preparation</b><br/><p>TKISH 103 or equivalent</p></div>
+<div class="credentialCompletionRequirements"><b>Completion Requirements</b><br/><p>30 credits</p> <ol> <li>TKISH 201, TKISH 202, TKISH 203 (15 credits)</li> <li>Upper-division courses with the TKISH prefix (10 credits)</li> <li>Elective coursework (5 credits): refer to department website for a list of approved courses.</li> <li>Minimum of 15 credits at the 300 or 400 level</li> <li>Minimum 2.00 cumulative GPA for courses applied to the minor</li> <li>Minimum 15 credits taken in residence through UW</li> </ol> <p>The requirement to complete one or more of the language courses TKISH 201, TKISH 202, TKISH 203 may be satisfied by taking a placement exam and testing out. A successful placement exam does not count towards the 30-credit requirement. Students entering the UW with proficiency in Turkish beyond the second year of language training must take 20 credits of upper-division courses with the TKISH prefix. In addition, they must earn 10 credits of electives; refer to department website for a list of approved courses.</p></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+</div>
+<div id="undergradDepartmentAdditionalInfo"><b>Additional Information</b><br/>
+<p><p>Student Outcomes and Opportunities</p> <ul> <li><em>Learning Objectives and Expected Outcomes: </em>The Middle Eastern Languages and Cultures (MELC) undergraduate degree program investigates major literary and cultural traditions of the Near and Middle East, Central Eurasia, North Africa, and the Horn of Africa. Arabic, Persian, Tajik, Turkish (Modern and Ottoman), and Central Asian Turkic (such as Chagatay, Kazak, Kyrgyz, Uygur, and Uzbek) are the languages of the most significant manifestations of Islamic cultures. Hebrew and Aramaic are languages of the Bible. Coptic, Ge’ez (Classical Ethiopic), and Syriac are critical for studying the history of Eastern Christianity. Additionally, Ladino and Modern Hebrew are vital for Judaism and Jewish culture. A rich and vast heritage from a range of ancient and medieval cultures is explored through the study of languages and literatures such as Egyptian (Hieroglyphic), Akkadian, Ugaritic, and Phoenician. MELC serves a broad spectrum of undergraduates, including those with plans to acquire specific linguistic and cultural proficiencies and those simply interested in the histories and cultures of the regions covered by the department. Graduates of this degree program have pursued further study in the humanities or social sciences, professional degree programs in law or medicine, employment with governmental or non-governmental organizations, and other careers. The department participates actively in exchange programs, sending UW students for language and cultural study and research to a variety of locations - from North Africa to the Middle East, and across Central Eurasia - and training many students from institutions overseas.</li> <li><em>Instructional and Research Facilities:</em> The department draws on collections of books, serials, and other resources in the UW libraries that are unusually rich in the quantity and quality of items relating to Middle Eastern and Central Eurasian languages and cultures. Students in the department's language classes make use of the University's well-equipped Language Learning Center.</li> <li><em>Honors Options Available:</em> With College Honors (Completion of Honors core curriculum and Departmental Honors); With Honors (Completion of Departmental Honors requirements in the major); See Humanities Academic Services or department website for requirements.</li> <li><em>Research, Internships, and Service Learning:</em> Undergraduate research is carried out under the supervision of faculty members. Students can also undertake research and internship opportunities while studying abroad.</li> <li><em>Department Scholarships:</em> See department website for the most current information.</li> <li><em>Student Organizations/Associations:</em> There are no formal student organizations in the department, but the department frequently sponsors educational and cultural events organized by students and faculty.</li> </ul></p></div>
+
+</div>
+
+<div class="expandableGroup" data-expand="gradPrograms">
+<h2 class="expanded" id="gradPrograms"><span></span>&nbsp;Graduate Program</h2>
+</div><br/>
+<div id="gradPrograms-block" class="inner-block" style="display:block">
+<div>
+<h1>Middle Eastern Languages and Cultures</h1>
+(206) 543-6033<br/>
+<a href="mailto:has-center@uw.edu">has-center@uw.edu</a><br/>
+</div>
+<br/>
+<div class="expandableGroup" data-expand="program-GR-NEAR E-21">
+<h3 class="expanded" id="program-GR-NEAR E-21"><span></span>&nbsp;Program of Study:  Master Of Arts (Near Eastern Languages And Civilization)</h3>
+</div><br/>
+<div id="program-GR-NEAR E-21-block" class="inner-block" style="display:block">
+<div class="programOverview"><b>Program Overview</b><br/><p>The department offers a graduate program of studies leading to the master of arts degree, designed to provide students advanced training in at least one Near Eastern language and in a field of specialization. Students may concentrate in Arabic, Hebrew, Persian, Turkish, or Central Asian Turkic and may choose as their field of specialization a civilization or literature related to their language of concentration. The program is intended both for students who wish to continue their studies at the doctoral level and for students who wish to pursue careers in government or business.</p></div>
+<div class="programsOfStudy"><span>This program of study leads to the following credential:</span>
+<ul class="credentialsList">
+<li>Master Of Arts (Near Eastern Languages And Civilization)</li>
+</ul>
+</div>
+<div class="programAdmissionRequirements"><b>Admission Requirements</b><br/><p>Contact department for requirements.</p></div>
+<div class="expandableGroup" data-expand="credential-5b8ed344d09d102e0002786e">
+<h4 class="expanded" id="credential-5b8ed344d09d102e0002786e"><span></span>&nbsp;Master Of Arts (Near Eastern Languages And Civilization)</h4>
+</div><br/>
+<div id="credential-5b8ed344d09d102e0002786e-block" class="inner-block" style="display:block">
+<div class="programCompletionRequirements"><b>Completion Requirements</b><br/><p>36 credits</p> <ol> <li>Coursework determined in consultation with M.A. committee to prepare for written examinations.</li> <li>Reading knowledge of French or German; or, with the prior approval of the student's MA committee, any other language pertinent to the research in the student's field of study. Normally, to satisfy this requirement, the student must pass a reading exam before beginning the second year of study towards the M.A.</li> <li>A seminar paper representing the student's best work OR a thesis</li> <li>Written examinations including: (1) general culture of the Near East, (2) student's field of specialization, (3) student's language of concentration, (4) second Near Eastern language related to the language of concentration</li> </ol></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="uw-footer" role="contentinfo">
+  <a class="footer-wordmark" href="http://www.washington.edu">University of Washington</a>
+  <a href="http://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+  <h4>Connect with us:</h4>
+  <nav aria-label="social networking">
+    <ul class="footer-social">
+      <li><a class="facebook" href="http://www.facebook.com/UofWA">Facebook</a></li>
+      <li><a class="twitter" href="http://twitter.com/UW">Twitter</a></li>
+      <li><a class="instagram" href="http://instagram.com/uofwa">Instagram</a></li>
+      <li><a class="youtube" href="http://www.youtube.com/user/uwhuskies">YouTube</a></li>
+      <li><a class="linkedin" href="http://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+      <li><a class="pinterest" href="http://www.pinterest.com/uofwa/">Pinterest</a></li>
+    </ul>
+  </nav>
+  <nav aria-label="footer navigation">
+    <ul class="footer-links">
+      <li><a href="http://www.uw.edu/accessibility">Accessibility</a></li>
+      <li><a href="http://uw.edu/contact">Contact Us</a></li>
+      <li><a href="http://www.washington.edu/jobs">Jobs</a></li>
+      <li><a href="http://www.washington.edu/safety">Campus Safety</a></li>
+      <li><a href="http://my.uw.edu/">My UW</a></li>
+      <li><a href="http://www.washington.edu/rules/wac">Rules Docket</a></li>
+      <li><a href="http://www.washington.edu/online/privacy/">Privacy</a></li>
+      <li><a href="http://www.washington.edu/online/terms/">Terms</a></li>
+      <li><a href="http://www.washington.edu/newsletter/">Newsletter</a></li>
+    </ul>
+  </nav>
+  <p>&copy; <script>document.write(new Date().getFullYear())</script> University of Washington | Seattle, WA</p>
+</div>
+<script>
+  const expandElement = function(elementId) {
+    let toExpand = document.getElementById(elementId);
+    if (toExpand.style.display === 'none') {
+      toExpand.style.display = 'block';
+    }
+  }
+
+  const toggleElement = function(elementId) {
+    let toToggle = document.getElementById(elementId);
+    if (toToggle.style.display === 'none') {
+      toToggle.style.display = 'block';
+    }
+    else {
+      toToggle.style.display = 'none';
+    }
+  }
+
+  let linkElements = document.getElementsByClassName('toc-link');
+  let i = 0;
+  for (i = 0; i < linkElements.length; i++) {
+    linkElements[i].addEventListener('click', function() {
+      let namesToExpand = this.getAttribute('data-expand').split('|');
+      let j = 0;
+      for ( j = 0; j < namesToExpand.length; j++) {
+        let baseName = namesToExpand[j];
+
+        let titleElement = document.getElementById(baseName);
+
+        if (titleElement.classList.contains('collapsed')) {
+          titleElement.classList.toggle('collapsed');
+          titleElement.classList.toggle('expanded');
+          expandElement(`${baseName}-block`);
+        }
+      }
+    });
+  }
+
+  let expandIcons = document.getElementsByClassName('expandableGroup');
+  for (i = 0; i < expandIcons.length; i++) {
+    expandIcons[i].addEventListener('click', function() {
+      let baseName = this.getAttribute('data-expand');
+
+      let titleElement = document.getElementById(baseName);
+      titleElement.classList.toggle('collapsed');
+      titleElement.classList.toggle('expanded');
+      toggleElement(`${baseName}-block`);
+    });
+  }</script>
+</body>
+</html>

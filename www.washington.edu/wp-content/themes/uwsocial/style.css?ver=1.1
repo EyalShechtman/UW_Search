@@ -1,0 +1,850 @@
+/*
+ Theme Name:       NEW Social Theme
+ Theme URI:        https://github.com/uweb/uwsocial
+ GitHub Theme URI: https://github.com/uweb/uwsocial
+ Primary Branch:   main
+ Author:           UW Web Team
+ Author URI:       https://github.com/uweb
+ Description:      Social Media site child theme based on the UW WordPress Theme
+ Template:         uw_wp_theme
+ Version:          1.1
+ License:          GNU General Public License v2 or later
+ License URI:      http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:             two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:      uwsocial
+*/
+#page {
+  overflow: hidden;
+  position: relative; }
+
+#primary {
+  margin-bottom: 80px; }
+
+#social-wrapper {
+  z-index: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-color: white; }
+  @media (max-width: 767px) {
+    #social-wrapper {
+      display: none; } }
+
+#color {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 4000px;
+  background: white;
+  opacity: .93; }
+  @media (max-width: 767px) {
+    #color {
+      display: none; } }
+
+#social-top {
+  background: transparent;
+  z-index: 10;
+  position: relative;
+  text-align: center;
+  margin: auto; }
+  #social-top h1, #social-top h4, #social-top p {
+    color: #4b2e83; }
+  #social-top h1 {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 70px; }
+    @media (max-width: 768px) {
+      #social-top h1 {
+        font-size: 36px; } }
+  #social-top h4 {
+    font-family: "Encode Sans Compressed", sans-serif;
+    font-weight: 800;
+    font-size: 21px;
+    line-height: 1.3;
+    margin-top: 14.5px;
+    margin-bottom: 14.5px; }
+  #social-top p {
+    font-family: 'Encode Sans Compressed', sans-serif;
+    font-size: 22px;
+    font-weight: 600; }
+  #social-top ul {
+    margin-top: 20px;
+    margin: 35px 0px 0px 0px;
+    padding: 0px; }
+    #social-top ul li {
+      display: inline;
+      background: none;
+      padding-left: 0; }
+      #social-top ul li img {
+        margin: 10px 20px 25px 20px; }
+  @media (max-width: 767px) {
+    #social-top h1 {
+      margin: 0px;
+      padding: 30px 0px 15px 0px; }
+    #social-top p {
+      padding: 20px;
+      margin: 0; }
+    #social-top ul {
+      margin-top: 0px; } }
+
+h2 {
+  font-size: 55px;
+  line-height: 60px;
+  font-weight: 800;
+  margin: 50px 0 10px; }
+
+#content {
+  text-align: center;
+  background: transparent;
+  position: relative;
+  z-index: 10;
+  margin: 40px auto 40px auto;
+  width: 90%; }
+  #content .feed {
+    position: relative;
+    background: transparent;
+    opacity: 1;
+    -webkit-transition: opacity .5s;
+    transition: opacity .5s; }
+    #content .feed.show {
+      opacity: 1; }
+    #content .feed h3 {
+      font-family: 'Encode Sans Compressed', sans-serif; }
+      #content .feed h3 a, #content .feed h3 a:visited {
+        color: #4b2e83; }
+        #content .feed h3 a:hover, #content .feed h3 a:visited:hover {
+          color: #888; }
+      @media (min-width: 767px) {
+        #content .feed h3 {
+          margin-bottom: 64.45px; } }
+    #content .feed div.twitter-item {
+      background-color: white;
+      text-align: left;
+      padding: 0;
+      margin-bottom: 20px;
+      margin-bottom: 20px;
+      zoom: 1;
+      opacity: 1;
+      position: relative;
+      border-color: #e5e5e5;
+      border-style: solid;
+      border-width: 0 1px 1px 0;
+      overflow-wrap: break-word;
+      word-wrap: break-word;
+      word-break: break-word; }
+      #content .feed div.twitter-item .twitter-heading {
+        padding: 14px 10px 12px;
+        height: auto;
+        margin: 0;
+        height: 56px;
+        display: block; }
+        #content .feed div.twitter-item .twitter-heading img {
+          border-radius: 50%;
+          border-color: white;
+          margin: 0 11px 0 0;
+          height: 30px;
+          display: inline-block;
+          vertical-align: top; }
+        #content .feed div.twitter-item .twitter-heading .twitter-user {
+          display: inline-block;
+          margin-top: 1px; }
+          #content .feed div.twitter-item .twitter-heading .twitter-user h3 {
+            display: block;
+            color: #3a3a3a;
+            font-size: 12px;
+            font-weight: 700;
+            margin: 0; }
+          #content .feed div.twitter-item .twitter-heading .twitter-user .screen-name {
+            font-weight: 400; }
+        #content .feed div.twitter-item .twitter-heading time {
+          margin-top: 7px;
+          font-size: 12px;
+          color: #a0a0a0;
+          float: right;
+          display: inline-block; }
+      #content .feed div.twitter-item .tweet-img {
+        width: 100%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto; }
+      #content .feed div.twitter-item .twitter-message {
+        padding: 20px 15px 0 20px; }
+      #content .feed div.twitter-item .twitter-meta {
+        margin-top: 25px;
+        display: block;
+        padding: 0 15px 20px 20px;
+        font-size: 14px; }
+        #content .feed div.twitter-item .twitter-meta ul {
+          display: inline-block;
+          width: auto !important;
+          padding: 0;
+          margin: 0;
+          font-size: 1em;
+          line-height: 1em;
+          float: none; }
+        #content .feed div.twitter-item .twitter-meta li {
+          display: inline-block;
+          margin: 0 10px 0 0;
+          padding: 0;
+          background-image: none;
+          border: none;
+          font-size: 1em;
+          font-weight: normal;
+          height: auto;
+          width: auto;
+          color: #0074bb;
+          line-height: 1.7222; }
+        #content .feed div.twitter-item .twitter-meta nav {
+          display: inline-block;
+          float: right;
+          height: 36px;
+          border: none;
+          background: transparent;
+          position: relative;
+          padding-top: 7px; }
+          #content .feed div.twitter-item .twitter-meta nav .fa-twitter {
+            font-size: 23px;
+            line-height: 1;
+            float: none;
+            margin: 0; }
+      #content .feed div.twitter-item a:hover, #content .feed div.twitter-item a:focus {
+        text-decoration: none; }
+      #content .feed div.twitter-item p {
+        word-wrap: break-word;
+        margin-bottom: 16px;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 17px;
+        line-height: 25px;
+        color: #666; }
+        #content .feed div.twitter-item p span {
+          color: #0088dd; }
+    #content .feed a.fade {
+      position: absolute;
+      text-align: right;
+      bottom: -7px;
+      left: 15px;
+      right: 15px;
+      padding-right: 20px;
+      padding-top: 53px;
+      height: 80px;
+      vertical-align: text-bottom;
+      color: #9E9E9E;
+      font-weight: 900;
+      text-transform: uppercase;
+      font-size: 14px; }
+  @media (max-width: 767px) {
+    #content {
+      padding: 0 20px 40px 20px; } }
+
+button, button:hover {
+  border-color: transparent; }
+
+ul {
+  margin-left: 0; }
+
+.entry-content ul {
+  padding-left: 1.2em; }
+
+a.more {
+  position: relative; }
+
+a.more:after {
+  background: url(../assets/svg/uw-sprite.svg) no-repeat -206px -492px;
+  content: "";
+  position: absolute;
+  right: -24px;
+  bottom: 0px;
+  width: 14px;
+  height: 21px;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg); }
+
+body.error404 .uw-hero-image {
+  background: url(../assets/headers/suzzallo.jpg) center center no-repeat;
+  height: 170px;
+  background-size: cover;
+  position: relative; }
+
+body.error404 .woof {
+  height: 400px;
+  background: url(../assets/images/404.jpg) center center no-repeat;
+  max-width: 100%; }
+
+body.error404 h3 {
+  margin-bottom: 14.5px; }
+
+body.error404 p {
+  line-height: 1.72222; }
+
+#searchform {
+  position: relative;
+  clear: both;
+  outline: 1px solid #ADADAD;
+  font-family: "Encode Sans Compressed";
+  font-size: 20px;
+  color: #7A7A7A; }
+  #searchform label {
+    position: absolute;
+    top: 10px;
+    left: 18px;
+    visibility: hidden; }
+  #searchform .assistive-text {
+    z-index: -1; }
+  #searchform #s {
+    width: 100%;
+    padding: 14px 0 13px 25px;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    outline: none;
+    background-color: #F5F5F5; }
+  #searchform #searchsubmit {
+    float: left;
+    display: block;
+    height: 51px;
+    width: 55px;
+    text-indent: -99999px;
+    outline: 1px solid #4b2e83;
+    overflow: hidden;
+    background: url(../assets/svg/search.svg) no-repeat center center #4b2e83;
+    position: relative;
+    border: none;
+    border-radius: 0;
+    background-size: 22px;
+    position: absolute;
+    right: 0;
+    top: 0; }
+
+.uw-sidebar .widget_search .widgettitle {
+  padding-bottom: 10px; }
+  .uw-sidebar .widget_search .widgettitle:before, .uw-sidebar .widget_search .widgettitle:after {
+    display: none; }
+
+#primary .juicer-feed {
+  overflow-y: hidden; }
+  #primary .juicer-feed .j-paginate {
+    background: #4b2e83;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #4b2e83;
+    text-transform: uppercase;
+    font-family: "Encode Sans Compressed", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    font-size: 1rem; }
+    #primary .juicer-feed .j-paginate:hover, #primary .juicer-feed .j-paginate:active, #primary .juicer-feed .j-paginate:focus {
+      -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+      transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+      transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+      transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+      background: #b7a57a;
+      border-color: #b7a57a;
+      color: white !important; }
+
+/* LinkedIn page specific */
+.page-template-page-linkedin #page #page-inner {
+  background-color: #E8E3D3; }
+
+.page-template-page-linkedin #page #primary {
+  background-color: white;
+  max-width: 50rem;
+  margin: 0 auto;
+  padding-top: 2em; }
+  @media (max-width: 768px) {
+    .page-template-page-linkedin #page #primary {
+      margin: 0 10px; } }
+
+.page-template-page-linkedin #page .entry-header {
+  margin: 0 1.5em 1.5em; }
+  .page-template-page-linkedin #page .entry-header h1.entry-title {
+    text-transform: uppercase;
+    color: #4b2e83;
+    border-bottom: 1px solid #4b2e83;
+    padding-bottom: 0.5em;
+    margin: 0 0 0.5em;
+    font-size: 45px; }
+
+.page-template-page-linkedin #page h2 {
+  color: #4b2e83;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: "Open Sans";
+  font-size: 32px;
+  line-height: 1em;
+  border-top: 1px solid #4b2e83;
+  padding-top: 1em; }
+
+.page-template-page-linkedin #page .entry-content {
+  padding: 0 1.5em 2em; }
+  .page-template-page-linkedin #page .entry-content .linkedin-infographic {
+    position: relative; }
+    .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-img {
+      -webkit-box-shadow: 0 8px 10px rgba(0, 0, 0, 0.14);
+              box-shadow: 0 8px 10px rgba(0, 0, 0, 0.14); }
+    .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-cover,
+    .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile,
+    .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about,
+    .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience {
+      background: #4b2e83;
+      color: white;
+      padding: 20px 20px 10px 20px;
+      position: absolute;
+      width: 225px; }
+      .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-cover p,
+      .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile p,
+      .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about p,
+      .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience p {
+        color: white; }
+      .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-cover h3,
+      .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile h3,
+      .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about h3,
+      .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience h3 {
+        color: #b7a57a;
+        text-transform: uppercase;
+        font-family: "Encode Sans Normal";
+        font-weight: 600; }
+        @media (max-width: 768px) {
+          .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-cover h3,
+          .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile h3,
+          .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about h3,
+          .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience h3 {
+            font-size: 18px; } }
+      @media (max-width: 468px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-cover p,
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile p,
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about p,
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience p {
+          display: none; } }
+      @media (max-width: 768px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-cover,
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile,
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about,
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience {
+          padding: 10px 10px 5px 10px;
+          width: 200px; } }
+    .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-cover {
+      top: 30px;
+      right: 30px; }
+      @media (max-width: 468px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-cover {
+          top: 10px;
+          right: 35px;
+          width: 180px; } }
+      @media (min-width: 469px) and (max-width: 768px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-cover {
+          top: 10px;
+          right: 35px; } }
+    .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile {
+      top: 240px;
+      left: 230px; }
+      @media (max-width: 399px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile {
+          top: 90px;
+          right: 35px;
+          left: auto;
+          width: 160px; } }
+      @media (min-width: 400px) and (max-width: 468px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile {
+          top: 90px;
+          left: 125px;
+          width: 180px; } }
+      @media (min-width: 469px) and (max-width: 500px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile {
+          top: 160px;
+          left: 50px; } }
+      @media (min-width: 501px) and (max-width: 768px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-profile {
+          top: 19%;
+          left: 32%; } }
+    .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about {
+      top: 520px;
+      left: 250px;
+      width: 280px; }
+      @media (max-width: 399px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about {
+          top: 180px;
+          right: 35px;
+          left: auto;
+          width: 120px; } }
+      @media (min-width: 400px) and (max-width: 468px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about {
+          top: 250px;
+          right: 60px;
+          left: auto;
+          width: 120px; } }
+      @media (min-width: 469px) and (max-width: 500px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about {
+          top: 285px;
+          left: initial;
+          right: 60px;
+          width: 200px; } }
+      @media (min-width: 501px) and (max-width: 768px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-about {
+          top: 35%;
+          left: initial;
+          right: 60px;
+          width: 200px; } }
+    .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience {
+      top: 820px;
+      right: 70px;
+      width: 300px; }
+      @media (max-width: 399px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience {
+          top: 320px;
+          right: 35px;
+          width: 160px; } }
+      @media (min-width: 400px) and (max-width: 468px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience {
+          top: 440px;
+          right: 35px;
+          width: 160px; } }
+      @media (min-width: 469px) and (max-width: 500px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience {
+          top: 460px;
+          right: 60px;
+          width: 240px; } }
+      @media (min-width: 501px) and (max-width: 768px) {
+        .page-template-page-linkedin #page .entry-content .linkedin-infographic .linkedin-infographic-experience {
+          top: 52%;
+          right: 60px;
+          width: 200px; } }
+
+.page-template-page-linkedin #page .modal-group {
+  max-width: 50rem;
+  background-color: #4b2e83;
+  border-top: 5px solid #b7a57a;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding: 10px 0 5px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  -webkit-box-shadow: 0px -8px 10px 0px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px -8px 10px 0px rgba(0, 0, 0, 0.25); }
+  @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    .page-template-page-linkedin #page .modal-group {
+      width: 50rem;
+      left: initial;
+      right: initial;
+      margin: 0 auto; } }
+  .page-template-page-linkedin #page .modal-group .btn-social-cats {
+    -webkit-transition: none;
+    transition: none; }
+  .page-template-page-linkedin #page .modal-group .btn-social-cats {
+    color: white;
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-flow: column;
+            flex-flow: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats:hover, .page-template-page-linkedin #page .modal-group .btn-social-cats:active, .page-template-page-linkedin #page .modal-group .btn-social-cats:focus {
+      opacity: 1;
+      border-color: transparent; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats .btn-social-cats-label {
+      font-size: 0.8em;
+      padding: 10px 0; }
+      @media (max-width: 499px) {
+        .page-template-page-linkedin #page .modal-group .btn-social-cats .btn-social-cats-label {
+          font-size: 0.6em; } }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats span {
+      border: none; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats .btn-social-cats-img {
+      width: 57px;
+      height: 57px; }
+      @media (prefers-reduced-motion: no-preference) {
+        .page-template-page-linkedin #page .modal-group .btn-social-cats .btn-social-cats-img {
+          -webkit-animation-name: pulse;
+                  animation-name: pulse;
+          -webkit-animation-duration: 1s;
+                  animation-duration: 1s;
+          -webkit-animation-iteration-count: 5;
+                  animation-iteration-count: 5; }
+        @-webkit-keyframes pulse {
+          0% {
+            -webkit-box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+                    box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+            border-radius: 50%; }
+          100% {
+            -webkit-box-shadow: 0 0 0 30px rgba(0, 0, 0, 0);
+                    box-shadow: 0 0 0 30px rgba(0, 0, 0, 0);
+            border-radius: 50%; } }
+        @keyframes pulse {
+          0% {
+            -webkit-box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+                    box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+            border-radius: 50%; }
+          100% {
+            -webkit-box-shadow: 0 0 0 30px rgba(0, 0, 0, 0);
+                    box-shadow: 0 0 0 30px rgba(0, 0, 0, 0);
+            border-radius: 50%; } } }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.arts .btn-social-cats-img {
+      background: url("images/linkedin-profile/arts-button.png") no-repeat; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.arts:hover .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.arts:active .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.arts:focus .btn-social-cats-img {
+      background: url("images/linkedin-profile/arts-button-hover.png") no-repeat; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.business .btn-social-cats-img {
+      background: url("images/linkedin-profile/business-button.png") no-repeat; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.business:hover .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.business:active .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.business:focus .btn-social-cats-img {
+      background: url("images/linkedin-profile/business-button-hover.png") no-repeat; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.communications .btn-social-cats-img {
+      background: url("images/linkedin-profile/communications-button.png") no-repeat; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.communications .btn-social-cats-label {
+      max-width: 85px; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.communications:hover .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.communications:active .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.communications:focus .btn-social-cats-img {
+      background: url("images/linkedin-profile/communications-button-hover.png") no-repeat; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.engineering .btn-social-cats-img {
+      background: url("images/linkedin-profile/engineering-button.png") no-repeat; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.engineering:hover .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.engineering:active .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.engineering:focus .btn-social-cats-img {
+      background: url("images/linkedin-profile/engineering-button-hover.png") no-repeat; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.research .btn-social-cats-img {
+      background: url("images/linkedin-profile/research-button.png") no-repeat; }
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.research:hover .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.research:active .btn-social-cats-img,
+    .page-template-page-linkedin #page .modal-group .btn-social-cats.research:focus .btn-social-cats-img {
+      background: url("images/linkedin-profile/research-button-hover.png") no-repeat; }
+
+.page-template-page-linkedin #page #arts #cover-expose {
+  background: url("images/linkedin-profile/arts-cover.png") no-repeat;
+  background-position: center center;
+  background-size: cover; }
+
+.page-template-page-linkedin #page #business .modal-header {
+  background: url("images/linkedin-profile/business-cover.png") no-repeat;
+  background-position: center center;
+  background-size: cover; }
+
+.page-template-page-linkedin #page #engineering .modal-header {
+  background: url("images/linkedin-profile/engineering-cover.png") no-repeat;
+  background-position: center center;
+  background-size: cover; }
+
+.page-template-page-linkedin #page #communications .modal-header {
+  background: url("images/linkedin-profile/marketing-cover.png") no-repeat;
+  background-position: center center;
+  background-size: cover; }
+
+.page-template-page-linkedin #page #research .modal-header {
+  background: url("images/linkedin-profile/research-cover.png") no-repeat;
+  background-position: center center;
+  background-size: cover; }
+
+.page-template-page-linkedin #page .modal-content {
+  border-radius: 0; }
+  .page-template-page-linkedin #page .modal-content .modal-header {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    min-height: 200px;
+    -webkit-transition: border 0.25s linear;
+    transition: border 0.25s linear;
+    border: 0 none; }
+  .page-template-page-linkedin #page .modal-content a.callout-button-1,
+  .page-template-page-linkedin #page .modal-content a.callout-button-2,
+  .page-template-page-linkedin #page .modal-content a.callout-button-3,
+  .page-template-page-linkedin #page .modal-content a.callout-button-4 {
+    border: 0 none;
+    background: none;
+    padding: 0; }
+    @media (prefers-reduced-motion: no-preference) {
+      .page-template-page-linkedin #page .modal-content a.callout-button-1,
+      .page-template-page-linkedin #page .modal-content a.callout-button-2,
+      .page-template-page-linkedin #page .modal-content a.callout-button-3,
+      .page-template-page-linkedin #page .modal-content a.callout-button-4 {
+        -webkit-animation-name: pulse;
+                animation-name: pulse;
+        -webkit-animation-duration: 1s;
+                animation-duration: 1s;
+        -webkit-animation-iteration-count: 5;
+                animation-iteration-count: 5; }
+      @-webkit-keyframes pulse {
+        0% {
+          -webkit-box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+                  box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+          border-radius: 50%; }
+        100% {
+          -webkit-box-shadow: 0 0 0 30px rgba(0, 0, 0, 0);
+                  box-shadow: 0 0 0 30px rgba(0, 0, 0, 0);
+          border-radius: 50%; } }
+      @keyframes pulse {
+        0% {
+          -webkit-box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+                  box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+          border-radius: 50%; }
+        100% {
+          -webkit-box-shadow: 0 0 0 30px rgba(0, 0, 0, 0);
+                  box-shadow: 0 0 0 30px rgba(0, 0, 0, 0);
+          border-radius: 50%; } } }
+    .page-template-page-linkedin #page .modal-content a.callout-button-1:focus,
+    .page-template-page-linkedin #page .modal-content a.callout-button-2:focus,
+    .page-template-page-linkedin #page .modal-content a.callout-button-3:focus,
+    .page-template-page-linkedin #page .modal-content a.callout-button-4:focus {
+      outline: 0 none; }
+    .page-template-page-linkedin #page .modal-content a.callout-button-1:hover,
+    .page-template-page-linkedin #page .modal-content a.callout-button-2:hover,
+    .page-template-page-linkedin #page .modal-content a.callout-button-3:hover,
+    .page-template-page-linkedin #page .modal-content a.callout-button-4:hover {
+      cursor: pointer; }
+  .page-template-page-linkedin #page .modal-content a.callout-button-3,
+  .page-template-page-linkedin #page .modal-content a.callout-button-4 {
+    display: inline-block;
+    width: 43px;
+    height: 43px; }
+
+.page-template-page-linkedin #page .callout-button-1 {
+  position: absolute;
+  top: -10%;
+  left: 25%; }
+  @media (max-width: 499px) {
+    .page-template-page-linkedin #page .callout-button-1 {
+      top: -7%; } }
+
+.page-template-page-linkedin #page .callout-button-2 {
+  position: absolute;
+  top: 0;
+  left: 56%; }
+
+.page-template-page-linkedin #page .callout-button-3 {
+  position: relative;
+  top: -15px;
+  left: 10px; }
+
+.page-template-page-linkedin #page .callout-button-4 {
+  position: relative;
+  top: -5px;
+  left: 10px; }
+
+.page-template-page-linkedin #page .modal-body {
+  padding: 0; }
+
+.page-template-page-linkedin #page .profile-heading {
+  text-align: center;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #ccc;
+  margin: -80px 1rem -20px; }
+  .page-template-page-linkedin #page .profile-heading .profile-pic {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    padding: 0;
+    background: white;
+    border: 3px solid #ccc;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 0 auto 20px;
+    -webkit-transition: 0.25s;
+    transition: 0.25s; }
+    .page-template-page-linkedin #page .profile-heading .profile-pic img {
+      width: 120px;
+      height: 120px; }
+  .page-template-page-linkedin #page .profile-heading h3 {
+    font-size: 20px;
+    margin-bottom: 0; }
+
+.page-template-page-linkedin #page .profile-body {
+  padding: 3rem 2rem 2rem; }
+  .page-template-page-linkedin #page .profile-body h2 {
+    border-top: 0 none;
+    font-size: 20px;
+    color: #373a3c;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.8; }
+  .page-template-page-linkedin #page .profile-body #cover-expose, .page-template-page-linkedin #page .profile-body #about-expose, .page-template-page-linkedin #page .profile-body #experience-expose {
+    -webkit-transition: 0.25s;
+    transition: 0.25s; }
+  .page-template-page-linkedin #page .profile-body .experience-layout {
+    display: grid;
+    grid-template-columns: 44px 1fr;
+    grid-column-gap: 10px; }
+    .page-template-page-linkedin #page .profile-body .experience-layout img {
+      grid-column-start: 1;
+      grid-row-start: 1; }
+    .page-template-page-linkedin #page .profile-body .experience-layout .experience-description {
+      grid-column-start: 2;
+      grid-row-start: 1;
+      -webkit-transition: 0.25s;
+      transition: 0.25s; }
+      .page-template-page-linkedin #page .profile-body .experience-layout .experience-description h3 {
+        font-size: 18px;
+        margin-bottom: 0;
+        font-family: "Open Sans", sans-serif;
+        font-weight: 600;
+        margin-bottom: 15px; }
+        .page-template-page-linkedin #page .profile-body .experience-layout .experience-description h3:nth-child(1) {
+          margin-bottom: 0; }
+      .page-template-page-linkedin #page .profile-body .experience-layout .experience-description p.placeholder-lines {
+        border: 10px solid #d1d3d4; }
+
+.page-template-page-linkedin #page a:focus {
+  outline: 0; }
+
+.page-template-page-linkedin #page .key-points {
+  padding: 0.1rem 2rem 3rem;
+  background: #4b2e83;
+  color: white;
+  margin-bottom: -20px;
+  font-weight: lighter; }
+  .page-template-page-linkedin #page .key-points h2 {
+    border-top: 0 none;
+    font-size: 22px;
+    color: #b7a57a;
+    margin-top: 30px; }
+  .page-template-page-linkedin #page .key-points h3 {
+    color: white;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600; }
+  .page-template-page-linkedin #page .key-points ul {
+    margin-left: 1.15em; }
+    .page-template-page-linkedin #page .key-points ul li {
+      margin-bottom: 0.8rem; }
+
+.page-template-page-linkedin #page .modal-content .modal-header .close {
+  color: white !important;
+  background: #373a3c;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 0;
+  padding: 0;
+  opacity: 1; }
+  .page-template-page-linkedin #page .modal-content .modal-header .close:not(:disabled):not(.disabled):hover, .page-template-page-linkedin #page .modal-content .modal-header .close:not(:disabled):not(.disabled):focus {
+    opacity: 0.75; }
+
+.page-template-page-linkedin #page .cover-photo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; }
+  @media (max-width: 767px) {
+    .page-template-page-linkedin #page .cover-photo-grid {
+      grid-template-columns: 1fr; } }
+
+.page-template-page-linkedin.modal-open {
+  padding-right: 0 !important;
+  overflow-y: scroll !important; }
+
+.modal {
+  overflow: auto !important; }

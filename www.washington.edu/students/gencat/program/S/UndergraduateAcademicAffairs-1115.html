@@ -1,0 +1,638 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@400;600;800&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+<style>
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+body {
+  font-family: 'Open Sans', Helvetica, Arial, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 17px;
+  line-height: 1.72222;
+  background-color: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+.uw-thinstrip a,
+.uw-footer a {
+  text-decoration: none;
+}
+/* https://github.com/uweb/UW-Header-Templates/blob/master/css/structure.css */
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+/* https://github.com/uweb/UW-Header-Templates/blob/master/css/full.css */
+.uw-thinstrip {
+  height: 90px;
+  width: 100%;
+  background: #4b2e83;
+  padding-top: 22px;
+  position: relative;
+  z-index: 2;
+  -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+}
+.uw-thinstrip .container {
+  position: relative;
+}
+.uw-thinstrip .align-right{
+  float: right;
+}
+.uw-thinstrip nav {
+  margin-top: 8px;
+  display: inline-block;
+}
+.uw-thinstrip .uw-patch {
+  display: block;
+  text-indent: -9999px;
+  width: 163px;
+  height: 110px;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 0 transparent;
+  position: absolute;
+  top: -22px;
+  left: 0;
+  z-index: 1;
+}
+.uw-thinstrip .uw-wordmark {
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 150px;
+  text-indent: -9999px;
+  width: 330px;
+  height: 24px;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 -431px transparent;
+}
+.uw-thinstrip ul.uw-thin-links {
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  font-weight: 700;
+  padding: 0;
+}
+.uw-thinstrip ul.uw-thin-links li {
+  display:inline-block;
+  list-style: none;
+}
+.uw-thinstrip ul.uw-thin-links li:last-child a:after {
+  display: none;
+}
+.uw-thinstrip ul.uw-thin-links li a {
+  font-family: "Encode Sans Condensed", sans-serif;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 600;
+  position: relative;
+  padding: 8px 25px 10px 0;
+  letter-spacing: .01em;
+}
+.uw-thinstrip ul.uw-thin-links li a:after{
+  position: absolute;
+  right: 6px;
+  height: 32px;
+  width: 12px;
+  top: 3px;
+  content: "";
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat -696px 0;
+}
+.uw-thinstrip ul.uw-thin-links li a:hover,
+.uw-thinstrip ul.uw-thin-links li a:focus {
+  color: #b7a57a;
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 767px) {
+  .uw-thinstrip {
+    padding: 0;
+    height: 45px;
+  }
+  .uw-thinstrip .container {
+    position: static;
+  }
+  .uw-thinstrip .uw-patch {
+    width: 73px;
+    height: 45px;
+    top: 0;
+    left: 0;
+    background-size: 470px;
+  }
+  .uw-thinstrip .uw-wordmark {
+    width: 155px;
+    height: 34px;
+    background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 -185px transparent;
+    margin: 0;
+    float: none;
+    position: absolute;
+    left: 78px;
+    top: 4px;
+    background-size: 397px;
+  }
+  .uw-thinstrip ul.uw-thin-links {
+    height: 50px;
+  }
+  .uw-thinstrip ul.uw-thin-links li {
+    float: none;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .uw-thinstrip ul.uw-thin-links li {
+    display: none;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .uw-thinstrip {
+    height: 140px;
+  }
+  .uw-thinstrip ul.uw-thin-links li {
+    float: none;
+  }
+  .uw-thinstrip ul.uw-thin-links:before {
+    position: absolute;
+    top: 0;
+    height: 50px;
+    width: 100%;
+    content: "";
+  }
+  .uw-thinstrip ul.uw-thin-links li a,
+  .uw-thinstrip button {
+    font-size: 16px;
+    padding: 10px 25px 10px 0;
+    color: white;
+  }
+  .uw-thinstrip li {
+    margin-top: 68px;
+  }
+  .uw-thinstrip .align-right {
+    position: relative;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .uw-thinstrip ul.uw-thin-links li a,
+  .uw-thinstrip ul.uw-thin-links li button {
+    font-size: 16px;
+    padding: 10px 25px 10px 0;
+  }
+  .uw-thinstrip .uw-wordmark {
+    background-size: 670px;
+    background-position: 0 -331px;
+  }
+}
+
+/* https://github.com/uweb/uw-footer/blob/master/css/footer.css */
+.uw-footer {
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/images/footer.jpg') center bottom;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0 0 30px 0;
+  background-color: #4b2e83;
+  border-top: 7px solid #d1d1d1;
+  text-align: center;
+  position: relative;
+}
+
+.uw-footer .footer-wordmark {
+  display: inline-block;
+  width: 335px;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 -434px transparent;
+  text-indent: -9999px;
+  overflow: hidden;
+  margin-top: 50px;
+}
+
+.uw-footer .footer-wordmark:focus,.uw-footer .footer-wordmark:hover {
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite-focus.svg') no-repeat 0 -434px transparent
+}
+
+.uw-footer .be-boundless {
+  line-height: 64px;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/images/campaign.svg') no-repeat center top transparent;
+  display: block;
+  text-indent: -99999px;
+  margin: 10px 0 60px;
+  opacity: 1;
+  -o-transition: opacity .25s;
+  -webkit-transition: opacity .25s;
+  transition: opacity .25s;
+}
+
+.uw-footer .be-boundless:hover,.uw-footer .be-boundless:focus {
+  opacity: .6
+}
+
+.uw-footer h4 {
+  font-family: "Encode Sans Condensed",sans-serif;
+  color: #fff;
+  font-weight: 400;
+  font-size: 20px;
+  position: relative;
+  margin: 41px 0 11px 0;
+}
+
+.uw-footer h4:before,.uw-footer h4:after {
+  content: "";
+  position: absolute;
+  width: 85px;
+  height: 1px;
+  background-color: #9184aa;
+  left: 50%;
+  margin-left: -40px
+}
+
+.uw-footer h4:before {
+  top: -27px
+}
+
+.uw-footer h4:after {
+  bottom: -85px
+}
+
+.uw-footer ul.footer-social li {
+  list-style: none;
+  display: inline-block
+}
+
+.uw-footer ul.footer-social li a {
+  color: #fff;
+  text-indent: -9999px;
+  overflow: hidden;
+  display: inline-block;
+  background: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg') no-repeat 0 -185px transparent;
+  padding: 8px 21px
+}
+
+.uw-footer ul.footer-social li a.facebook {
+  background-position: 0 -185px
+}
+
+.uw-footer ul.footer-social li a.twitter {
+  background-position: -46px -185px
+}
+
+.uw-footer ul.footer-social li a.youtube {
+  background-position: -138px -185px
+}
+
+.uw-footer ul.footer-social li a.linkedin {
+  background-position: -184px -185px
+}
+
+.uw-footer ul.footer-social li a.pinterest {
+  background-position: -92px -185px
+}
+
+.uw-footer ul.footer-social li a.instagram {
+  background-position: -322px -185px
+}
+
+.uw-footer ul.footer-social li a:hover.facebook,.uw-footer ul.footer-social li a:focus.facebook {
+  background-position: 0 -225px
+}
+
+.uw-footer ul.footer-social li a:hover.twitter,.uw-footer ul.footer-social li a:focus.twitter {
+  background-position: -46px -225px
+}
+
+.uw-footer ul.footer-social li a:hover.youtube,.uw-footer ul.footer-social li a:focus.youtube {
+  background-position: -138px -225px
+}
+
+.uw-footer ul.footer-social li a:hover.linkedin,.uw-footer ul.footer-social li a:focus.linkedin {
+  background-position: -184px -225px
+}
+
+.uw-footer ul.footer-social li a:hover.pinterest,.uw-footer ul.footer-social li a:focus.pinterest {
+  background-position: -92px -225px
+}
+
+.uw-footer ul.footer-social li a:hover.instagram,.uw-footer ul.footer-social li a:focus.instagram {
+  background-position: -322px -225px
+}
+
+.uw-footer ul.footer-links {
+  margin: 45px 0 0 0
+}
+
+.uw-footer ul.footer-links li {
+  list-style: none;
+  display: inline-block
+}
+
+.uw-footer ul.footer-links li:last-child a:after {
+  display: none
+}
+
+.uw-footer ul.footer-links li a {
+  color: #fff;
+  position: relative;
+  margin-right: 20px
+}
+
+.uw-footer ul.footer-links li a:after {
+  content: "/";
+  opacity: .5;
+  position: relative;
+  right: -14px;
+}
+
+.uw-footer ul.footer-links li a:focus,.uw-footer ul.footer-links li a:hover {
+  color: #b7a57a;
+  text-decoration: none
+}
+
+.uw-footer ul.footer-links li a:focus:after,.uw-footer ul.footer-links li a:hover:after {
+  color: #fff
+}
+
+.uw-footer p {
+  color: #fff;
+  font-size: .8em;
+  margin-top: 15px
+}
+
+@media only screen and (max-width: 767px) {
+  .uw-footer .footer-wordmark {
+    background-position: 25px -338px;
+    background-size: 690px;
+  }
+  .uw-footer h4:after {
+    display: none;
+  }
+}
+
+h1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+
+span#top {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-weight: normal !important;
+}
+h1, h2 {
+  margin: 0px;
+}
+h3 {
+  margin: 10px 0px 10px 0px;
+}
+div.expandableGroup {
+  display: inline-block;
+}
+
+.collapsed span, .expanded span {
+  background-image: url('https://www.washington.edu/static/home/wp-content/themes/uw-2014/assets/svg/uw-sprite.svg');
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 24px;
+  height:24px;
+}
+
+.collapsed span {
+  background-position: -287px 1px;
+}
+
+.collapsed span:hover {
+  background-position: -314px 1px;
+  cursor: pointer;
+}
+
+.expanded span {
+  background-position: -287px -24px
+}
+
+.expanded span:hover {
+  background-position: -314px -24px;
+  cursor: pointer;
+}
+
+ul.toc {
+  list-style-type: none;
+}
+.page-wrapper {
+  max-width: 1200px;
+  min-width: 320px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 20px;
+}
+.inner-block {
+  padding: 0px 10px 10px 10px;
+}
+.socialMediaList {
+  list-style: none;
+  padding-left: 0px;
+}
+.socialMediaList li {
+  display: inline;
+}
+.svg-inline {
+  width: 44;
+  margin: 0px 10px 0px 10px;
+}
+</style>
+</head>
+<body>
+<header class="uw-thinstrip">
+  <div class="container">
+    <a class="uw-patch" href="http://uw.edu" tabindex="-1" title="University of Washington Home">Home</a>
+    <a class="uw-wordmark" href="http://uw.edu" title="University of Washington Home">Home</a>
+  </div>
+  <div class='align-right'>
+    <nav class="uw-thin-strip-nav">
+      <ul class="uw-thin-links">
+        <li><a href="http://uw.edu/studentlife" title="Students">Students</a></li>
+        <li><a href="http://uw.edu/parents" title="Parents">Parents</a></li>
+        <li><a href="http://uw.edu/facultystaff" title="Faculty &amp; Staff">Faculty &amp; Staff</a></li>
+        <li><a href="http://uw.edu/alumni" title="Alumni">Alumni</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<div class='page-wrapper'>
+
+<span id="top">Undergraduate Academic Affairs</span>
+<div>
+<h1>Undergraduate Academic Affairs</h1>
+</div>
+<nav>
+<ul class="toc">
+<li><a class="toc-link" href="#undergradPrograms" data-expand="undergradPrograms-block">Undergraduate Programs</a></li>
+<ul class="toc">
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-DATASC-MINOR" href="#program-UG-DATASC-MINOR">Program of Study: Minor:  Data Science</a></li>
+<ul class="toc">
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-DATASC-MINOR|credential-5f1612ab3eb7c800279a0ade" href="#credential-5f1612ab3eb7c800279a0ade">Minor in Data Science</a></li>
+</ul>
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-LEAD-MINOR" href="#program-UG-LEAD-MINOR">Program of Study: Minor:  Leadership</a></li>
+<ul class="toc">
+<li><a class="toc-link" data-expand="undergradPrograms|program-UG-LEAD-MINOR|credential-60d0ff86631f707a320bfeb1" href="#credential-60d0ff86631f707a320bfeb1">Minor in Leadership</a></li>
+</ul>
+</ul>
+</ul>
+</nav>
+<div class="expandableGroup" data-expand="undergradPrograms">
+<h2 class="expanded" id="undergradPrograms"><span></span>&nbsp;Undergraduate Programs</h2>
+</div><br/>
+<div id="undergradPrograms-block" class="inner-block" style="display:block">
+
+<div>
+<h1>Undergraduate Academic Affairs</h1>
+</div>
+<br/>
+<div class="expandableGroup" data-expand="program-UG-DATASC-MINOR">
+<h3 class="expanded" id="program-UG-DATASC-MINOR"><span></span>&nbsp;Program of Study: Minor:  Data Science</h3>
+</div><br/>
+<div id="program-UG-DATASC-MINOR-block" class="inner-block" style="display:block">
+<div class="programOverview"><b>Program Overview</b><br/><p>Students in the Data Science Minor will gain literacy and fluency in data science methods and understand their implications for society and the world. This Minor helps students leverage familiarity with data science in fields outside of data science, and gain skills and fluency to work with data in their major domain of study. Graduates of the Minor will be ready to work in emergent &ldquo;translator&rdquo; roles on heterogeneous teams comprised of data scientists and domain experts. For example, students will be poised to provide expertise in policy, design, social theory, ethics, etc. on a data science team. This Minor serves as a stepping stone toward acquiring more advanced skills and degrees in data science.</p></div>
+<div class="programsOfStudy"><span>This program of study leads to the following credential:</span>
+<ul class="credentialsList">
+<li>Minor in Data Science</li>
+</ul>
+</div>
+<div class="expandableGroup" data-expand="credential-5f1612ab3eb7c800279a0ade">
+<h4 class="expanded" id="credential-5f1612ab3eb7c800279a0ade"><span></span>&nbsp;Minor in Data Science</h4>
+</div><br/>
+<div id="credential-5f1612ab3eb7c800279a0ade-block" class="inner-block" style="display:block">
+<div class="programCompletionRequirements"><b>Completion Requirements</b><br/><p>25 credits (6 courses)</p> <ol> <li>At least one and no more than four courses from list of approved Data Studies courses on program website</li> <li>At least one and no more than four courses from list of approved Data Skills courses on program website</li> <li>Integrative experience in Data Science: At least one quarter of CS&amp;SS 490</li> <li>Electives to reach 25 credits selected from the Data Studies, Data Skills, and On-Ramping/Synthesis Cross-cutting approved course lists</li> <li>Minimum 15 credits at the 300-400 level</li> <li>Minimum 15 credits must be taken outside of the student's major requirements</li> </ol></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+</div>
+<div class="expandableGroup" data-expand="program-UG-LEAD-MINOR">
+<h3 class="expanded" id="program-UG-LEAD-MINOR"><span></span>&nbsp;Program of Study: Minor:  Leadership</h3>
+</div><br/>
+<div id="program-UG-LEAD-MINOR-block" class="inner-block" style="display:block">
+<div class="programOverview"><b>Program Overview</b><br/><p> The Minor in Leadership provides a formalized pathway for students to study and develop competencies for leadership in their professional and public lives. Designed to make explicit the often implicit teaching and learning of leadership, this interdisciplinary minor offers a framework that combines explicit leadership teaching, practice, and reflection. This minor supports students' unique leadership development paths through a combination of required and self-determined courses that leverage course offerings throughout the university community.</p></div>
+<div class="programsOfStudy"><span>This program of study leads to the following credential:</span>
+<ul class="credentialsList">
+<li>Minor in Leadership</li>
+</ul>
+</div>
+<div class="expandableGroup" data-expand="credential-60d0ff86631f707a320bfeb1">
+<h4 class="expanded" id="credential-60d0ff86631f707a320bfeb1"><span></span>&nbsp;Minor in Leadership</h4>
+</div><br/>
+<div id="credential-60d0ff86631f707a320bfeb1-block" class="inner-block" style="display:block">
+<div class="credentialOverview"><b>Credential Overview</b><br/><p>The Minor in Leadership will provide a formalized pathway for students to study and develop
+competencies for leadership in their professional and public lives. Designed to make explicit the often implicit teaching and learning of leadership, this interdisciplinary minor offers a framework that combines explicit leadership teaching, practice and reflection. This minor will support students&rsquo; unique leadership development paths through a combination of required and self-determined courses that leverage course offerings throughout the university community.</p></div>
+<div class="programCompletionRequirements"><b>Completion Requirements</b><br/><p>25 credits</p> <ol> <li>Core (9 credits): LEAD 100, LEAD 495, LEAD 499</li> <li>Electives (minimum 16 credits): at least one course must be taken in each category below. Refer to website for list of approved courses. <ol style="list-style-type: lower-alpha;"> <li>Self</li> <li>Interpersonal</li> <li>Group and organization</li> <li>Community and society</li> </ol> </li> <li>Minimum 15 credits of upper-division courses</li> <li>Minimum 15 credits taken in residence at UW Seattle</li> <li>Minimum 15 credits taken outside student's major requirements.</li> <li>Minimum 2.00 cumulative GPA for courses applied to the minor</li> </ol></div>
+<div class="backToTop"><a href="#top">Back to Top</a></div>
+</div>
+</div>
+</div>
+
+
+</div>
+<div class="uw-footer" role="contentinfo">
+  <a class="footer-wordmark" href="http://www.washington.edu">University of Washington</a>
+  <a href="http://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+  <h4>Connect with us:</h4>
+  <nav aria-label="social networking">
+    <ul class="footer-social">
+      <li><a class="facebook" href="http://www.facebook.com/UofWA">Facebook</a></li>
+      <li><a class="twitter" href="http://twitter.com/UW">Twitter</a></li>
+      <li><a class="instagram" href="http://instagram.com/uofwa">Instagram</a></li>
+      <li><a class="youtube" href="http://www.youtube.com/user/uwhuskies">YouTube</a></li>
+      <li><a class="linkedin" href="http://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+      <li><a class="pinterest" href="http://www.pinterest.com/uofwa/">Pinterest</a></li>
+    </ul>
+  </nav>
+  <nav aria-label="footer navigation">
+    <ul class="footer-links">
+      <li><a href="http://www.uw.edu/accessibility">Accessibility</a></li>
+      <li><a href="http://uw.edu/contact">Contact Us</a></li>
+      <li><a href="http://www.washington.edu/jobs">Jobs</a></li>
+      <li><a href="http://www.washington.edu/safety">Campus Safety</a></li>
+      <li><a href="http://my.uw.edu/">My UW</a></li>
+      <li><a href="http://www.washington.edu/rules/wac">Rules Docket</a></li>
+      <li><a href="http://www.washington.edu/online/privacy/">Privacy</a></li>
+      <li><a href="http://www.washington.edu/online/terms/">Terms</a></li>
+      <li><a href="http://www.washington.edu/newsletter/">Newsletter</a></li>
+    </ul>
+  </nav>
+  <p>&copy; <script>document.write(new Date().getFullYear())</script> University of Washington | Seattle, WA</p>
+</div>
+<script>
+  const expandElement = function(elementId) {
+    let toExpand = document.getElementById(elementId);
+    if (toExpand.style.display === 'none') {
+      toExpand.style.display = 'block';
+    }
+  }
+
+  const toggleElement = function(elementId) {
+    let toToggle = document.getElementById(elementId);
+    if (toToggle.style.display === 'none') {
+      toToggle.style.display = 'block';
+    }
+    else {
+      toToggle.style.display = 'none';
+    }
+  }
+
+  let linkElements = document.getElementsByClassName('toc-link');
+  let i = 0;
+  for (i = 0; i < linkElements.length; i++) {
+    linkElements[i].addEventListener('click', function() {
+      let namesToExpand = this.getAttribute('data-expand').split('|');
+      let j = 0;
+      for ( j = 0; j < namesToExpand.length; j++) {
+        let baseName = namesToExpand[j];
+
+        let titleElement = document.getElementById(baseName);
+
+        if (titleElement.classList.contains('collapsed')) {
+          titleElement.classList.toggle('collapsed');
+          titleElement.classList.toggle('expanded');
+          expandElement(`${baseName}-block`);
+        }
+      }
+    });
+  }
+
+  let expandIcons = document.getElementsByClassName('expandableGroup');
+  for (i = 0; i < expandIcons.length; i++) {
+    expandIcons[i].addEventListener('click', function() {
+      let baseName = this.getAttribute('data-expand');
+
+      let titleElement = document.getElementById(baseName);
+      titleElement.classList.toggle('collapsed');
+      titleElement.classList.toggle('expanded');
+      toggleElement(`${baseName}-block`);
+    });
+  }</script>
+</body>
+</html>

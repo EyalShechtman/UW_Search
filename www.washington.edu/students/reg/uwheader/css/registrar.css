@@ -1,0 +1,22 @@
+
+/*.uw-thinstrip .uw-wordmark {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 150px;
+  text-indent: -9999px;
+  width: 403px;
+  height: 48px;
+  background: url(../assets/img/UWRegistrar_revsm.png) no-repeat;
+
+}*/
+@media screen and (max-width: 640px) {
+table {
+overflow-x: auto;
+display: block;
+}
+} 
+
+.holiday {
+  color: red;
+}

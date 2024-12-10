@@ -1,0 +1,46 @@
+/*
+ Theme Name:       OMAD / Diversity Child Theme
+ Author:           Swatch Junkie Digital
+ Author URI:       https://github.com/uweb
+ Description:      A child theme for OMAD & Diversity sites based on the UW WordPress Theme
+ Template:         uw_wp_theme
+ Version:          1.0
+ License:          GNU General Public License v2 or later
+ License URI:      http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:             two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:      uw_omad
+*/
+
+.site-omad .entry-content .carousel.slide {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+.site-omad .entry-content .carousel.slide .carousel-control-prev {
+    left: 1.5rem;
+}
+.site-omad .entry-content .carousel.slide .carousel-control-next {
+	right: 1.5rem;
+}
+@media screen and (min-width: 48em){
+    .site-omad .entry-content .carousel.slide { 
+        padding-left: 0;
+        padding-right: 0;
+    }
+	.site-omad .entry-content .carousel.slide .carousel-control-prev {
+		left: 0;
+	}
+	.site-omad .entry-content .carousel.slide .carousel-control-next {
+		right: 0;
+	}
+}
+
+@media(max-width: 767px){
+ .uw-wordmark-latest img.uw-logo {
+    width: 190px !important;
+ }
+}
+.uw-wordmark-latest img.uw-logo {
+    width: 400px;
+}

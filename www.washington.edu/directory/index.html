@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+    <title>UW Faculty/Staff/Student Directory</title>
+    <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="googlebot" content="noarchive" />
+    <meta name="robots" content="noarchive" />
+
+    <!-- Desktop -->
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.css"
+          type="text/css"/>
+    <link rel="stylesheet" type="text/css" href="/static/css/mini.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/body.css">
+    <link rel="shortcut icon" href="/static/assets/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" media="print" href="/static/css/print.css">
+
+    <style>
+        .btn.search:hover { color: black; }
+        /*------------ Workday changes --------- */
+        ul.dir-listing { list-style-type: none; padding: 0; }
+        ul.multiaddr, ul.title, ul.address { list-style-type: none; padding: 0; }
+        li.dir-boxstuff { padding-bottom: .6em }
+        /*------------ End Workday stuff-------*/
+    </style>
+</head>
+
+<body>
+        <div id="uw-container">
+            <div id="uw-container-inner">
+                <header class="uw-thinstrip">
+                    <nav class="uw-thin-strip-nav">
+                        <ul class="uw-thin-links">
+                            <li>
+                                <a href="https://uw.edu/maps/" title=
+                                "maps">Maps</a>
+                            </li>
+                            <li>
+                                <a href="https://www.lib.washington.edu/" title=
+                                "Libraries">Libraries</a>
+                            </li>
+                            <li>
+                                <a href="https://uw.edu/calendar/" title=
+                                "Calendar">Calendar</a>
+                            </li>
+                            <li>
+                                <a href="https://myuw.washington.edu" title=
+                                "MyUW">MyUW</a>
+                            </li>
+                            <li>
+                                <a href="https://www.washington.edu/search/" title=
+                                "UW Search">UW Search</a>
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <div class="container">
+                        <a class="uw-patch" href="https://uw.edu" tabindex="-1" title=
+                        "University of Washington Home">Home</a> <a class="uw-wordmark"
+                        href="https://uw.edu" title=
+                        "University of Washington Home">Home</a>
+                    </div>
+                </header>
+            </div>
+        </div><div class="container">
+    <div class="usebar">
+        <div class="titleback">
+            <div class="title">
+                <h2 style="margin-top:40px;">UW Directory</h2>
+            </div>
+        </div>
+<div class="cblock row">
+    <form action="/" method="POST" name="dirform"
+          enctype="multipart/form-data">
+        <div class="col-md-6">
+            <h3>Search by</h3>
+            <div class="input-group">
+                <input type="text" class="form-control"
+                       value=""
+                       style="color:black; height:43px; z-index:0;" id="query"
+                       autofocus
+                       name="query"
+                >
+                <span class="input-group-btn">
+                    <button class="btn search"
+                            type="submit"
+                            id="search"
+                            style="background-color:white; border: thin solid #ddd;"
+                    >Search</button>
+                </span>
+            </div><!-- /input-group -->
+<select name="method"
+        id="method" style="width: 220px; border: 1px solid #bbb; margin: 10px 0;">
+        <option value="name"
+        >Name</option>
+        <option value="department"
+        >Department</option>
+        <option value="email"
+        >Email</option>
+        <option value="box_number"
+        >Box Number</option>
+        <option value="phone"
+        >Phone</option>
+</select>        </div>
+<div id="search-population" class="col-md-3">
+    <h3>Search options</h3>
+    <div>
+        <label for="population-option-employees">
+            <input type="radio"
+                   id="population-option-employees"
+                   name="population"
+                   value="employees"
+                   checked
+            >
+            Faculty/Staff Only
+        </label>
+            <a id="sign-in"
+               href="/saml/login">
+                Sign in for student search
+            </a>
+    </div>
+</div>
+<div class="col-md-2">
+    <h3>Kind of listing</h3>
+    <label for="length-full">
+        <input type="radio"
+               name="length"
+               value="full"
+               id="length-full"
+               
+    />Full</label>
+    <label for="length-summary">
+    <input type="radio"
+           name="length"
+           value="summary"
+           id="length-summary"
+            checked=&#34;checked&#34;
+    />Summary</label>
+</div>    </form>
+</div>        <hr/>
+<div class="contenttable">
+    <div class="contentspacer"></div>
+    <div class="contentcell">
+    </div>
+</div>                <div class="footerblock" style="margin-top:70px;margin-bottom:70px;">
+                    <div class="rcwblock">
+                        <p>
+                            Pursuant to RCW 42.56, the UW is providing this directory information
+                            for non-commercial purposes only. Any use of the information for
+                            commercial purposes is prohibited.
+                        </p>
+                    </div>
+                    <div class="usebarnav">
+                        <h4>Office Directory</h4>
+                        <ul>
+                            <li>
+                              <a href="https://ucs.admin.washington.edu/UWOD">UW Office Directory</a> -
+                              Complete listing of UW departments, both administrative and
+                              academic.
+                            </li>
+                        </ul>
+                        <h4>Postal Addresses and Box Numbers at the UW</h4>
+                        <ul>
+                            <li>
+                              <a href="https://www.washington.edu/about/addressing-letters-to-the-uw/">
+                                  Addressing Letters to the UW</a> -
+                              Find the postal address for a department.
+                            </li>
+                            <li>
+                              <a href="https://www.washington.edu/home/boxnumbers/">UW Box Numbers</a> - Box numbers for UW departments.
+                            </li>
+                        </ul>
+                        <h4>Change your address or release information</h4>
+                        <ul>
+                            <li><a href="https://identity.uw.edu"
+                                class="navlink">Faculty/staff publishing options</a>
+                            </li>
+                            <li><a href="https://isc.uw.edu"
+                                class="navlink">Faculty/staff update contact information in Workday</a>
+                            </li>
+                            <li><a href="https://www.washington.edu/students/studentdirinfo.html"
+                                class="navlink">Student directory information</a>
+                            </li>
+                            <li><a href="https://identity.uw.edu"
+                                class="navlink">Set a preferred name</a>
+                            </li>
+                            <li><a href="https://www.washington.edu/home/siteinfo/form/"
+                                class="navlink">Update Office Information (help@uw.edu)</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>    </div>
+</div>
+<div class="uw-footer" style="margin-top:10px;">
+    <a class="footer-wordmark" href="https://www.washington.edu">University of Washington</a>
+    <a href="https://www.washington.edu/boundless/be-boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+    <h4>Connect with us:</h4>
+    <nav aria-label="social networking" role="navigation">
+        <ul class="footer-social">
+            <li><a class="facebook" href="https://www.facebook.com/UofWA">Facebook</a></li>
+            <li><a class="twitter" href="https://twitter.com/UW">Twitter</a></li>
+            <li><a class="instagram" href="https://instagram.com/uofwa">Instagram</a></li>
+            <li><a class="tumblr" href="https://uofwa.tumblr.com/">Tumblr</a></li>
+            <li><a class="youtube" href="https://www.youtube.com/user/uwhuskies">YouTube</a></li>
+            <li><a class="linkedin" href="https://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+            <li><a class="pinterest" href="https://www.pinterest.com/uofwa/">Pinterest</a></li>
+            <li><a class="vine" href="https://vine.co/uofwa">Vine</a></li>
+            <li><a class="google" href="https://plus.google.com/+universityofwashington/posts">Google+</a></li>
+        </ul>
+    </nav>
+    <nav aria-label="footer links" role="navigation">
+    <ul class="footer-links">
+        <li><a href="https://www.uw.edu/accessibility">Accessibility</a></li>
+        <li><a href="https://uw.edu/home/siteinfo/form">Contact Us</a></li>
+        <li><a href="https://www.washington.edu/jobs">Jobs</a></li>
+        <li><a href="https://www.washington.edu/safety">Campus Safety</a></li>
+        <li><a href="https://myuw.washington.edu/">My UW</a></li>
+        <li><a href="https://www.washington.edu/admin/rules/wac/rulesindex.html">Rules Docket</a></li>
+        <li><a href="https://www.washington.edu/online/privacy">Privacy</a></li>
+        <li><a href="https://www.washington.edu/online/terms">Terms</a></li>
+    </ul></nav>
+    <p role="contentinfo" id="footer-copyright">
+        © 2024 University of Washington | Seattle, WA
+    </p>
+</div></body>
+</html>

@@ -1,0 +1,69 @@
+/*
+ Theme Name:       UW Parents Theme
+ Theme URI:        https://github.com/uweb/uw_wp_theme_child
+ GitHub Theme URI: https://github.com/uweb/uw_wp_theme_child
+ Author:           UW Web Team
+ Author URI:       https://github.com/uweb
+ Description:      A child theme based on the UW WordPress Theme
+ Template:         uw_wp_theme
+ Version:          1.0
+ License:          GNU General Public License v2 or later
+ License URI:      http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:             two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:      uw_parents_theme
+*/
+.row-full {
+  background-color: #e8e3d3;
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  height: flex;
+  margin-top: 75px;
+  left: 50%;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.row-full-dark {
+  background-color: #3c3c3c;
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  height: flex;
+  margin-top: -35px;
+  margin-bottom: -20px;
+  left: 50%;
+  padding-top: 75px;
+  padding-bottom: 50px;
+}
+
+.spacer {
+  padding-top: 75px;
+}
+
+.inside {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.smallspacer {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.page .entry-title {
+  display: none;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.uw-hero-image .hero-height h1 {
+  font-size: 60px;
+}
+
+.card-body ul {
+  margin-left: 0;
+}

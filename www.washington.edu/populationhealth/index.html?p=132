@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js">
+    <head>
+        <title> Media coverage  |  Population Health </title>
+        <meta charset="utf-8">
+        <meta name="description" content="Population health at University of Washington. What is population health? Become educated and trained in population health.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <meta name='robots' content='max-image-preview:large' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='//www.washington.edu' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Population Health &raquo; Feed" href="https://www.washington.edu/populationhealth/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Population Health &raquo; Comments Feed" href="https://www.washington.edu/populationhealth/comments/feed/" />
+<meta property="og:image" content="http://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/10/2019/06/21094817/Univ-of-Washington_Memorial-Way.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@uw" />
+<meta name="twitter:creator" content="@uw" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="Media coverage" />
+<meta property="og:url" content="https://www.washington.edu/populationhealth/news/media-coverage/" />
+<meta property="og:site_name" content="Population Health" />
+<meta property="og:description" content="Follow the latest media coverage of the Population Health Initiative as well as the projects we partially or fully support." />
+
+      
+<link rel='stylesheet' id='wp-block-library-css' href='//www.washington.edu/wp-includes/css/dist/block-library/style.css?ver=6.6.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='//www.washington.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='uw-master-css' href='//www.washington.edu/wp-content/themes/uw-2014/style.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-open-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='uw-style-css' href='//www.washington.edu/wp-content/themes/uw-hrc/style.css?ver=1.0' type='text/css' media='all' />
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/jquery/jquery.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" id="jquery-core-js-after">
+/* <![CDATA[ */
+$ = jQuery;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/plugins/uw-analytics/analytics.js?ver=2.0" id="analytics.js-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw-hrc/hrc.js?ver=220217-225556" id="custom_js-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" id="site-js-extra">
+/* <![CDATA[ */
+var style_dir = ["https:\/\/www.washington.edu\/cms\/populationhealth"];
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.washington.edu\/cms\/populationhealth\/wp-admin\/admin-ajax.php","nonce":"03e96c3207","display_exif":"1","display_geo":"","background_color":"white","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","require_name_email":"1","login_url":"https:\/\/www.washington.edu\/cms\/populationhealth\/wp-login.php?redirect_to=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fpopulationhealth%2Fnews%2Fmedia-coverage%2F"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw-2014/js/site.js?ver=3.0.3" id="site-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.washington.edu/populationhealth/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel="canonical" href="https://www.washington.edu/populationhealth/news/media-coverage/" />
+<link rel='shortlink' href='https://www.washington.edu/populationhealth/?p=132' />
+<script type='text/javascript'> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-85021908-1', 'auto'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"fulwiler"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ6QQBT');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+        <!--[if lt IE 9]>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/html5shiv.js" type="text/javascript"></script>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/respond.js" type="text/javascript"></script>
+            <link rel='stylesheet' href='//www.washington.edu/wp-content/themes/uw-2014/assets/ie/css/ie.css' type='text/css' media='all' />
+        <![endif]-->
+
+        
+    </head>
+    <!--[if lt IE 9]> <body class="page-template-default page page-id-132 page-child parent-pageid-373 lt-ie9 cms site-populationhealth "> <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <body class="page-template-default page page-id-132 page-child parent-pageid-373 cms site-populationhealth " >
+    <!--<![endif]-->
+
+    <div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container"></div>
+
+    <a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip to main content</a>
+
+    <div id="uw-container">
+        
+	<nav id="quicklinks" aria-label="quick links" aria-hidden="true">
+<ul id="big-links"><li><span class="icon-myuw"></span><a href="https://my.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=myuw" tabindex="-1">MyUW</a></li><li><span class="icon-calendar"></span><a href="//uw.edu/calendar/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=calendar" tabindex="-1">Calendar</a></li><li><span class="icon-directories"></span><a href="https://directory.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=directories" tabindex="-1">Directories</a></li><li><span class="icon-libraries"></span><a href="https://lib.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=libraries" tabindex="-1">Libraries</a></li><li><span class="icon-medicine"></span><a href="https://www.uwmedicine.org/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwmedicine" tabindex="-1">UW Medicine</a></li><li><span class="icon-maps"></span><a href="//uw.edu/maps/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=maps" tabindex="-1">Maps</a></li><li><span class="icon-uwtoday"></span><a href="//uw.edu/news/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwnews" tabindex="-1">UW News</a></li></ul><h3>Helpful Links</h3> <ul id="little-links"><li><a href="https://itconnect.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=computingit" tabindex="-1">Computing/IT</a></li><li><a href="https://employeehelp.workday.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=workdayhcm" tabindex="-1">Workday HCM</a></li><li><a href="https://hfs.uw.edu/Husky-Card-Services/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=huskycard" tabindex="-1">Husky Card</a></li><li><a href="https://www.uwb.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwbothell" tabindex="-1">UW Bothell</a></li><li><a href="https://www.tacoma.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtacoma" tabindex="-1">UW Tacoma</a></li><li><a href="https://www.facebook.com/UofWA?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwfacebook" tabindex="-1">UW Facebook</a></li><li><a href="https://twitter.com/UW?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtwitter" tabindex="-1">UW Twitter</a></li></ul></nav>
+
+    <div id="uw-container-inner">
+
+
+    <header class="uw-thinstrip" role="banner">
+
+  <div class="container">
+    <a href="http://uw.edu" title="University of Washington Home">
+      <div class="uw-patch">University of Washington</div>
+      <div class="uw-wordmark">University of Washington</div>
+    </a>
+  </div>
+  <div class='align-right'>
+      <nav class="uw-thin-strip-nav" aria-label='audience menu'>
+          <ul class="uw-thin-links">
+            <li><a href="http://uw.edu/studentlife" title="Students">Students</a></li>
+            <li><a href="http://uw.edu/parents" title="Parents">Parents</a></li>
+            <li><a href="http://uw.edu/facultystaff" title="Faculty & Staff">Faculty & Staff</a></li>
+            <li><a href="http://uw.edu/alumni" title="Alumni">Alumni</a></li>
+          </ul>
+      </nav>
+      <nav id='search-quicklinks' aria-label='search and quick links'>
+      <button class='uw-search' aria-owns='uwsearcharea' aria-controls='uwsearcharea' aria-expanded='false' aria-label='Search UW' aria-haspopup='true'>
+<!--[if gt IE 8]><!-->
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               width="19px" height="51px" viewBox="0 0 18.776 51.062" enable-background="new 0 0 18.776 51.062" xml:space="preserve" focusable="false">
+          <g>
+              <path fill="#FFFFFF" d="M3.537,7.591C3.537,3.405,6.94,0,11.128,0c4.188,0,7.595,3.406,7.595,7.591
+                c0,4.187-3.406,7.593-7.595,7.593C6.94,15.185,3.537,11.778,3.537,7.591z M5.245,7.591c0,3.246,2.643,5.885,5.884,5.885
+                c3.244,0,5.89-2.64,5.89-5.885c0-3.245-2.646-5.882-5.89-5.882C7.883,1.71,5.245,4.348,5.245,7.591z"/>
+
+              <rect x="2.418" y="11.445" transform="matrix(0.7066 0.7076 -0.7076 0.7066 11.7842 2.0922)" fill="#FFFFFF" width="1.902" height="7.622"/>
+          </g>
+          <path fill="#FFFFFF" d="M3.501,47.864c0.19,0.194,0.443,0.29,0.694,0.29c0.251,0,0.502-0.096,0.695-0.29l5.691-5.691l5.692,5.691
+              c0.192,0.194,0.443,0.29,0.695,0.29c0.25,0,0.503-0.096,0.694-0.29c0.385-0.382,0.385-1.003,0-1.388l-5.692-5.691l5.692-5.692
+              c0.385-0.385,0.385-1.005,0-1.388c-0.383-0.385-1.004-0.385-1.389,0l-5.692,5.691L4.89,33.705c-0.385-0.385-1.006-0.385-1.389,0
+              c-0.385,0.383-0.385,1.003,0,1.388l5.692,5.692l-5.692,5.691C3.116,46.861,3.116,47.482,3.501,47.864z"/>
+          </svg>
+<!--<![endif]-->
+      </button>
+      <button class='uw-quicklinks' aria-haspopup='true' aria-expanded="false" aria-label="quick links">Quick Links<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="15.63px" height="69.13px" viewBox="0 0 15.63 69.13" enable-background="new 0 0 15.63 69.13" xml:space="preserve" focusable="false"><polygon fill="#FFFFFF" points="12.8,7.776 12.803,7.773 5.424,0 3.766,1.573 9.65,7.776 3.766,13.98 5.424,15.553 12.803,7.78"/><polygon fill="#FFFFFF" points="9.037,61.351 9.036,61.351 14.918,55.15 13.26,53.577 7.459,59.689 1.658,53.577 0,55.15 5.882,61.351 5.882,61.351 5.884,61.353 0,67.557 1.658,69.13 7.459,63.019 13.26,69.13 14.918,67.557 9.034,61.353"/></svg></button>
+      </nav>
+  </div>
+
+</header>
+
+    <nav id="dawgdrops" aria-label="Main menu"><div class="dawgdrops-inner container"><ul id="menu-population-health" class="dawgdrops-nav"><li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/" title="Home"  id="home-2">Home</a></li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/about/" class="dropdown-toggle" title="About"  id="about-2">About</a>
+<button data-toggle="dropdown" aria-controls="menu-about-2" aria-labelledby="about-2"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-about-2" aria-labelledby='about-2' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/about/overview/" tabindex="-1"  title="Overview"  id="overview">Overview</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/leadership/" tabindex="-1"  title="Leadership"  id="101">Leadership</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/what-is-population-health/" tabindex="-1"  title="What is population health?"  id="195">What is population health?</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/our-approach/" tabindex="-1"  title="Our approach"  id="6632">Our approach</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/hans-rosling-center/" tabindex="-1"  title="Hans Rosling Center"  id="hans-rosling-center">Hans Rosling Center</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/evaluation/" tabindex="-1"  title="Evaluation"  id="2219">Evaluation</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/about/contact-us/" tabindex="-1"  title="Contact us"  id="1371">Contact us</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/education-and-training/" class="dropdown-toggle" title="Education"  id="2621">Education</a>
+<button data-toggle="dropdown" aria-controls="menu-2621" aria-labelledby="2621"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-2621" aria-labelledby='2621' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/undergraduate-courses/" tabindex="-1"  title="Undergraduate courses"  id="2623">Undergraduate courses</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/lets-talk-pop-health/" tabindex="-1"  title="Let’s Talk Pop Health"  id="lets-talk-pop-health">Let’s Talk Pop Health</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/pop-health-academy/" tabindex="-1"  title="Pop Health Academy"  id="8189">Pop Health Academy</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/humanitarian-response-certificate/" tabindex="-1"  title="Graduate Certificate in Humanitarian Response"  id="3011">Graduate Certificate in Humanitarian Response</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/applied-research-fellowship/" tabindex="-1"  title="Applied Research Fellowship"  id="2640">Applied Research Fellowship</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/social-entrepreneurship-fellowship/" tabindex="-1"  title="Social Entrepreneurship Fellowship"  id="2624">Social Entrepreneurship Fellowship</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/pop-health-moments/" tabindex="-1"  title="Pop health how-tos"  id="6218">Pop health how-tos</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/education-and-training/other-education-and-training/" tabindex="-1"  title="Other education and training"  id="2622">Other education and training</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/research/" class="dropdown-toggle" title="Research"  id="6726">Research</a>
+<button data-toggle="dropdown" aria-controls="menu-6726" aria-labelledby="6726"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-6726" aria-labelledby='6726' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/research/bolstering-community-well-being/" tabindex="-1"  title="Bolstering community well-being"  id="6727">Bolstering community well-being</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity/" tabindex="-1"  title="Improving vaccine equity in the U.S."  id="6728">Improving vaccine equity in the U.S.</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity-in-canada/" tabindex="-1"  title="Improving vaccine equity in Canada"  id="8944">Improving vaccine equity in Canada</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/boosting-vaccination-coverage/" tabindex="-1"  title="Boosting vaccination coverage"  id="6729">Boosting vaccination coverage</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/understanding-vaccine-hesitancy-of-nurses/" tabindex="-1"  title="Understanding vaccine hesitancy of nurses"  id="8197">Understanding vaccine hesitancy of nurses</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/assessing-drivers-of-hpv-vaccine-hesitancy/" tabindex="-1"  title="Assessing drivers of HPV vaccine hesitancy"  id="8198">Assessing drivers of HPV vaccine hesitancy</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/reducing-vaccine-disparities-for-the-urban-underserved/" tabindex="-1"  title="Reducing vaccine disparities for the urban underserved"  id="10453">Reducing vaccine disparities for the urban underserved</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/funded-pilot-projects/" tabindex="-1"  title="Funded pilot projects"  id="6845">Funded pilot projects</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/research/population-health-research-across-the-uw/" tabindex="-1"  title="Population health research at the UW"  id="6730">Population health research at the UW</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/resources/" class="dropdown-toggle" title="Resources"  id="78">Resources</a>
+<button data-toggle="dropdown" aria-controls="menu-78" aria-labelledby="78"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-78" aria-labelledby='78' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/resources/covid-19/" tabindex="-1"  title="COVID-19"  id="covid-19">COVID-19</a>
+	<button data-toggle="dropdown" aria-controls="menu-covid-19" aria-labelledby="covid-19"><i class="icon-chevron-down"></i></button>
+</li>
+</li>
+</li>
+</li>
+</li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/collaboration-support/" tabindex="-1"  title="Collaboration support"  id="1722">Collaboration support</a>
+	<button data-toggle="dropdown" aria-controls="menu-1722" aria-labelledby="1722"><i class="icon-chevron-down"></i></button>
+</li>
+</li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/grant-application-support/" tabindex="-1"  title="Grant application support"  id="236">Grant application support</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/climate-change-experts/" tabindex="-1"  title="Climate change experts"  id="climate-change-experts">Climate change experts</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/disaster-humanitarian-experts/" tabindex="-1"  title="Disaster and humanitarian experts"  id="5725">Disaster and humanitarian experts</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/other-experts/" tabindex="-1"  title="Other experts"  id="6556">Other experts</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/using-mobile-and-digital-technologies-to-improve-population-health/" tabindex="-1"  title="Mobile and digital population health"  id="2840">Mobile and digital population health</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/social-innovation-and-social-entrepreneurship/" tabindex="-1"  title="Social innovation and entrepreneurship"  id="2961">Social innovation and entrepreneurship</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/event-and-room-reservations/" tabindex="-1"  title="Event and room reservations"  id="8594">Event and room reservations</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/" tabindex="-1"  title="Funding and awards"  id="218">Funding and awards</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/news/" class="dropdown-toggle" title="News"  id="375">News</a>
+<button data-toggle="dropdown" aria-controls="menu-375" aria-labelledby="375"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-375" aria-labelledby='375' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/news/latest-news/" tabindex="-1"  title="Latest news and updates"  id="69">Latest news and updates</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/news/subscribe/" tabindex="-1"  title="Subscribe"  id="1904">Subscribe</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/news/journal-articles/" tabindex="-1"  title="Journal articles"  id="5841">Journal articles</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/news/media-coverage/" tabindex="-1"  title="Media coverage"  id="137">Media coverage</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/populationhealth/get-involved/" class="dropdown-toggle" title="Get involved"  id="1968">Get involved</a>
+<button data-toggle="dropdown" aria-controls="menu-1968" aria-labelledby="1968"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-1968" aria-labelledby='1968' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/populationhealth/get-involved/give/" tabindex="-1"  title="Give"  id="2002">Give</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/get-involved/partner/" tabindex="-1"  title="Partner"  id="1970">Partner</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/get-involved/volunteer/" tabindex="-1"  title="Volunteer"  id="1969">Volunteer</a></li>
+	<li><a href="https://www.washington.edu/populationhealth/get-involved/events/" tabindex="-1"  title="Events"  id="136">Events</a></li>
+</ul>
+</li>
+</ul></div></nav>
+
+<div class="uw-hero-image"  style="background-image:url('//www.washington.edu/wp-content/themes/uw-2014/assets/headers/suzzallo.jpg');" ></div>
+
+<div class="container uw-body">
+
+  <div class="row">
+
+    <div class="col-md-8 uw-content" role='main'>
+
+      <a href="https://www.washington.edu/populationhealth/" title="Population Health"><div class="uw-site-title">Population Health</div></a>
+      <nav id="mobile-relative" class="frontpage" aria-label="mobile menu"><button class="uw-mobile-menu-toggle">Menu</button><ul class="uw-mobile-menu first-level"><div class="menu-population-health-container"><ul id="menu-population-health-1" class=""><li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4436"><a href="https://www.washington.edu/populationhealth/">Home</a></li>
+<li id="menu-item-1331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1331"><a href="https://www.washington.edu/populationhealth/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a href="https://www.washington.edu/populationhealth/about/overview/">Overview</a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.washington.edu/populationhealth/about/leadership/">Leadership</a></li>
+	<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="https://www.washington.edu/populationhealth/about/what-is-population-health/">What is population health?</a></li>
+	<li id="menu-item-6632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6632"><a href="https://www.washington.edu/populationhealth/about/our-approach/">Our approach</a></li>
+	<li id="menu-item-4434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4434"><a href="https://www.washington.edu/populationhealth/hans-rosling-center/">Hans Rosling Center</a></li>
+	<li id="menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2219"><a href="https://www.washington.edu/populationhealth/about/evaluation/">Evaluation</a></li>
+	<li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371"><a href="https://www.washington.edu/populationhealth/about/contact-us/">Contact us</a></li>
+</ul>
+</li>
+<li id="menu-item-2621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2621"><a href="https://www.washington.edu/populationhealth/education-and-training/">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-2623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2623"><a href="https://www.washington.edu/populationhealth/education-and-training/undergraduate-courses/">Undergraduate courses</a></li>
+	<li id="menu-item-5692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5692"><a href="https://www.washington.edu/populationhealth/education-and-training/lets-talk-pop-health/">Let’s Talk Pop Health</a></li>
+	<li id="menu-item-8189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8189"><a href="https://www.washington.edu/populationhealth/education-and-training/pop-health-academy/">Pop Health Academy</a></li>
+	<li id="menu-item-3011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3011"><a href="https://www.washington.edu/populationhealth/education-and-training/humanitarian-response-certificate/">Graduate Certificate in Humanitarian Response</a></li>
+	<li id="menu-item-2640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2640"><a href="https://www.washington.edu/populationhealth/education-and-training/applied-research-fellowship/">Applied Research Fellowship</a></li>
+	<li id="menu-item-2624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2624"><a href="https://www.washington.edu/populationhealth/education-and-training/social-entrepreneurship-fellowship/">Social Entrepreneurship Fellowship</a></li>
+	<li id="menu-item-6218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6218"><a href="https://www.washington.edu/populationhealth/education-and-training/pop-health-moments/">Pop health how-tos</a></li>
+	<li id="menu-item-2622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2622"><a href="https://www.washington.edu/populationhealth/education-and-training/other-education-and-training/">Other education and training</a></li>
+</ul>
+</li>
+<li id="menu-item-6726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6726"><a href="https://www.washington.edu/populationhealth/research/">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-6727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6727"><a href="https://www.washington.edu/populationhealth/research/bolstering-community-well-being/">Bolstering community well-being</a></li>
+	<li id="menu-item-6728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6728"><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity/">Improving vaccine equity in the U.S.</a></li>
+	<li id="menu-item-8944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8944"><a href="https://www.washington.edu/populationhealth/research/improving-vaccine-equity-in-canada/">Improving vaccine equity in Canada</a></li>
+	<li id="menu-item-6729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6729"><a href="https://www.washington.edu/populationhealth/research/boosting-vaccination-coverage/">Boosting vaccination coverage</a></li>
+	<li id="menu-item-8197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8197"><a href="https://www.washington.edu/populationhealth/research/understanding-vaccine-hesitancy-of-nurses/">Understanding vaccine hesitancy of nurses</a></li>
+	<li id="menu-item-8198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8198"><a href="https://www.washington.edu/populationhealth/research/assessing-drivers-of-hpv-vaccine-hesitancy/">Assessing drivers of HPV vaccine hesitancy</a></li>
+	<li id="menu-item-10453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10453"><a href="https://www.washington.edu/populationhealth/research/reducing-vaccine-disparities-for-the-urban-underserved/">Reducing vaccine disparities for the urban underserved</a></li>
+	<li id="menu-item-6845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6845"><a href="https://www.washington.edu/populationhealth/research/funded-pilot-projects/">Funded pilot projects</a></li>
+	<li id="menu-item-6730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6730"><a href="https://www.washington.edu/populationhealth/research/population-health-research-across-the-uw/">Population health research at the UW</a></li>
+</ul>
+</li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-78"><a href="https://www.washington.edu/populationhealth/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-3503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3503"><a href="https://www.washington.edu/populationhealth/resources/covid-19/">COVID-19</a></li>
+	<li id="menu-item-1722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1722"><a href="https://www.washington.edu/populationhealth/resources/collaboration-support/">Collaboration support</a></li>
+	<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="https://www.washington.edu/populationhealth/resources/grant-application-support/">Grant application support</a></li>
+	<li id="menu-item-4096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4096"><a href="https://www.washington.edu/populationhealth/resources/climate-change-experts/">Climate change experts</a></li>
+	<li id="menu-item-5725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5725"><a href="https://www.washington.edu/populationhealth/resources/disaster-humanitarian-experts/">Disaster and humanitarian experts</a></li>
+	<li id="menu-item-6556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6556"><a href="https://www.washington.edu/populationhealth/resources/other-experts/">Other experts</a></li>
+	<li id="menu-item-2840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2840"><a href="https://www.washington.edu/populationhealth/resources/using-mobile-and-digital-technologies-to-improve-population-health/">Mobile and digital population health</a></li>
+	<li id="menu-item-2961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2961"><a href="https://www.washington.edu/populationhealth/resources/social-innovation-and-social-entrepreneurship/">Social innovation and entrepreneurship</a></li>
+	<li id="menu-item-8594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8594"><a href="https://www.washington.edu/populationhealth/resources/event-and-room-reservations/">Event and room reservations</a></li>
+	<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="https://www.washington.edu/populationhealth/resources/funding-and-awards/">Funding and awards</a></li>
+</ul>
+</li>
+<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-375"><a href="https://www.washington.edu/populationhealth/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://www.washington.edu/populationhealth/news/latest-news/">Latest news and updates</a></li>
+	<li id="menu-item-1904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1904"><a href="https://www.washington.edu/populationhealth/news/subscribe/">Subscribe</a></li>
+	<li id="menu-item-5841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5841"><a href="https://www.washington.edu/populationhealth/news/journal-articles/">Journal articles</a></li>
+	<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-132 current_page_item menu-item-137"><a href="https://www.washington.edu/populationhealth/news/media-coverage/" aria-current="page">Media coverage</a></li>
+</ul>
+</li>
+<li id="menu-item-1968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1968"><a href="https://www.washington.edu/populationhealth/get-involved/">Get involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-2002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2002"><a href="https://www.washington.edu/populationhealth/get-involved/give/">Give</a></li>
+	<li id="menu-item-1970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1970"><a href="https://www.washington.edu/populationhealth/get-involved/partner/">Partner</a></li>
+	<li id="menu-item-1969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1969"><a href="https://www.washington.edu/populationhealth/get-involved/volunteer/">Volunteer</a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://www.washington.edu/populationhealth/get-involved/events/">Events</a></li>
+</ul>
+</li>
+</ul></div></ul></nav>
+      <nav class='uw-breadcrumbs' aria-label='breadcrumbs'><ul><li><a href="http://uw.edu" title="University of Washington">Home</a></li><li><a href="https://www.washington.edu/populationhealth/" title="Population Health">Population Health</a><li><li><a href="https://www.washington.edu/populationhealth/news/" title="News">News</a></li><li  class="current" ><span>Media coverage</span></li></ul></nav>
+
+      <div id='main_content' class="uw-body-copy" tabindex="-1">
+
+      
+
+        
+
+<h1>Media coverage</h1>
+
+	<div id="mobile-sidebar">
+		<button id="mobile-sidebar-menu" class="visible-xs" aria-hidden="true" tabindex="1">
+	    	<div aria-hidden="true" id="ham">
+		    	<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+	   		<div id="mobile-sidebar-title" class="page_item"> Close Menu </div>
+		</button>
+		<div id="mobile-sidebar-links" aria-hidden="true" class="visible-xs">  <nav id="desktop-relative" aria-label="mobile menu that is not visible in the desktop version"><ul class="uw-sidebar-menu first-level"><li class="pagenav"><a href="https://www.washington.edu/populationhealth" title="Home" class="homelink">Home</a><ul><li class="page_item page-item-373 page_item_has_children current_page_ancestor current_page_parent child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/news/">News</a>
+<ul class='children'>
+	<li class="page_item page-item-64 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/news/latest-news/">Latest news and updates</a></li>
+	<li class="page_item page-item-1898 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/news/subscribe/">Subscribe</a></li>
+	<li class="page_item page-item-5826 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/news/journal-articles/">Journal articles</a></li>
+	<li class="page_item page-item-132 current_page_item"><span>Media coverage</span></li>
+</ul>
+</li>
+</ul></li></ul></nav></div>
+	</div>
+
+<p>Follow the latest media coverage of the Population Health Initiative as well as the projects we partially or fully support.</p>
+<h3>2024</h3>
+<ul>
+<li>November 14, 2024, <a href="https://komonews.com/news/local/uw-researchers-improve-survey-based-system-better-homeless-counts-zach-almquist-amy-hagopian-university-washington-tent-rv-drugs-eviction-sweeps#" target="_blank" rel="noopener">Researchers at UW improve upon survey-based system for better homeless counts</a>, <em>KOMO News</em></li>
+<li>September 19, 2024, <a href="https://www.washington.edu/news/2024/09/19/over-8-years-uw-population-health-initiative-has-turned-ideas-into-impact/" target="_blank" rel="noopener">Over 8 years, UW Population Health Initiative has turned ideas into impact</a>, <em>UW News</em></li>
+<li>August 12, 2024, <a href="https://www.idahopress.com/news/local/abortion-does-not-go-away-neighboring-states-see-influx-of-idaho-abortion-patients/article_dbda368e-5449-11ef-adf1-b7edc6fe5791.html" target="_blank" rel="noopener">&#8216;Abortion does not go away&#8217;: Neighboring states see influx of Idaho abortion patients</a>, <em>Idaho Press</em></li>
+<li>May 31, 2024, <a href="https://www.kiro7.com/news/local/washington-has-become-safe-haven-people-seeking-abortions-study-finds/TGOE5XN4CRC7PNTQPHPU5D72CE/" target="_blank" rel="noopener">Washington has become ‘safe haven for people seeking abortions,’ study finds</a>, <em>KIRO 7</em></li>
+<li>May 31, 2024, <a href="https://www.healthday.com/health-news/women-health/after-dobbs-a-rise-in-out-of-state-patients-for-abortion-in-washington-state" target="_blank" rel="noopener">After Dobbs, a Rise in Out-of-State Patients for Abortion in Washington State</a>, <em>HealthDay</em></li>
+<li>May 29, 2024, <a href="https://www.spokesman.com/stories/2024/may/29/out-of-state-abortions-have-increased-by-50-in-was/" target="_blank" rel="noopener">Out-of-state abortions have increased by 50% in Washington post-Dobbs, UW study finds</a>, <em>The Spokesman-Review</em></li>
+<li>May 29, 2024, <a href="https://www.kuow.org/stories/out-of-state-abortions-have-risen-in-washington-since-2022" target="_blank" rel="noopener">Out-of-state abortions have risen in Washington since 2022</a>, <em>KUOW</em></li>
+<li>May 29, 2024, <a href="https://www.khq.com/news/rise-in-out-of-state-patients-seeking-abortions-in-washington-state/article_b4886a3a-1df6-11ef-997f-f3a98c719e20.html" target="_blank" rel="noopener">Rise in out-of-state patients seeking abortions in Washington state</a>, <em>KHQ</em></li>
+<li>May 29, 2024, <a href="https://www.koin.com/news/washington/washington-sees-increase-in-out-of-state-abortion-patients-post-roe/" target="_blank" rel="noopener">Washington sees increase in out-of-state abortion patients post-Roe</a>, <em>KOIN 6</em></li>
+<li>May 25, 2024, <a href="https://mybellinghamnow.com/news/297792-whidbey-island-residents-potentially-at-risk-for-aircraft-noise-related-health-issues/" target="_blank" rel="noopener">Whidbey Island residents potentially at risk for aircraft noise related health issues</a>, <em>My Bellingham Now</em></li>
+<li>May 23, 2024, <a href="https://www.king5.com/article/tech/science/environment/navy-jet-noise-poses-health-risks-uw-study-finds/281-994e847d-40a4-4030-a7e1-b29148459f80" target="_blank" rel="noopener">What&#8217;s that noise on Whidbey Island? UW study finds Navy jet noise impacts residents&#8217; health</a>, <em>KING 5</em></li>
+<li>May 16, 2024, <a href="https://www.newsweek.com/attack-jets-harming-people-health-washington-1899842" target="_blank" rel="noopener">Attack Jets&#8217; &#8216;Rumbling&#8217; May Be Harming 74,000 People&#8217;s Health in Washington</a>, <em>Newsweek</em></li>
+<li>May 15, 2024, <a href="https://www.seattletimes.com/seattle-news/health/navy-jet-noise-could-mean-long-term-health-impacts-for-whidbey-island/" target="_blank" rel="noopener">Navy jet noise could mean long-term health impacts for Whidbey Island</a>, <em>Seattle Times</em></li>
+<li>May 9, 2024, <a href="https://www.seattletimes.com/opinion/navy-must-turn-down-the-volume-on-whidbey-growler-operations/" target="_blank" rel="noopener">Navy must turn down the volume on Whidbey ‘Growler’ operations</a>, <em>Seattle Times</em></li>
+<li>March 12, 2024, <a href="https://www.elsevier.com/connect/the-role-of-universities-in-catalyzing-social-change" target="_blank" rel="noopener">The role of universities in catalyzing social change</a>, <em>Connect</em></li>
+<li>February 27, 2024 – <a href="https://news.fiu.edu/2024/too-often-left-unsaid-the-connection-between-climate-change-and-health" target="_blank" rel="noopener">Too often left unsaid: the connection between climate change and health</a> – FIU News</li>
+</ul>
+<div id="uw-accordion-shortcode">
+<div class="js-accordion" data-accordion-prefix-classes="uw-accordion-shortcode">
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2023</h2>
+<ul>
+<li>December 8, 2023 – <a href="https://jphmpdirect.com/2023/12/08/routine-childhood-immunizations-in-the-u-s-current-trends-and-recommendations-for-realizing-vaccine-equity/" target="_blank" rel="noopener">Routine childhood immunizations in the U.S.: Current trends and recommendations for realizing vaccine equity</a> – Journal of Public Health Management and Practice</li>
+<li>December 2023 – <a href="https://magazine.washington.edu/feature/uw-program-delivers-hope-for-better-maternal-health-care/" target="_blank" rel="noopener">Delivering hope: A UW program works to improve maternal health outcomes for Black women and other underserved community members</a> – University of Washington Magazine</li>
+<li>October 19, 2023 – <a href="https://www.dailyuw.com/news/uw-president-ana-mari-cauce-discusses-impact-at-annual-presidential-address/article_0071af9c-6e3e-11ee-be35-5370550a8826.html" target="_blank" rel="noopener">UW President Ana Mari Cauce discusses impact at annual presidential address</a> – The Daily</li>
+<li>September 29, 2023 – <a href="https://communitynewspapers.com/florida-international-university/fiu-launches-population-health-initiative-to-help-improve-health-on-a-global-scale/" target="_blank" rel="noopener">FIU launches Population Health Initiative to help improve health on a global scale</a> – Miami&#8217;s Community News</li>
+<li>September 2023 – <a href="https://magazine.washington.edu/feature/be-real-program-helps-huskies-feel-less-stressed-more-connected/" target="_blank" rel="noopener">Be REAL program helps Huskies feel less stressed, more connected</a> – University of Washington Magazine</li>
+<li>July 2023 – <a href="https://www.niehs.nih.gov/research/supported/translational/peph/newsletter/2023/07/index.cfm" target="_blank" rel="noopener">Trusted Sources Play a Critical Role in Rural and Tribal Smoke Risk Communication</a> – Partnership for Environmental Public Health Newsletter</li>
+<li>June 12, 2023 – <a href="https://dailyyonder.com/rural-communities-find-unique-solutions-to-protect-against-wildfire-smoke-exposure/2023/06/12/" target="_blank" rel="noopener">Rural Communities Find Unique Solutions to Protect Against Wildfire Smoke Exposure </a> – Daily Yonder</li>
+<li>June 9, 2023 – <a href="https://www.nytimes.com/interactive/2023/06/09/health/noise-exposure-health-impacts.html?mc_cid=6df2683f0c&amp;mc_eid=1e91612e05" target="_blank" rel="noopener">Noise Could Take Years Off Your Life. Here&#8217;s How.</a> – New York Times</li>
+<li>May 23, 2023 – <a href="https://www.whidbeynewstimes.com/news/town-supports-jet-noise-study/" target="_blank" rel="noopener">Town supports jet noise study</a> – Whidbey News-Times</li>
+<li>March 10, 2023 – <a href="https://www.djc.com/news/ae/12155163.html" target="_blank" rel="noopener">UW&#8217;s Hans Rosling Center is LEED Platinum </a> – Daily Journal of Commerce</li>
+</ul>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2022</h2>
+<ul>
+<li>October 19, 2022 – <a href="https://www.dailyuw.com/news/an-unexpected-and-amazing-honor/article_7dd09ba4-4f51-11ed-a362-fb028241e562.html" target="_blank" rel="noopener">‘An unexpected and amazing honor’ </a> – The Daily</li>
+<li>October 4, 2022 – <a href="https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biac084/6748246?login=true" target="_blank" rel="noopener">No Escape from the Heat: The Cost of Deforestation on Human and Animal Health </a> – BioScience</li>
+<li>September 27, 2022 – <a href="https://consumer.healthday.com/9-29-clinic-brings-health-care-to-the-homeless-and-their-beloved-pets-2658310085.html" target="_blank" rel="noopener">Clinic Brings Free Health Care to Homeless Youth &#8212; and Their Beloved Pets</a> – HealthDay</li>
+<li>July 4, 2022 – <a href="https://www.seattletimes.com/seattle-news/homeless/how-many-homeless-people-are-in-king-county-depends-who-you-ask/" target="_blank" rel="noopener">How many homeless people are in King County? Depends who you ask</a> – Seattle Times</li>
+<li>April 6, 2022 – <a href="https://www.npr.org/2022/04/06/1090501255/ny-landlords-cant-evict-while-tenants-wait-for-aid-some-try-other-ways-to-clear-" target="_blank" rel="noopener">NY landlords can&#8217;t evict while tenants wait for aid; some try other ways to clear property </a> – NPR</li>
+<li>April 5, 2022 – <a href="https://www.southsoundbiz.com/news/uw-tacoma-professor-awarded-grant-to-address-youth-mental-health/article_a9d26a0c-b500-11ec-b5c3-d3bbeed060a1.html" target="_blank" rel="noopener">UW Tacoma Professor Awarded Grant to Address Youth Mental Health </a> – South Sound Business</li>
+</ul>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2021</h2>
+<ul>
+<li>December 17, 2021 – <a href="https://phys.org/news/2021-12-years-deforestation-outdoor-unsafe-millions.html?s=09" target="_blank" rel="noopener">In last 15 years, deforestation made outdoor work unsafe for millions </a> – Phys.org</li>
+<li>December 17, 2021 – <a href="https://www.theguardian.com/environment/2021/dec/17/deforestation-making-outdoor-work-unsafe-for-millions-says-study" target="_blank" rel="noopener">Deforestation making outdoor work unsafe for millions, says study </a> – The Guardian</li>
+<li>November 7, 2021 – <a href="https://www.nytimes.com/2021/11/07/us/evictions-crisis-us.html" target="_blank" rel="noopener">With Cases Piling Up, an Eviction Crisis Unfolds Step by Step </a> – New York Times</li>
+<li>October 12, 2021 – <a href="https://www.bizjournals.com/seattle/news/2021/10/12/uw-population-health.html" target="_blank" rel="noopener">UW opens $230M Hans Rosling Center for Population Health (Photos) </a> – Puget Sound Business Journal</li>
+<li>October 8, 2021 – <a href="https://techcrunch.com/2021/10/08/studies-say-uber-and-lyft-offload-soft-costs-on-drivers-and-communities/" target="_blank" rel="noopener">Studies say Uber and Lyft offload soft costs on drivers and communities </a> – TechCrunch</li>
+<li>September 23, 2021 – <a href="https://www.spokanepublicradio.org/post/uw-faculty-study-how-students-adapt-being-back-campus#stream/0" target="_blank" rel="noopener">UW Faculty Study How Students Adapt To Being Back On Campus </a> – Spokane Public Radio</li>
+<li>August 31, 2021 – <a href="https://theconversation.com/even-with-the-eviction-moratorium-landlords-continued-to-find-ways-to-kick-renters-out-166810" target="_blank" rel="noopener">Even with the eviction moratorium, landlords continued to find ways to kick renters out </a> – The Conversation</li>
+<li>July 21, 2021 – <a href="https://www.seattletimes.com/business/real-estate/evictions-slowed-during-pandemic-but-some-washington-renters-still-faced-pressure-to-move-uw-report-says/" target="_blank" rel="noopener">Evictions slowed during pandemic but some Washington renters still faced pressure to move, UW report says </a> – Seattle Times</li>
+<li>July 12, 2021 – <a href="https://www.nwnewsnetwork.org/2021-07-12/from-freaking-pissed-to-big-things-how-a-women-owned-gym-survived-the-pandemic" target="_blank" rel="noopener">From &#8216;freaking pissed&#8217; to &#8216;big things&#8217;: How a women-owned gym survived the pandemic </a> – Northwest News Network</li>
+<li>April 25, 2021 – <a href="https://www.dezeen.com/2021/04/25/rosling-center-miller-hull-partnership-university-washington/" target="_blank" rel="noopener">Glazed fins wrap Seattle’s Rosling Center by Miller Hull Partnership </a> – Dezeen</li>
+<li>April 15, 2021 – <a href="https://gbdmagazine.com/hans-rosling-center/" target="_blank" rel="noopener">How the Design of the Hans Rosling Center in Seattle is Bringing Researchers Together </a> – gb&amp;d</li>
+<li>April 8, 2021 – <a href="https://www.geekwire.com/2021/photos-go-inside-university-washingtons-new-hans-rosling-center-population-health/" target="_blank" rel="noopener">Photos: Go inside the University of Washington’s new Hans Rosling Center for Population Health </a> – GeekWire</li>
+<li>March 17, 2021 – <a href="https://southseattleemerald.com/2021/03/17/helping-under-served-communities-navigate-health-barriers-during-the-pandemic/" target="_blank" rel="noopener">Helping under-served communities navigate health barriers during the pandemic </a> – South Seattle Emerald</li>
+<li>March 4, 2021 – <a href="https://southseattleemerald.com/2021/03/04/elders-of-color-face-major-hurdles-getting-covid-vaccine/" target="_blank" rel="noopener">Elders of color face major hurdles getting COVID vaccine </a> – South Seattle Emerald</li>
+<li>February 24, 2021 – <a href="https://komonews.com/news/coronavirus/pregnant-women-have-70-percent-higher-chance-of-contracting-covid-19-study-says" target="_blank" rel="noopener">Pregnant women have 70 percent higher chance of contracting COVID-19, study says </a> – KOMO News</li>
+<li>February 22, 2021 – <a href="https://www.spokesman.com/stories/2021/feb/22/pregnant-women-face-higher-covid-19-infection-mort/" target="_blank" rel="noopener">Pregnant women face higher COVID-19 infection, mortality rates, study finds </a> – Spokesman Review</li>
+<li>February 22, 2021 – <a href="https://consumer.healthday.com/b-2-22-pregnant-women-face-much-higher-odds-of-coronavirus-infection-2650597918.html" target="_blank" rel="noopener">Pregnant Women Face Higher Odds of Coronavirus Infection </a> – HealthDay</li>
+<li>February 20, 2021 – <a href="https://www.yahoo.com/lifestyle/youve-done-recently-youre-70-143709166.html" target="_blank" rel="noopener">If You&#8217;ve Done This Recently, You’re 70 Percent More Likely to Get COVID </a> – Yahoo!Life</li>
+<li>February 19, 2021 – <a href="https://katu.com/news/local/pregnant-women-should-be-considered-high-risk-for-covid-19-study-finds" target="_blank" rel="noopener">Pregnant women should be considered high risk for COVID-19, study finds </a> – KATU</li>
+<li>February 18, 2021 – <a href="https://www.usatoday.com/story/news/health/2021/02/18/covid-news-new-york-city-texas-vaccine-shipments-coronavirus/6788511002/" target="_blank" rel="noopener">Pregnant women at higher risk for COVID infection, study says </a> – USA Today</li>
+<li>February 18, 2021 – <a href="https://www.seattleweekly.com/news/uw-study-shows-high-covid-infection-rates-among-pregnant-women/" target="_blank" rel="noopener">UW study shows high COVID infection rates among pregnant women </a> – Seattle Weekly</li>
+<li>February 11, 2021 – <a href="https://crosscut.com/culture/2021/02/artsea-otherworldly-woman-enthroned-university-washington" target="_blank" rel="noopener">An otherworldly woman is enthroned at the University of Washington </a> – Crosscut</li>
+<li>February 9, 2021 – <a href="https://www.metropolismag.com/architecture/educational-architecture/miller-hull-hans-rosling-center/" target="_blank" rel="noopener">In Seattle, Miller Hull Establishes a Global Hub for Population Health Research </a> – Metropolis</li>
+<li>February 2, 2021 – <a href="https://southseattleemerald.com/2021/02/02/washington-study-showing-covid-19-is-deadlier-for-pregnant-women-raises-questions-about-vaccine-priorities/" target="_blank" rel="noopener">Washington study showing COVID-19 is deadlier for pregnant women, raise questions about vaccine priorities </a> – South Seattle Emerald</li>
+<li>January 29, 2021 – <a href="https://www.msn.com/en-za/news/other/expecting-mothers-at-high-risk-of-death-due-to-covid-19-study-finds/ar-BB1dbj6P?li=BBqg6Q7" target="_blank" rel="noopener">Expecting mothers at high risk of death due to Covid-19 study finds </a> – MSN</li>
+<li>January 28, 2021 – <a href="https://www.seattlepi.com/coronavirus/article/uw-study-pregnant-women-risk-for-covid-death-15905274.php" target="_blank" rel="noopener">UW study: Pregnant women at higher risk for COVID-19 hospitalization, death </a> – Seattle PI</li>
+<li>January 28, 2021 – <a href="COVID-19 death rate significantly higher among pregnant women, research shows" target="_blank" rel="noopener">Pregnant women who get COVID-19 are at greater risk of death </a> – KOMO News</li>
+<li>January 28, 2021 – <a href="https://muckrack.com/broadcast/savedclips/view/KJadMbafO9" target="_blank" rel="noopener">Pregnant women who get COVID-19 are at greater risk of death </a> – KIRO-AM</li>
+<li>January 28, 2021 – <a href="https://muckrack.com/broadcast/savedclips/view/Q7H0Almt8R" target="_blank" rel="noopener">New study finds that mortality rate in pregnant women can be 13 times higher </a> – NPR</li>
+<li>January 27, 2021 – <a href="https://www.seattletimes.com/seattle-news/health/washington-study-finds-pregnant-patients-with-covid-19-have-a-higher-risk-of-death-hospitalization/" target="_blank" rel="noopener">Washington study finds pregnant patients with COVID-19 have a higher risk of death, hospitalization </a> – Seattle Times</li>
+<li>January 27, 2021 – <a href="https://muckrack.com/broadcast/savedclips/view/NkNiS5LhpR" target="_blank" rel="noopener">COVID-19 and pregnancy </a> – KING 5</li>
+<li>January 27, 2021 – <a href="https://patch.com/washington/seattle/pregnant-coronavirus-patients-have-higher-risk-death-study" target="_blank" rel="noopener">Pregnant Coronavirus Patients Have Higher Risk For Death: Study </a> – Patch</li>
+<li>January 27, 2021 – <a href="https://www.q13fox.com/news/study-pregnant-women-more-likely-to-die-of-covid-19" target="_blank" rel="noopener">Study: Pregnant women more likely to die of COVID-19 </a> – Q13</li>
+<li>January 27, 2021 – <a href="https://muckrack.com/broadcast/savedclips/view/bJdXvK5Pix" target="_blank" rel="noopener">Pregnant women and COVID-19 </a> – KOMO Radio</li>
+<li>January 26, 2021 – <a href="https://muckrack.com/broadcast/savedclips/view/bAtphVHCi0" target="_blank" rel="noopener">New sculpture installed </a> – KOMO 4</li>
+<li>January 26, 2021 – <a href="https://muckrack.com/broadcast/savedclips/view/UZSEVFXFLg" target="_blank" rel="noopener">Sculpture installed at U.W. </a> – KING 5</li>
+<li>January 25, 2021 – <a href="https://www.dailyuw.com/wellness/article_6c5351f0-5ed5-11eb-a2c1-130c80de8869.html" target="_blank" rel="noopener">UW study finds that environmental inequities contribute to COVID-19 racial disparities </a> – The Daily</li>
+<li>January 14, 2021 – <a href="https://crosscut.com/equity/2021/01/disproportionately-hit-covid-19-wa-latinos-brace-vaccine" target="_blank" rel="noopener">Disproportionately hit by COVID-19, WA Latinos brace for vaccine </a> – Crosscut</li>
+</ul>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2020</h2>
+<ul>
+<li>December 3, 2020 – <a href="http://www.dailyuw.com/news/article_9b8287c6-3521-11eb-9898-c373563228d5.html" target="_blank" rel="noopener">How the Population Health Initiative is trying to stop another pandemic </a> – The Daily</li>
+<li>November 2, 2020 – <a href="https://crosscut.com/video/new-normal/king-county-pollution-makes-zip-codes-predictors-your-health" target="_blank" rel="noopener">In King County, pollution makes ZIP codes predictors of your health </a> – Crosscut</li>
+<li>October 20, 2020 – <a href="http://www.dailyuw.com/news/article_c4946a6a-12a5-11eb-a491-3b894d1bcd7d.html" target="_blank" rel="noopener">Fourteen UW projects awarded COVID-19 equity research grants </a> – The Daily</li>
+<li>October 15, 2020 – <a href="https://www.king5.com/article/news/health/coronavirus/uw-study-maps-food-insecurity-during-covid-19-pandemic/281-46884243-380b-45ed-8d0d-9bf2a49bec3a" target="_blank" rel="noopener">University of Washington study maps food insecurity during COVID-19 pandemic </a> – KING 5</li>
+<li>October 12, 2020 – <a href="https://mynorthwest.com/category/podcast_player/?a=2ff02882-753b-4846-9626-ac52010b209f&amp;sid=1005&amp;n=Seattle%27s+Morning+News+with+Dave+Ross" target="_blank" rel="noopener">Moving people from homeless shelters into hotels </a> – KIRO Radio</li>
+<li>October 8, 2020 – <a href="https://muckrack.com/broadcast/savedclips/view/TVtrDHZQSl" target="_blank" rel="noopener">Slowing the spread of COVID-19 among King County&#8217;s homeless population </a> – KIRO 7</li>
+<li>October 7, 2020 – <a href="https://www.thenewstribune.com/news/state/article246295670.html" target="_blank" rel="noopener">Moving homeless into hotels helped limit COVID-19 spread, Washington study finds </a> – Tacoma News Tribune</li>
+<li>October 7, 2020 – <a href="https://komonews.com/news/coronavirus/moving-homeless-people-to-hotels-slowed-virus-spread-in-king-co-study-finds" target="_blank" rel="noopener">Moving homeless people to hotels slowed virus spread in King Co., study finds </a> – KOMO News</li>
+<li>October 7, 2020 – <a href="https://www.iqmediacorp.com/ClipPlayer/?ClipID=a091d2fe-cf64-44ea-9b56-eca71c26000b" target="_blank" rel="noopener">Study: Hotel initiative limited spread of COVID-19 </a> – Q13</li>
+<li>October 7, 2020 – <a href="https://www.iqmediacorp.com/ClipPlayer/?ClipID=3c1c2afe-6b09-4596-884a-36dcf817382f&amp;ps=2" target="_blank" rel="noopener">Study: Hotel shelters limited virus spread </a> – KING 5</li>
+<li>October 7, 2020 – <a href="https://www.iqmediacorp.com/ClipPlayer?ClipID=89a4c114-cc8d-460c-9365-75afc3c8c302&amp;TE=%7b0%7d" target="_blank" rel="noopener">New UW-King County study says moving homeless population into hotels during COVID-19 crisis had many benefits </a> – KOMO Radio</li>
+<li>October 7, 2020 – <a href="https://www.yaktrinews.com/uw-study-turning-hotels-into-emergency-shelters-for-homeless-slowed-spread-of-covid-19/" target="_blank" rel="noopener">UW study: Turning hotels into emergency shelters for homeless slowed spread of COVID-19 </a> – YakTriNews</li>
+<li>October 7, 2020 – <a href="https://patch.com/washington/bellevue/s/h9p9q/study-finds-housing-homeless-king-county-hotels-was-effective" target="_blank" rel="noopener">Study Finds Housing Homeless In King County Hotels Is Effective </a> – Patch</li>
+<li>September 2020 – <a href="https://magazine.washington.edu/feature/population-health-initiative-calls-on-expertise-from-across-uw/" target="_blank" rel="noopener">For our health: The UW is putting its combined expertise into population health, improving lives around the world </a> – University of Washington Magazine</li>
+<li>September 15, 2020 – <a href="https://www.knkx.org/post/food-insecurity-rates-have-more-doubled-start-covid-19-pandemic" target="_blank" rel="noopener">Food insecurity rates have more than doubled since start of COVID-19 pandemic </a> – KNKX</li>
+<li>August 19, 2020 – <a href="https://patch.com/washington/puyallup/uw-conducting-survey-health-puyallups-restaurant-industry" target="_blank" rel="noopener">UW Conducting Survey On Health And Puyallup&#8217;s Restaurant Industry </a> – Patch</li>
+<li>July 20, 2020 – <a href="https://www.knkx.org/post/two-uw-researchers-aim-study-how-current-economic-disruption-affecting-kids" target="_blank" rel="noopener">Two UW researchers aim to study how current economic disruption is affecting kids </a> – KNKX</li>
+<li>July 6, 2020 – <a href="http://www.dailyuw.com/news/article_4e134e94-c000-11ea-9bcf-374560d9f52d.html" target="_blank" rel="noopener">Eighteen UW projects awarded COVID-19 economic recovery grants </a> – The Daily</li>
+<li>June 30, 2020 – <a href="http://www.dailyuw.com/news/article_f2de801a-ba7e-11ea-b79f-0711d9c286ef.html" target="_blank" rel="noopener">UW Population Health Initiative launches COVID-19 equity research grants </a> – The Daily</li>
+<li>May 29, 2020 – <a href="https://www.knkx.org/post/some-somali-speaking-doulas-are-still-making-house-visits-here-s-why" target="_blank" rel="noopener">Some Somali-speaking doulas are still making house visits. Here’s why. </a> – KNKX</li>
+<li>May 28, 2020 – <a href="http://www.dailyuw.com/article_f22584de-a0a7-11ea-835e-9f526acb74b8.html" target="_blank" rel="noopener">UW Population Health Initiative launches COVID-19 economic recovery research grants </a> – The Daily</li>
+<li>May 11, 2020 – <a href="http://www.dailyuw.com/news/article_6df11dca-9334-11ea-bd2f-4bae4055b2d4.html" target="_blank" rel="noopener">Twenty-one UW projects awarded COVID-19 rapid response grants </a> – The Daily</li>
+<li>April 14, 2020 – <a href="http://www.dailyuw.com/news/article_e7e408e6-7df3-11ea-b22b-a7640a761654.html" target="_blank" rel="noopener">UW Population Health initiative launches COVID-19 rapid response grant program </a> – The Daily</li>
+<li>January 28, 2020 – <a href="https://www.enr.com/articles/48571-collaboration-drives-delivery-of-uw-population-health-building" target="_blank" rel="noopener">Collaboration Drives Delivery Of UW Population Health Building </a> – ENR Northwest</li>
+<li>January 24, 2020 – <a href="https://www.yesmagazine.org/health-happiness/2020/01/24/women-health-care-somali/" target="_blank" rel="noopener">Making Health Care Accessible for Somali Women </a> – YES! Magazine</li>
+</ul>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2019</h2>
+<ul>
+<li>November 25, 2019 – <a href="https://iaphs.org/four-key-considerations-when-creating-a-whole-of-university-population-health-initiative/" target="_blank" rel="noopener">Four Key Considerations When Creating a Whole-of-University Population Health Initiative </a> – IAPHS</li>
+<li>November 13, 2019 – <a href="https://www.geekwire.com/2019/tech-moves-ex-microsoft-legal-head-joins-uw-health-initiative-amazon-mints-another-startup-cfo/" target="_blank" rel="noopener">Tech Moves: Ex-Microsoft legal head joins UW health initiative </a> – GeekWire</li>
+<li>November 4, 2019 – <a href="http://www.dailyuw.com/wellness/article_576c7222-febd-11e9-807b-47b71f86e50c.html" target="_blank" rel="noopener">Putting health first: UW’s new Population Health Facility seeks to advance the work being done on community and global health </a> – The Daily</li>
+<li>October 12, 2019 – <a href="https://www.unt.se/nyheter/uppsala/hans-rosling-hedras-pa-andra-sidan-atlanten-5427003.aspx" target="_blank" rel="noopener">Hans Rosling hedras på andra sidan Atlanten </a> – Upsala Nya Tidning</li>
+<li>October 10, 2019 – <a href="https://www.seattletimes.com/seattle-news/child-of-farm-workers-now-a-ph-d-student-studying-conditions-in-the-fields-wins-100000-bullitt-prize/" target="_blank" rel="noopener">Daughter of farmworkers in Quincy, now a Ph.D. student studying conditions in the fields, wins $100,000 Bullitt prize </a> – Seattle Times</li>
+<li>June 6, 2019 – <a href="https://www.constructionspecifier.com/glass-fins-create-dynamic-facade-for-washington-university-building/" target="_blank" rel="noopener">Glass fins create dynamic façade for Washington university building </a> – Construction Specifier</li>
+<li>May 24, 2019 – <a href="https://www.dexigner.com/news/32134" target="_blank" rel="noopener">Miller Hull Partnership Unveils Population Health Facility Designs </a> – Dexigner</li>
+<li>May 13, 2019 – <a href="https://aasarchitecture.com/2019/05/groundbreaking-population-health-facility-by-the-miller-hull-partnership.html" target="_blank" rel="noopener">Groundbreaking Population Health Facility by The Miller Hull Partnership </a> – aasarchitecture</li>
+<li>April 22, 2019 – <a href="http://www.dailyuw.com/wellness/article_edbae190-64a9-11e9-896f-2bbca7dbde4a.html" target="_blank" rel="noopener">Regenerating keystone species in Washington </a> – The Daily</li>
+</ul>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2018</h2>
+<ul>
+<li>August 27, 2018 – <a href="http://www.dailyuw.com/special_sections/article_543b32c6-a4ca-11e8-aa57-d3e871631e47.html" target="_blank" rel="noopener">New population health building </a> – The Daily</li>
+<li>May 24, 2018 – <a href="https://www.seattletimes.com/pacific-nw-magazine/thinking-differently-about-employment/" target="_blank" rel="noopener">Thinking differently about employment </a> – Seattle Times</li>
+<li>April 29, 2018 – <a href="https://www.seattletimes.com/seattle-news/education/uw-has-1-billion-in-buildings-going-up-or-planned-in-seattle/" target="_blank" rel="noopener">UW has $1 billion in buildings going up or planned in Seattle </a> – Seattle Times</li>
+<li>April 26, 2018 – <a href="https://app.criticalmention.com/app/#/report/65193140-e225-4a5e-a91c-3cf7b2704f29/clip/34485231/play" target="_blank" rel="noopener">UW breaks ground on population health building </a> – KOMO Radio</li>
+<li>April 25, 2018 – <a href="https://news.theregistryps.com/university-of-washington-celebrates-groundbreaking-of-230mm-population-health-building/" target="_blank" rel="noopener">University of Washington Celebrates Groundbreaking of $230MM Population Health Building </a> – The Registry</li>
+<li>April 23, 2018 – <a href="http://www.djc.com/news/re/12110422.html" target="_blank" rel="noopener">$230M Population Health building designed as a laboratory for ideas </a> – Daily Journal of Commerce</li>
+</ul>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2017</h2>
+<ul>
+<li>Oct. 9, 2017 – <a href="http://www.dailyuw.com/science/article_097b5342-ac96-11e7-a26b-c72cfb8a6eff.html" target="_blank" rel="noopener">Healing war’s invisible wounds in Somalia </a> – The Daily</li>
+<li>June 18, 2017 – <a href="http://www.chronicle.com/article/Presidents-Share-What-s/240374" target="_blank" rel="noopener">Presidents Share What’s Worked (Ana Mari Cauce, University of Washington)</a> – The Chronicle of Higher Education</li>
+<li>June 2, 2017 – <a href="http://www.dailyuw.com/news/article_5d28ec8a-4746-11e7-bc63-d36b55f77c76.html" target="_blank" rel="noopener">UW chooses location for new $230 million Population Health Building</a> – The Daily</li>
+<li>May 11, 2017 – <a href="http://www.seattletimes.com/seattle-news/education/uw-chooses-site-to-build-center-for-study-of-population-health/" target="_blank" rel="noopener">UW chooses site to build center for study of population health </a> – Seattle Times</li>
+<li>Mar. 25, 2017 – <a href="http://www.sciencedirect.com/science/article/pii/S0140673617307729" target="_blank" rel="noopener">Ana Mari Cauce: leader of a new initiative in population health</a> – The Lancet</li>
+<li>Jan. 25, 2017 – <a href="http://www.seattletimes.com/seattle-news/science/historic-gift-gates-foundation-gives-279-million-to-university-of-washington/" target="_blank" rel="noopener">Historic gift: Gates Foundation gives $279 million to University of Washington</a> – Seattle Times</li>
+<li>Jan. 25, 2017 – <a href="http://www.bizjournals.com/seattle/blog/health-care-inc/2017/01/uw-ihme-bill-melinda-gates-foundation-279m.html" target="_blank" rel="noopener">Bill and Melinda Gates Foundation pledges $279M for UW&#8217;s largest-ever private donation</a> – Puget Sound Business Journal</li>
+<li>Jan. 25, 2017 – <a href="http://www.geekwire.com/2017/gates-foundation-giving-279m-help-uw-study-global-population-health-largest-private-donation-university-history/" target="_blank" rel="noopener">Gates Foundation is giving $279M to help UW study global population health, the largest private donation in university history</a> – Geekwire</li>
+</ul>
+</div>
+<div class="js-accordion__panel" >
+<h2 class="js-accordion__header">2016</h2>
+<ul>
+<li>Dec. 20, 2016 – <a href="https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2016" target="_blank" rel="noopener">My Favorite Fanatics of 2016</a> – Gates Notes</li>
+<li>Nov. 21, 2016 – <a href="http://www.seattletimes.com/opinion/population-health-is-a-moral-imperative-heres-how-well-solve-local-and-global-problems/" target="_blank" rel="noopener">Population health is a moral imperative — here’s how we’ll solve local and global problems</a> – Seattle Times</li>
+<li>Nov. 2, 2016 – <a href="http://www.yakimaherald.com/opinion/editorials/uw-s-thinking-big-and-that-could-be-good-for/article_43f54664-a12e-11e6-be16-63f146d78b6c.html" target="_blank" rel="noopener">UW’s thinking big, and that could be good for the Valley</a> – Yakima Herald</li>
+<li>Oct. 28, 2016 – <a href="https://www.washingtonpost.com/news/grade-point/wp/2016/10/28/u-washington-gets-210-million-from-gates-for-health-initiative/" target="_blank" rel="noopener">U-Washington gets $210 million from Gates Foundation for health initiative</a> – Washington Post</li>
+<li>Oct. 26, 2016 – <a href="http://kuow.org/post/new-uw-health-initiative-aims-re-imagine-way-schools-educate" target="_blank" rel="noopener">New UW health initiative aims to re-imagine the way schools educate </a> – KUOW</li>
+<li>Oct. 25, 2016 – <a href="http://www.seattletimes.com/opinion/editorials/gates-foundation-reminds-seattle-why-its-work-matters/" target="_blank" rel="noopener">Gates Foundation reminds Seattle why its work matters</a> – The Seattle Times</li>
+<li>Oct. 25, 2016 – <a href="http://www.seattletimes.com/seattle-news/education/uws-bold-goal-of-improving-worlds-health-gets-210-million-boost-from-gates-foundation/" target="_blank" rel="noopener">Record gift to UW: $210M from Gates Foundation toward bold goal of improving world’s health</a> – The Seattle Times</li>
+<li>Oct. 25, 2016 – <a href="http://bigstory.ap.org/article/57fee64bca1d4e2ba11146794353ef7d/university-washington-gets-210m-gates-foundation" target="_blank" rel="noopener">University of Washington gets $210M from Gates Foundation</a> – Associated Press</li>
+<li>Oct. 25, 2016 – <a href="http://www.geekwire.com/2016/gates-foundation-announces-210m-donation-uws-population-health-initiative/" target="_blank" rel="noopener">Gates Foundation announces $210M donation to UW’s Population Health Initiative</a> – GeekWire</li>
+<li>Oct. 25, 2016 – <a href="https://soundcloud.com/uwnews/komo-radio-uw-president-discusses-population-health-initiative-gates-foundation-gift" target="_blank" rel="noopener">UW president discusses Population Health Initiative, Gates Foundation gift</a> – KOMO Radio</li>
+<li>Oct. 25, 2016 – <a href="http://kuow.org/post/210-million-gates-gift-will-provide-home-uws-global-health-initiative" target="_blank" rel="noopener">$210 million Gates gift will provide a home for UW&#8217;s global health initiative</a> – KUOW</li>
+<li>Oct. 25, 2016 – <a href="http://www.bizjournals.com/seattle/blog/health-care-inc/2016/10/uw-bill-melinda-gates-foundation.html" target="_blank" rel="noopener">UW receives record $210M from the Bill &amp; Melinda Gates Foundation</a> – Puget Sound Business Journal</li>
+<li>Aug. 2, 2016 – <a href="http://www.bizjournals.com/seattle/blog/health-care-inc/2016/08/uw-president-takes-next-steps-on-her-mission-to.html" target="_blank" rel="noopener">UW president takes next steps on her mission to improve health around the world</a> – Puget Sound Business Journal</li>
+<li>May 3, 2016 – <a href="http://www.bizjournals.com/seattle/blog/health-care-inc/2016/05/uw-president-place-of-birth-or-ethnicity-should.html" target="_blank" rel="noopener">UW president: Place of birth or ethnicity should not determine your health</a>– Puget Sound Business Journal</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+      </div>
+
+    </div>
+
+  
+          <div id="sidebar">
+  <div class="col-md-4 uw-sidebar">
+    <nav id="desktop-relative" aria-label="mobile menu that is not visible in the desktop version"><ul class="uw-sidebar-menu first-level"><li class="pagenav"><a href="https://www.washington.edu/populationhealth" title="Home" class="homelink">Home</a><ul><li class="page_item page-item-373 page_item_has_children current_page_ancestor current_page_parent child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/news/">News</a>
+<ul class='children'>
+	<li class="page_item page-item-64 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/news/latest-news/">Latest news and updates</a></li>
+	<li class="page_item page-item-1898 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/news/subscribe/">Subscribe</a></li>
+	<li class="page_item page-item-5826 child-page-existance-tester"><a href="https://www.washington.edu/populationhealth/news/journal-articles/">Journal articles</a></li>
+	<li class="page_item page-item-132 current_page_item"><span>Media coverage</span></li>
+</ul>
+</li>
+</ul></li></ul></nav>    
+    <div role="navigation" aria-label="sidebar_navigation" id="uw-widget-cards-3" class="widget cards-widget">
+      <div class="default-card">
+
+      <div class='card-image' style='background-image:url(https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/132/2018/07/30232853/What-is-pop-health-2_375x250.jpg      )'></div>
+
+      <span>
+      <h3>
+                <a href="https://www.washington.edu/populationhealth/about/what-is-population-health/" class="pic-title">What is population health?</a>
+              </h3>
+
+      <span class="udub-slant"><span></span></span>
+
+      <p><small>Population health is a broad concept encompassing not only the elimination of diseases and injuries, but also the intersecting and overlapping factors that influence health. </small></p>
+
+              <a href="https://www.washington.edu/populationhealth/about/what-is-population-health/" class="pic-text-more uw-btn btn-sm btn-gold">Learn more</a>
+            </span>
+
+
+
+      </div>
+
+    </div><div role="navigation" aria-label="sidebar_navigation" id="custom_html-3" class="widget_text widget widget_custom_html"><h2 class="widgettitle">Population Health Twitter</h2>
+<div class="textwidget custom-html-widget"><a class="twitter-timeline" data-height="700" data-dnt="true" data-link-color="#0074bb" href="https://twitter.com/UW_PHI?ref_src=twsrc%5Etfw">Tweets by UW_PHI</a><br /><noscript>Please enable JavaScript to view this widget.</noscript><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div><div role="navigation" aria-label="sidebar_navigation" id="text-2" class="widget widget_text"><h2 class="widgettitle">Events calendar</h2>
+			<div class="textwidget"><script type="text/javascript" src="//www.trumba.com/scripts/spuds.js"></script><script type="text/javascript" id="trumba54">$Trumba.addSpud({webName:"sea_popuhlt",spudType:"upcoming",BorderColor:"#FFFFFF",marginTop:0,teaserBase:"http://www.washington.edu/populationhealth/news/events/"});</script>
+</div>
+		</div>  </div>
+
+</div>
+
+
+  </div>
+
+</div>
+
+    <div role="contentinfo" class="uw-footer">
+
+        <a href="http://www.washington.edu" class="footer-wordmark">University of Washington</a>
+
+        <a href="http://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+
+        <h4>Connect with us:</h4>
+
+        <nav aria-label="social networking">
+            <ul class="footer-social">
+                <li><a class="facebook" href="http://www.facebook.com/UofWA">Facebook</a></li>
+                <li><a class="twitter" href="http://twitter.com/UW">Twitter</a></li>
+                <li><a class="instagram" href="http://instagram.com/uofwa">Instagram</a></li>
+                <li><a class="youtube" href="http://www.youtube.com/user/uwhuskies">YouTube</a></li>
+                <li><a class="linkedin" href="http://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+                <li><a class="pinterest" href="http://www.pinterest.com/uofwa/">Pinterest</a></li>
+            </ul>
+        </nav>
+
+        <nav aria-label="footer navigation">
+            <ul class="footer-links">
+                <li><a href="http://www.uw.edu/accessibility">Accessibility</a></li>
+                <li><a href="http://uw.edu/contact">Contact Us</a></li>
+                <li><a href="http://www.washington.edu/jobs">Jobs</a></li>
+                <li><a href="http://www.washington.edu/safety">Campus Safety</a></li>
+                <li><a href="http://my.uw.edu/">My UW</a></li>
+                <li><a href="http://www.washington.edu/rules/wac">Rules Docket</a></li>
+                <li><a href="http://www.washington.edu/online/privacy/">Privacy</a></li>
+                <li><a href="http://www.washington.edu/online/terms/">Terms</a></li>
+                <li><a href="http://www.washington.edu/newsletter/">Newsletter</a></li>
+            </ul>
+        </nav>
+
+        <p>&copy; 2024 University of Washington  |  Seattle, WA</p>
+
+    </div>
+
+    </div><!-- #uw-container-inner -->
+    </div><!-- #uw-container -->
+
+<style id='core-block-supports-inline-css' type='text/css'>
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw-2014/js/uw.accordionmodule.js?ver=3.0.3" id="uw-accordionmodule-js"></script>
+
+</body>
+</html>

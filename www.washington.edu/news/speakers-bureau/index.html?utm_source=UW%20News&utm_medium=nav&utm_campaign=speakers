@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js">
+    <head>
+        <title> UW Speakers Bureau  |  UW News </title>
+        <meta charset="utf-8">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="fb:pages" content="103975906361680" />
+
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <meta name='robots' content='max-image-preview:large' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='//www.washington.edu' />
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="UW News &raquo; Feed" href="https://www.washington.edu/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title="UW News &raquo; Comments Feed" href="https://www.washington.edu/news/comments/feed/" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@uwnews">
+<meta name="twitter:creator" content="@uwnews">
+<meta property="og:title" content="UW Speakers Bureau"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.washington.edu/news/speakers-bureau/"/>
+<meta property="og:site_name" content="UW News"/>
+<meta property="og:description" content="Welcome to the UW Speakers Bureau!"/>
+<meta property="og:image" content="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2019/09/30162436/featured-image-website-750x563.jpg"/>
+
+    
+<link rel='stylesheet' id='directory-style-css' href='//www.washington.edu/wp-content/plugins/experts-database/css/experts-directory.css?ver=6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='//www.washington.edu/wp-includes/css/dist/block-library/style.css?ver=6.6.1' type='text/css' media='all' />
+<style id='co-authors-plus-coauthors-style-inline-css' type='text/css'>
+.wp-block-co-authors-plus-coauthors.is-layout-flow [class*=wp-block-co-authors-plus]{display:inline}
+
+</style>
+<style id='co-authors-plus-avatar-style-inline-css' type='text/css'>
+.wp-block-co-authors-plus-avatar :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-avatar :where(img){vertical-align:middle}.wp-block-co-authors-plus-avatar:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-avatar.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<style id='co-authors-plus-image-style-inline-css' type='text/css'>
+.wp-block-co-authors-plus-image{margin-bottom:0}.wp-block-co-authors-plus-image :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-image :where(img){vertical-align:middle}.wp-block-co-authors-plus-image:is(.alignfull,.alignwide) :where(img){width:100%}.wp-block-co-authors-plus-image:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-image.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='uw-master-css' href='//www.washington.edu/wp-content/themes/uw-2014/style.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-open-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='uw-style-css' href='//www.washington.edu/wp-content/themes/news-2014/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='//www.washington.edu/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+.uw-body-copy .a2a_svg, .uw-body-copy .a2a_count { border-radius: 0 !important; }
+.uw-body-copy .addtoany_share_save_container {
+    margin: 30px 0 40px;
+    padding: 12px 0 10px 0;
+    border-top: 1px dotted #E2E2E2;
+    border-bottom: 1px dotted #E2E2E2;
+}
+.uw-body-copy .addtoany_list a, .uw-body-copy .widget .addtoany_list a { padding: 0 15px 0 0; }
+.a2a_s_print, .a2a_s_email, .a2a_s_a2a { background-color: #4b2e83 !important }
+.a2a_s_email { background-color: #85754d !important }
+.a2a_menu a { color: #0074bb !important }
+</style>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/jquery/jquery.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" id="jquery-core-js-after">
+/* <![CDATA[ */
+$ = jQuery;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/plugins/experts-database/js/live-search.js?ver=6.6.1" id="live-search-js"></script>
+<script type="text/javascript" id="experts-table-filter-js-extra">
+/* <![CDATA[ */
+var teamsArray = {"Jie Xiao":["Electric vehicles","Engineering and design"],"Niloofar Mireshghallah":["Artificial intelligence"],"Pang Wei Koh":["Artificial intelligence"],"Kate Glazko":["Artificial intelligence","Technology accessibility"],"Cole DeForest":["Engineering and design"],"Jacob O. Wobbrock":["Technology accessibility"],"Jennifer Mankoff":["Technology accessibility"],"Sylvia S. Bagley, Ph.D.":["Education"],"David Knight":["Education"],"Jessica L. Beyer":["Cybersecurity","Foreign policy","International studies","Policy","Politics and elections"],"Randy Nichols":["Journalism and media"],"Nara Almeida":["Architecture","Engineering and design","Infrastructure"],"Rania Hussein":["Education","Engineering and design","Race, equity and identity"],"Christie Hegermiller":["Climate change (global)","Climate change (regional)","Weather"],"Ramya Kumar":["Climate and health","Infectious diseases","Public health","Race, equity and identity"],"Yulia Tsvetkov":["Artificial intelligence"],"Sourojit Ghosh":["Artificial intelligence"],"Sarah B. Munro":["Gender and sexuality","Health","Public health","Reproductive rights"],"Michelle Muth":["Volcanoes"],"Megan Kennedy":["Mental health"],"David Bachman":["Foreign policy","International studies"],"James Lin":["Foreign policy","International studies"],"Navid Zobeiry":["Engineering and design","Space and aeronautics"],"Jungwon Choi":["Clean energy","Electric vehicles","Engineering and design"],"Julie Rorrer":["Clean energy","Engineering and design"],"Edward Blanchard-Wrigglesworth":["Climate change (global)","Polar science"],"Sara Mouradian":["Engineering and design","Quantum"],"Charles Marcus":["Engineering and design","Quantum"],"Monica McLemore":["Gender and sexuality","Health","Public health","Race, equity and identity","Reproductive rights"],"Jason Yip":["Education","Information science"],"Wendy Barrington":["Health","Nursing","Public health","Race, equity and identity"],"Joan Casey":["Climate and health","Environmental justice","Health","Public health","Wildfires"],"Aniruddh Vashisth":["Engineering and design"],"Sajjad Moazeni":["Artificial intelligence","Engineering and design"],"Ekin Yasin":["Artificial intelligence","Journalism and media"],"Matt Rogers":["Climate change (regional)"],"Lucas Meza":["Engineering and design"],"Jenny Robinson":["Engineering and design","Health"],"Amy Zhang":["Computer science","Engineering and design","Misinformation","Social media"],"Alex Turner":["Air pollution","Climate change (global)"],"Anis Rahman":["Journalism and media","Policy"],"Huatong Sun":["Engineering and design","Social media"],"Laura Lowes":["Earthquakes","Infrastructure"],"Kai-Mei Fu":["Engineering and design","Quantum"],"Mark Ward":["Earthquakes","International studies","Middle East"],"Alys Eve Weinbaum":["Gender and sexuality","Policy","Race, equity and identity","Reproductive rights"],"Luc\u00eda Magis-Weinberg":["Mental health"],"Melanie Walsh":["Artificial intelligence","Data science","Information science"],"Tim Althoff":["Artificial intelligence","Computer science","Data science","Public health"],"Yoshitaka Ota":["Environmental justice"],"Cynthia Chen":["Data science","Engineering and design","Infrastructure"],"Michael McCarthy":["Space and aeronautics","Weather"],"Lara Dalch":["Journalism and media"],"Xuan-Thao Nguyen":["Law"],"Timeka N. Tounsel":["Gender and sexuality","Journalism and media","Race, equity and identity"],"Christopher Tounsel":["Middle East","Policy","Race, equity and identity","World history"],"Maya Tolstoy":["Volcanoes"],"Su-In Lee":["Artificial intelligence","Computer science","Engineering and design"],"Carolyn West":["Gender and sexuality","Mental health","Race, equity and identity","Reproductive rights"],"Terry Price":["Law"],"Jeff Feldman":["Law"],"Taylor Riley":["Gender and sexuality","Public health","Race, equity and identity","Reproductive rights"],"Daniel Bessner":["Foreign policy","International studies"],"Yael Jacobs":["Economics"],"Bettina Judd":["Gender and sexuality","Public health","Race, equity and identity","Reproductive rights"],"Ayokunle Olanrewaju":["Engineering and design","Infectious diseases","Public health"],"Patricia Kuszler":["Law","Public health","Reproductive rights"],"Arjee Restar":["Gender and sexuality","Mental health","Policy","Public health","Race, equity and identity"],"Jennifer Balkus":["COVID-19","Gender and sexuality","Health","Infectious diseases","Public health","Race, equity and identity"],"Eric Madfis":["Firearms and violence prevention","Terrorism"],"Shan Liu":["COVID-19","Engineering and design","Mental health","Public health"],"Baptiste Journaux":["Space and aeronautics"],"David Aucsmith":["Cybersecurity"],"Christopher Simpson":["Public health","Wildfires"],"Edmund Seto":["Air pollution","Environmental justice","Public health","Wildfires"],"Jennifer Otten":["Public health"],"Karen Levy":["Climate and health","Infectious diseases","Public health"],"Julia Yue Cui":["Public health"],"Martin Cohen":["COVID-19","Public health"],"Elena Austin":["Air pollution","Climate and health","Health","Public health","Wildfires"],"Josephine Ensign":["Nursing"],"Allison Webel":["Infectious diseases","Nursing"],"Kathleen Johnson":["Nursing"],"Scott Radnitz":["Foreign policy","International studies"],"Jennifer Atkinson":["Climate and health"],"Katy Pearce":["Social media"],"Tyler Jimenez":["Mental health","Race, equity and identity"],"Michelle Montgomery":["Climate and health","Climate change (regional)","Environmental justice"],"Vikram Iyer":["Computer science","Engineering and design","Wildlife"],"Riki Thompson":["COVID-19","Mental health"],"Marine Denolle":["Earthquakes"],"Jon Froehlich":["Computer science","Engineering and design","Technology accessibility"],"Gabriel Lotto":["Earthquakes"],"Katherine Cross":["Engineering and design","Information science","Social media"],"Os Keyes":["Artificial intelligence","Data science","Engineering and design","Gender and sexuality","Information science","Race, equity and identity"],"T.J. Fudge":["Climate change (global)","Polar science"],"Emily Carrington":["Climate change (regional)"],"Dr. June Spector":["Climate and health","Climate change (regional)","Environmental justice","Public health","Weather"],"Yinhai Wang":["Engineering and design"],"Sean Munson":["Engineering and design"],"Aleksandr Aravkin":["COVID-19","Data science"],"David Kohlbrenner":["Computer science"],"Matthew J. Powers":["Journalism and media"],"Adrienne Russell":["Journalism and media","Politics and elections"],"Arbella Bet-Shlimon":["Middle East","World history"],"Lisa Manheim":["Law","Politics and elections"],"Scott Lemieux":["Politics and elections"],"Kristen Missall":["Education"],"Gregory Hakim":["Weather"],"Ann Ishimaru":["Education"],"Ilene Schwartz":["Education"],"Shana Hirsch":["Clean energy"],"Adrian Raftery":["Climate change (global)","COVID-19"],"Alexandra Anderson-Frey":["Weather"],"Chirag Shah":["Artificial intelligence","Information science","Misinformation"],"Peter Nicolas":["Gender and sexuality","Law"],"Sharon Kioko":["Policy"],"Ines Jurcevic":["Policy"],"Stephen Page":["Policy"],"Erica Mills Barnhart":["Policy"],"Karin Martin":["Policy"],"Mary Kay Gugerty":["Policy"],"Alison Cullen":["Climate and health","Policy"],"Ryan Avery":["Infrastructure"],"Jennifer Stuber":["Mental health"],"Mouse Reusch":["Earthquakes"],"Lynn McMurdie":["Weather"],"LuAnne Thompson":["Climate change (global)"],"Guillaume Mauger":["Climate change (regional)","Flooding and landslides","Weather"],"Trevor Branch":["Whales"],"Kristin Laidre":["Whales","Wildlife"],"Manuel Castellote":["Whales"],"Sue Moore":["Whales"],"Deborah Giles":["Whales"],"Carolyn Pinedo-Turnovsky":["Immigration","Race, equity and identity"],"Pepper Schwartz":["Gender and sexuality"],"La TaSha Levy":["Race, equity and identity"],"Anthony Greenwald":["Race, equity and identity"],"Sapna Cheryan":["Gender and sexuality","Race, equity and identity"],"Stephen Turnovsky":["Economics"],"Elaina Rose":["Economics"],"Robert Plotnick":["Economics"],"Dennis O\u2019Dea":["Economics"],"Victor Menaldo":["Economics"],"Mark Long":["Economics"],"Marieka Klawitter":["Economics","Gender and sexuality","Race, equity and identity"],"Heather Hill":["Policy"],"Rachel Heath":["Economics"],"Crystal C. Hall":["Economics"],"Fabio Ghironi":["Economics"],"Rachel Fyall":["Economics"],"Philip Brock":["Economics"],"Gunnar Almgren":["Economics"],"Christopher Adolph":["Economics"],"Dr. Coralynn Sack":["Public health","Wildfires"],"Michael Yost":["Climate and health","COVID-19","Public health","Wildfires"],"Dr. Joel Kaufman":["Air pollution","COVID-19","Public health","Wildfires"],"Anjum Hajat":["Air pollution","COVID-19","Environmental justice","Public health","Wildfires"],"Joel Thornton":["Air pollution","Wildfires"],"Maureen Kennedy":["Wildfires"],"Susan Prichard":["Wildfires"],"Jeff Ban":["COVID-19"],"Chris Rudell":["Engineering and design"],"Stacey Wedlake":["Information science"],"Paul Yager":["COVID-19"],"Kristi Morgansen":["Engineering and design","Space and aeronautics"],"Jinkyu \"JK\" Yang":["Engineering and design","Space and aeronautics"],"Jessica Ray":["Water quality\/stormwater"],"Cecilia Aragon":["Computer science","Data science","Engineering and design"],"Anita Ramasastry":["COVID-19","Law"],"Chris Coward":["COVID-19","Information science","Misinformation"],"Katie Davis":["COVID-19","Information science","Mental health","Social media"],"Ka-Kit Tung":["COVID-19"],"Steven Goodreau":["COVID-19","Infectious diseases"],"Janet Baseman":["COVID-19","Public health"],"Soojin Oh Park":["COVID-19","Education"],"Meredith Honig":["COVID-19","Education"],"Hilary Godwin":["COVID-19","Public health"],"Anne Hirsch":["COVID-19","Nursing"],"Kathleen Wolf":["COVID-19","Mental health"],"Dr. Pooja Tandon":["COVID-19","Mental health","Public health"],"Joshua Lawler":["COVID-19","Mental health"],"Lynn Katz":["COVID-19","Mental health"],"Jonathan Kanter":["COVID-19","Mental health"],"Susan Joslyn":["COVID-19","Mental health"],"Nancy Simcox":["COVID-19","Public health"],"Scott Meschke":["COVID-19","Infectious diseases","Public health"],"Aaron B. Katz":["COVID-19","Public health"],"Rodney JY Ho":["COVID-19","Infectious diseases"],"Nicole Errett":["COVID-19","Public health"],"Jared Baeten":["COVID-19","Health","Infectious diseases","Public health"],"Betty Bekemeier":["COVID-19","Nursing"],"Dr. Peter Rabinowitz":["COVID-19","Infectious diseases","Public health"],"Marilyn Roberts":["COVID-19","Public health"],"Gerard Cangelosi":["COVID-19","Infectious diseases","Public health"],"Marissa Baker":["COVID-19","Health","Public health"],"Peter Kahn":["COVID-19","Mental health"],"Meade Krosby":["Climate change (regional)","COVID-19"],"Kristi Straus":["COVID-19"],"Jennie Romich":["COVID-19","Economics"],"Nives Dol\u0161ak":["Clean energy","Climate change (global)","COVID-19","Policy"],"Diana Pearce":["COVID-19","Race, equity and identity"],"Ann Bostrom":["COVID-19","Policy"],"Emma Spiro":["COVID-19","Information science","Misinformation"],"Kate Starbird":["COVID-19","Information science","Misinformation"],"Julie Kientz":["COVID-19","Engineering and design"],"Benjamin M. Brunjes":["COVID-19","Policy"],"Anna Lauren Hoffmann":["Data science"],"Emily M. Bender":["Artificial intelligence","Data science"],"Julian Marshall":["Air pollution","Climate and health","Environmental justice"],"Elin Bj\u00f6rling":["Mental health"],"Franziska Roesner":["Computer science","Cybersecurity","Misinformation","Social media"],"Eric Chudler":["Neuroscience\/Neurotechnology"],"Steve Muench":["Infrastructure"],"Deborah Kelley":["Volcanoes"],"Taryn Lindhorst":["Race, equity and identity"],"Steve Calandrillo":["Law"],"Shuyi Chen":["Weather"],"Scott Allard":["Economics","Policy"],"Saadia Pekkanen":["Foreign policy","International studies","Law","Space and aeronautics"],"Ryan Calo":["Cybersecurity","Law"],"Liliana Lengua":["COVID-19","Mental health"],"Kathryn Watts":["Law"],"Karen Fredriksen Goldsen":["Gender and sexuality","Race, equity and identity"],"Joe Lott":["Education"],"Jevin West":["COVID-19","Information science","Misinformation"],"Jeffrey Ochsner":["Architecture"],"Jane Lee":["Immigration"],"Hugh Spitzer":["COVID-19","Law"],"Harold Tobin":["Earthquakes","Volcanoes"],"Carl Bergstrom":["COVID-19","Data science"],"Brian Harvey":["Wildfires"],"Alexes Harris":["Economics","Race, equity and identity"],"Noam Pianko":["Middle East"],"Mika Ahuvia":["International studies","Middle East"],"Paula Holmes-Eber":["Foreign policy","International studies","Middle East"],"Karam Dana":["Middle East"],"Clark Lombardi":["Middle East","Terrorism"],"Re\u015fat Kasaba":["International studies","Middle East","Terrorism"],"John Wilkerson":["Data science","Politics and elections"],"Bill Howe":["Artificial intelligence","Data science"],"Jeffrey Heer":["Computer science","Data science"],"Ed Lazowska":["Computer science","Data science"],"Rebecca Thorpe":["Politics and elections","Terrorism"],"Stuart Streichler":["Politics and elections","Race, equity and identity"],"Mark Smith":["Politics and elections"],"Margaret O\u2019Mara":["COVID-19","Politics and elections","U.S. history"],"Laurie Marhoefer":["Gender and sexuality","Race, equity and identity","U.S. history","World history"],"George Lovell":["Politics and elections"],"James D. Long":["Politics and elections"],"Megan Ming Francis":["Politics and elections","Race, equity and identity"],"David Domke":["Politics and elections"],"Camille Walsh":["Immigration"],"Jacob Vigdor":["COVID-19","Economics","Immigration","Race, equity and identity"],"Mary Fan":["Law"],"Angelica Chazaro":["Immigration"],"Denise Walker":["Marijuana"],"Dr. Ali Rowhani-Rahbar":["Firearms and violence prevention"],"Nephi Stella":["Marijuana"],"Roger Roffman":["Marijuana"],"Christine Lee":["Marijuana"],"Jason Kilmer":["Marijuana"],"Kevin Haggerty":["Marijuana"],"Beatriz (Bia) Carlini":["Marijuana"],"Aseem Prakash":["Clean energy","Climate change (global)","COVID-19","Policy"],"Rick Keil":["Water quality\/stormwater"],"Rebecca Neumann":["Water quality\/stormwater"],"Daniela Witten":["Data science","Information science"],"Ed Kolodziej":["Water quality\/stormwater"],"Joel Baker":["Water quality\/stormwater"],"Tania Busch Isaksen":["COVID-19","Public health","Water quality\/stormwater","Wildfires"],"Sally Brown":["Water quality\/stormwater"],"Joyce Dinglasan-Panlilio":["Water quality\/stormwater"],"Jim Gawel":["Water quality\/stormwater"],"Gregory Korshin":["Water quality\/stormwater"],"Dr. Catherine Karr":["Air pollution","Public health","Water quality\/stormwater","Wildfires"],"Scott Montgomery":["Clean energy","International studies"],"Jim Thomson":["Clean energy","Polar science"],"Kate Simonen":["Infrastructure"],"Anne Goodchild":["COVID-19","Infrastructure"],"Marc Eberhard":["Infrastructure"],"Dawn Lehman":["Earthquakes","Infrastructure"],"John Stanton":["Earthquakes","Infrastructure"],"Jeffrey Berman":["Earthquakes","Infrastructure"],"Charles Roeder":["Infrastructure"],"Virginia Armbrust":["Harmful algal blooms"],"Jan Newton":["Climate change (regional)","Harmful algal blooms"],"Ernesto Alvarado":["Wildfires"],"Dan Jaffe":["Wildfires"],"Ian Miller":["Climate change (regional)","Flooding and landslides"],"Randy LeVeque":["Earthquakes","Flooding and landslides"],"Jody Bourgeois":["Earthquakes"],"George Bergantz":["Volcanoes"],"Steve Malone":["Earthquakes","Volcanoes"],"Paul Bodin":["Earthquakes"],"William Wilcock":["Earthquakes","Volcanoes"],"Brian Polagye":["Clean energy"],"Don MacKenzie":["Clean energy","Electric vehicles","Infrastructure"],"Devin MacKenzie":["Clean energy"],"Daniel Kirschen":["Clean energy"],"Hugh Hillhouse":["Clean energy"],"David Ginger":["Clean energy"],"Dan Schwartz":["Clean energy"],"Cliff Mass":["Weather"],"Karin Bumbaco":["Climate change (regional)","Weather"],"Jessica Lundquist":["Flooding and landslides","Weather"],"Alison Duvall":["Flooding and landslides"],"Kathy Troost":["Earthquakes","Flooding and landslides"],"Joseph Wartman":["Earthquakes","Flooding and landslides"],"David Montgomery":["Flooding and landslides"],"Dr. Jeremy Hess":["Climate and health","Public health","Wildfires"],"Kristie Ebi":["Climate and health","Climate change (global)","Public health"],"Sara Curran":["Climate and health","Climate change (global)","Immigration","International studies"],"Stephen Gardiner":["Climate change (global)"],"Rob Wood":["Climate change (global)"],"Alex Gagnon":["Climate change (global)"],"Terrie Klinger":["Climate change (global)"],"Abigail Swann":["Climate change (global)"],"Dargan Frierson":["Climate change (global)"],"David Battisti":["Climate change (global)"],"Eric Steig":["Climate change (global)","Polar science"],"Ian Joughin":["Climate change (global)","Polar science"],"Cecilia Bitz":["Climate change (global)","Polar science"],"Axel Schweiger":["Climate change (global)","Polar science"],"Dennis Hartmann":["Climate change (global)"],"Eric Salath\u00e9":["Climate change (regional)","Flooding and landslides"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/plugins/experts-database/js/experts-table-filter.js?ver=6.6.1" id="experts-table-filter-js"></script>
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" defer src="//www.washington.edu/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" id="site-js-extra">
+/* <![CDATA[ */
+var style_dir = ["https:\/\/www.washington.edu\/cms\/news"];
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.washington.edu\/cms\/news\/wp-admin\/admin-ajax.php","nonce":"8b12f5535d","display_exif":"1","display_geo":"","background_color":"white","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","require_name_email":"0","login_url":"https:\/\/www.washington.edu\/cms\/news\/wp-login.php?redirect_to=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2Fspeakers-bureau%2F"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/uw-2014/js/site.js?ver=3.0.3" id="site-js"></script>
+<script type="text/javascript" id="mailchimp-subscribe-widget-js-extra">
+/* <![CDATA[ */
+var mailchimp = {"ajaxurl":"https:\/\/www.washington.edu\/news\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/news-2014/js/widget-mailchimp-subscribe.js?ver=1.0" id="mailchimp-subscribe-widget-js"></script>
+<script type="text/javascript" src="//www.washington.edu/wp-content/themes/news-2014/js/news.js?ver=6.6.1" id="news-js-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.washington.edu/news/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel="canonical" href="https://www.washington.edu/news/speakers-bureau/" />
+<link rel='shortlink' href='https://www.washington.edu/news/?p=63983' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"lcaple"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ6QQBT');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+        <!--[if lt IE 9]>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/html5shiv.js" type="text/javascript"></script>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/respond.js" type="text/javascript"></script>
+            <link rel='stylesheet' href='//www.washington.edu/wp-content/themes/uw-2014/assets/ie/css/ie.css' type='text/css' media='all' />
+        <![endif]-->
+
+        
+    </head>
+    <!--[if lt IE 9]> <body class="page-template page-template-speakers-bureau-experts page page-id-63983 lt-ie9 cms site-news"> <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <body class="page-template page-template-speakers-bureau-experts page page-id-63983 cms site-news" >
+    <!--<![endif]-->
+
+    <div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container"></div>
+
+    <a id="main-content" href="#main_content" class='screen-reader-shortcut'>Skip to main content</a>
+
+    <div id="uw-container">
+        
+	<nav id="quicklinks" aria-label="quick links" aria-hidden="true">
+<ul id="big-links"><li><span class="icon-myuw"></span><a href="https://my.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=myuw" tabindex="-1">MyUW</a></li><li><span class="icon-calendar"></span><a href="//uw.edu/calendar/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=calendar" tabindex="-1">Calendar</a></li><li><span class="icon-directories"></span><a href="https://directory.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=directories" tabindex="-1">Directories</a></li><li><span class="icon-libraries"></span><a href="https://lib.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=libraries" tabindex="-1">Libraries</a></li><li><span class="icon-medicine"></span><a href="https://www.uwmedicine.org/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwmedicine" tabindex="-1">UW Medicine</a></li><li><span class="icon-maps"></span><a href="//uw.edu/maps/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=maps" tabindex="-1">Maps</a></li><li><span class="icon-uwtoday"></span><a href="//uw.edu/news/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwnews" tabindex="-1">UW News</a></li></ul><h3>Helpful Links</h3> <ul id="little-links"><li><a href="https://itconnect.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=computingit" tabindex="-1">Computing/IT</a></li><li><a href="https://employeehelp.workday.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=workdayhcm" tabindex="-1">Workday HCM</a></li><li><a href="https://hfs.uw.edu/Husky-Card-Services/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=huskycard" tabindex="-1">Husky Card</a></li><li><a href="https://www.uwb.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwbothell" tabindex="-1">UW Bothell</a></li><li><a href="https://www.tacoma.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtacoma" tabindex="-1">UW Tacoma</a></li><li><a href="https://www.facebook.com/UofWA?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwfacebook" tabindex="-1">UW Facebook</a></li><li><a href="https://twitter.com/UW?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtwitter" tabindex="-1">UW Twitter</a></li></ul></nav>
+    
+    <div id="uw-container-inner">
+
+
+    <header class="uw-thinstrip" role="banner">
+
+  <div class="container">
+    <a href="http://uw.edu" title="University of Washington Home">
+      <div class="uw-patch">University of Washington</div>
+      <div class="uw-wordmark">University of Washington</div>
+    </a>
+  </div>
+  <div class='align-right'>
+      <nav class="uw-thin-strip-nav" aria-label='audience menu'>
+          <ul class="uw-thin-links">
+            <li><a href="http://uw.edu/studentlife" title="Students">Students</a></li>
+            <li><a href="http://uw.edu/parents" title="Parents">Parents</a></li>
+            <li><a href="http://uw.edu/facultystaff" title="Faculty & Staff">Faculty & Staff</a></li>
+            <li><a href="http://uw.edu/alumni" title="Alumni">Alumni</a></li>
+          </ul>
+      </nav>
+      <nav id='search-quicklinks' aria-label='search and quick links'>
+      <button class='uw-search' aria-owns='uwsearcharea' aria-controls='uwsearcharea' aria-expanded='false' aria-label='Search UW' aria-haspopup='true'>
+<!--[if gt IE 8]><!-->
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               width="19px" height="51px" viewBox="0 0 18.776 51.062" enable-background="new 0 0 18.776 51.062" xml:space="preserve" focusable="false">
+          <g>
+              <path fill="#FFFFFF" d="M3.537,7.591C3.537,3.405,6.94,0,11.128,0c4.188,0,7.595,3.406,7.595,7.591
+                c0,4.187-3.406,7.593-7.595,7.593C6.94,15.185,3.537,11.778,3.537,7.591z M5.245,7.591c0,3.246,2.643,5.885,5.884,5.885
+                c3.244,0,5.89-2.64,5.89-5.885c0-3.245-2.646-5.882-5.89-5.882C7.883,1.71,5.245,4.348,5.245,7.591z"/>
+
+              <rect x="2.418" y="11.445" transform="matrix(0.7066 0.7076 -0.7076 0.7066 11.7842 2.0922)" fill="#FFFFFF" width="1.902" height="7.622"/>
+          </g>
+          <path fill="#FFFFFF" d="M3.501,47.864c0.19,0.194,0.443,0.29,0.694,0.29c0.251,0,0.502-0.096,0.695-0.29l5.691-5.691l5.692,5.691
+              c0.192,0.194,0.443,0.29,0.695,0.29c0.25,0,0.503-0.096,0.694-0.29c0.385-0.382,0.385-1.003,0-1.388l-5.692-5.691l5.692-5.692
+              c0.385-0.385,0.385-1.005,0-1.388c-0.383-0.385-1.004-0.385-1.389,0l-5.692,5.691L4.89,33.705c-0.385-0.385-1.006-0.385-1.389,0
+              c-0.385,0.383-0.385,1.003,0,1.388l5.692,5.692l-5.692,5.691C3.116,46.861,3.116,47.482,3.501,47.864z"/>
+          </svg>
+<!--<![endif]-->
+      </button>
+      <button class='uw-quicklinks' aria-haspopup='true' aria-expanded="false" aria-label="quick links">Quick Links<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="15.63px" height="69.13px" viewBox="0 0 15.63 69.13" enable-background="new 0 0 15.63 69.13" xml:space="preserve" focusable="false"><polygon fill="#FFFFFF" points="12.8,7.776 12.803,7.773 5.424,0 3.766,1.573 9.65,7.776 3.766,13.98 5.424,15.553 12.803,7.78"/><polygon fill="#FFFFFF" points="9.037,61.351 9.036,61.351 14.918,55.15 13.26,53.577 7.459,59.689 1.658,53.577 0,55.15 5.882,61.351 5.882,61.351 5.884,61.353 0,67.557 1.658,69.13 7.459,63.019 13.26,69.13 14.918,67.557 9.034,61.353"/></svg></button>
+      </nav>
+  </div>
+
+</header>
+
+    <nav id="dawgdrops" aria-label="Main menu"><div class="dawgdrops-inner container"><ul id="menu-uw-today-white-bar" class="dawgdrops-nav"><li class="dawgdrops-item"><a href="http://www.washington.edu/news/about" title="About"  id="office-of-news-information">About</a></li>
+<li class="dawgdrops-item"><a href="http://www.washington.edu/news/the-latest-news-from-the-uw/" class="dropdown-toggle" title="Stories"  id="all-stories">Stories</a>
+<button data-toggle="dropdown" aria-controls="menu-all-stories" aria-labelledby="all-stories"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-all-stories" aria-labelledby='all-stories' class="dawgdrops-menu">
+	<li><a href="http://www.washington.edu/news/the-latest-news-from-the-uw/" tabindex="-1"  title="All stories"  id="all-stories-2">All stories</a></li>
+	<li><a href="http://www.washington.edu/news/category/news-releases/" tabindex="-1"  title="News releases"  id="45733">News releases</a></li>
+	<li><a href="http://www.washington.edu/news/category/blog/" tabindex="-1"  title="UW News blog"  id="uw-today-blog">UW News blog</a></li>
+	<li><a href="http://www.washington.edu/news/category/notebook/" tabindex="-1"  title="UW Notebook"  id="64936">UW Notebook</a></li>
+	<li><a href="https://www.washington.edu/forwashington/" tabindex="-1"  title="For Washington"  id="for-washington">For Washington</a></li>
+	<li><a href="http://www.washington.edu/news/category/official-notices/" tabindex="-1"  title="Official notices"  id="45735">Official notices</a></li>
+	<li><a href="https://www.washington.edu/news/uw-in-the-media/" tabindex="-1"  title="UW in the media"  id="46864">UW in the media</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="http://washington.edu/news/video/?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=multimedia" class="dropdown-toggle" title="Multimedia"  id="multimedia">Multimedia</a>
+<button data-toggle="dropdown" aria-controls="menu-multimedia" aria-labelledby="multimedia"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-multimedia" aria-labelledby='multimedia' class="dawgdrops-menu">
+	<li><a href="http://washington.edu/news/video/?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=video" tabindex="-1"  title="Video stories"  id="video-2">Video stories</a></li>
+	<li><a href="https://www.washington.edu/news/podcasts/" tabindex="-1"  title="Podcasts"  id="83093">Podcasts</a></li>
+	<li><a href="http://washington.edu/news/for-journalists/b-roll?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=Soundbites" tabindex="-1"  title="Soundbites/b-roll"  id="video">Soundbites/b-roll</a></li>
+	<li><a href="https://www.washington.edu/news/category/interactive/?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=interactive" tabindex="-1"  title="Interactives"  id="interactive">Interactives</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="http://www.washington.edu/news/experts/?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=Experts" class="dropdown-toggle" title="Experts"  id="uw-experts">Experts</a>
+<button data-toggle="dropdown" aria-controls="menu-uw-experts" aria-labelledby="uw-experts"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-uw-experts" aria-labelledby='uw-experts' class="dawgdrops-menu">
+	<li><a href="http://www.washington.edu/news/experts/?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=Experts" tabindex="-1"  title="Directory"  id="all-experts">Directory</a></li>
+	<li><a href="https://www.washington.edu/news/category/expert-quotes/?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=Expert-quotes" tabindex="-1"  title="Expert quotes"  id="expert-quotes">Expert quotes</a></li>
+	<li><a href="https://www.washington.edu/news/for-journalists/uw-experts-on-novel-coronavirus-covid-19/?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=Covid19_experts" tabindex="-1"  title="COVID-19 experts"  id="covid-19-experts">COVID-19 experts</a></li>
+	<li><a href="https://www.washington.edu/news/speakers-bureau/?utm_source=UW%2520News&amp;utm_medium=nav&amp;utm_campaign=speakers" tabindex="-1"  title="Speakers Bureau"  id="speakers-bureau">Speakers Bureau</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="http://www.washington.edu/news/for-journalists/media-contacts/?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=Media_Contacts" title="Media contacts"  id="media-contacts">Media contacts</a></li>
+<li class="dawgdrops-item"><a href="http://washington.edu/news/for-journalists?utm_source=UW%20News&amp;utm_medium=nav&amp;utm_campaign=For_Journalists" title="For Journalists"  id="for-journalists">For Journalists</a></li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/news/faculty-staff/" class="dropdown-toggle" title="For researchers"  id="for-researchers-staff">For researchers</a>
+<button data-toggle="dropdown" aria-controls="menu-for-researchers-staff" aria-labelledby="for-researchers-staff"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-for-researchers-staff" aria-labelledby='for-researchers-staff' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/news/faculty-staff/media-training/" tabindex="-1"  title="Media Training"  id="76572">Media Training</a></li>
+</ul>
+</li>
+</ul></div></nav>
+<div class="uw-news-image"></div>
+<div class="container uw-body">
+
+  <div class="row">
+
+  	<div class="col-md-12 uw-content" role='main'>
+
+      <a href="https://www.washington.edu/news/" title="UW News"><div class="uw-site-title">UW News</div></a>
+      <nav class='uw-breadcrumbs' aria-label='breadcrumbs'><ul><li><a href="http://uw.edu" title="University of Washington">Home</a></li><li><a href="https://www.washington.edu/news/" title="UW News">UW News</a><li><li  class="current" ><span>UW Speakers Bureau</span></li></ul></nav>
+      <div class="uw-body-copy">
+
+                
+                	<h1>UW Speakers Bureau</h1>
+                	                	<p>Welcome to the UW Speakers Bureau!</p>
+<p>The University of Washington is home to experts on many topics of broad interest to the public and that affect people&#8217;s daily lives, from minimum wage to volcanoes. Below are names of UW researchers who have indicated that they are willing to present their work in public talks to community groups.</p>
+<p>The names below are listed in alphabetical order. To find the best match for your group, use the &#8220;search&#8221; and &#8220;filter&#8221; tools to sort potential speakers by their name, expertise or UW department. If you still can&#8217;t find what you&#8217;re looking for, please use the contact information at the bottom to get help finding a match.</p>
+<p>If you&#8217;re looking to host an event outside the Puget Sound area, please contact us so we can help you find a speaker.</p>
+<p><strong>Contact:</strong><br />
+<a href="mailto:speakerbureau@uw.edu">speakerbureau@uw.edu</a></p>
+<p>&nbsp;</p>
+
+					
+				<div>
+				
+
+				<fieldset class="views-exposed">
+						<div class="views-exposed-form">
+							<form method="POST" onsubmit="return false;">
+								<div class="form-expert">
+									<label class="search-label" for="edit-expert">Name</label>
+									<div></div>
+									<input type="text" id="edit-expert" class="filter-expert" name="expert" placeholder="Search" maxlength="128" onkeyup="hideExperts()">
+								</div>
+							</form>
+							<form method="POST" >
+								<div class="form-expertise">
+									<label for="edit-expertise">Filter by Topic</label>
+									<div></div>
+									<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+									<label class="filter-wrap">
+									<select id="edit-expertise" class="filter-expertise" name="edit-expertise" onchange="changeQuery()">
+										<option value="All">- Any -</option>
+																																										 <option value='{"name": "Architecture", "slug": "architecture-2"}'>Architecture</option> 																					 <option value='{"name": "Data science", "slug": "data-science-experts"}'>Data science</option> 																					 <option value='{"name": "Economics", "slug": "economics-3"}'>Economics</option> 																					 <option value='{"name": "Education", "slug": "education-3"}'>Education</option> 																					 <option value='{"name": "Engineering and design", "slug": "engineering-and-design"}'>Engineering and design</option> 																					 <option value='{"name": "Environmental justice", "slug": "environmental-justice-2"}'>Environmental justice</option> 																					 <option value='{"name": "Flooding and landslides", "slug": "flooding-and-landslides"}'>Flooding and landslides</option> 																					 <option value='{"name": "Harmful algal blooms", "slug": "harmful-algal-blooms-experts"}'>Harmful algal blooms</option> 																					 <option value='{"name": "Immigration", "slug": "immigration-experts"}'>Immigration</option> 																					 <option value='{"name": "Infrastructure", "slug": "infrastructure-experts"}'>Infrastructure</option> 																					 <option value='{"name": "International studies", "slug": "international-studies"}'>International studies</option> 																					 <option value='{"name": "Law", "slug": "law-2"}'>Law</option> 																					 <option value='{"name": "Marijuana", "slug": "marijuana-experts"}'>Marijuana</option> 																					 <option value='{"name": "Mental health", "slug": "mental-health"}'>Mental health</option> 																					 <option value='{"name": "Misinformation", "slug": "misinformation"}'>Misinformation</option> 																					 <option value='{"name": "Neuroscience/Neurotechnology", "slug": "neuroscience-neurotechnology"}'>Neuroscience/Neurotechnology</option> 																					 <option value='{"name": "Policy", "slug": "policy"}'>Policy</option> 																					 <option value='{"name": "Quantum", "slug": "quantum"}'>Quantum</option> 																					 <option value='{"name": "Race, equity and identity", "slug": "equity-and-identity"}'>Race, equity and identity</option> 																					 <option value='{"name": "Social media", "slug": "social-media-3"}'>Social media</option> 																					 <option value='{"name": "Space and aeronautics", "slug": "aeronautics-and-astronautics"}'>Space and aeronautics</option> 																					 <option value='{"name": "Terrorism", "slug": "terrorism"}'>Terrorism</option> 																					 <option value='{"name": "Volcanoes", "slug": "volcanoes-2"}'>Volcanoes</option> 																					 <option value='{"name": "Water quality/stormwater", "slug": "urban-water-quality"}'>Water quality/stormwater</option> 																					 <option value='{"name": "Weather", "slug": "weather-climate-weather"}'>Weather</option> 																					 <option value='{"name": "Wildfires", "slug": "forest-fires"}'>Wildfires</option> 																																								</select>
+									</label>
+								</div>
+							</form>
+						</div>
+				</fieldset>
+
+
+				<table id="experts-table" class="experts-directory searchable-container">
+					<thead>
+						<colgroup>
+																<col class="expert-headshot"/>
+									<col class="expert-name-headshot"/>
+									<col class="expert-title-headshot"/>
+									<col class="email-phone phone-headshot"/>
+									<col class="expert-expertise expertise-headshot"/>
+														</colgroup>
+						<tr>
+							<th class="headshot">Photo</th>							<th>Name</th>
+							<th>Title</th>
+							<th class="phone">Email / Phone</th>
+							<th class="expertise">Expertise</th>
+						</tr>
+					</thead>
+					<tbody>
+													<tr class="Scott Allard">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/scott-allard/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/08/04135748/Allard_Scot.jpg' alt='Scott Allard' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/scott-allard/">Scott Allard									</a></td>
+								<td class="position">Professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:sallard@uw.edu">sallard@uw.edu</a></p><p><a href="tel:206-221-4872">206-221-4872</a></p></td>
+								<td class="expertise"><p>Poverty and inequality, safety net policy and urban policy</p></td>
+							</tr>
+													<tr class="Ernesto Alvarado">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/ernesto-alvarado/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/05/20134122/Ernesto-Alvarado-528x528.jpg' alt='Ernesto Alvarado' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/ernesto-alvarado/">Ernesto Alvarado									</a></td>
+								<td class="position">Research associate professor, School of Environmental and Forest Sciences</td>
+								<td class="phone"><p><a href="mailto:alvarado@uw.edu">alvarado@uw.edu</a></p><p><a href="tel:206-616-6920">206-616-6920</a></p></td>
+								<td class="expertise"><p>Forest fire ecology, fire management, prescribed fire, smoke emissions, climate change, tropical forestry, landscape, international forestry, modeling</p></td>
+							</tr>
+													<tr class="Cecilia Aragon">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/cecilia-aragon/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/05/04102649/C_Aragon.jpg.jpeg' alt='Cecilia Aragon' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/cecilia-aragon/">Cecilia Aragon									</a></td>
+								<td class="position">Professor, Department of Human Centered Design & Engineering</td>
+								<td class="phone"><p><a href="mailto:aragon@uw.edu">aragon@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Human-centered data science; data visualization; visual analytics; human-computer interaction; data-intensive discovery; human-centered natural language processing.</p></td>
+							</tr>
+													<tr class="Joel Baker">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/joel-baker/">										<img width='75' height='100'  src='http://directory.tacoma.uw.edu/sites/default/files/joel_baker_300x450.jpg' alt='Joel Baker' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/joel-baker/">Joel Baker									</a></td>
+								<td class="position">Science director, Center for Urban Waters</td>
+								<td class="phone"><p><a href="mailto:jebaker@uw.edu">jebaker@uw.edu</a></p><p><a href="tel:253-254-4423">253-254-4423</a></p></td>
+								<td class="expertise"><p>Transport of organic contaminants in the environment, oil spills and water contamination, particularly in urban environments. </p></td>
+							</tr>
+													<tr class="Rory Barnes">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/rory-barnes/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/06/27135155/mobileplanetarium_Barnes.jpg' alt='Rory Barnes' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/rory-barnes/">Rory Barnes									</a></td>
+								<td class="position">Research assistant professor, astronomy</td>
+								<td class="phone"><p><a href="mailto:rkb9@uw.edu">rkb9@uw.edu</a></p><p><a href="tel:206-543-8979">206-543-8979</a></p></td>
+								<td class="expertise"><p>Identifying habitable planets, formation and evolution of habitable planets</p></td>
+							</tr>
+													<tr class="Erica Mills Barnhart">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/erica-mills-barnhart/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/10162420/ericamillscrop.jpg' alt='Erica Mills Barnhart' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/erica-mills-barnhart/">Erica Mills Barnhart									</a></td>
+								<td class="position">Director, Nancy Bell Evans Center on Nonprofits and Philanthropy</td>
+								<td class="phone"><p><a href="mailto:enm@uw.edu">enm@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Communications, marketing, nonprofits, philanthropy</p></td>
+							</tr>
+													<tr class="George Bergantz">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/george-bergantz/">										<img width='75' height='100'  src='https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2019/09/26161717/George-Bergantz1-528x528.jpg' alt='George Bergantz' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/george-bergantz/">George Bergantz									</a></td>
+								<td class="position">Professor, Department of Earth & Space Sciences</td>
+								<td class="phone"><p><a href="mailto:bergantz@uw.edu">bergantz@uw.edu</a></p><p><a href="tel:206-685-4972">206-685-4972</a></p></td>
+								<td class="expertise"><p>Volcanoes in the Pacific Northwest and elsewhere. Numerical modeling, lab experiments and field studies.</p></td>
+							</tr>
+													<tr class="Carl Bergstrom">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/carl-bergstrom/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/26141822/carl-bergstrom.jpg' alt='Carl Bergstrom' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/carl-bergstrom/">Carl Bergstrom									</a></td>
+								<td class="position">Professor, Department of Biology</td>
+								<td class="phone"><p><a href="mailto:cbergst@uw.edu">cbergst@uw.edu</a></p><p><a href="tel:206-685-3487">206-685-3487</a></p></td>
+								<td class="expertise"><p>Behavior, evolution and systematics, mathematical and computational biology</p></td>
+							</tr>
+													<tr class="Elin Björling">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/elin-bjorling/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/12/06161136/Elin-HCDE-Photo-crop.jpg' alt='Elin Björling' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/elin-bjorling/">Elin Björling									</a></td>
+								<td class="position">Senior research scientist and lecturer, Human Centered Design & Engineering</td>
+								<td class="phone"><p><a href="mailto:bjorling@uw.edu">bjorling@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Technology design to improve mental health in teens</p></td>
+							</tr>
+													<tr class="Ann Bostrom">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/ann-bostrom/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/03/27131615/croppedBostrom.jpg' alt='Ann Bostrom' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/ann-bostrom/">Ann Bostrom									</a></td>
+								<td class="position">Professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:abostrom@uw.edu">abostrom@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Risk perception, risk communication, and decision making under uncertainty</p></td>
+							</tr>
+													<tr class="Sally Brown">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/sally-brown/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/04130030/Sally_front.jpg' alt='Sally Brown' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/sally-brown/">Sally Brown									</a></td>
+								<td class="position">Research associate professor, School of Environmental and Forest Sciences</td>
+								<td class="phone"><p><a href="mailto:slb@uw.edu">slb@uw.edu</a></p><p><a href="tel:206-616-1299">206-616-1299</a></p></td>
+								<td class="expertise"><p>Contaminated soils, risks, waste (compost municipal wastewater) soil amendments, carbon accounting</p></td>
+							</tr>
+													<tr class="Benjamin M. Brunjes">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/benjamin-brunjes/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/02/28153603/brunjes-ben-e1591305131710.jpg' alt='Benjamin M. Brunjes' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/benjamin-brunjes/">Benjamin M. Brunjes									</a></td>
+								<td class="position">Assistant Professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:brunjes@uw.edu">brunjes@uw.edu</a></p><p><a href="tel:206-685-0680">206-685-0680</a></p></td>
+								<td class="expertise"><p>American political institutions and processes; Public administration – bureaucracy, management, organization theory, ethics; and Public finance and procurement – budgeting, tax policy, government contracting</p></td>
+							</tr>
+													<tr class="Karin Bumbaco">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/karin-bumbaco/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/26153933/bumbaco_headshot.jpg' alt='Karin Bumbaco' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/karin-bumbaco/">Karin Bumbaco									</a></td>
+								<td class="position">Washington's deputy state climatologist, and research scientist, UW Climate Impacts Group </td>
+								<td class="phone"><p><a href="mailto:kbumbaco@uw.edu">kbumbaco@uw.edu</a></p><p><a href="tel:206-543-3145">206-543-3145</a></p></td>
+								<td class="expertise"><p>Past, current and future Washington weather trends. Washington snowfall and drought. Publishes the monthly newsletter on statewide trends and forecasts.</p></td>
+							</tr>
+													<tr class="Steve Calandrillo">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/steve-calandrillo/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/22135250/Steve-Calandrillo.jpg' alt='Steve Calandrillo' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/steve-calandrillo/">Steve Calandrillo									</a></td>
+								<td class="position">Professor, law</td>
+								<td class="phone"><p><a href="mailto:stevecal@uw.edu">stevecal@uw.edu</a></p><p><a href="tel:206-685-2403">206-685-2403</a></p></td>
+								<td class="expertise"><p>Controversial law and public policy topics including contracts, daylight saving time, drone technology/regulation, organ donation, minimum wage legislation, instant replay, and baseball’s designated hitter rule</p></td>
+							</tr>
+													<tr class="Ryan Calo">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/ryan-calo/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2016/10/04145735/RyanCalo2.jpg' alt='Ryan Calo' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/ryan-calo/">Ryan Calo									</a></td>
+								<td class="position">Associate professor, law</td>
+								<td class="phone"><p><a href="mailto:rcalo@uw.edu">rcalo@uw.edu</a></p><p><a href="tel:206-543-1580">206-543-1580</a></p></td>
+								<td class="expertise"><p>law, technology, robotics, artificial intelligence, misinformation</p></td>
+							</tr>
+													<tr class="Shuyi Chen">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/shuyi-chen/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/03132559/Shuyi-chen_2019-528x528.jpg' alt='Shuyi Chen' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/shuyi-chen/">Shuyi Chen									</a></td>
+								<td class="position">Professor, Department of Atmospheric Sciences</td>
+								<td class="phone"><p><a href="mailto:shuyic@uw.edu">shuyic@uw.edu</a></p><p><a href="tel:206-685-1736">206-685-1736</a></p></td>
+								<td class="expertise"><p>Tropical meteorology, air-sea interactions, mesoscale dynamics, numerical modeling</p></td>
+							</tr>
+													<tr class="Eric Chudler">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/eric-chudler/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/21104141/chudler_e.jpg' alt='Eric Chudler' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/eric-chudler/">Eric Chudler									</a></td>
+								<td class="position">Research associate professor, Department of Bioengineering</td>
+								<td class="phone"><p><a href="mailto:chudler@uw.edu">chudler@uw.edu</a></p><p><a href="tel:206-616-6899">206-616-6899</a></p></td>
+								<td class="expertise"><p>Behavioral neuroscience, brain-computer interfaces</p></td>
+							</tr>
+													<tr class="Alison Cullen">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/alison-cullen/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/07/09111608/20190703_Alison-Cullen_0030.jpg' alt='Alison Cullen' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/alison-cullen/">Alison Cullen									</a></td>
+								<td class="position">Professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:alison@uw.edu">alison@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Risk analysis, environmental policy, wildfire risk and management</p></td>
+							</tr>
+													<tr class="Angel Fettig">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/angel-fettig/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/26135705/fettig_cehd_curriculuminstruction_oct13_hb_bio.jpg' alt='Angel Fettig' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/angel-fettig/">Angel Fettig									</a></td>
+								<td class="position">Associate professor, education</td>
+								<td class="phone"><p><a href="mailto:afettig@uw.edu">afettig@uw.edu</a></p><p><a href="tel:206-685-1287">206-685-1287</a></p></td>
+								<td class="expertise"><p>Special education, early childhood special education, developmental disabilities</p></td>
+							</tr>
+													<tr class="Karen Fredriksen Goldsen">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/karen-fredriksen-goldsen/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133500/Fredriksen-Goldsen_21.jpeg' alt='Karen Fredriksen Goldsen' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/karen-fredriksen-goldsen/">Karen Fredriksen Goldsen									</a></td>
+								<td class="position">Professor, School of Social Work</td>
+								<td class="phone"><p><a href="mailto:fredrikk@uw.edu">fredrikk@uw.edu</a></p><p><a href="tel:206-543-5722">206-543-5722</a></p></td>
+								<td class="expertise"><p>Aging, well-being and longevity, intergenerational solutions to reduce social isolation, health disparities and resilience among LGBTQ+ people and other underserved communities</p></td>
+							</tr>
+													<tr class="Anne Goodchild">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/anne-goodchild/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/05/04141208/Goodchild-Anne.jpg' alt='Anne Goodchild' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/anne-goodchild/">Anne Goodchild									</a></td>
+								<td class="position">Professor, Department of Civil & Environmental Engineering</td>
+								<td class="phone"><p><a href="mailto:annegood@uw.edu">annegood@uw.edu</a></p><p><a href="tel:206-543-3747 ">206-543-3747 </a></p></td>
+								<td class="expertise"><p>Freight transportation, E-commerce and online shopping, Urban Freight Home delivery, UAV or drone delivery, Goods movement, Sustainable freight transportation, Transportation logistics</p></td>
+							</tr>
+													<tr class="Mary Kay Gugerty">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/mary-kay-gugerty/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/10161911/Mary-Kay-Gugerty_cropped.jpg' alt='Mary Kay Gugerty' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/mary-kay-gugerty/">Mary Kay Gugerty									</a></td>
+								<td class="position">Professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:gugerty@uw.edu">gugerty@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Evaluation and impact measurement in the social sector; advocacy, accountability and voluntary regulation programs among nonprofit and NGOs; and health, agriculture and rural development in sub-Saharan Africa</p></td>
+							</tr>
+													<tr class="Crystal C. Hall">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/crystal-hall/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/03092335/Hall_Crystal-57.jpg' alt='Crystal C. Hall' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/crystal-hall/">Crystal C. Hall									</a></td>
+								<td class="position">Associate professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:hallcc@uw.edu">hallcc@uw.edu</a></p><p><a href="tel:206-221-5237">206-221-5237</a></p></td>
+								<td class="expertise"><p>Judgment and decision making, poverty and social welfare policy, and psychology and behavioral economics</p></td>
+							</tr>
+													<tr class="Brian Harvey">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/brian-harvey/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/26141104/Brian-Harvey.jpg' alt='Brian Harvey' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/brian-harvey/">Brian Harvey									</a></td>
+								<td class="position">Assistant professor, School of Environmental and Forest Sciences</td>
+								<td class="phone"><p><a href="mailto:bjharvey@uw.edu">bjharvey@uw.edu</a></p><p><a href="tel:206-685-9929 (desk) 650-521-1988 (mobile)">206-685-9929 (desk) 650-521-1988 (mobile)</a></p></td>
+								<td class="expertise"><p>Wildfires, climate, ecology, resource management, forest disturbances</p></td>
+							</tr>
+													<tr class="Heather Hill">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/heather-hill/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/03095207/HeatherHill_094.jpg' alt='Heather Hill' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/heather-hill/">Heather Hill									</a></td>
+								<td class="position">Associate professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:"></a></p><p><a href="tel:206-685-8041">206-685-8041</a></p></td>
+								<td class="expertise"><p>Effects of poverty and low-wage work on families and children</p></td>
+							</tr>
+													<tr class="Ines Jurcevic">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/ines-jurcevic/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/10162629/Ines-Jurcevic_cropped_0.jpg' alt='Ines Jurcevic' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/ines-jurcevic/">Ines Jurcevic									</a></td>
+								<td class="position">Assistant professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:jurcevic@uw.edu">jurcevic@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Intersection of social psychology and public policy; stereotyping, prejudice, discrimination and diversity</p></td>
+							</tr>
+													<tr class="Reşat Kasaba">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/resat-kasaba/">										<img width='75' height='100'  src='https://jsis.washington.edu/wordpress/wp-content/uploads/2015/07/resat-kasaba-04-200x250.jpg' alt='Reşat Kasaba' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/resat-kasaba/">Reşat Kasaba									</a></td>
+								<td class="position">Professor, Jackson School of International Studies</td>
+								<td class="phone"><p><a href="mailto:kasaba@uw.edu">kasaba@uw.edu</a></p><p><a href="tel:206-543-4373">206-543-4373</a></p></td>
+								<td class="expertise"><p>State-society relations in the Middle East from a historical perspective, Turkey</p></td>
+							</tr>
+													<tr class="Deborah Kelley">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/deborah-kelley/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/18104157/Debbie-Kelley-528x528.jpg' alt='Deborah Kelley' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/deborah-kelley/">Deborah Kelley									</a></td>
+								<td class="position">Professor, School of Oceanography</td>
+								<td class="phone"><p><a href="mailto:dskelley@uw.edu">dskelley@uw.edu</a></p><p><a href="tel:206-543-9279">206-543-9279</a></p></td>
+								<td class="expertise"><p>Underwater volcanoes, hydrothermal vents, cabled deep-sea observatories</p></td>
+							</tr>
+													<tr class="Sharon Kioko">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/sharon-kioko/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/10162938/Kioko_Sahron0319-57.jpg' alt='Sharon Kioko' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/sharon-kioko/">Sharon Kioko									</a></td>
+								<td class="position">Associate professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:skioko@uw.edu">skioko@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Public finance (US states/local governments), tax policy, voter referendum and tax limitations, education finance (K-12), infrastructure finance/debt management</p></td>
+							</tr>
+													<tr class="Marieka Klawitter">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/marieka-klawitter/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/03111811/Klawitter_Marieka-57.jpg' alt='Marieka Klawitter' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/marieka-klawitter/">Marieka Klawitter									</a></td>
+								<td class="position">Professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:marieka@uw.edu">marieka@uw.edu</a></p><p><a href="tel:206-616-1673">206-616-1673</a></p></td>
+								<td class="expertise"><p>Family and employment policy, gender, policy analysis, LGBTQ policy and savings and asset-building for low-income families</p></td>
+							</tr>
+													<tr class="Patricia Kramer">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/patricia-kramer/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2018/10/24133905/Kramer-with-skulls.jpg' alt='Patricia Kramer' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/patricia-kramer/">Patricia Kramer									</a></td>
+								<td class="position">Professor, anthropology</td>
+								<td class="phone"><p><a href="mailto:pakramer@uw.edu">pakramer@uw.edu</a></p><p><a href="tel:206-616-2449">206-616-2449</a></p></td>
+								<td class="expertise"><p>Biological anthropology, evolution, human paleontology, nonhuman primates</p></td>
+							</tr>
+													<tr class="Jane Lee">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/jane-lee/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/21105254/coming-soon.jpg' alt='Jane Lee' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/jane-lee/">Jane Lee									</a></td>
+								<td class="position">Assistant professor, social work</td>
+								<td class="phone"><p><a href="mailto:janejlee@uw.edu">janejlee@uw.edu</a></p><p><a href="tel:206-616-8984">206-616-8984</a></p></td>
+								<td class="expertise"><p>Role of migration shaping health and wellbeing of immigrant populations</p></td>
+							</tr>
+													<tr class="Taryn Lindhorst">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/taryn-lindhorst/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2021/08/25163303/2012_tayrn_lindhort_full_sized-1-of-1-Taryn-Lindhorst.jpg' alt='Taryn Lindhorst' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/taryn-lindhorst/">Taryn Lindhorst									</a></td>
+								<td class="position">Professor, School of Social Work</td>
+								<td class="phone"><p><a href="mailto:tarynlin@uw.edu">tarynlin@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Grief/loss, death and dying, cancer, domestic violence, international child abduction</p></td>
+							</tr>
+													<tr class="Joe Lott">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/joe-lott/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/26172606/Joe_Lott_cropped-2.jpg' alt='Joe Lott' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/joe-lott/">Joe Lott									</a></td>
+								<td class="position">Associate professor, education</td>
+								<td class="phone"><p><a href="mailto:jlott1@uw.edu">jlott1@uw.edu</a></p><p><a href="tel:206-685-9204">206-685-9204</a></p></td>
+								<td class="expertise"><p>Equity studies, higher education, policy and educational reform</p></td>
+							</tr>
+													<tr class="Don MacKenzie">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/don-mackenzie/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/05/04141206/Mackenzie-Don.jpg' alt='Don MacKenzie' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/don-mackenzie/">Don MacKenzie									</a></td>
+								<td class="position">Associate professor, Department of Civil & Environmental Engineering</td>
+								<td class="phone"><p><a href="mailto:dwhm@uw.edu ">dwhm@uw.edu </a></p><p><a href="tel:206-685-7198">206-685-7198</a></p></td>
+								<td class="expertise"><p>Electric vehicles, shared use transportation services, energy use in transportation sector</p></td>
+							</tr>
+													<tr class="Charles Marcus">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/charles-marcus/">										<img width='75' height='100'  src='https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2023/08/07090927/image004.jpeg' alt='Charles Marcus' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/charles-marcus/">Charles Marcus									</a></td>
+								<td class="position">Professor, Department of Materials Science & Engineering and Department of Physics</td>
+								<td class="phone"><p><a href="mailto:cmarcus@uw.edu">cmarcus@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Experimental condensed matter physics, quantum coherent electronics, quantum matter, qubits, quantum chaos, complexity, topology in condensed matter</p></td>
+							</tr>
+													<tr class="Julian Marshall">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/julian-marshall/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/21105719/julian_marshall_cropped_0.jpg' alt='Julian Marshall' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/julian-marshall/">Julian Marshall									</a></td>
+								<td class="position">Professor, Department of Civil & Environmental Engineering</td>
+								<td class="phone"><p><a href="mailto:jdmarsh@uw.edu">jdmarsh@uw.edu</a></p><p><a href="tel:(206) 685-2591">(206) 685-2591</a></p></td>
+								<td class="expertise"><p>Models and measurements of people's exposure to air pollution, investigating ways to reduce exposures, environmental justice and disparities in exposure, exposures in the United States and in low-income countries</p></td>
+							</tr>
+													<tr class="Karin Martin">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/karin-martin/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2021/08/25163008/Karin-Martin_cropped-Karin-D.-Martin.jpg' alt='Karin Martin' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/karin-martin/">Karin Martin									</a></td>
+								<td class="position">Assistant professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:kdmartin@uw.edu">kdmartin@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Crime and punishment policy, criminal justice debt, courts and sentencing, criminal justice reform</p></td>
+							</tr>
+													<tr class="Scott Montgomery">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/scott-montgomery/">										<img width='75' height='100'  src='https://jsis.washington.edu/wordpress/wp-content/uploads/2015/04/scott-montgomery-200x250.jpg' alt='Scott Montgomery' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/scott-montgomery/">Scott Montgomery									</a></td>
+								<td class="position">Lecturer, Jackson School of International Studies</td>
+								<td class="phone"><p><a href="mailto:scottlm@uw.edu">scottlm@uw.edu</a></p><p><a href="tel:206-897-1611">206-897-1611</a></p></td>
+								<td class="expertise"><p>Arctic and oil, oil and gas (reserves, technology, prices, politics), fracking, nuclear power, worked 25 years in the energy industry</p></td>
+							</tr>
+													<tr class="Steve Muench">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/steve-muench/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/25170750/steve-muench.jpg' alt='Steve Muench' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/steve-muench/">Steve Muench									</a></td>
+								<td class="position">Professor, Department of Civil & Environmental Engineering</td>
+								<td class="phone"><p><a href="mailto:stmuench@uw.edu">stmuench@uw.edu</a></p><p><a href="tel:206-616-1259">206-616-1259</a></p></td>
+								<td class="expertise"><p>Infrastructure construction (bridges, roads, dams, etc.), Transportation infrastructure sustainability, Sustainability rating systems, Roads and pavements</p></td>
+							</tr>
+													<tr class="Devin Naar">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/devin-naar/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/26161536/Naar_D_161-e1406334521281-261x300.jpg' alt='Devin Naar' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/devin-naar/">Devin Naar									</a></td>
+								<td class="position">Professor, international studies</td>
+								<td class="phone"><p><a href="mailto:denaar@uw.edu">denaar@uw.edu</a></p><p><a href="tel:206-616-6202">206-616-6202</a></p></td>
+								<td class="expertise"><p>Modern Jewish history, Jewish culture from antiquity until today, Sephardic history and culture, the history and memory of the Holocaust</p></td>
+							</tr>
+													<tr class="Jan Newton">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/jan-newton/">										<img width='75' height='100'  src='http://www.apl.washington.edu/people/images/portraits/large/employee_10219.png' alt='Jan Newton' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/jan-newton/">Jan Newton									</a></td>
+								<td class="position">Oceanographer, UW Applied Physics Laboratory</td>
+								<td class="phone"><p><a href="mailto:newton@apl.washington.edu">newton@apl.washington.edu</a></p><p><a href="tel:206-543-9152">206-543-9152</a></p></td>
+								<td class="expertise"><p>Ocean observing, ocean acidification and phytoplankton in Puget Sound and Pacific Northwest waters</p></td>
+							</tr>
+													<tr class="Jeffrey Ochsner">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/jeffrey-ochsner/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/21105254/coming-soon.jpg' alt='Jeffrey Ochsner' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/jeffrey-ochsner/">Jeffrey Ochsner									</a></td>
+								<td class="position">Professor, architecture</td>
+								<td class="phone"><p><a href="mailto:jochsner@uw.edu">jochsner@uw.edu</a></p><p><a href="tel:206-543-4180">206-543-4180</a></p></td>
+								<td class="expertise"><p>Architectural design, urban design, historic preservation, and architectural history</p></td>
+							</tr>
+													<tr class="Stephen Page">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/stephen-page/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/06/10162546/pagecropped.jpg' alt='Stephen Page' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/stephen-page/">Stephen Page									</a></td>
+								<td class="position">Associate professor, Evans School of Public Policy & Governance</td>
+								<td class="phone"><p><a href="mailto:sbp@uw.edu">sbp@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Public leadership, organizational culture, inter-organizational collaboration, transportation policy and projects</p></td>
+							</tr>
+													<tr class="Saadia Pekkanen">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/saadia-pekkanen/">										<img width='75' height='100'  src='https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2022/06/15121510/Saadia.png' alt='Saadia Pekkanen' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/saadia-pekkanen/">Saadia Pekkanen									</a></td>
+								<td class="position">Professor, Jackson School of International Studies</td>
+								<td class="phone"><p><a href="mailto:smp1@uw.edu">smp1@uw.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Space law, space security, space policy, space diplomacy, Small-Satellites-Big Data (SSBD)</p></td>
+							</tr>
+													<tr class="Franziska Roesner">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/franziska-roesner/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2020/02/11094715/20190926_Franziska-Roesner-1030-Edit-e1591302938101.jpg' alt='Franziska Roesner' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/franziska-roesner/">Franziska Roesner									</a></td>
+								<td class="position">Associate professor, Paul G. Allen School of Computer Science & Engineering</td>
+								<td class="phone"><p><a href="mailto:franzi@cs.washington.edu">franzi@cs.washington.edu</a></p><p><a href="tel:"></a></p></td>
+								<td class="expertise"><p>Computer security and privacy, online mis/disinformation, online advertising and tracking</p></td>
+							</tr>
+													<tr class="Ilene Schwartz">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/ilene-schwartz/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/21110354/ilene-schwartz.jpg' alt='Ilene Schwartz' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/ilene-schwartz/">Ilene Schwartz									</a></td>
+								<td class="position">Professor, education</td>
+								<td class="phone"><p><a href="mailto:ilene@uw.edu">ilene@uw.edu</a></p><p><a href="tel:206-616-3450">206-616-3450</a></p></td>
+								<td class="expertise"><p>Early childhood special education, applied behavior analysis and interventions for autism</p></td>
+							</tr>
+													<tr class="Jeff Shulman">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/jeff-shulman/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/21110227/jeff-shulman.jpg' alt='Jeff Shulman' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/jeff-shulman/">Jeff Shulman									</a></td>
+								<td class="position">Professor, Foster School of Business</td>
+								<td class="phone"><p><a href="mailto:jshulman@uw.edu">jshulman@uw.edu</a></p><p><a href="tel:847-927-7467">847-927-7467</a></p></td>
+								<td class="expertise"><p>Marketing, pricing strategies, Seattle growth, gig economy</p></td>
+							</tr>
+													<tr class="Hugh Spitzer">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/hugh-spitzer/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/21110540/Hugh-Spitzer.jpg' alt='Hugh Spitzer' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/hugh-spitzer/">Hugh Spitzer									</a></td>
+								<td class="position">Professor, School of Law</td>
+								<td class="phone"><p><a href="mailto:spith@uw.edu">spith@uw.edu</a></p><p><a href="tel:206-685-1635">206-685-1635</a></p></td>
+								<td class="expertise"><p>Constitutional law, federalism, legal ethics and professional responsibility, state and local government law, comparative constitutionalism</p></td>
+							</tr>
+													<tr class="Riki Thompson">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/riki-thompson/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2021/09/20114249/Riki-Thompson.jpg' alt='Riki Thompson' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/riki-thompson/">Riki Thompson									</a></td>
+								<td class="position">Associate Professor, Writing Studies & Digital Rhetoric at UW Tacoma</td>
+								<td class="phone"><p><a href="mailto:rikitiki@uw.edu">rikitiki@uw.edu</a></p><p><a href="tel:206-355-5474">206-355-5474</a></p></td>
+								<td class="expertise"><p>Intersections of language, technology, identity, and interpersonal connectivity with a focus on how people negotiate digital spaces to connect with (and exclude) others</p></td>
+							</tr>
+													<tr class="Harold Tobin">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/harold-tobin/">										<img width='75' height='100'  src='https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2023/01/19153351/Harold-Tobin-528x528-1.jpg' alt='Harold Tobin' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/harold-tobin/">Harold Tobin									</a></td>
+								<td class="position">Professor, Department of Earth & Space Sciences, and Washington's state seismologist</td>
+								<td class="phone"><p><a href="mailto:htobin@uw.edu">htobin@uw.edu</a></p><p><a href="tel:206-543-6790">206-543-6790</a></p></td>
+								<td class="expertise"><p>Earthquakes, Cascadia subduction zone, ShakeAlert earthquake early warning system, global plate tectonics</p></td>
+							</tr>
+													<tr class="Kathy Troost">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/kathy-troost/">										<img width='75' height='100'  src='https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2023/01/12121603/Kathy-Troost-528x528-1.jpg' alt='Kathy Troost' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/kathy-troost/">Kathy Troost									</a></td>
+								<td class="position">Associate teaching professor, Department of Earth & Space Sciences</td>
+								<td class="phone"><p><a href="mailto:ktroost@uw.edu">ktroost@uw.edu</a></p><p><a href="tel:206-221-1770">206-221-1770</a></p></td>
+								<td class="expertise"><p>Landslides, Seattle geology, Puget Lowland geology, geologic hazard mapping</p></td>
+							</tr>
+													<tr class="Denise Walker">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/denise-walker/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/21110703/215x205walker_denise.jpg' alt='Denise Walker' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/denise-walker/">Denise Walker									</a></td>
+								<td class="position">Research associate professor, School of Social Work</td>
+								<td class="phone"><p><a href="mailto:ddwalker@uw.edu">ddwalker@uw.edu</a></p><p><a href="tel:206-543-7511">206-543-7511</a></p></td>
+								<td class="expertise"><p>Development, testing and implementation of interventions that bring about positive changes in patterns of behavior; treatment of marijuana disorders in both adolescents and adults</p></td>
+							</tr>
+													<tr class="Kathryn Watts">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/kathryn-watts/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/11/21105254/coming-soon.jpg' alt='Kathryn Watts' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/kathryn-watts/">Kathryn Watts									</a></td>
+								<td class="position">Professor, law</td>
+								<td class="phone"><p><a href="mailto:kawatts@uw.edu">kawatts@uw.edu</a></p><p><a href="tel:206-543-6299">206-543-6299</a></p></td>
+								<td class="expertise"><p>Administrative law, constitutional law, presidential powers, U.S. Supreme Court</p></td>
+							</tr>
+													<tr class="Jevin West">
+								<td class="headshot"><a href="https://www.washington.edu/news/people/jevin-west/">										<img width='75' height='100'  src='https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/26171813/jevin-west.jpg' alt='Jevin West' />
+										</a></td>								<td class="searchable"><a href="https://www.washington.edu/news/people/jevin-west/">Jevin West									</a></td>
+								<td class="position">Associate professor, Information School</td>
+								<td class="phone"><p><a href="mailto:jevinw@uw.edu">jevinw@uw.edu</a></p><p><a href="tel:206-543-2646">206-543-2646</a></p></td>
+								<td class="expertise"><p>Misinformation, evolution of science, the models and science used to predict the spread of COVID-19</p></td>
+							</tr>
+											</tbody>
+				</table>
+
+				</div>
+			                </article><!-- #post-63983 -->
+
+			                
+			      </div>
+
+			    </div>
+
+			          <div id="sidebar"></div>
+
+			  </div>
+
+			</div>
+
+			    <div role="contentinfo" class="uw-footer">
+
+        <a href="http://www.washington.edu" class="footer-wordmark">University of Washington</a>
+
+        <a href="http://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+
+        <h4>Connect with us:</h4>
+
+        <nav aria-label="social networking">
+            <ul class="footer-social">
+                <li><a class="facebook" href="http://www.facebook.com/UofWA">Facebook</a></li>
+                <li><a class="twitter" href="http://twitter.com/UW">Twitter</a></li>
+                <li><a class="instagram" href="http://instagram.com/uofwa">Instagram</a></li>
+                <li><a class="youtube" href="http://www.youtube.com/user/uwhuskies">YouTube</a></li>
+                <li><a class="linkedin" href="http://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+                <li><a class="pinterest" href="http://www.pinterest.com/uofwa/">Pinterest</a></li>
+            </ul>
+        </nav>
+
+        <nav aria-label="footer navigation">
+            <ul class="footer-links">
+                <li><a href="http://www.uw.edu/accessibility">Accessibility</a></li>
+                <li><a href="http://uw.edu/contact">Contact Us</a></li>
+                <li><a href="http://www.washington.edu/jobs">Jobs</a></li>
+                <li><a href="http://www.washington.edu/safety">Campus Safety</a></li>
+                <li><a href="http://my.uw.edu/">My UW</a></li>
+                <li><a href="http://www.washington.edu/rules/wac">Rules Docket</a></li>
+                <li><a href="http://www.washington.edu/online/privacy/">Privacy</a></li>
+                <li><a href="http://www.washington.edu/online/terms/">Terms</a></li>
+                <li><a href="http://www.washington.edu/newsletter/">Newsletter</a></li>
+            </ul>
+        </nav>
+
+        <p>&copy; 2024 University of Washington  |  Seattle, WA</p>
+
+    </div>
+
+    </div><!-- #uw-container-inner -->
+    </div><!-- #uw-container -->
+
+<script>$("div.a2a_vertical_style").appendTo($("div.uw-body-copy")).css({"left": "", "margin-left": "-64px"});</script><style id='core-block-supports-inline-css' type='text/css'>
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+
+</body>
+</html>
