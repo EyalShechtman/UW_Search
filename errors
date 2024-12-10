@@ -1,9 +1,0 @@
-/Users/nadyashechtman/Documents/INFO376/query.py:2: DeprecationWarning: Call to deprecated function (or staticmethod) started. (use pt.java.started() instead) -- Deprecated since version 0.11.0.
-  if not pt.started():
-Java started and loaded: pyterrier.java, pyterrier.terrier.java [version=5.10 (build: craigm 2024-08-22 17:33), helper_version=0.0.8]
-/Users/nadyashechtman/Documents/INFO376/query.py:3: DeprecationWarning: Call to deprecated method pt.init(). Deprecated since version 0.11.0.
-java is now started automatically with default settings. To force initialisation early, run:
-pt.java.init() # optional, forces java initialisation
-  pt.init()
-/Users/nadyashechtman/Documents/INFO376/query.py:8: DeprecationWarning: Call to deprecated class BatchRetrieve. (use pt.terrier.Retriever() instead) -- Deprecated since version 0.11.0.
-  tf_idf = pt.BatchRetrieve(index, wmodel="TF_IDF")
